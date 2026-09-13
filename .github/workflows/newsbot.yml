@@ -1,15 +1,9 @@
 name: Nachrichten sammeln
 
-# Laeuft taeglich um 05:12 UTC - das sind 07:12 deutscher Sommerzeit
-# und 06:12 im Winter. Zusaetzlich jederzeit auf Knopfdruck:
-# Reiter "Actions" -> "Nachrichten sammeln" -> "Run workflow".
-#
-# Zwei Sammellaeufe:
-#   news/    Technik und Wirtschaft  (quellen.txt, Themensatz technik)
-#   gesetze/ Rechtsetzung DE und EU  (gesetze_quellen.txt, Themensatz recht)
+# Startet auf Knopfdruck: Reiter "Actions" -> "Nachrichten sammeln" ->
+# rechts der Knopf "Run workflow".
+# Laeuft ausserdem taeglich automatisch (Zeit unten in UTC).
 on:
-  schedule:
-    - cron: "12 5 * * *"
   workflow_dispatch:
     inputs:
       je_quelle:
@@ -20,7 +14,11 @@ on:
         description: "Zeitraum in Stunden"
         required: false
         default: "36"
+  schedule:
+    # 05:12 UTC = 07:12 deutscher Sommerzeit
+    - cron: "12 5 * * *"
 
+# Der Lauf schreibt das Ergebnis zurueck ins Repository.
 permissions:
   contents: write
 
@@ -46,12 +44,9 @@ jobs:
         if: always()
         run: |
           python newsbot.py --cli \
-            --quellen gesetze_quellen.txt \
-            --ausgabe gesetze \
-            --titel "Rechtslage" \
-            --themen recht \
-            --je-quelle 30 \
-            --stunden 48
+            --quellen gesetze_quellen.txt --ausgabe gesetze \
+            --titel "Rechtslage" --themen recht \
+            --je-quelle 30 --stunden 96
 
       - name: Ergebnis einchecken
         if: always()
@@ -62,6 +57,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "Keine Aenderung - nichts einzuchecken."
           else
-            git commit -m "Sammellauf $(date -u '+%Y-%m-%d %H:%M') UTC"
+            git commit -m "Nachrichtenlage $(date -u '+%Y-%m-%d %H:%M') UTC"
             git push
           fi
