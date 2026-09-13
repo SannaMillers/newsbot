@@ -4,7 +4,9 @@ name: Nachrichten sammeln
 # und 06:12 im Winter. Zusaetzlich jederzeit auf Knopfdruck:
 # Reiter "Actions" -> "Nachrichten sammeln" -> "Run workflow".
 #
-# Zwei Sammellaeufe: Technik/Wirtschaft nach news/, Rechtsetzung nach gesetze/.
+# Zwei Sammellaeufe:
+#   news/    Technik und Wirtschaft  (quellen.txt, Themensatz technik)
+#   gesetze/ Rechtsetzung DE und EU  (gesetze_quellen.txt, Themensatz recht)
 on:
   schedule:
     - cron: "12 5 * * *"
@@ -47,9 +49,9 @@ jobs:
             --quellen gesetze_quellen.txt \
             --ausgabe gesetze \
             --titel "Rechtslage" \
-            --alles \
-            --je-quelle 25 \
-            --stunden 30
+            --themen recht \
+            --je-quelle 30 \
+            --stunden 48
 
       - name: Ergebnis einchecken
         if: always()
