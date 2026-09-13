@@ -21,6 +21,12 @@ BT Pressemitteilungen| Bundestag   | https://www.bundestag.de/static/appdata/inc
 BReg Pressemitteilung| Regierung   | https://www.bundesregierung.de/service/rss/breg-de/1151244/feed.xml
 BReg Artikel         | Regierung   | https://www.bundesregierung.de/service/rss/breg-de/1151246/feed.xml
 
+# --- Bundesgesetzblatt, amtliche Verkuendung ----------------------------
+# Der Feed fuehrt im Titel nur den Gesetzestitel; Fundstelle, Sachgebiet,
+# Typ und Initiant stehen in Zusatzfeldern, die der Digest mit ausgibt.
+# Das Datum ist tagesgenau (ohne Uhrzeit).
+BGBl Teil I und II   | Verkuendung | https://www.recht.bund.de/rss/feeds/rss_bgbl-1-2.xml?nn=211452
+
 # --- Europaeische Union, amtlich ----------------------------------------
 # EUR-Lex fuehrt im Titel nur die CELEX-Nummer; der Klartext steht in der
 # Beschreibung, die der Digest mit ausgibt.
@@ -48,4 +54,3 @@ GN Recht Fachpresse  | Fachpresse  | https://news.google.com/rss/search?q=site:l
 # haufe Recht      | Fachpresse  | https://www.haufe.de/rss/recht                   (HTTP 404)
 # EU-Rat           | Rat         | https://www.consilium.europa.eu/de/press/press-releases/?format=rss  (HTTP 403)
 # EU-Parlament DE  | Parlament   | https://www.europarl.europa.eu/rss/doc/press-releases/de.xml  (kein gueltiges RSS)
-# recht.bund.de    | Verkuendung | https://www.recht.bund.de/rss/bgbl1.xml          (HTTP 404)

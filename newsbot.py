@@ -187,7 +187,7 @@ def datum_lesen(wert):
     formate = [
         "%a, %d %b %Y %H:%M:%S %z", "%a, %d %b %Y %H:%M:%S %Z",
         "%Y-%m-%dT%H:%M:%S%z", "%Y-%m-%dT%H:%M:%SZ", "%Y-%m-%dT%H:%M:%S.%fZ",
-        "%Y-%m-%d %H:%M:%S",
+        "%Y-%m-%d %H:%M:%S", "%Y-%m-%d", "%d.%m.%Y",
     ]
     bereinigt = wert.replace("GMT", "+0000").replace("UTC", "+0000")
     bereinigt = re.sub(r"(\+\d{2}):(\d{2})$", r"\1\2", bereinigt)
@@ -211,6 +211,19 @@ def feed_holen(url):
         return antwort.read()
 
 
+# Amtliche Feeds (Bundesgesetzblatt) lassen die Beschreibung leer und legen
+# den Kontext in eigene Felder. Die werden hier zur Beschreibung zusammen-
+# gesetzt, damit im Digest mehr steht als der nackte Gesetzestitel.
+ZUSATZFELDER = {
+    "typ": "Typ",
+    "initiant": "Initiant",
+    "fundstelle": "Fundstelle",
+    "sachgebiet": "Sachgebiet",
+    "amtliche-abkuerzung": "Abkuerzung",
+    "shorttitle": "Kurztitel",
+}
+
+
 def feed_auswerten(rohdaten, quelle, hoechstzahl=None):
     # Manche Server liefern eine HTML-Fehlerseite mit Status 200 oder stellen
     # dem XML Leerzeichen voran - beides laesst den Parser sonst scheitern.
@@ -227,6 +240,7 @@ def feed_auswerten(rohdaten, quelle, hoechstzahl=None):
     for element in wurzel.iter():
         if element.tag.lower().endswith("item"):
             titel = beschreibung = link = datum = ""
+            zusatz = []
             for kind in element:
                 name = kind.tag.lower().split("}")[-1]
                 if name == "title":
@@ -239,6 +253,15 @@ def feed_auswerten(rohdaten, quelle, hoechstzahl=None):
                 elif name in ("pubdate", "date", "published", "updated"):
                     if not datum:
                         datum = kind.text or ""
+                elif name in ZUSATZFELDER:
+                    # amtliche Feeds wie das Bundesgesetzblatt liefern den
+                    # Kontext in eigenen Feldern statt in der Beschreibung
+                    wert = text_saeubern(kind.text)
+                    if wert:
+                        zusatz.append("{}: {}".format(ZUSATZFELDER[name], wert))
+            if zusatz:
+                beschreibung = (beschreibung + "  " if beschreibung else "") + \
+                    " | ".join(zusatz)
             if titel:
                 eintraege.append({"titel": titel, "text": beschreibung,
                                   "link": link, "zeit": datum_lesen(datum),
