@@ -103,6 +103,46 @@ THEMEN = {
                        r"cyberattack", r"\bphishing\b", r"\bdsgvo\b", r"datenschutz"]),
 }
 
+
+# Zweiter Themensatz: nur Rechtsetzung. Wird mit "--themen recht" aktiv und
+# haelt aus den Nachrichtenquellen das heraus, was wirklich Gesetz, Verordnung
+# oder Foerderregel ist - statt alles durchzulassen.
+RECHT = {
+    "Gesetzgebung Bund": (3, [
+        r"\bgesetz", r"\bbundestag\b", r"\bbundesrat\b", r"\bkabinett\b",
+        r"referentenentwurf", r"regierungsentwurf", r"\bnovelle\b",
+        r"\bverordnung", r"\brichtlinie\b", r"bundesgesetzblatt",
+        r"\bdrucksache", r"\blesung\b", r"\bvermittlungsausschuss\b",
+        r"tritt in kraft", r"\bin kraft\b", r"beschlossen", r"verabschiedet",
+        r"zugestimmt", r"\breform\b", r"\bgesetzespaket\b",
+        r"\bbundesverfassungsgericht\b", r"\bbgh\b", r"\bbfh\b",
+        r"\bbverwg\b", r"\bbag\b", r"\burteil\b", r"\brechtsprechung\b"]),
+    "EU-Recht": (3, [
+        r"eu-verordnung", r"eu-richtlinie", r"\bai act\b", r"digital services act",
+        r"digital markets act", r"data act", r"\bdsgvo\b",
+        r"europäisch\w* parlament", r"europaparlament", r"eu-kommission",
+        r"europäische kommission", r"\bbrüssel\b", r"\btrilog", r"\bmitgliedstaat",
+        r"amtsblatt", r"\bcelex", r"european commission", r"european parliament",
+        r"\bdirective\b", r"\bregulation\b", r"enters into force"]),
+    "Pflichten und Fristen": (2, [
+        r"meldepflicht", r"nachweispflicht", r"dokumentationspflicht",
+        r"kennzeichnungspflicht", r"transparenzpflicht", r"\bfrist\b",
+        r"\bstichtag\b", r"\bübergangsfrist\b", r"\bbussgeld", r"\bstrafe\b",
+        r"\bsanktion", r"\bhaftung", r"\bcompliance\b", r"\baufsicht"]),
+    "Steuern und Abgaben": (2, [
+        r"\bsteuer", r"\babgabe", r"\bumlage\b", r"\bbeitragssatz\b",
+        r"\bmindestlohn\b", r"\bsozialversicherung", r"\brente", r"\bkindergeld\b",
+        r"\bwohngeld\b", r"\bbürgergeld\b", r"\bgrundsicherung\b",
+        r"\bfreibetrag\b", r"\bpauschale\b"]),
+    "Foerderung": (2, [
+        r"\bförder", r"\bzuschuss", r"\bbafa\b", r"\bkfw\b", r"\bbeg\b",
+        r"\bgeg\b", r"\beeg\b", r"\bbew\b", r"antragsfrist", r"richtlinie"]),
+    "Arbeit und Unternehmen": (2, [
+        r"arbeitsrecht", r"arbeitszeit", r"\btarif", r"\bbetriebsrat\b",
+        r"lieferkettengesetz", r"\bwhistleblow", r"hinweisgeberschutz",
+        r"\bvergaberecht\b", r"\bhandelsregister\b", r"\bgwg\b"]),
+}
+
 BG       = "#11131a"
 BG_KARTE = "#191c26"
 BG_FELD  = "#0d0f15"
@@ -230,8 +270,12 @@ def feed_auswerten(rohdaten, quelle, hoechstzahl=None):
     return eintraege[:hoechstzahl]
 
 
-_MUSTER = {thema: (gewicht, re.compile("|".join(begriffe), re.IGNORECASE))
-           for thema, (gewicht, begriffe) in THEMEN.items()}
+def muster_bauen(themen):
+    return {thema: (gewicht, re.compile("|".join(begriffe), re.IGNORECASE))
+            for thema, (gewicht, begriffe) in themen.items()}
+
+
+_MUSTER = muster_bauen(THEMEN)
 
 
 def bewerten(eintrag):
@@ -552,6 +596,8 @@ def kommandozeile():
                           help="Ueberschrift der Digest-Datei")
     zerleger.add_argument("--alles", action="store_true",
                           help="ohne Themenfilter - alles Frische behalten")
+    zerleger.add_argument("--themen", choices=["technik", "recht"], default="technik",
+                          help="welcher Themensatz gilt: technik (Standard) oder recht")
     argumente = zerleger.parse_args()
 
     global QUELLDATEI, AUSGABE, TITEL, OHNE_FILTER
@@ -562,6 +608,10 @@ def kommandozeile():
     if argumente.titel:
         TITEL = argumente.titel
     OHNE_FILTER = argumente.alles
+
+    global _MUSTER
+    if argumente.themen == "recht":
+        _MUSTER = muster_bauen(RECHT)
     pfad, anzahl = sammeln(argumente.je_quelle, argumente.stunden, melden=print)
     if pfad:
         print("\n{} Meldungen gespeichert in {}".format(anzahl, pfad))
