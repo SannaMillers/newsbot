@@ -4,36 +4,48 @@
 # Eine Zeile je Quelle:   Name | Kategorie | RSS-Adresse
 #
 # Dieser Sammellauf laeuft OHNE Themenfilter (Schalter --alles), weil die
-# Quellen bereits ausschliesslich Rechtsetzung behandeln. Nur der Zeitraum
-# begrenzt, was hereinkommt.
+# Quellen ausschliesslich Rechtsetzung und Regierungshandeln behandeln.
+# Nur der Zeitraum begrenzt, was hereinkommt.
 #
 # Quellen, die nicht antworten, stehen am Ende jeder Digest-Datei mit
 # Fehlergrund - die dann hier auskommentieren oder ersetzen.
 
-# --- Deutschland, amtlich ----------------------------------------------
-Bundestag           | Bundestag   | https://www.bundestag.de/static/appdata/includes/rss/aktuellemeldungen.rss
-Bundesrat           | Bundesrat   | https://www.bundesrat.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/RSSNewsfeed.xml
-Bundesregierung     | Regierung   | https://www.bundesregierung.de/breg-de/aktuelles/-/rss
-Bundesanzeiger BGBl | Verkuendung | https://www.recht.bund.de/rss/bgbl1.xml
+# --- Deutscher Bundestag, amtliche Feeds --------------------------------
+# Adressen von bundestag.de/services/rss
+BT heute im bundestag| Bundestag   | https://www.bundestag.de/static/appdata/includes/rss/hib.rss
+BT Drucksachen       | Bundestag   | https://www.bundestag.de/static/appdata/includes/rss/drucksachen.rss
+BT Aktuelle Themen   | Bundestag   | https://www.bundestag.de/static/appdata/includes/rss/aktuellethemen.rss
+BT Pressemitteilungen| Bundestag   | https://www.bundestag.de/static/appdata/includes/rss/pressemitteilungen.rss
 
-# --- Deutschland, juristische Fachpresse -------------------------------
-beck-aktuell        | Fachpresse  | https://rsw.beck.de/rss/aktuell
-LTO                 | Fachpresse  | https://www.lto.de/rss/feed/
-haufe Recht         | Fachpresse  | https://www.haufe.de/rss/recht
+# --- Bundesregierung, amtliche Feeds ------------------------------------
+BReg Pressemitteilung| Regierung   | https://www.bundesregierung.de/service/rss/breg-de/1151244/feed.xml
+BReg Artikel         | Regierung   | https://www.bundesregierung.de/service/rss/breg-de/1151246/feed.xml
 
-# --- Europaeische Union, amtlich ---------------------------------------
-EU-Kommission       | Kommission  | https://ec.europa.eu/commission/presscorner/api/rss?language=de&pageType=all
-EU-Rat              | Rat         | https://www.consilium.europa.eu/de/press/press-releases/?format=rss
-EU-Parlament DE     | Parlament   | https://www.europarl.europa.eu/rss/doc/press-releases/de.xml
-EUR-Lex Neuzugaenge | Amtsblatt   | https://eur-lex.europa.eu/EN/display-feed.rss?myRssId=oj-l-latest
+# --- Europaeische Union, amtlich ----------------------------------------
+# EUR-Lex fuehrt im Titel nur die CELEX-Nummer; der Klartext steht in der
+# Beschreibung, die der Digest mit ausgibt.
+EUR-Lex Amtsblatt L  | Amtsblatt   | https://eur-lex.europa.eu/EN/display-feed.rss?rssId=222
+EU-Kommission        | Kommission  | https://ec.europa.eu/commission/presscorner/api/rss?language=de&pageType=all
 
-# --- Themensuchen ueber Google News ------------------------------------
-# Diese tragen die Hauptlast, weil sie zuverlaessig antworten und viele
-# Redaktionen gleichzeitig abdecken. "when:3d" = letzte drei Tage.
-GN Bundestag Gesetz | Bundestag   | https://news.google.com/rss/search?q=(Bundestag%20OR%20Bundesrat)%20(Gesetz%20OR%20Gesetzentwurf%20OR%20beschlossen%20OR%20zugestimmt)%20when:3d&hl=de&gl=DE&ceid=DE:de
-GN tritt in Kraft   | Verkuendung | https://news.google.com/rss/search?q=%22tritt%20in%20Kraft%22%20(Gesetz%20OR%20Verordnung%20OR%20Regelung)%20when:3d&hl=de&gl=DE&ceid=DE:de
-GN Gesetzesaenderg. | Aenderung   | https://news.google.com/rss/search?q=(Gesetzesaenderung%20OR%20Novelle%20OR%20Reform)%20(Bundestag%20OR%20Bundesregierung%20OR%20Kabinett)%20when:3d&hl=de&gl=DE&ceid=DE:de
-GN EU-Verordnung    | EU-Recht    | https://news.google.com/rss/search?q=(EU-Verordnung%20OR%20EU-Richtlinie%20OR%20%22EU-Parlament%22)%20(beschlossen%20OR%20verabschiedet%20OR%20in%20Kraft)%20when:3d&hl=de&gl=DE&ceid=DE:de
-GN Bundesgesetzbl.  | Verkuendung | https://news.google.com/rss/search?q=Bundesgesetzblatt%20OR%20%22Amtsblatt%20der%20EU%22%20when:7d&hl=de&gl=DE&ceid=DE:de
-GN Steuer und Recht | Wirtschaft  | https://news.google.com/rss/search?q=(Steueraenderung%20OR%20Arbeitsrecht%20OR%20Meldepflicht%20OR%20Foerderrichtlinie)%20(neu%20OR%20geaendert)%20when:3d&hl=de&gl=DE&ceid=DE:de
-GN EU law English   | EU-Recht    | https://news.google.com/rss/search?q=(%22EU%20regulation%22%20OR%20%22EU%20directive%22)%20(adopted%20OR%20enters%20into%20force%20OR%20agreed)%20when:3d&hl=en-US&gl=US&ceid=US:en
+# --- Themensuchen ueber Google News -------------------------------------
+# Tragen die Hauptlast: zuverlaessig erreichbar, decken viele Redaktionen ab
+# und fangen die Haeuser ab, die keinen brauchbaren Feed anbieten.
+# "when:3d" = letzte drei Tage. Eigene Suchen nach demselben Muster ergaenzen.
+GN Bundesrat         | Bundesrat   | https://news.google.com/rss/search?q=site:bundesrat.de%20OR%20(Bundesrat%20(zugestimmt%20OR%20gebilligt%20OR%20Plenarsitzung))%20when:5d&hl=de&gl=DE&ceid=DE:de
+GN Bundesgesetzblatt | Verkuendung | https://news.google.com/rss/search?q=Bundesgesetzblatt%20OR%20%22verkuendet%20im%20Bundesgesetzblatt%22%20when:7d&hl=de&gl=DE&ceid=DE:de
+GN Bundestag Gesetz  | Bundestag   | https://news.google.com/rss/search?q=(Bundestag%20OR%20Bundesrat)%20(Gesetz%20OR%20Gesetzentwurf%20OR%20beschlossen%20OR%20zugestimmt)%20when:3d&hl=de&gl=DE&ceid=DE:de
+GN tritt in Kraft    | Verkuendung | https://news.google.com/rss/search?q=%22tritt%20in%20Kraft%22%20(Gesetz%20OR%20Verordnung%20OR%20Regelung)%20when:3d&hl=de&gl=DE&ceid=DE:de
+GN Novelle Reform    | Aenderung   | https://news.google.com/rss/search?q=(Gesetzesaenderung%20OR%20Novelle%20OR%20Reform)%20(Bundestag%20OR%20Bundesregierung%20OR%20Kabinett)%20when:3d&hl=de&gl=DE&ceid=DE:de
+GN EU-Verordnung     | EU-Recht    | https://news.google.com/rss/search?q=(EU-Verordnung%20OR%20EU-Richtlinie%20OR%20%22EU-Parlament%22)%20(beschlossen%20OR%20verabschiedet%20OR%20in%20Kraft)%20when:3d&hl=de&gl=DE&ceid=DE:de
+GN EU law English    | EU-Recht    | https://news.google.com/rss/search?q=(%22EU%20regulation%22%20OR%20%22EU%20directive%22)%20(adopted%20OR%20%22enters%20into%20force%22)%20when:3d&hl=en-US&gl=US&ceid=US:en
+GN Steuer und Arbeit | Wirtschaft  | https://news.google.com/rss/search?q=(Steueraenderung%20OR%20Arbeitsrecht%20OR%20Meldepflicht%20OR%20Foerderrichtlinie)%20(neu%20OR%20geaendert%20OR%20beschlossen)%20when:3d&hl=de&gl=DE&ceid=DE:de
+GN Recht Fachpresse  | Fachpresse  | https://news.google.com/rss/search?q=site:lto.de%20OR%20site:beck.de%20OR%20site:haufe.de%20when:3d&hl=de&gl=DE&ceid=DE:de
+
+# --- Geprueft und nicht erreichbar, deshalb stillgelegt ------------------
+# Bundesrat direkt  | Bundesrat   | https://www.bundesrat.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/RSSNewsfeed.xml  (HTTP 404)
+# LTO              | Fachpresse  | https://www.lto.de/rss/feed/                     (HTTP 404)
+# beck-aktuell     | Fachpresse  | https://rsw.beck.de/rss/aktuell                  (kein gueltiges RSS)
+# haufe Recht      | Fachpresse  | https://www.haufe.de/rss/recht                   (HTTP 404)
+# EU-Rat           | Rat         | https://www.consilium.europa.eu/de/press/press-releases/?format=rss  (HTTP 403)
+# EU-Parlament DE  | Parlament   | https://www.europarl.europa.eu/rss/doc/press-releases/de.xml  (kein gueltiges RSS)
+# recht.bund.de    | Verkuendung | https://www.recht.bund.de/rss/bgbl1.xml          (HTTP 404)
