@@ -1,8 +1,11 @@
 name: Nachrichten sammeln
 
-# Startet auf Knopfdruck: Reiter "Actions" -> "Nachrichten sammeln" ->
-# rechts der Knopf "Run workflow".
+# Laeuft taeglich um 05:12 UTC - das sind 07:12 deutscher Sommerzeit
+# und 06:12 im Winter. Zusaetzlich jederzeit auf Knopfdruck:
+# Reiter "Actions" -> "Nachrichten sammeln" -> "Run workflow".
 on:
+  schedule:
+    - cron: "12 5 * * *"
   workflow_dispatch:
     inputs:
       je_quelle:
@@ -33,8 +36,8 @@ jobs:
       - name: Sammellauf
         run: |
           python newsbot.py --cli \
-            --je-quelle "${{ inputs.je_quelle }}" \
-            --stunden "${{ inputs.stunden }}"
+            --je-quelle "${{ inputs.je_quelle || '30' }}" \
+            --stunden "${{ inputs.stunden || '36' }}"
 
       - name: Ergebnis einchecken
         run: |
