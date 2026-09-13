@@ -1,0 +1,69 @@
+# Quellen fuer den Nachrichten-Sammler
+#
+# Eine Zeile je Quelle:   Name | Kategorie | RSS-Adresse
+# Zeilen mit # am Anfang werden uebersprungen.
+# Quellen, die nicht antworten, meldet das Programm im Fenster und am Ende
+# der Digest-Datei - dann hier einfach auskommentieren oder ersetzen.
+
+# --- Deutschsprachig, allgemein ----------------------------------------
+heise online        | Allgemein   | https://www.heise.de/rss/heise-atom.xml
+golem.de            | Allgemein   | https://www.golem.de/rss.php?feed=RSS2.0
+t3n                 | Allgemein   | https://t3n.de/rss.xml
+silicon.de          | Unternehmen | https://www.silicon.de/feed
+
+# --- KI ----------------------------------------------------------------
+TechCrunch AI       | KI          | https://techcrunch.com/category/artificial-intelligence/feed/
+AI News             | KI          | https://www.artificialintelligence-news.com/feed/
+MIT Technology Rev. | KI          | https://www.technologyreview.com/feed/
+VentureBeat AI      | KI          | https://venturebeat.com/category/ai/feed/
+
+# --- Big Tech und Branche ----------------------------------------------
+Techmeme            | Big Tech    | https://www.techmeme.com/feed.xml
+The Verge           | Big Tech    | https://www.theverge.com/rss/index.xml
+Ars Technica        | Big Tech    | https://feeds.arstechnica.com/arstechnica/index
+The Register        | Big Tech    | https://www.theregister.com/headlines.atom
+Wired Business      | Big Tech    | https://www.wired.com/feed/category/business/latest/rss
+Hacker News         | Entwickler  | https://hnrss.org/frontpage
+
+# --- Rechenzentren, Chips, Infrastruktur -------------------------------
+Data Center Dynamics| Rechenzentr.| https://www.datacenterdynamics.com/en/rss/
+Blocks & Files      | Infrastrukt.| https://blocksandfiles.com/feed/
+Tom's Hardware      | Halbleiter  | https://www.tomshardware.com/feeds/all
+
+# --- Automatisierung, RPA, Unternehmens-IT -----------------------------
+The Robot Report    | RPA         | https://www.therobotreport.com/feed/
+CIO Dive            | Prozesse    | https://www.ciodive.com/feeds/news/
+Computer Weekly     | Prozesse    | https://www.computerweekly.com/rss/All-Computer-Weekly-content.xml
+
+# --- Investitionen und Maerkte -----------------------------------------
+TechCrunch Venture  | Investition | https://techcrunch.com/category/venture/feed/
+CNBC Technology     | Investition | https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910
+CoinDesk            | Krypto      | https://www.coindesk.com/arc/outboundfeeds/rss/
+
+# --- Politik und Regulierung -------------------------------------------
+netzpolitik.org     | Politik     | https://netzpolitik.org/feed/
+Tech Policy Press   | Politik     | https://www.techpolicy.press/feed/
+
+# --- Energie und Gebaeude ----------------------------------------------
+pv magazine         | Energie     | https://www.pv-magazine.de/feed/
+
+# --- Themensuchen ueber Google News ------------------------------------
+# Stabil und zuverlaessig: Google News liefert zu einer Suchanfrage ein
+# sauberes RSS aus vielen Redaktionen. Die Adresse ist eine normale Suche,
+# "when:3d" begrenzt auf die letzten drei Tage. Eigene Suchen lassen sich
+# nach demselben Muster ergaenzen - Suchbegriffe URL-kodiert einsetzen
+# (Leerzeichen = %20, Anfuehrungszeichen = %22, ODER = OR).
+GN AI Act           | Politik     | https://news.google.com/rss/search?q=%22AI%20Act%22%20OR%20%22KI-Verordnung%22%20when:3d&hl=de&gl=DE&ceid=DE:de
+GN EU-Parlament KI  | Politik     | https://news.google.com/rss/search?q=(%22EU-Parlament%22%20OR%20%22Europaparlament%22%20OR%20%22EU-Kommission%22)%20(KI%20OR%20%22Kuenstliche%20Intelligenz%22%20OR%20Digital)%20when:3d&hl=de&gl=DE&ceid=DE:de
+GN AI regulation EU | Politik     | https://news.google.com/rss/search?q=%22AI%20Act%22%20OR%20%22EU%20AI%20regulation%22%20when:3d&hl=en-US&gl=US&ceid=US:en
+GN Rechenzentren    | Rechenzentr.| https://news.google.com/rss/search?q=Rechenzentrum%20OR%20Rechenzentren%20(KI%20OR%20Strom%20OR%20Investition)%20when:3d&hl=de&gl=DE&ceid=DE:de
+GN RPA              | RPA         | https://news.google.com/rss/search?q=Prozessautomatisierung%20OR%20RPA%20OR%20UiPath%20when:3d&hl=de&gl=DE&ceid=DE:de
+GN Waermepumpe      | Energie     | https://news.google.com/rss/search?q=(Waermepumpe%20OR%20Waermenetz%20OR%20BAFA%20OR%20BEG)%20Foerderung%20when:3d&hl=de&gl=DE&ceid=DE:de
+
+# --- Nicht erreichbar, deshalb stillgelegt -----------------------------
+# Computerwoche     | Unternehmen | https://www.computerwoche.de/rss/alle.rss        (HTTP 404)
+# InfoWorld         | Entwickler  | https://www.infoworld.com/index.rss              (HTTP 404)
+# Data Center Front.| Rechenzentr.| https://www.datacenterfrontier.com/feed/         (HTTP 404)
+# EU-Parlament      | Politik     | https://www.europarl.europa.eu/rss/doc/press-releases/en.xml  (kein gueltiges RSS)
+# Euractiv Tech     | Politik     | https://www.euractiv.com/sections/tech/feed/     (HTTP 403, sperrt Automaten)
+# heise Netzpolitik | Politik     | https://www.heise.de/rss/heise-netzpolitik-atom.xml  (HTTP 404)
