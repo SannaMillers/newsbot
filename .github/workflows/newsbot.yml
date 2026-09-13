@@ -1,0 +1,49 @@
+name: Nachrichten sammeln
+
+# Startet auf Knopfdruck: Reiter "Actions" -> "Nachrichten sammeln" ->
+# rechts der Knopf "Run workflow".
+on:
+  workflow_dispatch:
+    inputs:
+      je_quelle:
+        description: "Meldungen je Quelle"
+        required: false
+        default: "30"
+      stunden:
+        description: "Zeitraum in Stunden"
+        required: false
+        default: "36"
+
+# Der Lauf schreibt das Ergebnis zurueck ins Repository.
+permissions:
+  contents: write
+
+jobs:
+  sammeln:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository holen
+        uses: actions/checkout@v4
+
+      - name: Python bereitstellen
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Sammellauf
+        run: |
+          python newsbot.py --cli \
+            --je-quelle "${{ inputs.je_quelle }}" \
+            --stunden "${{ inputs.stunden }}"
+
+      - name: Ergebnis einchecken
+        run: |
+          git config user.name  "newsbot"
+          git config user.email "newsbot@users.noreply.github.com"
+          git add news/
+          if git diff --staged --quiet; then
+            echo "Keine Aenderung - nichts einzuchecken."
+          else
+            git commit -m "Nachrichtenlage $(date -u '+%Y-%m-%d %H:%M') UTC"
+            git push
+          fi
