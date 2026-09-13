@@ -32,6 +32,8 @@ except ImportError:  # pragma: no cover
 ORDNER = os.path.dirname(os.path.abspath(__file__))
 QUELLDATEI = os.path.join(ORDNER, "quellen.txt")
 AUSGABE = os.path.join(ORDNER, "news")
+TITEL = "Nachrichtenlage"
+OHNE_FILTER = False   # True = alle frischen Meldungen behalten, ohne Themenfilter
 
 MAX_JE_QUELLE = 30         # Startwert, im Fenster einstellbar
 STUNDEN_ZURUECK = 36       # Startwert, im Fenster einstellbar
@@ -261,7 +263,7 @@ def digest_schreiben(eintraege, fehler, anzahl_quellen, stunden=STUNDEN_ZURUECK)
         nach_thema.setdefault(schluessel, []).append(eintrag)
 
     zeilen = []
-    zeilen.append("# Nachrichtenlage {}".format(jetzt.strftime("%d.%m.%Y %H:%M")))
+    zeilen.append("# {} {}".format(TITEL, jetzt.strftime("%d.%m.%Y %H:%M")))
     zeilen.append("")
     zeilen.append("{} Meldungen aus {} Quellen, Zeitraum der letzten {} Stunden."
                   .format(len(eintraege), anzahl_quellen, stunden))
@@ -324,7 +326,7 @@ def sammeln(je_quelle=MAX_JE_QUELLE, stunden=STUNDEN_ZURUECK, melden=print,
             frisch = [e for e in eintraege if e["zeit"] is None or e["zeit"] >= grenze]
             for eintrag in frisch:
                 bewerten(eintrag)
-            passend = [e for e in frisch if e["punkte"] > 0]
+            passend = frisch if OHNE_FILTER else [e for e in frisch if e["punkte"] > 0]
             alle.extend(passend)
             melden("  {:<22} {:>7} {:>7} {:>8}".format(
                 quelle["name"][:22], len(eintraege), len(frisch), len(passend)))
@@ -542,7 +544,24 @@ def kommandozeile():
     zerleger.add_argument("--cli", action="store_true", help="ohne Fenster laufen")
     zerleger.add_argument("--je-quelle", type=int, default=MAX_JE_QUELLE)
     zerleger.add_argument("--stunden", type=int, default=STUNDEN_ZURUECK)
+    zerleger.add_argument("--quellen", default=None,
+                          help="andere Quellendatei, z. B. gesetze_quellen.txt")
+    zerleger.add_argument("--ausgabe", default=None,
+                          help="anderer Ausgabeordner, z. B. gesetze")
+    zerleger.add_argument("--titel", default=None,
+                          help="Ueberschrift der Digest-Datei")
+    zerleger.add_argument("--alles", action="store_true",
+                          help="ohne Themenfilter - alles Frische behalten")
     argumente = zerleger.parse_args()
+
+    global QUELLDATEI, AUSGABE, TITEL, OHNE_FILTER
+    if argumente.quellen:
+        QUELLDATEI = os.path.join(ORDNER, argumente.quellen)
+    if argumente.ausgabe:
+        AUSGABE = os.path.join(ORDNER, argumente.ausgabe)
+    if argumente.titel:
+        TITEL = argumente.titel
+    OHNE_FILTER = argumente.alles
     pfad, anzahl = sammeln(argumente.je_quelle, argumente.stunden, melden=print)
     if pfad:
         print("\n{} Meldungen gespeichert in {}".format(anzahl, pfad))
