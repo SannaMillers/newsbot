@@ -1,6 +1,6 @@
-# Rechtslage 11.10.2026 11:24
+# Rechtslage 12.10.2026 13:10
 
-114 Meldungen aus 18 Quellen, Zeitraum der letzten 96 Stunden.
+99 Meldungen aus 18 Quellen, Zeitraum der letzten 96 Stunden.
 
 ---
 
@@ -27,6 +27,13 @@ Stichtag 10. Oktober: Neue EU-Regeln für Regenjacken treten heute in Kraft CHIP
 
 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTW9pZUVleWxSbkMtMmhlbGVLNmhKSDFnVzN2Rk5QSS05bjZKOFV3WHVKeFRYZzBvVkRyNGVmRUhCVHBmVXNGWE9ZSXNRckV1OEpRTG9kbXF5LUwzUnM2dDZxV3ZFVlB3X0loVUR0MjNOTm5UOFVSNUp6WE5qZzZzWWxjWjg0ZGhFSnlwbDlncnZmRERqeDdQZzl1NTlFUDRtandCLUlHb0ZvbVFJVVIxTFJHdWlZWlR1Z2hmRVh4THl5THJUNmtZVlFkcXNCVG9oaVlSbUVpNDRUZ2lOOHNIVWVhUG9KZzY0SF8w?oc=5
 
+### Rente: Verzögerung um Monate – Merz geht nicht mehr von Umsetzung der Reform bis Jahresende aus - WELT
+*GN Bundestag Gesetz - 10.10. 02:40*
+
+Rente: Verzögerung um Monate – Merz geht nicht mehr von Umsetzung der Reform bis Jahresende aus WELT
+
+https://news.google.com/rss/articles/CBMi_wFBVV95cUxPT2NicmZ4RzI3Q1dVMkoyNEdlU0NsOGI1UTFibEt6dGhZQkk3MVltY0duTzlMc254MjJLQkZJSU9YSEFNQ1ZJYkFNakFTYjY5OTliaGlJYlZ4UU5qa0hSTzVYR3BuUklGUnBoQXp6REtXR0xyTkFjdzlaaGp3SGtwUGo4TmJFZ0h5b2VLSkN0TE9zZHkxMzduU3N6WWZJYXBaY2tXa0RzZlhnQVJQbFBDSl9DMWZNUkRWc0VjNGlkOVRpZ0ZGdnJneHBtSVJDSlc5S3pMUUdxZ2xoQ1lPRUl3OTQxLUR3cFZjV21lTW52a3RoWFBaLU9CamQ1OUF6LVE?oc=5
+
 ### Beratung der Novelle des Aufstiegsfortbildungs­förderungsgesetzes
 *BT Aktuelle Themen - 10.10. 01:53*
 
@@ -41,47 +48,80 @@ Erneuerbare Energien: 6.000 demonstrieren in Berlin gegen EEG-Reform ad-hoc-news
 
 https://news.google.com/rss/articles/CBMitAFBVV95cUxPY2FRRTc4ckEwc1AtMFQzN0dwb2JRWnhjX3p1NHk3UndJRmpaVi1wSG9LZ3h6c043LUtiWmk3RWx5X3pZQXdlU2JxaFJJX0NwUG9hLTEzNjdKcVVoc0Z1dVF4ZnFDT3BfUDlRbW9HRUlDZzNZVDRzWkhaajY1Qkxtb3owT0JDQ2tSeTFGcDA5TV9HMkdxdDlSWUJOUVFGd0o2TFc0TUNrSjk2SEdSczhUV29LX00?oc=5
 
-### Wohngeld-Kürzung: Bundestag berät Sparpläne nachts um halb 1 - ZDFheute
-*GN Bundestag Gesetz - 09.10. 10:46*
+### Erst beschlossen, jetzt Kritik – Neuer Paketsteuer-Streit – Kanzler spricht nun Klartext - Heute
+*GN Steuer und Arbeit - 12.10. 12:52*
 
-Wohngeld-Kürzung: Bundestag berät Sparpläne nachts um halb 1 ZDFheute
+Erst beschlossen, jetzt Kritik – Neuer Paketsteuer-Streit – Kanzler spricht nun Klartext Heute
 
-https://news.google.com/rss/articles/CBMihgFBVV95cUxPS2ZoWkFjRjk2bks3OWtid3dPMWtNam8xRjN3ZzJWRm1pb2M5dEtDRkc1WmRLMjFfc0ZNdTNWaHRMUlRyajd2SXo5ekpzOF9BV0Zpanh5OE5wU0ZTS2h6MWYydkJ4TzZaUDNXaVlzaThINVlDWDlydXNpQVBFM2NLZ0RPcVlfZw?oc=5
+https://news.google.com/rss/articles/CBMijwFBVV95cUxPTGJMcXZmQ1ZDSmtxUUt0OFNyQjRPMV9QamVwbklIN0pfeVA5Uk9VbW5tbHN0eW9TWFlrWWpoeGszVHVzRWdDQ3JVNHd4M2JjNm5MRVJjUVB4ZC1NOUNEQzIxMW9jamVmWDFPNllkNmwzQURjWFEzUDJ3VllmZF9NaXY0MjVwSXV3bjVzRkdudw?oc=5
 
-### Rentenreform: Bundestag beschließt Paket erst im Frühjahr - AD HOC NEWS
-*GN Novelle Reform - 08.10. 22:00*
+### Ausschüsse - Deutscher Bundestag
+*GN Bundestag Gesetz - 12.10. 12:30*
 
-Rentenreform: Bundestag beschließt Paket erst im Frühjahr AD HOC NEWS
+Ausschüsse Deutscher Bundestag
 
-https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnFlV3ZXUlZrb3VuVVQ5eklSMExVajJSZ2I0Y0Q4ZktGR0VHczl1bnFfdEtkUDZsMzladjRWUzFqN255YkFRN3hYRDVhakxjNnRJZHF4VkwzcERZcXR4VVVHVlZ1SkNCd2ZBekFyNVZnTzRUQ3YwaHEyNVlzMG41QXNQcnViWVU3SzNVZ0RPZWFELU85MC1uVEYzMGRtZGRJYUJmeA?oc=5
+https://news.google.com/rss/articles/CBMiTEFVX3lxTE1IblRTQm56b2ZscGRxZWh6MUxXZDU4aFVLQWxHdjhHVkRuTVJfeFNtdTFya2hMMEZ6Ykl0TVMzUG5rLU44T3lWSlNFZlg?oc=5
 
-### Zweiter Gesetzentwurf: Steuerfreiheit beim Verkauf vermieteter Immobilien nach zehn Jahren abschaffen - Abgeordnetenwatch
-*GN Bundestag Gesetz - 08.10. 12:00*
+### 21/8507: Beschlussempfehlung und Bericht zu dem Gesetzentwurf der Abgeordneten Steffen Kotré, Marc Bernhard, Joachim Block, weiterer Abgeordneter und der Fraktion der AfD – 21/5135 – Entwurf eines Gesetzes zur unionsrechtskonformen Präzisierung des Begriffs der Kundenanlage im Energiewirtschaftsgesetz (PDF)
+*BT Drucksachen - 12.10. 10:00*
 
-Zweiter Gesetzentwurf: Steuerfreiheit beim Verkauf vermieteter Immobilien nach zehn Jahren abschaffen Abgeordnetenwatch
+https://dserver.bundestag.de/btd/21/085/2108507.pdf
 
-https://news.google.com/rss/articles/CBMi8AFBVV95cUxQT2pWd2swU3A3SmpuMmVtRjVQSl9Da2hUTHJ5ZlpKdTJJU1BWWHJOTTJPeDVKR3NjTHJqeFpPX3dGX1FqbFhNemswM2NxcWM0bkJEY3lGVlg3anQyUjRGbXBadlkzN0IxRFBuOHJJY0ljbHdNMkl4OE5lOWVUejNyNWVFajJuek1tY0FpYkgwSGtaNEVXRURfdGpmRlhXYXVaekJ4Ql9KZjY0U3ZlWHp3REpYcXRtTVpqOS1DMU9lM2xzelllWVBINDROdWhIb1VjbllUSmdDZE1hMGgzUUh3MWlDUUZLUzFzclBXODEzREI?oc=5
+### Zum 1. Januar 2027 soll ein neues Gesetz kommen, das viele Produkte teurer macht - CHIP
+*GN Steuer und Arbeit - 12.10. 09:23*
 
-### Dritter Gesetzentwurf: Steuerfreiheit für Kryptogewinne nach einem Jahr abschaffen - Abgeordnetenwatch
-*GN Bundestag Gesetz - 08.10. 12:00*
+Zum 1. Januar 2027 soll ein neues Gesetz kommen, das viele Produkte teurer macht CHIP
 
-Dritter Gesetzentwurf: Steuerfreiheit für Kryptogewinne nach einem Jahr abschaffen Abgeordnetenwatch
+https://news.google.com/rss/articles/CBMigAJBVV95cUxQcWNLS2F2MnBYaTlCVDVVLWdPSXRLUVdKNk03dXdRdEtLZkN1MmoxdGY5bGJoRk5HUlppakFSanFxQmh0Tmh0THp2ejR4RzVMYlRmU0lBUTJEX3k5LWhXS0R4MXhDdXk0cmRnR1RsNWMyeDhyRUhfQzVQVEd2MEpYUzJleWQyaTQ3dmhPQ1BfcFkzRGVuZ2lQZWQxU2w0SnIxdllGaXNUS2M4Wmp4bFVyc3dxOTlmZ2g1REk3NmhWSmZuQlVzOGs5MDhTRUhuU2UxVmgtZmpGb05RcU5iQXhaRXl0YUxaNTlVdG1meHFhRTFtV29QTEdxNEJ4MGRxZWdJ?oc=5
 
-https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZEczeHZfOHdqOGhtc0UzdkZkaExfUGpyNGoyUEEtUnhkcW82b3ZsczFjc2I0c1dfMFpBaFVpejN4bjlVRXdMN0QwNlZKbDVtSWtxZGVsRGw3QTQtSGFqUU1sRnp2MmEwZjktVWpvd1JXYzJVWnFyTFBqOXB5M05aa3BwQnozb2N2akxEWk9ySEZzekpjMkhQNEd0MmpBRGhQcGFTT2Q3YlhJdWltRnNybkhxSVdndWkyVWJSQnRwVXFLUVNuckp6RmRTWXBKcFRUZzRVN0RyM0Y?oc=5
+### Kommission begrüßt Annahme des mit 115 Mio. EUR ausgestatteten Programms „AGILE“ für schnelle Innovationen im Verteidigungsbereich
+*EU-Kommission - 12.10. 07:44*
 
-### Erster Gesetzentwurf: Steuervergünstigung für Immobiliengesellschaften abschaffen - Abgeordnetenwatch
-*GN Bundestag Gesetz - 08.10. 12:00*
+European Commission Pressemitteilung Brussels, 12 Oct 2026 Die Europäische Kommission begrüßt die Annahme der Verordnung zur Einrichtung eines Programms für agile und schnelle Innovationen im Verteidigungsbereich (AGILE), mit der disruptive Verteidigungstechnologien in Rekordgeschwindigkeit vom Labor ins Feld gebracht werden. Mit dem neuen Finanzierungsinstrument in Höhe von 115 Mio. EUR werden kleine und mittlere Unternehmen (KMU), einschließlich Start-up-Unternehmen und Scale-up-Unternehmen, gezielt unterstützt, um innovative Verteidigungslösungen zu entwickeln und deren Einführung zu unters
 
-Erster Gesetzentwurf: Steuervergünstigung für Immobiliengesellschaften abschaffen Abgeordnetenwatch
+https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2132
 
-https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVEtpbXZIbUpEV0RCbFY4R1F4TklxX0ZrN2tacTdMWGhFdmlGM1NCejUyeGZHNE9aTXh1NGdaN2xiYm9pM3BzOVpmNTRScXBmWWN2UEpVZXJyYWFFYW1ZQ0tHVVg4NU5SWkZBaWNGQlpuR2dSM3VPUzNvMVpJMUh2MUlPZUc4bWJ3MWFGNHJYNExCcXRFdU9NM0JUOEg2NzVoN3p5eHNhbTg1TEdpcE4teHB5ZTBkNFZVMGctdzUxYzJJd3lDY3JOdXhRTnlDQXU2Ulk3bWFWbTg?oc=5
+### Bundestag berät Reform des Schiedsrechts - openPR.de
+*GN Bundestag Gesetz - 12.10. 07:40*
 
-### Bundesregierung legt Bafög-Novelle vor
-*BT heute im bundestag - 08.10. 11:28*
+Bundestag berät Reform des Schiedsrechts openPR.de
 
-Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung/Gesetzentwurf Höhere Wohnkostenpauschale, steigende Freibeträge: Mit dem 30. Bafög-Änderungsgesetz strebt die Bundesregierung eine Novelle der Förderung an.
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLV9RQy1jRmdEWGdZYWYwNW9hT0k0ODdVdzFpeFpJTE1QcFh1dV9UdGIzRDI5MkNJUFF4N0s3aTVFdW1hSjlHWlM4NXVGZTV2dkc3Z0gxQW8xS01aaGp1NGZOQXNCRTM4UEhxQVZsd3o2TlpWMGtLS3BaX09TaTZSMjhCUTkwTTBP?oc=5
 
-https://www.bundestag.de/presse/hib/kurzmeldungen-1223398
+### Werkstätten Reform - wann plant ihre Regierung das 2 Gesetz zum inklusiven Arbeitsmarkt vorzulegen - Abgeordnetenwatch
+*GN Bundestag Gesetz - 12.10. 07:38*
+
+Werkstätten Reform - wann plant ihre Regierung das 2 Gesetz zum inklusiven Arbeitsmarkt vorzulegen Abgeordnetenwatch
+
+https://news.google.com/rss/articles/CBMi_AFBVV95cUxQOXNUZHRXYmVhbmJ1UWRUQVo3NHdoRTlBaHViM2lWQjNPNTg4SEo3dHcwZHZ5MDBKUTZqVTZhRlh6U1BSYTJXRzFNTnNkTDBHNmNQaGh4MHpnV2xZT04ySEJ6TXE1M19udVNheUlpZ1BScnhLbU9HRGRVN3VOaV9GWWR3NUxEQTBuZmx1VlJ3UzlrdFdab3FkYTRyalJBX2VJY3ozWFNwMU9vZGxHdkduaWVjSlBnZ1NWaU0wb2JXcF91eWlQS193S0pEWlZFYkJ5RDh3Q2k2QVFqOGYzTGN2U2ZoSTVFeG1HUzlUcjJrY1VsUDB5SEdqMVRaNnI?oc=5
+
+### Neue Produkthaftung: Bundestag stellt Weichen - openPR.de
+*GN Bundestag Gesetz - 12.10. 07:18*
+
+Neue Produkthaftung: Bundestag stellt Weichen openPR.de
+
+https://news.google.com/rss/articles/CBMijAFBVV95cUxPR3NudkZzRmZOVU1JZTljUVU2djVpd0pqUTBueUtTYlJ1NHJnU0NaMzE5djhtSFEwNE0zenJGRXBfTDFyaEktVHVzUHFEeGprcEZzRkVYY2JrQV9hYkpDRk94T3V3Yko1MHo4NG1feU1sOUFWdm1HaGxMWUJCT19GUXM0czc5NDF5aGlVUw?oc=5
+
+### Bundestag: Kein Zeitplan für Neuregelung des Düngerechts - Gabot.de
+*GN Novelle Reform - 12.10. 06:07*
+
+Bundestag: Kein Zeitplan für Neuregelung des Düngerechts Gabot.de
+
+https://news.google.com/rss/articles/CBMinwFBVV95cUxPMjE4NTN6clFUZzhISFJUUWF5WWxaZmNrTzk0WXFVVkZNUDFsNWZ6MGdabUJpNzl0elFWbWo0WlNyRXJ5dF94Y29vNUFSbW95d2FyWFZ3ckZRV3hmTEo4S2ZlWDJUXzRxcmdNM3ZKRldjRVJ6YUZmd1dIWGZiSmhpaU83Z1ozaEthMmpONkFBcWNZTWpZQU9GaDBKd2xQMDQ?oc=5
+
+### DAV - Seite 4049 - Aktuelles aus Recht, Gesetz und Justiz - Legal Tribune Online
+*GN Recht Fachpresse - 11.10. 14:49*
+
+DAV - Seite 4049 - Aktuelles aus Recht, Gesetz und Justiz Legal Tribune Online
+
+https://news.google.com/rss/articles/CBMiY0FVX3lxTE16LVJVVG4xTXFLcE5vZC1CQndkeEhMMEFhQ1JVekN3bDc3UzAxYm8wQ0Z0dllDNWVFdTViUnRJVEtlazVJOHM5eUFFdkNoT0J6TE93cThpbzAyalJ6bWtLWGdfQQ?oc=5
+
+### Neubautrasse Hamburg–Hannover beschlossen: Reaktionen zwischen Wut und Hoffnung - Cellesche Zeitung
+*GN Bundestag Gesetz - 11.10. 12:36*
+
+Neubautrasse Hamburg–Hannover beschlossen: Reaktionen zwischen Wut und Hoffnung Cellesche Zeitung
+
+https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa3p1Y1YtTVUtSF91Yms1UkFUVHRSUFByWDFySXRfRXpCTGdicWtreG9HX01pOC1ITzQ3YzJJTDRmSFdqZDk1VVFiNUlxaTE5d0M3T0NaaG5aRWVsNmcwcDlQSTdzelJSUHpnVmxaVk9keGxsNW9OUkFSeVB6YTA1RXlxcFF4RlNsd0Z2Q2FiSDROSG1IcEw4dEp2Mi0xNkx2RzFGRkZtS2taOERGQlNwNXBnb3JBWDBWcmVMTmI2ckl6U0ZQcVowYzBSZ01kQmRaTnpwR1BVMEdTclhlaGfSAfoBQVVfeXFMUGJVU21XOVlhV2RtQy1abzZRN0xCTU5kSGdLaVBqc1JycjFGbnhJTHVZZE11WlVLc1JpdXdBc192bDMwNm9RdkQ3LUx5YTJqaERUTXhhQnNmWklPNzBrM3M2ajJIRGpudWs3VGFkZlpya0VlZzJpbUo1XzU3eUZPLUdQSEZFbmp5YThqVmwxVDlaZk1IVnBTNmpEaU9oaUwwdE1WT1hWdkNhZDF1ZUVJbWxQT0dpS3pNMG5vdlFLNEdIQ0tEUUQxR0lzc1N2V0VFdE9VOW9rZ3Z1R25LRFU0NURDUTNyZFJIRXhoOUgzblM5ZHk5NDR2TXB5QQ?oc=5
 
 ### Hessischer Gesetzentwurf: Drohnenüberflüge sollen Straftatbestand werden - ad-hoc-news.de
 *GN Bundestag Gesetz - 11.10. 00:30*
@@ -104,6 +144,13 @@ Investitionsverpflichtung für Streamingdienste: Gesetzentwurf verlangt 8 Prozen
 
 https://news.google.com/rss/articles/CBMiuAJBVV95cUxNakNLbUEwc2d1bTRmeGIyRFRDcWZvZ09hUXdadTlWMjI3d3dNcE5JelJFQXcxZUlONTQ1SV9JWWozZGdrMVY4TDdrZ0twNU5XNVo1cnBnM0s4R25EUXR1WC11YnFSVmVpR3U5MWhkZVVBTlBGb0hqVEJsSy1ITE1jS252d185aGtrcFd1XzRfczNlZDhZTzhQU0RELUVfZWRDeHlIaDR4WV9ZdGNhbk5KZVBpa3c1Sm5NRXU1c2hnRWFwQVpiZEo3LVZueEN4aU9LRkNPUXZZZkxFNEZ4UjN0a0xycUUtZkFkeUNpU2lpejkzTXhOYjVyY2VwXzVDQjNzb2tCU2dodjFvS0VVbTNLVXB6RVhjU3VzTjdEMWNIS05BbjRpU0J4TGJFN2NtUmN0QWhzMmJ3a0g?oc=5
 
+### Bundesrat fordert Direktanstellungsgebot für Essenslieferdienste - Netz Trends
+*GN Bundestag Gesetz - 10.10. 07:51*
+
+Bundesrat fordert Direktanstellungsgebot für Essenslieferdienste Netz Trends
+
+https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM19fZzhMQzVkc045Nm9mOFRaUTRPa0ZTSVVIT1VjVGFEVGJPQ292dlJ4VTUtbktVdExNRTRmMmdtdU5uMFM1Tm8zZ0sxVHNkTEtyTndPQ3FQTENWTTVqRHFFQ3hzd250YUQ5TWY4QVNoc0E1aGo1bWQxOHVRQnJwQURCeWlsci01alNNbWZNZ2hFM2JhY3FtSUtvRlNmUG9PdEF3QVVwMG9kSHZpeG5NM1ZSZUp6Q3lxQjBMc3hobm9aR1Nqcy1ndnFMc0UycW9sNVpGZWxVbE15WHVNOXlyTA?oc=5
+
 ### Bundestag entscheidet über die Reform der Notfallversorgung
 *BT Aktuelle Themen - 10.10. 00:59*
 
@@ -118,12 +165,19 @@ Die BAföG-Novelle wird am Donnerstag, 15. Oktober 2026, in erster Lesung berate
 
 https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-bafoeg-1223582
 
-### Bundestag will Weg für die EUDI-Wallet frei machen
-*BT Aktuelle Themen - 10.10. 00:47*
+### Justiz - Seite 4072 - Aktuelles aus Recht, Gesetz und Justiz - Legal Tribune Online
+*GN Recht Fachpresse - 09.10. 23:59*
 
-Der Bundestag entscheidet am Donnerstag, 15. Oktober 2026, nach 30-minütiger Aussprache über den Gesetzentwurf der Bundesregierung „zur Durchführung der unionsrechtlichen Vorschriften über die Europäische Brieftasche für die Digitale Identität sowie zur Änderung anderer Rechtsvorschriften“ (Digitale Identitätengesetz, 21/7408(Dokument, öffnet ein neues Fenster)), mit dem die rechtlichen Voraussetzungen für die Europäische Brieftasche für die digitale Identität (EUDI-Wallet) in Deutschland geschaffen werden sollen. Zu der Abstimmung wird der Ausschuss für Digitales und Staatsmodernisierung eine
+Justiz - Seite 4072 - Aktuelles aus Recht, Gesetz und Justiz Legal Tribune Online
 
-https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-digitale-identitaeten-gesetz-1223586
+https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FcmF5aTMyUkx1QlBHLV9hNm1BenJlX3ZGYk9zSTZ4UG04WmtjZjBUYmtsa1R1UmNBQTFGYml2RTliSkExMUQxMDNDNC1LdVdqQmdjZlFnUHMtNXNpam55R2Y2N0FTQkk?oc=5
+
+### TKG-Novelle: Streit um den Bestätigungs-Button - Netz Trends
+*GN Bundestag Gesetz - 09.10. 21:05*
+
+TKG-Novelle: Streit um den Bestätigungs-Button Netz Trends
+
+https://news.google.com/rss/articles/CBMitwFBVV95cUxNZXRUWnFMZzR0aWROYy1Xa3dESFBhMFhoTmROVy1yRlZjZ0VKdmNnalB2U3JiNXlpVlBrYkw4ZW5LelpaRXdfakExZWd5SHh2UUpXOHVaSVJNOTlYVW5OSGxTeV9iTUxHZlNSMDQ0dGRpeGlURzJxcldJN2FtT2xKZi1xOW5wTWt5bThJR3NFMHl5djJ5dEs4WVlCcUw5aXFscUNWZU12azIzcHlyS19iajZLZzkxYXM?oc=5
 
 ### BAföG-Reform: Bundesregierung plant höhere Bedarfssätze und Wohnkostenpauschale - EU-Schwerbehinderung
 *GN Novelle Reform - 09.10. 16:35*
@@ -132,12 +186,12 @@ BAföG-Reform: Bundesregierung plant höhere Bedarfssätze und Wohnkostenpauscha
 
 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPR2xDN2xOVkhLVkNPRHFnSnhndWI0NGdlSmYzbmJ2OUFOZm5mc1pmTHBNMHRmNU1fYV9SN3lCWGZFdFJYbm5OdWI2SERHZk81dFQ3WXRVb2s2dmhCSEZwbU1tLS1WaFRkMnlVa3Jfc3g5YWZBM0xvSC02aGJwcVFTRHhJZ0JDT21hNHY0UTZFZlQ2TlRDY0huZVBjaTFycGpyaDVVVlpEN09LRG1odmdtY01xbEdJZzVPVEFVV2FfWHI0ZGNVRVVYWkZ2bFl4ZTdSOGFTU0hvT0NIbkFWOWRF?oc=5
 
-### «Erneuerbar, unverzichtbar» – Demo gegen Energie-Reform - Vodafone live
+### „Erneuerbar, unverzichtbar“ – Demo gegen Energie-Reform - STERN.de
 *GN Novelle Reform - 09.10. 15:16*
 
-«Erneuerbar, unverzichtbar» – Demo gegen Energie-Reform Vodafone live
+„Erneuerbar, unverzichtbar“ – Demo gegen Energie-Reform STERN.de
 
-https://news.google.com/rss/articles/CBMisgFBVV95cUxOVm95eU8wTUdIell6bEN1emJUY1NHTUhjbUpSX1I0SkZwOWdJZ2FJbWFIRW5EXzdXOU4zVlFQdDVXaVdHNDBSczdSWUdicEM0djNYa2NOdzhXT2ZhWWIyNk1CU0dfalJFVm5lQzhqSDlsdDNvVTJEdGFRRlY1b0NLc3NpQzgyeUJ0ZjN4a1FZLUMzeFIwNE10Q0NlcEducjNUb2ViMjlBRWxzZFJ4ZTRTRjVn?oc=5
+https://news.google.com/rss/articles/CBMizAFBVV95cUxQaENjXzQyRkw5Y3lGMjhNVUg4bU5mcnpLb3Via2k5T1dWNVRBak1NdHdyZWgzMmd1cnI2YzhVbnBhNGJrNF9Ob1RjbVNjUUhKb1EyTWNtOW9fbXZuMV9iOFB5YkZZQmVaNjl4aGxsWGV3dnJTbTI1OVJnOXZkQWpFMTJ1NmIwYmdmbUtkRGxNM19YTHI1U2FJS0JfbnRhMG9jNXZRQkxzZWNYaGplZDBGYTJrRE1EZ1RERGNNTXlibGItaE9XQjNaWnVLNHY?oc=5
 
 ### Bundestag debattiert Digitalgesetz: „Richtig und überfällig“ oder doch ein „Wolf im Schafspelz“? - AerzteZeitung.de
 *GN Bundestag Gesetz - 09.10. 13:41*
@@ -146,40 +200,12 @@ Bundestag debattiert Digitalgesetz: „Richtig und überfällig“ oder doch ein
 
 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbDJNUVhnXzI2STZjTmt3MGpLZ1NZYTFIN2ZHX2J4aWVhbFNjLW41WkxFalI3WHdfNm5POXFXNkhjdXEzamFtMm1qZnc2eDRMS21hbzR5R0Z5VW9JTER2YUpKVmdrQnd0UGc5N1h1Y2k0RkhLZHBKdnJIdmIySHhRTEliOVZyWkItV1o0T1hpZ0c1ZUthYkN2dE5zc3FWNFVRZVlmMVBUVUZQS0xGMFN6VVdnVGFnT0x6V1ZXTTk4dUxyYl8wTmQwNXFpcEdTanl6LUJzSVh6MmU?oc=5
 
-### CARF: Bundestag beschließt Krypto-Informationsaustausch über die EU hinaus - Blocktrainer
-*GN Bundestag Gesetz - 09.10. 12:00*
+### Erste Lesung GeDIG: Dahmen lobt Bundesregierung - Pharmazeutische Zeitung
+*GN Bundestag Gesetz - 09.10. 13:30*
 
-CARF: Bundestag beschließt Krypto-Informationsaustausch über die EU hinaus Blocktrainer
+Erste Lesung GeDIG: Dahmen lobt Bundesregierung Pharmazeutische Zeitung
 
-https://news.google.com/rss/articles/CBMipgFBVV95cUxOZUZscXNIUFVjYmc4V0RjaUZqWDQyX0RzSG53YzJOTWxfT21jLTl6ajBaRE9KR0VCU2ltdWJkOXUtS1ZraG1LQ2pidTZsRkVLU1I1WU5iLWFqaDVXRHlMY0ZXbUg5cklHbk1uOEVJb2pKMld3S1RhUkhFTlJySEF4UFhTcEdJTk93ZjMxWTU0MnBtOFJaQkNnT3pneUc5bDBUTHZSRWpR?oc=5
-
-### Bessere Chancen für die Kleinsten: Gesetz zu frühkindlicher Bildung im Bundestag - STERN.de
-*GN Bundestag Gesetz - 09.10. 11:12*
-
-Bessere Chancen für die Kleinsten: Gesetz zu frühkindlicher Bildung im Bundestag STERN.de
-
-https://news.google.com/rss/articles/CBMivwFBVV95cUxQdXhCdk02MzZDeWJSV28wZ0NVc0hXblYtQVBacldGUlJOMVdFb2JCYm45RWdoU1dvQWtRaExoUE9ReGV1czRycHY0QVNBLUFvUEVIYmJYNWJHeEpTZUVCWUlxY0lDaURTMWk1QlA2alo4Sm1oQmMzaEQ4dm9OdG04R1BaSFd3ZVF4RXh4WkFUT2pHS1A1M3hvaHRTZE14eEw3TVVhd1I3N0gtN1UwRVplOG1pWDNQZVZIY2Q3Y216VQ?oc=5
-
-### Jugendhilfe-Reform 2026: Bund verspricht Entlastung – Kommunen fürchten Milliardenkosten - Kommunal.de
-*GN Novelle Reform - 09.10. 11:01*
-
-Jugendhilfe-Reform 2026: Bund verspricht Entlastung – Kommunen fürchten Milliardenkosten Kommunal.de
-
-https://news.google.com/rss/articles/CBMifEFVX3lxTFA1YndsT0NtSzdIMDU0VTVocmtyRUQ0b2dFUGFMMkh3VGU5TWhyay1JbUhadUtNbjBKbHNxTFFyV0h3WDFWUEt4OUZfel9DTDVVOUZoUFRwZndJWG42bk1SSHdQa2JtcGtHNlhHOEY5eHdWYm1XVEtlWEU0TXM?oc=5
-
-### Spekulationsfrist für Immobilien: kein neues Gesetz, Bundestag lehnt Abschaffung ab - openPR.de
-*GN Bundestag Gesetz - 09.10. 10:38*
-
-Spekulationsfrist für Immobilien: kein neues Gesetz, Bundestag lehnt Abschaffung ab openPR.de
-
-https://news.google.com/rss/articles/CBMivwFBVV95cUxQVmFQb2xkQkw5cjdHZHFUYUI3YzFka29QR0NTUGRTdnF6Sk81cFoyU2QzWUJxTmExaUVVdDVFcTAwNVlRQ0tUOHM2RkNvRFR4VlZVSWZHZnhFa2xVdGY0ZTk4UzVSaHhBajNKQWlvcFM3ZU4wNE9TV1oxS3lHZzIwRDhqeDJCMXQxRFBHQVludVI1NVNydGZzVXg0czZCbk1kNkptdC14ZHJYUFlXRFJYblhUbV9fa09ucXBtZXBiRQ?oc=5
-
-### Kryptosteuer: Bundestag beschließt internationalen Datenaustausch - Cryptonews.net
-*GN Bundestag Gesetz - 09.10. 10:25*
-
-Kryptosteuer: Bundestag beschließt internationalen Datenaustausch Cryptonews.net
-
-https://news.google.com/rss/articles/CBMiWkFVX3lxTE1idVo0MnNjeE9sSFgxYWJyR0NaRDd5ZEZ2TkItYmxPdmU2LUVyNUhNSm5IWUh6VVZScHZFb2FpRWpuX01uMTE0aHhEQWk2ODhGMUJOd2ltZlJtZw?oc=5
+https://news.google.com/rss/articles/CBMif0FVX3lxTE9Bb0hscnVCSXBmRTVBZlhZQnhQMVh6YWV4UEROS29iaUNsX21rdGY4emFWd1dLWjBGNDVSalllTHM3dHVaMGJfbXBnSWpiWUN6VkRsUHVRY0NfZmNQcEhRVjhNOHNpRGxIcXJwQ21sS1lfVFUzMXdtaWxCWDZIeWM?oc=5
 
 ### 21/8484: Beschlussempfehlung und Bericht zu dem Gesetzentwurf der Bundesregierung - Drucksache 21/7407 - Entwurf eines Gesetzes zur Anpassung des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes und des GAP-Konditionalitäten-Gesetzes an die Vorgaben der Verordnung (EU) 2025/2649 sowie zur Verbesserung des behördlichen Informationsaustauschs (PDF)
 *BT Drucksachen - 09.10. 10:00*
@@ -191,47 +217,12 @@ https://dserver.bundestag.de/btd/21/084/2108484.pdf
 
 https://dserver.bundestag.de/btd/21/084/2108481.pdf
 
-### Produkthaftungsrecht: Bundestag beschließt Reform für Software und KI - AD HOC NEWS
-*GN Novelle Reform - 09.10. 09:18*
+### Tagesordnungen & Termine - Bundesrat
+*GN Bundesrat - 09.10. 07:00*
 
-Produkthaftungsrecht: Bundestag beschließt Reform für Software und KI AD HOC NEWS
+Tagesordnungen & Termine Bundesrat
 
-https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNVVGUVlkX2hxb3hPZVhwNWVJNWg2LUJxR2hXbmhVMU9MTy1CN2FURXA3LThmWEEzdTFNT3JweFYxRTJubmVYVHBUT0c0YnJJWmdoRnhDeUZsVEV1b2lxZmFRamwzaEt0NVZDbFc5ZHBaVXFKN05lamhVNHdINW9paW5qOGFwZjJTTDFOWVdjOEVNTzNUUU1kdWdiU3RBVUhjLVk5eWdoVzIwcWlVSnlYXzhTRklaaDBD?oc=5
-
-### Wohngeldkürzung 2027: Reform hat massive Auswirkungen auf Kommunen - Kommunal.de
-*GN Novelle Reform - 09.10. 07:55*
-
-Wohngeldkürzung 2027: Reform hat massive Auswirkungen auf Kommunen Kommunal.de
-
-https://news.google.com/rss/articles/CBMifkFVX3lxTE5xWndmVlFTRDBHU09vdWxQcEtFVy1SNVlEYWU5Z05yMUVYLXNrZmZVREx5Qm1wQmp5dHR2cTJtV0diZmRBb3FNMW5URWRXMzZEOWE0NEFtRE82eU02TTgxdU1zYXNSa0ZUSFVUNXQ0Q2ctR3hwZDdjdnI1aC0wZw?oc=5
-
-### Prien: Frühkindliche Bildung entscheidend für Schulerfolg - Gesetz im Bundestag - STERN.de
-*GN Bundestag Gesetz - 09.10. 06:54*
-
-Prien: Frühkindliche Bildung entscheidend für Schulerfolg - Gesetz im Bundestag STERN.de
-
-https://news.google.com/rss/articles/CBMivgFBVV95cUxPX1lGVWd5NDBZRDBicHI5SlVDNjB3U0FaR1VSSkY5d3BQM2pnMFdnVmpKaGZFYUZRczhlbV9IRUNKMkUteUJhVDlkbXZYVnBnZ3NhQmtxaV9TSmxDTFFVRzFUeG5WUWMwdVNDSUxkWVMyaC1jaVZkUi1WZXdjVzQ1X09JNFo4dDc3bUhTSC12NWdjZzRCLWI2WndkNmUwQzU2eEtTbjU2bkZrd0ZkSFdPMDhON1ZQWjhVT2NPS19R?oc=5
-
-### Nach jahrzehntelangem Streit: Bundestag beschließt Neubau der Bahnstrecke Hannover-Hamburg - NDR.de
-*GN Bundestag Gesetz - 09.10. 04:33*
-
-Nach jahrzehntelangem Streit: Bundestag beschließt Neubau der Bahnstrecke Hannover-Hamburg NDR.de
-
-https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX09xNjRzMzQwSjkxalpMWERJUGxXQzFIVEFuRWRwR3ZMbVF2XzB2ZXgwcWRtNmNmRFIwSEVJTXpDbkduX3E0djBXbkxpV2t4V2FEOHVOY0NDdXl3M2lpTUxDYmhUNzFUc2lLTzZ4VmxnVzlfNTQtODJKLVdSaUk5T3B6M0wxa1dGUXp1b2E0eHNHb2doS0FGeTMwV2IxMzQ1blg5QlliY0RQb2IzUW02T1VaR0ZEQnVwQlNlcEVVVkxkaGZFcmlyWQ?oc=5
-
-### EuGH - Seite 4071 - Aktuelles aus Recht, Gesetz und Justiz - Legal Tribune Online
-*GN Recht Fachpresse - 09.10. 00:03*
-
-EuGH - Seite 4071 - Aktuelles aus Recht, Gesetz und Justiz Legal Tribune Online
-
-https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LbGlralZpb3JENjZLQTBsOC1FRzcxWDIwaktTTzFLeTRsS2lFMzVjX0F4bEl2Zjh6bUY5REtsUUJTek51WF9tUzhUMl8tYUtQNDcxUnQ0NHptZ3hKS0dLMm5mdkk?oc=5
-
-### Israel - Seite 3545 - Aktuelles aus Recht, Gesetz und Justiz - Legal Tribune Online
-*GN Recht Fachpresse - 09.10. 00:00*
-
-Israel - Seite 3545 - Aktuelles aus Recht, Gesetz und Justiz Legal Tribune Online
-
-https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xRHR5Q2lrMWZ0VEFLa0xCZHU1UnFrS1lzalFKb1UwZ1ZwYjZhMVVnYzNvY283dHduaUI4SjhZNU51VWhELWRoZmhPR0VCdWo1dHNLdi1DVVFzaUFwbGE3cC1xZEFxRTQ?oc=5
+https://news.google.com/rss/articles/CBMidEFVX3lxTFBxUmI1TVJUNUw1dDBnZ1lOUUhuZmhveXJCcEFwLWw0N0U5ZFFNQVpGSk05VW11dUp1UW45QTZMNzk1anNoMXJRblBOczBVbmdKSTFJU1RQR0NWQzI4Z1ZKcUIycDgwZVpkMFVxX2M2bGhEZUg2?oc=5
 
 ### Gesetz zur Stärkung des Innovations- und Wirtschaftsstandorts Deutschland durch Erprobungsfreiräume
 *BGBl Teil I und II - 09.10. 00:00*
@@ -240,113 +231,12 @@ Typ: Gesetz | Initiant: Bundesministerium für Wirtschaft und Energie | Fundstel
 
 https://www.recht.bund.de/eli/bund/bgbl-1/2026/289
 
-### Neubautrasse Hannover-Hamburg im Bundestag beschlossen: Das sind die Folgen für den Landkreis Celle - Cellesche Zeitung
-*GN Bundestag Gesetz - 08.10. 21:41*
-
-Neubautrasse Hannover-Hamburg im Bundestag beschlossen: Das sind die Folgen für den Landkreis Celle Cellesche Zeitung
-
-https://news.google.com/rss/articles/CBMi-gFBVV95cUxNaTB0c2ZBYlZEWG1pbmNuWDFSbnNlbG1IZURGV0tfQnpReWVDT0RTUVFndDh4T3dDdGlXTFJrWjZ4YlRRXzM2U0hlSkthMHU4NlRtUGtwZ01NT2FhaWt3S0RxT3ZTZE1XaERHYTN6LS14czU5Vnhxb2RWQVFBcE04WWdMVEJwR1RIUzBadWZxaDZEQXJSVWw0M1hwNlFZeUhGZGlDLUIydnQ4V2R2UHpYSmZiTElUa3p0bDBiLXFPSTVvUTVLaGtmRnphM09YSmpoUXdwQkgxWWZIdXdwNko3OEJ6XzZOMWtodmg1aTJSd2lrRDhLWDBKQmNn0gGWAkFVX3lxTFBtalUyU1RIWDlfSWc1d3BvN0ZoWjd1RmlWWVRFMHJqc3JoaHhIVDNoR2xQaDRBQkxLdm5KYjFEZHJDcWZzbnZyQ1A2UGFNWGdCdVhIdkhTS0dWNDUzS01ySXZqakw3dTMwaFVPX3oxZ2VsU2xhOGZfbEVIVTUyUzZ6TXhvc1otUzZwMDZxUDhQUG1IS2Y5MUhSTEprTjZuT2FjTEtLb3llMFNyd09sdGc5dmI3UEZ4QUtDX0xnYTA5dnJneE1Ld0tPQlJiRlRSd0Z0eEhVYVlBUTEtSVJzbGVQZXNsSWRHRmVoZDhUWGI5aHhINjZ1OXVMWXh5TDVJRktjaHZoTTZHbWtnS21DRjFHZ3UxRWdB?oc=5
-
-### Bundestag will Trisomie-Test besser überwachen - ZDFheute
-*GN Bundestag Gesetz - 08.10. 18:24*
-
-Bundestag will Trisomie-Test besser überwachen ZDFheute
-
-https://news.google.com/rss/articles/CBMilwFBVV95cUxQd2dEam9vNGZYYWpEcmVDMEJKaXlMWnpmWkxxNHc0TkZQUHQ1cFJCZGVsV29CRmszRmNUZlRNWXAxVzNRRE5TQ2pDLW00RW16ZS0wUWhicmc2SjVDSDBYRFNJcnJNam45bF9SX28wZnRCbUE1dTBuRGY0bjVSVEFlcDBBYUNKcTFIVHNzRldTSFB5RFNmOGVR?oc=5
-
-### Reform der Einkommensteuer im Bundestag umstritten - MDR.de
-*GN Novelle Reform - 08.10. 18:19*
-
-Reform der Einkommensteuer im Bundestag umstritten MDR.de
-
-https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4bERsSkxlaWdjT1RxYkdPYWNxZWFsdjdvaWtmR1BhZ0tLSnVwVDNmd0RiYTlFenFTUnZJY1luN0lxbFVUSUhrUDlTRWliRkZYR3Q4YjZIR3J1Q1c5Tnc3cHJUQ0ljMFE?oc=5
-
-### Bundestag diskutiert Einkommensteuerreform - ZDFheute
-*GN Novelle Reform - 08.10. 17:00*
-
-Bundestag diskutiert Einkommensteuerreform ZDFheute
-
-https://news.google.com/rss/articles/CBMikwFBVV95cUxNMTk1ZXppLXM1a09XM0V4b0J1QXJUa2ZIeHRQYmk5LXVRVms5dFV3UjJoZ0J5T0cySVFPU21XaFdPcnI3QURUWTJmQ2lxbFdaa1o1TzJfMmwtZE9EdHJOQmVrVDZ5dlFUbTBITDczUFFFN1FEZ2lROEF5Y1VqcEFtZWRmTWNqYldMeDR2VVlBUlFwcjQ?oc=5
-
-### Bundestag debattiert über die Abschaffung der Bitcoin-Haltefrist – Vorschläge von den Grünen und Linken abgelehnt - Blocktrainer
-*GN Bundestag Gesetz - 08.10. 16:50*
-
-Bundestag debattiert über die Abschaffung der Bitcoin-Haltefrist – Vorschläge von den Grünen und Linken abgelehnt Blocktrainer
-
-https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbllrN3JfSFVGd3JaVmxSQUdtZGZXS0ktUWsycmZMRllsb1BmdmlWMXdfcXpoVkJ2VDlidWFqaW9UUlFYZmdCTG9WNmYwTnNCMFpIdTgtNzB5YjBWMFNIeGgzb1Bxczh4eFp6TldtLVFtV3htUWJFSW9QR0xMdUF2c3NpcklKVlhDR1NLUDUwNHBvQnFvUFJNX2J6eS1mcTdDX05vWjZ4QVhTYi1RTWVtcVNXVXVBbXhqemZ2bjFsNGhvUUJzdTMwelJ1YmtUWnBFcDFOOHdn?oc=5
-
-### Bundestag diskutiert Einkommenssteuerreform - ZDFheute
-*GN Novelle Reform - 08.10. 15:00*
-
-Bundestag diskutiert Einkommenssteuerreform ZDFheute
-
-https://news.google.com/rss/articles/CBMinAFBVV95cUxNMnRybVZlTWt6N3liZXNrb1FmTkZIbVBveE9JWkVJdm1ZLU96MTc5dGVET2l2Q2xxZGZvX25DSEsxU0xYZUtJeVJZREhCUnFrQnp0NDQ0aUswWGM0UWViRlBVM0tCd3ZwYVFsSnZ6QWRkYlREMUNTNE16QURSQVVQSlRXLXJkRDdvRkVUN0I3TTY0OFZGQ2lYZWhGeDM?oc=5
-
-### Grünen-Konzept für Reform der Pflegeversicherung
-*BT heute im bundestag - 08.10. 14:42*
-
-Gesundheit/Antrag Die Grünen-Fraktion fordert in einem Antrag eine umfassende Reform der Sozialen Pflegeversicherung.
-
-https://www.bundestag.de/presse/hib/kurzmeldungen-1223528
-
-### Einkommensteuer: Das sind die Reform-Pläne der Regierung für 2027 - wmn.de
-*GN Novelle Reform - 08.10. 12:30*
-
-Einkommensteuer: Das sind die Reform-Pläne der Regierung für 2027 wmn.de
-
-https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMkxKRjNYR2JnOWtOUEhNWGx3RDR0VTJaT2JFV0N6OFZRempYTDJhOHRjSDFPSkYwMkV3emJjUnlUUmZPOGlwcVVWbS1YdUF1bl8yRjlTNTM0MVltdUNzb2hvMkp2d2ZWM1QySzlKWWhRVnVDeXI1MENBcHRmZkY4ckNiLV9QeGVDMmwtQlJMbVo1VG9sY1Y0OGVLWTV6VjJEekNTbk9ta1dNNFJ6Q2Z2NzdyTDROMUF0dDlad29XbEFoajg?oc=5
-
-### GeDIG im Bundestag: Wer bezahlt die Digitalisierung der Kliniken? - kma Online
-*GN Bundestag Gesetz - 08.10. 11:47*
-
-GeDIG im Bundestag: Wer bezahlt die Digitalisierung der Kliniken? kma Online
-
-https://news.google.com/rss/articles/CBMivAFBVV95cUxPRUZyMXctRlFaaTIydzV6aVlaNmF6RDY3RFc3cll0eWZoVEFnLWg0QWRMOVJIVlQxQ3A4bG54Y3ltQ0JQLTlSdURFZGpZekV3SnRidUlJclpodjltOS1HT2lvME02VDB5NHNQeFY4OWhyM2dNYTVoZ0RVdlBwZ2lJaWRQMTN1R1owZjJUdVNHaHd5Y01iZHpSWGprQ3NxY0t0TkpVcm5rY2tWVjVGNG5WSVB3R1pXQVRCN00wSg?oc=5
-
-### Bundestag: Debatte zur Reform des Einkommensteuergesetzes - ZDF
-*GN Novelle Reform - 08.10. 11:45*
-
-Bundestag: Debatte zur Reform des Einkommensteuergesetzes ZDF
-
-https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdkRVOEtPelExS1puNlFYNEpkeTNHZV9oUEhXU1c1bW9nVEYxVTc2b0VIMlhzWDJZVk9maUIzYWhIVXRBVVBFSGZPemVOdHN3MGFuV1pNZjRFU2VIem02ZkFTUWlnZFByZ2VCMGN5VUNKX2RySVRzMzBGXzRjMnNtbDIzRkJXcGs3MVN3b0xReU0zejRwdUd5aHlIcnJpUVpiVWdxdVZZRVZqSmMzWm9IYXRoQUVnbFZLWlN2TVltaENIYmxMcDFIOF9fZVhIUTZGNVJsMkc3ay1lUQ?oc=5
-
-### 21/8473: Beschlussempfehlung und Bericht zu dem Antrag der Abgeordneten Stefan Schmidt, Harald Ebner, Dr. Julia Verlinden, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN - Drucksache 21/7901 - Natur erleben, Umwelt schützen - Naturverträglichen Tourismus als Gewinn für alle stärken (PDF)
-*BT Drucksachen - 08.10. 10:00*
-
-https://dserver.bundestag.de/btd/21/084/2108473.pdf
-
-### 21/8464: Beschlussempfehlung und Bericht zu dem Antrag der Abgeordneten Lisa Badum, Dr. Julia Verlinden, Claudia Roth, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN - Drucksache 21/5483 - Preisschock durch fossile Brennstoffe als Weckruf verstehen - Unabhängigkeit von Kohle, Öl und Gas vorantreiben (PDF)
-*BT Drucksachen - 08.10. 10:00*
-
-https://dserver.bundestag.de/btd/21/084/2108464.pdf
-
-### Neunte Verordnung zur Änderung der Ukraine-Aufenthalts-Übergangsverordnung
-*BGBl Teil I und II - 08.10. 00:00*
-
-Typ: Verordnung | Initiant: Bundesministerium des Innern | Fundstelle: BGBl. 2026 I Nr. 288 vom 08.10.2026 | Sachgebiet: Ausländerrecht
-
-https://www.recht.bund.de/eli/bund/bgbl-1/2026/288
-
-### Termine - Fototermin: Wahl des Bundesratspräsidenten - Bundesrat
-*GN Bundesrat - 07.10. 15:16*
-
-Termine - Fototermin: Wahl des Bundesratspräsidenten Bundesrat
-
-https://news.google.com/rss/articles/CBMimgFBVV95cUxOUi1PczlRcXBjbUNkaEc2RG5OMThTRmYxTFFCZmFUZVJKTVNwT3ZGUDlnUGxBaHdPanhXa3kxNkZOMGVJaWRtUUMyem5JenN6NUpQMnNHT01SMEVTWm9BbFRrS092S1kyWDhaZlhlX0pOSHUzMlJLNEJWbkxVVm5vN1JXZmlDVHowTTJWWjBKcjNpZmZSQ1phZVBB?oc=5
-
 ### Überweisungen im vereinfachten Verfahren
 *BT Aktuelle Themen - 10.10. 00:51*
 
 Ohne Aussprache überweist der Bundestag am Donnerstag, 15. Oktober 2026, Vorlagen zur weiteren Beratung an die Ausschüsse: Bevölkerungsschutz: Die AfD-Fraktion kündigt an, einen Antrag mit dem Titel "Bundesweite strukturelle Förderung von Rettungshundestaffeln im Bevölkerungsschutz" vorzulegen. Die Vorlage soll im Ausschuss für Sport und Ehrenamt federführend beraten werden. Risikoausgleichsrücklage: Ebenfalls von der AfD angekündigt wird ein Antrag mit dem Titel "Steuerfreie Risikoausgleichsrücklage einführen – Land-, Forst- und Fischereiwirtschaft krisensicher aufstellen", der im Ausschuss f
 
 https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-ueberweisungen-1154766
-
-### Öffentliche Anhörungen und Ausschusssitzungen in der Sitzungswoche vom 12. bis 16. Oktober
-*BT Pressemitteilungen - 08.10. 10:30*
-
-Montag, 12. Oktober 2026 11.30 Uhr: Innenausschuss - Reform des Nachrichtendienstrechts (Paul-Löbe-Haus, Sitzungssaal E 600) 12.00 Uhr: Petitionsausschuss - Erhalt der steuerlichen Haltefrist für private Veräußerungsgeschäfte mit Kryptowerten & Stopp des geplanten Tierversuchsgesetzes (Marie-Elisabeth-Lüders-Haus, Anhörungssaal 3 101) 13.30 Uhr: Ausschuss für Bildung, Familie, Senioren, Frauen und Jugend - Strukturreform der Kinder- und Jugendhilfe (Paul-Löbe-Haus, Sitzungssaal E 400) 14.00 Uhr: Ausschuss für Arbeit und Soziales - SGB-III-Modernisierungsgesetz (Paul-Löbe-Haus, Sitzungssaal 2 6
-
-https://www.bundestag.de/presse/pressemitteilungen/2026/pm-261006-oea-kw-42-1222640
 
 ### Regierung plant Modernisierung des Genossenschaftsrechts
 *BT Aktuelle Themen - 10.10. 01:49*
@@ -369,6 +259,13 @@ Ohne Aussprache stimmt der Bundestag am Donnerstag, 15. Oktober 2026, über mehr
 
 https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-abschliessende-beratungen-1154762
 
+### Wahl von Mitgliedern in zwei Gremien geplant
+*BT Aktuelle Themen - 10.10. 00:48*
+
+Der Bundestag entscheidet am Donnerstag, 15. Oktober 2026, über Wahlvorschläge von CDU/CSU und SPD für die Wahl von Mitgliedern in zwei Gremien. Es handelt sich dabei um die Wahl eines Mitglieds des Gremiums gemäß Paragraf 3 des Bundesschuldenwesengesetzes und um die Wahl von Mitgliedern des Stiftungsrates der Bundesstiftung Bauakademie. Beide Wahlvorschläge liegen noch nicht vor. Bundesschuldenwesengesetz-Gremium Nach Paragraf 3 des Bundesschuldenwesengesetzes hat der Bundestag für die Dauer einer Legislaturperiode ein Gremium gewählt, das vom Bundesfinanzministerium über alle Fragen des Schu
+
+https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-wahlen-1224152
+
 ### Produkthaftung im Zeichen von Digitalisierung und Künstlicher Intelligenz
 *BReg Artikel - 09.10. 06:45*
 
@@ -376,15 +273,78 @@ Der Bundestag hat dem Gesetzentwurf der Bundesregierung zur Modernisierung des P
 
 https://www.bundesregierung.de/breg-de/aktuelles/produkthaftung-digitalisierung-ki-2399966
 
-### Bundeswehrstrukturen sollen schneller angepasst werden
-*BT heute im bundestag - 08.10. 11:28*
-
-Verteidigung/Gesetzentwurf Die Bundeswehr soll in ihren Strukturen schneller und effektiver an die neuen Anforderungen angepasst werden können. Das ist das Ziel eines Gesetzentwurfs der Bundesregierung.
-
-https://www.bundestag.de/presse/hib/kurzmeldungen-1223400
-
 
 ## EU-Recht
+
+### CELEX:32026R2271: Council Implementing Regulation (EU) 2026/2271 of 9 October 2026 implementing Regulation (EU) 2019/1716 concerning restrictive measures in view of the situation in Nicaragua
+*EUR-Lex Amtsblatt L - 11.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2271
+
+### CELEX:32026D2243: Council Decision (CFSP) 2026/2243 of 9 October 2026 amending Decision (CFSP) 2020/472 on a European Union military operation in the Mediterranean (EUNAVFOR MED IRINI)
+*EUR-Lex Amtsblatt L - 11.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2243
+
+### CELEX:32026R2259: Council Regulation (EU) 2026/2259 of 9 October 2026 amending Regulation (EU) 2016/44 concerning restrictive measures in view of the situation in Libya
+*EUR-Lex Amtsblatt L - 11.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2259
+
+### OJ:L_202602278: Council Implementing Regulation (EU) 2026/2278 of 12 October 2026 implementing Regulation (EU) 2017/1509 concerning restrictive measures against the Democratic People’s Republic of Korea
+*EUR-Lex Amtsblatt L - 11.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202602278
+
+### CELEX:32026D2277: Council Decision (CFSP) 2026/2277 of 9 October 2026 amending Decision (CFSP) 2023/2287 concerning restrictive measures in view of the situation in Niger
+*EUR-Lex Amtsblatt L - 11.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2277
+
+### OJ:L_202602292: Council Implementing Regulation (EU) 2026/2292 of 12 October 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine
+*EUR-Lex Amtsblatt L - 11.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202602292
+
+### CELEX:32026D2242: Council Decision (CFSP) 2026/2242 of 9 October 2026 amending Decision (CFSP) 2015/1333 concerning restrictive measures in view of the situation in Libya
+*EUR-Lex Amtsblatt L - 11.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2242
+
+### CELEX:32026D2276: Council Implementing Decision (EU) 2026/2276 of 9 October 2026 on the appointment of the Chairperson of the European Securities and Markets Authority (ESMA)
+*EUR-Lex Amtsblatt L - 11.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2276
+
+### CELEX:32026D2291: Council Decision (CFSP) 2026/2291 of 12 October 2026 amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine
+*EUR-Lex Amtsblatt L - 11.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2291
+
+### CELEX:32026D2283: Council Decision (CFSP) 2026/2283 of 12 October 2026 amending Decision (CFSP) 2016/849 concerning restrictive measures against the Democratic People’s Republic of Korea
+*EUR-Lex Amtsblatt L - 11.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2283
+
+### CELEX:32025R2643R(01): Corrigendum to Regulation (EU) 2025/2643 of the European Parliament and of the Council of 16 December 2025 establishing the European Defence Industry Programme and a framework of measures to ensure the timely availability and supply of defence products (‘EDIP Regulation’) (OJ L, 2025/2643, 29.12.2025)
+*EUR-Lex Amtsblatt L - 11.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32025R2643R(01)
+
+### CELEX:32026D2272: Council Decision (CFSP) 2026/2272 of 9 October 2026 amending Decision (CFSP) 2019/1720 concerning restrictive measures in view of the situation in Nicaragua
+*EUR-Lex Amtsblatt L - 11.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2272
+
+### CELEX:32026D2279: Council Decision (CFSP) 2026/2279 of 12 October 2026 amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine
+*EUR-Lex Amtsblatt L - 11.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2279
+
+### OJ:L_202602281: Council Implementing Regulation (EU) 2026/2281 of 12 October 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine
+*EUR-Lex Amtsblatt L - 11.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202602281
 
 ### CELEX:32026R2287: Commission Implementing Regulation (EU) 2026/2287 of 8 October 2026 amending for the 362nd time Council Regulation (EC) No 881/2002 imposing certain specific restrictive measures directed against certain persons and entities associated with the ISIL (Da'esh) and Al-Qaida organisations
 *EUR-Lex Amtsblatt L - 08.10. 22:00*
@@ -442,63 +402,33 @@ https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2241
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2245
 
-### CELEX:32026R2268: Commission Implementing Regulation (EU) 2026/2268 of 7 October 2026 amending Annexes V and XIV to Implementing Regulation (EU) 2021/404 as regards the entries for Canada, the United Kingdom and the United States in the lists of third countries, territories, or zones thereof authorised for the entry into the Union of consignments of poultry and germinal products of poultry, and of fresh meat of poultry and game birds
-*EUR-Lex Amtsblatt L - 07.10. 22:00*
+### Tägliche Nachrichten 12 / 10 / 2026
+*EU-Kommission - 12.10. 09:18*
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2268
+European Commission Nachrichten des Tages Brussels, 12 Oct 2026 Kommission begrüßt Annahme des mit 115 Mio. EUR ausgestatteten Programms „AGILE“ für schnelle Innovationen im VerteidigungsbereichDie Europäische Kommission beg...
 
-### CELEX:32026D2258: Council Decision (CFSP) 2026/2258 of 8 October 2026 amending Decision (CFSP) 2024/2643 concerning restrictive measures in view of Russia’s destabilising activities
-*EUR-Lex Amtsblatt L - 07.10. 22:00*
+https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2138
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2258
+### Press remarks by Executive Vice-President Fitto on the opening of the European Week of Regions and Cities
+*EU-Kommission - 12.10. 09:44*
 
-### CELEX:32026R1738R(02)
-*EUR-Lex Amtsblatt L - 07.10. 22:00*
+European Commission Speech Brussels, 12 Oct 2026 Ladies and gentlemen, Good morning, and welcome. I am very pleased to open the European Week of Regions and Cities 2026. First of all, I would like to thank Pre...
 
-The corrigendum does not concern the English version.
+https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2139
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1738R(02)
+### EU-Woche der Regionen und Städte: 5000 Teilnehmer diskutieren über die künftige Kohäsionspolitik
+*EU-Kommission - 12.10. 07:51*
 
-### CELEX:32015R0479R(03)
-*EUR-Lex Amtsblatt L - 07.10. 22:00*
+European Commission Pressemitteilung Brussels, 12 Oct 2026 Heute beginnt in Brüssel die 24. Europäische Woche der Regionen und Städte, an der fast 5.000 Teilnehmer aus ganz Europa unter dem Motto "Starke Regionen, starkes Europa" teilnehmen.
 
-The corrigendum does not concern the English version.
+https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2133
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32015R0479R(03)
+### Read-out by President von der Leyen following her call with President Zelenskyy
+*EU-Kommission - 11.10. 15:26*
 
-### CELEX:32026R2257: Council Implementing Regulation (EU) 2026/2257 of 8 October 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities
-*EUR-Lex Amtsblatt L - 07.10. 22:00*
+European Commission Read-out Brussels, 11 Oct 2026 Good call with President Zelenskyy. Fully supported the call of President Zelenskyy for a ceasefire that would protect global food supplies and energy infrastru...
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2257
-
-### CELEX:32026D2256: Council Decision (EU) 2026/2256 of 24 September 2026 on the position to be adopted on behalf of the European Union within the EEA Joint Committee concerning the amendment of Protocol 10 to the EEA Agreement, on simplification of inspections and formalities in respect of carriage of goods, and Protocol 31 to the EEA Agreement, on cooperation in specific fields outside the four freedoms (CBAM financial contribution) (Text with EEA relevance)
-*EUR-Lex Amtsblatt L - 07.10. 22:00*
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2256
-
-### CELEX:32011L0089R(02)
-*EUR-Lex Amtsblatt L - 07.10. 22:00*
-
-The corrigendum does not concern the English version.
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32011L0089R(02)
-
-### CELEX:32026R2108R(01): Rectificatif au règlement (UE) 2026/2108 du Parlement européen et du Conseil du 16 septembre 2026 établissant le code des douanes de l’Union et l’Autorité douanière de l’Union européenne, et abrogeant le règlement (UE) n° 952/2013 (JO L, 2026/2108, 19.9.2026)
-*EUR-Lex Amtsblatt L - 07.10. 22:00*
-
-The corrigendum does not concern the English version.
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2108R(01)
-
-### CELEX:32026D2264: Council Decision (CFSP) 2026/2264 of 8 October 2026 amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine
-*EUR-Lex Amtsblatt L - 07.10. 22:00*
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2264
-
-### CELEX:32026R2263: Council Implementing Regulation (EU) 2026/2263 of 8 October 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine
-*EUR-Lex Amtsblatt L - 07.10. 22:00*
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2263
+https://ec.europa.eu/commission/presscorner/detail/en/read_26_2131
 
 ### Regierungserklärung des Bundeskanzlers zum Europäischen Rat
 *BT Aktuelle Themen - 10.10. 01:59*
@@ -535,64 +465,71 @@ European Commission Statement Beijing, 09 Oct 2026 On 8-9 October 2026, Wang Wen
 
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2122
 
-### Opening remarks by Executive Vice-President Séjourné at the press point on the second group of strategic projects under the Critical Raw Materials Act
-*EU-Kommission - 09.10. 08:25*
-
-European Commission Speech Brussels, 09 Oct 2026 Bonjour à toutes et à tous, Pour la quatrième fois du mandat, je reviens devant vous faire état de l'avancement de notre politique sur les matières premières cr...
-
-https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2121
-
-### Factsheet - Critical Raw Materials Strategic Projects
-*EU-Kommission - 08.10. 22:00*
-
-European Commission Factsheet Brussels, 09 Oct 2026 Factsheet - Critical Raw Materials Strategic Projects Factsheet - Critical Raw Materials Strategic Projects
-
-https://ec.europa.eu/commission/presscorner/detail/en/fs_26_2115
-
-### Questions and answers on the Critical Raw Materials strategic projects
-*EU-Kommission - 08.10. 22:00*
-
-European Commission Questions and answers Brussels, 09 Oct 2026 What is a strategic project? Strategic projects are projects that make a significant contribution to the EU's security of supply of strategic raw materials by...
-
-https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_2114
-
-### Erklärung von Kommissar Várhelyi vor dem Welttag der psychischen Gesundheit
-*EU-Kommission - 08.10. 22:00*
-
-European Commission Erklärung Brussels, 09 Oct 2026 Im Vorfeld des Welttags der psychischen Gesundheit gab Olivér Várhelyi, EU-Kommissar für Gesundheit und Tiersicherheit, folgende Erklärung ab:„Schätzungen zufol...
-
-https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2100
-
-### Commission selects 46 new Strategic Projects to bolster the EU's supply of critical raw materials
-*EU-Kommission - 08.10. 22:00*
-
-European Commission Press release Brussels, 09 Oct 2026 To strengthen EU supply chains and diversify sources of critical raw materials, the European Commission today announced that it has selected 46 new Strategic Projects across 16 Member States.
-
-https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2113
-
 
 ## Steuern und Abgaben
 
-### "Das Parlament": Koalition bringt Steuerreform auf den Weg
-*BT heute im bundestag - 09.10. 14:34*
-
-Bundestagsnachrichten/Bericht Das Schwerpunktthema der aktuellen Ausgabe der Wochenzeitung "Das Parlament" ist die Reform der Einkommensteuer.
-
-https://www.bundestag.de/presse/hib/kurzmeldungen-1223944
-
 ### Sozialversicherung: Beitragsbemessungsgrenzen sollen ab 2027 steigen
-*BReg Artikel - 07.10. 12:31*
+*BReg Artikel - 12.10. 12:31*
 
 Wer gut verdient soll höhere Beiträge für die gesetzliche Kranken- und Rentenversicherung zahlen. Grund sind die gestiegenen Löhne und Gehälter. Das Kabinett hat eine entsprechende Verordnung beschlossen. Worum es geht und wo die Bemessungsgrenzen liegen.
 
 https://www.bundesregierung.de/breg-de/aktuelles/beitragsbemessungsgrenzen-2027-2454638
 
-### Ringen um Reformen: Unionsfraktionsvize weist Mierschs Renten-Vorstoß zurück - STERN.de
+### Erhalt der steuerlichen Haltefrist bei Kryptowerten
+*BT heute im bundestag - 12.10. 12:04*
+
+Petitionen/Ausschuss Mit der Forderung nach Erhalt der Haltefrist von einem Jahr, nach dem private Veräußerungsgeschäfte mit Kryptowerten steuerfrei sind, hat sich der Petitionsausschuss befasst.
+
+https://www.bundestag.de/presse/hib/kurzmeldungen-1224166
+
+### Moderna Aktie: Steuer-Ablenkung? - Kapitalmarktexperten
+*GN Steuer und Arbeit - 12.10. 11:26*
+
+Moderna Aktie: Steuer-Ablenkung? Kapitalmarktexperten
+
+https://news.google.com/rss/articles/CBMidkFVX3lxTE1UNW15MVAxNU1RVnI4Z1lSZ1dxVGxTMTdKWDlBQXN2eXNKWjAzdW50Y2ttVjhTZzZZMnUyNURiWjlDZzZTRTVfa29VbkZWMUFFdS00WEdNeng1WFRWNVJDR3ZjeXVKcVI3Vi1wekhGZWJfck5TUHc?oc=5
+
+### Abschaffung der „Rente mit 63“ wohl verschoben - Lausitzer Rundschau
+*GN Bundestag Gesetz - 12.10. 11:09*
+
+Abschaffung der „Rente mit 63“ wohl verschoben Lausitzer Rundschau
+
+https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRy1zTFB2anQ3RjZZVmVEZzhrTEdlbUluMGdrNGo0NXJGcUN2QTRRME41dWtkNFEydmRpSW51aTJoSW1sVUtUQ0xNamhOVUVzUmR6UHViY0NETmF2aDVvZUU5SEVLNDNzekc5Y1dYTk5RWHo3dzhSQS1NZlE2MXdNLXhmTmdEby1mYUgtMkhhN1ptQ0M2c3NHUGFTX0o2SDVCZ0ZUMm8yV3FKdnJ3cTVJcUt4Y1hBblZWYU5SMXl5T0FSemFKbFNOYnhXQjJ2dzRrRmRpRQ?oc=5
+
+### Nicht für die meisten erwerbstätigen Rentner: Diese Voraussetzung gilt für 2.000 Euro steuerfrei - Merkur
+*GN Bundesgesetzblatt - 12.10. 06:15*
+
+Nicht für die meisten erwerbstätigen Rentner: Diese Voraussetzung gilt für 2.000 Euro steuerfrei Merkur
+
+https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUS1IMktOalZTQTl3NkV4S0NlbG11ck9OYmdzRzRlM2Q4Y2V3amtvb0ptSlNFUW5pX2o1X0NhZDVGN1BiVFZUOGhiemtHZHBHNENmZ01ZMEJWVFdaR2VyZjVwWWlBSTBmTjRGeTVOWEhUemJQbU9QeGlYRnRoRlB6TzNYcFdqbG95X0VKM3lYcF93X1pGMkhXWE0xVVlPVTdwUXlzeU9xVURVS0JUNGtnUmpvRV9VTk1NZG5vdkZ5SU9jcndnUU5TeA?oc=5
+
+### Mehr Netto ab 2027: Das bringt Ihnen die höhere Steuerpauschale wirklich - Berliner Kurier
+*GN Bundestag Gesetz - 12.10. 04:47*
+
+Mehr Netto ab 2027: Das bringt Ihnen die höhere Steuerpauschale wirklich Berliner Kurier
+
+https://news.google.com/rss/articles/CBMioAFBVV95cUxQeWlxYkRlT2E0ZXNaeVJfX0tHVFl1YWZwQ044MDZHV1JKX3Z5VmZkcV9WMTNrN0hmazZ3Tlp0WHR0OWlWMmhDSVZrUE1mR0FQcklwUGY5M2Zyd2RDVktqVHZrV2NaZjFqbnI5d0JTSmFIZ0ljVmhTNnVjUlFUR2NSUGhGUk83MWZEVFlSRTF2RVJKVWVueDVZa3JremRoREow?oc=5
+
+### Erben und Schenken: Gibt es jetzt höhere Steuerfreibeträge für Begünstigte? - Börse Online
+*GN Steuer und Arbeit - 11.10. 12:00*
+
+Erben und Schenken: Gibt es jetzt höhere Steuerfreibeträge für Begünstigte? Börse Online
+
+https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV2FtdGFDZFhYWXRKVnFfeHktSU5fdnNpXzBuNFdBTUN5TDZEdTRENWVWUHFiNGs5bDFGQ29sZDB5MlZxa1BYaGRpeExKNDk3ZW1yckF1WU5BbV9oVUEzQ2NRbXNzU2lqUkpFd0k3alBFbkI3QXhtaEw5cm9CSzJzWGp2SDNTMzkwWUdMbWtfM0lYcDdjdjRNZFdqVTh6RjYyeTBCa0tzeDhlNnRUTXQ4QlR5Z0w4SWhuVU15cTZGTmRuNkFyLTUtVy11bWo0V0VtV0RUb1VyVmNzcUNMLTQyRmFB?oc=5
+
+### Nach nur wenigen Monaten: Die nächsten Steuererhöhungen in Preußisch Oldendorf sind in Sicht - Neue Westfälische
+*GN Steuer und Arbeit - 11.10. 10:00*
+
+Nach nur wenigen Monaten: Die nächsten Steuererhöhungen in Preußisch Oldendorf sind in Sicht Neue Westfälische
+
+https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ3FubzUyUVR1MGZ1MHdmaHpFX0NaWHo0dk1nTDFqQkNUczlzUE1FUjR0djdGWnRuSEZCSHIzSlBXTUhzUUN6ZGVKWmxLYU10T2ZmRW9vQ1hmVEZkU2pBVGpZbmpsMTlYd3g0Z1RaQjM1SVNYSExFMnVlazFBbVNJMk93OGpGUHJlZUhpeEFEMjYwb2U1OE41QUl1V0NXd25ZczBwb1FxNC1Na0tlQUVod2J0blI3QzZBbzgwajdqc21pa3pHQm9oeFhaejRGN093eDJNUmd0NFdaWVVUcHV6a0pPb05oTWhGXzVuXzdJVVUzMFl2S3dDVnNWdjU?oc=5
+
+### Ringen um Reformen: Unionsfraktionsvize weist Mierschs Renten-Vorstoß zurück - WirtschaftsWoche
 *GN Novelle Reform - 11.10. 09:43*
 
-Ringen um Reformen: Unionsfraktionsvize weist Mierschs Renten-Vorstoß zurück STERN.de
+Ringen um Reformen: Unionsfraktionsvize weist Mierschs Renten-Vorstoß zurück WirtschaftsWoche
 
-https://news.google.com/rss/articles/CBMizgFBVV95cUxPVXBoc1ZraC1zRFpvT1Bsb2lDcGE4M1ZFRlItbGpjcU5OV2RMa0hDUnBqaU0tcnUtOXBUNHJsRmtKQl9nUjJLYl91QTJBc3B6NjFwai1xcTZNNk9HWVNObTR2V24tZlZiV242XzI4UVhYWmZIdFhtTkxVMjhUOWpFRmNza1pEWmdxMWhrdkhQUWgyb1Q0TV9uU3pSV0lkaEpGRDNOOS1rTk94NjkySmtjUTZ6MEZqNlc4QnJTcHJNeEo1LWktZllmeXNFcVNsQQ?oc=5
+https://news.google.com/rss/articles/CBMizAFBVV95cUxPSi11YVBXMDdnU19OeVVVR2pWdTdJZW4wc2dMdm9SV051cXZFLVBxMWE0YnhpbDdjVk11RnlOLTBtQUJLUDFpVjhmOFBLVnFVTGxTaVlNbFR0azhubFh6X0tPTTc2X0hYRDMzZWdDUjg0SF9qdmlvRVh5TURKbTBPUTJQNkxSQ3ozSGJLYnQ4S0lnZ29lc3lBcnZaRXZxdWlRWkE0VzhHeHhaT0R6U3ViT3Q2OVNXNzU2MktEeWVTYzhPNVMwb0JHc3RKM2c?oc=5
 
 ### Merz-Regierung plant neue Steuer für Anleger – sie soll ab dem Jahreswechsel zuschlagen - DerWesten
 *GN Steuer und Arbeit - 11.10. 06:53*
@@ -614,6 +551,13 @@ https://news.google.com/rss/articles/CBMiowFBVV95cUxQWFRuRXk1aGs4VnN1bDdIZWZ2elJ
 Rentenreform: Bundestagsbeschluss verschiebt sich voraussichtlich ins Frühjahr ad-hoc-news.de
 
 https://news.google.com/rss/articles/CBMitgFBVV95cUxPc09JWU5xSlFtbHFGVEY3ZU5Bb01TYkdHcURjMTB4aVV5R3lUNmtqRnhLVEt5QmlxbTVoZjFkR2lnMEs2OVdCNVZfUFdMNEVwSGlCejl2bFRBb1p2ZkszZTdWeFhoMVhxWThVWXktbXVGc3VidktvZG9WWC04X1ZpWjdqWWQzb0NTZ0ZKX3NRYU1mZGVGVzRhRnZxX1BoQ0hLZTlGcEgzTzBzTVR4LTRQVExySXBHZw?oc=5
+
+### Krypto-Steuertransparenz: Finanzämter tauschen ab 2027 automatisch Daten aus - ad-hoc-news.de
+*GN Bundestag Gesetz - 11.10. 00:00*
+
+Krypto-Steuertransparenz: Finanzämter tauschen ab 2027 automatisch Daten aus ad-hoc-news.de
+
+https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ3prMm50dkpYQmhJcy05OTFGU3FxdkRWbkZKeWJFZDZEYWJxMElLMDRuMU1hZnZLOUNHTG5KNjBqc2pVWlJSOTdtOWJQUGdWaTRfQ2V6R2FlaFRYVFNMWVh3dklyX2ZyOGVDZnlsbTBGX0MxR0RsX1F1Ui1wNXB1V25sS3FKWXhpWGdUNm1XZUx0Qi1JWElXdnhFbUdXeUJKUk9wamhqenVBYWJaSm5faXVFcHVSQ2tTSmNr?oc=5
 
 ### Höhenkirchen-Siegertsbrunn dreht an der Steuerschraube - Merkur
 *GN Steuer und Arbeit - 10.10. 12:30*
@@ -650,19 +594,19 @@ Bundesregierung - Merz geht nicht von Rentenreform-Umsetzung bis Jahresende aus 
 
 https://news.google.com/rss/articles/CBMiowFBVV95cUxOM0NYQW9rcGFFeUpFNnpudXpNVmdkdTJ6TkQyQ0VQdnNfbXlWOTRmZXBOYkdNWlRwSC15SEFRX3pWdXctQlQtMmRwcUoyRWdRQlNfX21Pd1RQSlVLNFdhLWQxT2tycjc1X2JsTS1ya1lkUXNSQlJYNk5obWVsdVhvSjNabFE4NFNSempKQ3hIaFFfeHVWd1BTRHQ0cDdGWWhTZmlV?oc=5
 
+### Steuerbefreiung für Scheidungsimmobilien geplant - Steuertipps
+*GN Bundestag Gesetz - 10.10. 04:07*
+
+Steuerbefreiung für Scheidungsimmobilien geplant Steuertipps
+
+https://news.google.com/rss/articles/CBMimwFBVV95cUxQOVlYRWViVVhKbVZTZXRmbktra2h5TXFfbFg3S0hLZ0NYTzlSekRUaE0waHBMSjhUa1JzcXBVY3hCVkNaTl9hSG5vbjhZSFkydmdrRld6WnB2UFVqbHBiSkZZNW9CelVRYW0xZURmMDN3MGxsVnU3LXVOQzBkN0NMWkN4TUFoU0lpU09WVVVmM0xpUUdBa3Bucm9UYw?oc=5
+
 ### Anreiz für Adoption: Kaarster FDP fordert Steuerbefreiung für Hunde aus Tierheimen - RP Online
 *GN Steuer und Arbeit - 10.10. 02:50*
 
 Anreiz für Adoption: Kaarster FDP fordert Steuerbefreiung für Hunde aus Tierheimen RP Online
 
 https://news.google.com/rss/articles/CBMitAFBVV95cUxNTzlweG5lbjFVNFNoMkY0Rm9JYnpkZEtYOTFRMzE1dEozZWJIVnRXdi1WWk9nZkZFMzMtR0piYVAyVGZ4MUdJc3JlUExhNzE4Mms2bl9weE85Z0J2UDNLMml6Qzk4YTBIUkItMWIwcFdaeFlMMHdIZjF4ZGRXYUtDaVF3a0dvTTM4X2stSS1DZE1CNHBVaVBlamNjcEEtTWota3ZhRDQyZUdLNXI3aldwdGNDQWk?oc=5
-
-### Verzögerung um Monate – Merz geht nicht mehr von Umsetzung der Rentenreform bis Jahresende aus - WELT
-*GN Bundestag Gesetz - 10.10. 02:40*
-
-Verzögerung um Monate – Merz geht nicht mehr von Umsetzung der Rentenreform bis Jahresende aus WELT
-
-https://news.google.com/rss/articles/CBMi_wFBVV95cUxPT2NicmZ4RzI3Q1dVMkoyNEdlU0NsOGI1UTFibEt6dGhZQkk3MVltY0duTzlMc254MjJLQkZJSU9YSEFNQ1ZJYkFNakFTYjY5OTliaGlJYlZ4UU5qa0hSTzVYR3BuUklGUnBoQXp6REtXR0xyTkFjdzlaaGp3SGtwUGo4TmJFZ0h5b2VLSkN0TE9zZHkxMzduU3N6WWZJYXBaY2tXa0RzZlhnQVJQbFBDSl9DMWZNUkRWc0VjNGlkOVRpZ0ZGdnJneHBtSVJDSlc5S3pMUUdxZ2xoQ1lPRUl3OTQxLUR3cFZjV21lTW52a3RoWFBaLU9CamQ1OUF6LVE?oc=5
 
 ### Sind Steuern auf die Witwenrente verfassungswidrig? Witwen sollten jetzt wichtigen Einspruch einlegen - Gegen Hartz IV
 *GN Steuer und Arbeit - 09.10. 16:39*
@@ -671,68 +615,36 @@ Sind Steuern auf die Witwenrente verfassungswidrig? Witwen sollten jetzt wichtig
 
 https://news.google.com/rss/articles/CBMizAFBVV95cUxOQkZud0dkMmZfd0ZIN0k5M0tWbW93bmRqaXEtWlhiVjZ3ZTFoZXcwaWdyWlBlVk5tM0xVN1RTMnhVcmE3WThrMUVYNGdRZEtwLUZSWG1iM09sU2kzV0NLalo3a2Vrb0JIYm9BbDNyRnFjTnhWTy1Ob2tWa3FiNG5acF9Tc0otemF0RHBTVF9PTU8tOGt0S0VFeDB3MWRLU0I4VUM5cFp3dUFfUHZsVTUyalBZR2I1eGtiYlB4RFF1SExjbEh5MHpvU0RlZ3Q?oc=5
 
-### Steuerbescheid bald digital statt auf Papier: Neue Regelung soll schon 2027 greifen - Netzwelt
-*GN Steuer und Arbeit - 09.10. 12:30*
+### Veräußerungsgeschäfte mit Kryptowerten und Stopp des Tierversuchsgesetzes
+*BT Aktuelle Themen - 12.10. 10:00*
 
-Steuerbescheid bald digital statt auf Papier: Neue Regelung soll schon 2027 greifen Netzwelt
+Mit zwei Petitionen hat sich der Petitionsausschuss in seiner öffentlichen Sitzung am Montag, 12. Oktober 2026, befasst. Zunächst beriet er über eine Eingabe, die den Erhalt der steuerlichen Haltefrist für private Veräußerungsgeschäfte mit Kryptowerten, wie etwa Bitcoins, nach Paragraf 23 des Einkommensteuergesetzes verlangt. Danach ging es in der zweiten Petition um die Forderung nach einem Stopp des geplanten Tierversuchsgesetzes. Die Petentin Nicole Nowak fordert in ihrer Eingabe zur ersten Petition, insbesondere die einjährige Haltefrist, nach der Gewinne steuerfrei sind, nicht abzuschaffe
 
-https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVJnbldjWGlQYmhmQVlINWxrLVdfeUFFQU1qR29IbFRWb3FjLTVQSFlGVmVwOGIwMnRGYkxxYzhEdmFycXZiS3RZcWZpVW0zT2RQZEVVNzZpTWdWbUlFZGc5dkJvV2JGWjdVVGRfWWctSjlEaE83X1E0VkhfWWdlSURBektNMkNsSEhna0ZhdEZCRWp3UXBQZUtBamd6M1NNTmRQM0JBUHlMajZy?oc=5
+https://www.bundestag.de/dokumente/textarchiv/2026/kw42-pa-petitionen-1221702
 
-### GaLaBau: Welches Signal setzt die Senkung des Steuerbonus? - taspo.eu
-*GN Steuer und Arbeit - 09.10. 09:55*
 
-GaLaBau: Welches Signal setzt die Senkung des Steuerbonus? taspo.eu
+## Foerderung
 
-https://news.google.com/rss/articles/CBMikwFBVV95cUxObUpiRzRxUEZnTzJ4YUlUYnNHQXhBaW1McjJUMjRidWIxY2F6ZUJqQmVKSF9TWkk1aU1QdmFxQWZ5UmFYWktqUnhSYTF1OEZHd1hJRlFyRldTcHZOYXJjX203XzRYcGQ5NnJuODhaOFdQTGthbU5FYWlYbHA4NnRySkNnS1h5cG5IYVRDR0F2bEgzMjA?oc=5
+### Keine weitere Fortschreibung der NGO-Förderübersichten
+*BT heute im bundestag - 12.10. 09:10*
 
-### Rentenreform: Merz verschiebt Bundestagsbeschluss ins Frühjahr - BILD
-*GN Bundestag Gesetz - 09.10. 08:24*
+Haushalt/Antwort Die Bundesregierung will frühere Übersichten zur Förderung von Nichtregierungsorganisationen nicht fortschreiben. Zugleich legt sie neue Angaben für 2024 und 2025 vor.
 
-Rentenreform: Merz verschiebt Bundestagsbeschluss ins Frühjahr BILD
+https://www.bundestag.de/presse/hib/kurzmeldungen-1224096
 
-https://news.google.com/rss/articles/CBMivwFBVV95cUxOaWJQaDVvN21Tbk1rR0ktWFppa3ZBbFhVTTRrMHBiUkk5N3BmTmtkcjNkZFRNTnd2LXlWMXpMVUhFeTdpUWswTVNXSV8tTnp6UTN5emhYMFZkakhUejRvYlhadVpHWWN5N01SVHNjM09iU3Ayck5PNURBLVB5dDRBYzdBN2k3Sjl2ZXBkUnVjcC1wMEo1bk9QY1lfdnRLLTRKdHRUT2E1RWJhaEpOaC1jMG5uSVZLLXhlN2RXQ2VaVQ?oc=5
+### Die Woche in Niedersachsen (KW 42): Fischerei, neue Förderrichtlinien und Ministerkonferenzen - Rundblick Niedersachsen
+*GN Steuer und Arbeit - 10.10. 10:04*
 
-### Statistisches Bundesamt: Fast drei Viertel der Renten waren 2025 steuerpflichtig - Ihre Vorsorge
-*GN Steuer und Arbeit - 09.10. 08:21*
+Die Woche in Niedersachsen (KW 42): Fischerei, neue Förderrichtlinien und Ministerkonferenzen Rundblick Niedersachsen
 
-Statistisches Bundesamt: Fast drei Viertel der Renten waren 2025 steuerpflichtig Ihre Vorsorge
+https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOHVJenVLNTRyUGI5SUwxczVsaTFKTXZLN0hEYW1Ucy1JSVB6ZjgwVXR3NVlseXBxXy02NExGdVYxdUZzSHBEcUo1U3VRdlBwMzNlM2tIOWRWMFpsNFMyc3pPTkx2b09Qckl0X3NTNHBGQlRBUkkzbG12QWd4bmNzZm1uTHdnYmY3ZGFCbWlHRGswekFvVVU3aTNDa2lDcEVEaTRSRXBMM0M2amtQd0ZlZHY3MnBjbUs2Mm14SzNIMXRjVnc?oc=5
 
-https://news.google.com/rss/articles/CBMixAFBVV95cUxPX0RfbFNLcE5PbnRIV2lVd3Z1VmNCMTlSWmNORXhxblBuS2hCdFlfTzAyRE5jMmNLU3NpTzRzWGZDajBZZ2QwMURoQnV5WDM3VUlTWDdJZlVRYWdKdXVwMm9YYWZMU2lRZ2FyaW8tVmNqUV9ZdUMwdFhiS0F0NWVLckNzcTlaTXU3N2I3UzlsZlJnYjFJRkZ5UVRsQkdabC1teWJUZHo3V3lNTjB5MnZpTDd6RkljeGlqLVFqUTFMejVmOGZT?oc=5
+### BMG-Förderrichtlinie: Digitale Kompetenzen sollen die Versorgung stärken - AD HOC NEWS
+*GN Bundestag Gesetz - 10.10. 06:33*
 
-### Streit bei Schwarz-Rot Merz erwartet Umsetzung der Rentenreform nicht mehr bis Jahresende - Tagesspiegel
-*GN Bundestag Gesetz - 09.10. 08:19*
+BMG-Förderrichtlinie: Digitale Kompetenzen sollen die Versorgung stärken AD HOC NEWS
 
-Streit bei Schwarz-Rot Merz erwartet Umsetzung der Rentenreform nicht mehr bis Jahresende Tagesspiegel
-
-https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd1VSOUw2WkNxb082dnFMWjladFFYVkFNcDNMTjlFc0YybF9wVW1IZDBOeE1CWWxENG1UQTVMZ3o5ZjFLYjlfZnYwbFlEQ1Q5a291SVYydTEwODg5OC1xQVhRWnNub2JYb0ZaYi1RR0paLVpBNU03dFh6UzVOelNRR3RGSjNGd3U0empfRFVWallRdXkxQ1ZKVFAwT0g4YUJPWTg2T0NOQlJfMmlyM0hmTXhsR2F1QkJyTGFubGx2RUVNckNZZFNPQmMtS2FFeUktOU9HYk9R?oc=5
-
-### Neue Steuer – Thailand will Ausreisende zur Kasse bitten - aboutTravel
-*GN Steuer und Arbeit - 09.10. 08:05*
-
-Neue Steuer – Thailand will Ausreisende zur Kasse bitten aboutTravel
-
-https://news.google.com/rss/articles/CBMilgFBVV95cUxOZEY3T00yYnluTmJpYV81b2w3MGZWaG84TG9JdjRhV1pQRzJ0eWFrcXlPUHl6U2hldUtOcGhNbDZ2aGw1V0VWQjFfQ2FRRXJ6LWNsdE9mdkJ1OU1QR3BmOXc5Y0oyVWlzc3JFSjJkeXJSZUFNWXF3TEhQR0hvSGlUOGVLSGJSVEVIS18tamE4bXE3c0lVYVE?oc=5
-
-### Rückschlag bei der Rente: Merz-Regierung verschiebt wohl die Rentenreform - T-Online
-*GN Bundestag Gesetz - 09.10. 05:51*
-
-Rückschlag bei der Rente: Merz-Regierung verschiebt wohl die Rentenreform T-Online
-
-https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbkN0UERUWGdyRGw5cVduWEN3SW1ydjRIUnZMWVVOZENSeUlrMV9rTjgwTUExZE1QTHlVd2pYVUZObVJMQUMwZ2JwOHZvc1pzdTVERWpyQ3Njd1pJd3Q4eWpVWGhZSDQzRWJqY0JvdGo3cE1EeFpoS0plMGVxaTg3VzdTbnF0eDdEYnJ5UVpuM0JKUDhuWV94RVRUVlNWMm13eVJsOXh5NnBDRWhBZXl6QjJmdnhua1pPR0lKbWVZS3R0QjZnc2ZNcUpuQkw5SGhlQ3pueVBjcw?oc=5
-
-### Rentenreform: Kabinettsbeschluss bis Weihnachten, Abschluss erst im Frühjahr - AD HOC NEWS
-*GN Novelle Reform - 09.10. 02:00*
-
-Rentenreform: Kabinettsbeschluss bis Weihnachten, Abschluss erst im Frühjahr AD HOC NEWS
-
-https://news.google.com/rss/articles/CBMitAFBVV95cUxQd1lTdjNsTWNtUV9WUHNOT3NkdmwtRnc1dHU1QWkwdEpGODdpLUE4ZWVIa3Q3U294a3FvQWFLTkJDSE5QYlh3MWgxSnlDT2J3VzJEb0FMOG9vMHFXcTF0NHJjYWFaTGlDUV84VHc2bHhyTUFnenpSYzZrVkpoUnF3Q1VTTG5SVGdqOVdMb05fYTd1c2RwV01hcFZZOEdLeVd0UWVLVEtkeU5Eb1c4Xzk4TmZBUGw?oc=5
-
-### Wochenzeitung „Das Parlament“: SPD-Finanzexpertin Heiligenstadt sieht keinen Spielraum für höhere Steuerentlastungen
-*BT Pressemitteilungen - 07.10. 14:00*
-
-Vorabmeldung zu einem Interview in der nächsten Ausgabe der Wochenzeitung „Das Parlament“ (Erscheinungstag: 10. Oktober 2026) – bei Nennung der Quelle frei zur sofortigen Veröffentlichung – Die finanzpolitische Sprecherin der SPD-Bundestagsfraktion, Frauke Heiligenstadt, hat die geplante Einkommensteuerreform der Bundesregierung verteidigt. Im Interview mit der Wochenzeitung „Das Parlament“ äußerte sie sich zu dem Vorwurf, mit der Reform werde die kalte Progression nicht ausgeglichen. Heiligenstadt sagte: „Mit Blick auf die begrenzten haushaltspolitischen Spielräume legt der Gesetzentwurf den 
-
-https://www.bundestag.de/presse/pressemitteilungen/2026/pm-261007-parlament-vorab-heiligenstadt-1223114
+https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnlwaU45YUhqQl9PVXhDWGtYelItWXpZaURsWWFyQ3BuVmpCWnU4WS1RU09GX0RTQ01TdW1VdE0zcGRNRW53bnJrcURSUlBLZ2RabjA4bmN5Nkxodk5la08xZTkzZU9qZ2hhbGRvQzAtSExkZDdwQVZOSDE3Slc2eGhEZzBEN1gyVFhwN1BjTlpxYW1ZcXAzOWdDWG1hc2EtNXVxVTRUeGZmUTJJZFRlaWhFbG1iNTgycHdneW1Icw?oc=5
 
 
 ## Pflichten und Fristen
@@ -745,40 +657,9 @@ European Commission Erklärung Brussels, 09 Oct 2026 Die Europäische Union hat 
 https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2127
 
 ### Wechsel auf Winterreifen: Wer das tut, zahlt 60 Euro Strafe - futurezone.de
-*GN tritt in Kraft - 09.10. 18:56*
+*GN tritt in Kraft - 11.10. 08:02*
 
 Wechsel auf Winterreifen: Wer das tut, zahlt 60 Euro Strafe futurezone.de
 
-https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZUZqdXgwOW02eGtKMTV4UXZIdnpzMXczOTd0V0xyR0VaYWxhakJTc0NIUm5CcUZQQnpEMnNHdjEzTjZ6b3JKMXpFR3kyQy1TUklqWDY2cGNNWnNPTUNWRWt2MXM3Y0tfRDBwcVpZb0J4ODNDOHhpa3NiVjJGd21EcmJRRDVYdy02WmVsX0psRkJCSzRzbXRMNXpQSzlMb3FxZUg0dkZJbTFHbV9TVU96Q2Q4UExxSFl4OGlWb0J0aTdfZjVJRllxZzVFYno0cHVJa21oU2x2dVVDNmVTalQtbQ?oc=5
-
-### Vermieter muss handeln: Wichtige Frist verstreicht Ende des Jahres - CHIP
-*GN Steuer und Arbeit - 09.10. 07:30*
-
-Vermieter muss handeln: Wichtige Frist verstreicht Ende des Jahres CHIP
-
-https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbHRva1o2T29VRUo4ODZ1N2pkczNkQkdRZk5BQ1hZd0VXSHR6eWQ4V3pwcks1NzJxVE5Ia2FNbmpPYXo1SHlLNnVJYWRwWHdOeHFQdGlKakZ1ajNVLTNUczdLTEN1cVUtczlGLUY2VF9TZDVqV0doQVdZOFJCand4OVA2QTR5MnRBMnk1akM5N242Q25LS1ctNmV0TDVXYmxNVEtpemNJdUUzRHJkWHJyX1AyRHM2VUdCTmFOUDluaE5MUHVvamY2a05MU2NQdXVLZVJUT1BfOEJDMGwzRHJiNWZnWTdsbVE?oc=5
-
-
-## Foerderung
-
-### Die Woche in Niedersachsen (KW 42): Fischerei, neue Förderrichtlinien und Ministerkonferenzen - Rundblick Niedersachsen
-*GN Steuer und Arbeit - 10.10. 10:04*
-
-Die Woche in Niedersachsen (KW 42): Fischerei, neue Förderrichtlinien und Ministerkonferenzen Rundblick Niedersachsen
-
-https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOHVJenVLNTRyUGI5SUwxczVsaTFKTXZLN0hEYW1Ucy1JSVB6ZjgwVXR3NVlseXBxXy02NExGdVYxdUZzSHBEcUo1U3VRdlBwMzNlM2tIOWRWMFpsNFMyc3pPTkx2b09Qckl0X3NTNHBGQlRBUkkzbG12QWd4bmNzZm1uTHdnYmY3ZGFCbWlHRGswekFvVVU3aTNDa2lDcEVEaTRSRXBMM0M2amtQd0ZlZHY3MnBjbUs2Mm14SzNIMXRjVnc?oc=5
-
-### Energie: Jetzt verliert das EEG seine EU‑Genehmigung - WELT
-*GN Bundestag Gesetz - 09.10. 07:00*
-
-Energie: Jetzt verliert das EEG seine EU‑Genehmigung WELT
-
-https://news.google.com/rss/articles/CBMitgFBVV95cUxOU25ZVmFuRFNaTEM2aFVsSTVVejZxYl9YWExCU0VtN2pnelhtYzZOOXNfbFA0UmV5dXY5WlJxeGdGZHh1b1NXRG5jZTFUQUROTERVSjlWUTRRS1lhZVlnRFNsRWFWSHcwUXhoWG5IU1QwYnZNWnlEdWtITnNpSHRqcUdsTmd0T01aUnhLREFiUjBYOE40Q1Bqd09VYUkxdG9QYk5VTGpJTHNUQnpNbXE2c2pCcTdkQQ?oc=5
-
-### So beantragen Sie online die Förderung der Bundesregierung
-*BReg Artikel - 08.10. 10:00*
-
-Käuferinnen und Käufer von Elektroautos können bis zu 6.000 Euro Zuschuss online beantragen. Das Förderprogramm zielt besonders auf Familien mit kleineren und mittleren Einkommen. Gleichzeitig kurbelt es die Autoindustrie an und stärkt den Klimaschutz.
-
-https://www.bundesregierung.de/breg-de/aktuelles/e-auto-foerderportal-2403088
+https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMFpKdy1VODJJLXA4QzloTEVNTDNSM2tZeHdKOUFqSmVCV0h4dFlueEZzTEtsLUxjT180YXMzZkc5anc3M0RGMDZrZHcwUzNzRjRTeE1QdmgweDFhVjV1S2gwb2NDUjZDSl9JNXNIN2w0clVDcnJkY1ZjODl6TEYxZ3JrZEo4MWxUWXdQdFY0MDRXVl9OX0wwdExQWUZVZTVjejZMcWJvWmhxQ2diN1YwdjBZU05XZ1M3XzNSZEdLYXd5blBrbTdJYzFEWWgxN3dHRGh5UHpVT1ZYNzcxWnpfdmZB?oc=5
 
