@@ -1,17 +1,10 @@
-# Rechtslage 16.10.2026 09:49
+# Rechtslage 17.10.2026 09:20
 
-163 Meldungen aus 18 Quellen, Zeitraum der letzten 96 Stunden.
+166 Meldungen aus 18 Quellen, Zeitraum der letzten 96 Stunden.
 
 ---
 
 ## Gesetzgebung Bund
-
-### Preise für Auto-Ersatzteile explodieren: Neue EU-Richtlinie soll das jetzt ändern - CHIP
-*GN EU-Verordnung - 13.10. 16:15*
-
-Preise für Auto-Ersatzteile explodieren: Neue EU-Richtlinie soll das jetzt ändern CHIP
-
-https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNjZfaGladzg0NWd6eHJUc2FMZzZqTzlRc185eXpnTGxDOEFTc19Kbi00ZzhZN19vM05RNnEzaXZaaVNYcDZuTUFZTGxJTFhtd2VJS201ZGNRSkNjMi1jYjFjZms4d214U05WTFZOdVBhMVh0YVg5dW96ZFMtX2U1cmRZT0pXcjJDWEVsU3RVY1ZxZnVyeDRMdjdMMWd5d0pvWGd6LUNXbjhrTUVJUXBVdS03XzROSENMdU51T1hzN2VDejFnMmJLc0FzVE1DWlozWFZjTGR0SF9ickZlN3U5T3R1aHVULUVtRUtfXzVfWW5SRVdN?oc=5
 
 ### CELEX:32026R1383R(01): Berichtigung der Verordnung (EU) 2026/1383 der Kommission vom 22. Juni 2026 zur Änderung der Verordnung (EG) Nr. 338/97 des Rates zur Berücksichtigung der auf der 20. Tagung der Konferenz der Vertragsparteien angenommenen Änderungen des Übereinkommens über den internationalen Handel mit gefährdeten Arten frei lebender Tiere und Pflanzen (CITES) und anderer von der Wissenschaftlichen Prüfgruppe vereinbarter Änderungen (ABl. L, 2026/1383, 26.6.2026)
 *EUR-Lex Amtsblatt L - 15.10. 22:00*
@@ -25,36 +18,36 @@ https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1383R(01)
 
 https://dserver.bundestag.de/btd/21/086/2108634.pdf
 
+### Bundeskabinett: Steuerreform Beschlossen | BR24 Hailee Steinfeld (S6c3jYXljl) - Unisba Media
+*GN Steuer und Arbeit - 16.10. 22:49*
+
+Bundeskabinett: Steuerreform Beschlossen | BR24 Hailee Steinfeld (S6c3jYXljl) Unisba Media
+
+https://news.google.com/rss/articles/CBMiggFBVV95cUxNdUtDN3hNVGJoYV9HeEVLeHJtZ29IaFk1NklManp5Y1Q2N2FFcGh3RVhaX0lrRG9pSkpCUnVjQXEzVUNZU0kxMGNkalJWRUpkU19qRHJFZ3NXZDBXRE83amJSU1FzN3lmajkwcnBja2l6Y1V1VHJsZ254RzVUS2l6RjdR?oc=5
+
+### Bundestag - Frühstart-Rente: Wie aus zehn Euro eine Altersvorsorge werden soll - Deutschlandfunk
+*GN Bundestag Gesetz - 16.10. 21:05*
+
+Bundestag - Frühstart-Rente: Wie aus zehn Euro eine Altersvorsorge werden soll Deutschlandfunk
+
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcUh2MHJvRXJoeUEwS3VmUFpnTU9IVF9nZnJZSEpuS1drQmxSZ2lKMEJ6Y243WV9tWE1LTVBkOF90TDhxbk04U0tOTk15MEdrS3BfTDc5Wk5EN3E5eDVRUlExNkhibFRqQVpJb054WS01MEFOTjM0ZDZLblJmM1RzVURnX0JLNGItQUotVjRVOENLZE5xZFRpa1FiemFuRF9aazZzWTlfVHNEdw?oc=5
+
 ### Rentenreform im Bundestag beschlossen: Geld vom Staat ab 2027 – mit einem Haken - T-Online
-*GN Bundestag Gesetz - 16.10. 08:21*
+*GN Bundestag Gesetz - 16.10. 12:30*
 
 Rentenreform im Bundestag beschlossen: Geld vom Staat ab 2027 – mit einem Haken T-Online
 
-https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOW55R3F5RnluOVdEYTBYOEpla0lQVVI5NElmdUF3cjVKRGg5bkZKRmZMMGhEQUllNVJpVUZkdnM0SEhXckRaSmxaVTBkRFJXZGZ0X1dEZW90UDNiVnpsSTZrbHR0UDRCOF9ZNzEzQTZYRmF0bW9fWEhqY0cwOVN1c0QwbmpzQzBheVRLMEJ0RDVaczlyVk1mZVZLZExETnMtMVg1LTVyU3JSNS0yQmg4S1pxNl9xV3ROa3pxQmtFQkNlUU9SMDB3Y1B1TmtuT1BOZDA2YzRlM2dtVGlPSS1iWDZhU2pvdw?oc=5
+https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd043Z19uYm90M2RqM21VemQwN2lfZXJNQkxGWHRXcU1Kc1N6MnBETjQyVGVGQno3aGVHSm9NTlQ1MnJLTmRHUUJ5MjV6bkx4Vko4elg4ZHp0VEpHTFJ2T0VJQ0liNGtvMjlfX1VoV2lRaFNzSi1pRlRtR3dOYkZreHgtak9ieEQtSUJnQTlvX0tHTHFWMGljbUxpbGJ4SEVxNTlDYlNmSXpKUW1ic192eURlRXJycTdHUnQ0Ym9BdlpqdlExMm5NdUh4Nk1HNkI5R04tclRTOUZ5a1hfTzh4ckZ3VXg5UmV3MU0w?oc=5
 
-### Rauchen wird viel teurer! Bundestag winkt historische Steuererhöhung durch - BILD
-*GN Bundestag Gesetz - 16.10. 05:47*
+### Bundestag wird EEG 2027 und Netzpaket wohl erst im November verabschieden - pv magazine Deutschland
+*GN Novelle Reform - 15.10. 14:16*
 
-Rauchen wird viel teurer! Bundestag winkt historische Steuererhöhung durch BILD
+Bundestag wird EEG 2027 und Netzpaket wohl erst im November verabschieden pv magazine Deutschland
 
-https://news.google.com/rss/articles/CBMizwFBVV95cUxQN19Dck5rZnhwR0kwMEZzUExoVGRoMFF3NkppbTBTdVhBejhDYmZsOG1JbE9PbVJ2elBkSTVxeV9tUGs4OW5DUGR1ajN0dnpRTkMzdWVkaVpncXM0SVFCZW1zTEhydU9fd0N5TXU1YkgzbkY1X1FNZmI2bXZta3VGdVFYSzUzRWwwbXI0bmNnallkVTlRZ1dMNjhaLXdmaFd3OUJCek9ocEdSUnd4LXQ1TVpRV2UyOC12cUJGLVV2SVppOElrNGFabXRzTWUwSWs?oc=5
-
-### Bundestag beschließt neue Rente: Die meisten kennen sie aber noch nicht - T-Online
-*GN Bundestag Gesetz - 16.10. 05:07*
-
-Bundestag beschließt neue Rente: Die meisten kennen sie aber noch nicht T-Online
-
-https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWEpOWDFGay0tOWFzTUxJbWpIbDNJVllUV0hLazdWNEVFTVlXUEpaMHVwZVJib3FFckwzaUhYSGZubmo0Q00tMWY0aE56RGYxS2pmTXlZWng0NjA4Tkoyb0hTdElQTE5GdWJHUjlHeHZDbGpZaW0wZVk2TkRZRXhLMFRMTHBmeDNXLWpoWDdNa0RJZTUxQldLS05WV3ZIX242WnRIbndEV3dMVkZ6MnBuNVotMDFIbjNTYm15WFNaN0lhVmhQYlpoUXVzN1daVlpsXzdZNkFLNjBzenNPRnBKem5VSU5nVURDSmRwa29YR0FqZHZYUU9jMnd2NzU?oc=5
-
-### Bundesrat wählt neuen Vorsitz und berät über Steuerreform und frühe Bildung - STERN.de
-*GN Bundestag Gesetz - 16.10. 02:04*
-
-Bundesrat wählt neuen Vorsitz und berät über Steuerreform und frühe Bildung STERN.de
-
-https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc1RHQkZ1M0lTWExKbWhUSmhsUzYzM0IyMXljRU05ZV9neHltZ2FRbldORUVzTVlXb1JRMGhVVzBQNElQQ0lNVFBPZ3lKQ0FqWkZEY1JITFlDX0s2R1ZEUk56cHVVSktFU3BzSFF6d19nTU9lOWttZGNHVDZmZUtUQ3lxRHhkOGNWcEl0Slh2bmxkaFVmVzBvdFQ1SjRtX0U2a19ibWlfVjR0RWZVNnotanRDLVQ1WDRVU01R?oc=5
+https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2g2WDg4aUNxU3dMZzR2ZFc5S18yX1NCdjVzSl8tWkdKQjBNLUhYX0ZEQXB6Mm50NWVJQlhOcFVRaFRBcVo5bkh5YVo1YmNUd05sdV9GZVQ2czVEeG5GNHRraFlNWDJ2alY3WU9rUVQxbkZXOV9HTFFjNEVJdmpOVzRaS3hLeEZjU3hzVHBMbXNYN01qYzJWUEctaEswc3JIeHZNajJIbUx5U0c0YWJJYmdB?oc=5
 
 ### Bundestag verschärft Terminmeldepflicht für Praxen - AerzteZeitung.de
-*GN Steuer und Arbeit - 15.10. 09:18*
+*GN Bundestag Gesetz - 15.10. 09:18*
 
 Bundestag verschärft Terminmeldepflicht für Praxen AerzteZeitung.de
 
@@ -74,33 +67,131 @@ Zuckersteuer: Kabinett beschließt neue Abgabe – in einer Light-Variante Spieg
 
 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZkxXdHN5Y0xJdGowelE4Y2ZrTS1ZcE9SWnZ2QUNEU0NPanpucS1qT3BFOHVJVF9qLWE4QUxDRUxvQVRWZlpGT2pSVGNrTkhIX2lUcV93UVU5cnRwQ2sxVEJYUFZGTk5TaHo1VEdWeGZObENCaFlyYW9lcnFUN2w0ZkRETGVRZUE4NlJXNkN0YkdXNU5hRG4zMVBtWnJ0NGY2a0VoWTZZZlNnRmVQY2dXQWhtX2I4X2pDR2UzRGhCRzI4UkhraVlHWnJXbG96b255SXBtLS1Ta09UektKWExtS0hEM1o?oc=5
 
-### Frühstartrente beschlossen: Doch 10 Euro reichen nicht – und am Ende entscheidet die „Elternlotterie“ - Merkur
-*GN Bundestag Gesetz - 16.10. 09:33*
+### JANUAR FEBRUAR MÄRZ APRIL MAI JUNI JULI AUGUST SEPTEMBER OKTOBER NOVEMBER DEZEMBER 01 Fr 01 Mo 01 Mo 01 Do 01 Sa 01 Di 01 - Bundesrat
+*GN Bundesrat - 17.10. 07:42*
 
-Frühstartrente beschlossen: Doch 10 Euro reichen nicht – und am Ende entscheidet die „Elternlotterie“ Merkur
+JANUAR FEBRUAR MÄRZ APRIL MAI JUNI JULI AUGUST SEPTEMBER OKTOBER NOVEMBER DEZEMBER 01 Fr 01 Mo 01 Mo 01 Do 01 Sa 01 Di 01 Bundesrat
 
-https://news.google.com/rss/articles/CBMisAFBVV95cUxQS3pjUHRWNXFDZ1ZjRlRhTWpGNFRNTjlNZnZXWlFfNjhDTGNEZHVuWU5RVWw4OEs0MzNrRDZxOUxMODVuemR0Y0gyRUtOWVA5azRYZW9BOWVuM29idmdZYzQ4U21ZNkxiOEpwclFsdzFnTk83NG94eHZXaWtjZlJMRm5pQ3lqRk9NTFllVk1NWHRVbFktckVuTnE3NlZsaHZhRms3bzRuR25mUFA1YnZzZA?oc=5
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa2xlSzFQRVN5dDdHUk1KZm9uWkgxT19CR2hmd0xPcm54V0tabGJaTkZIXzl5MmE1a2hxVHYyMjdpX2hidHZMY2d4bjVpclFUM0sxVS1mTkpxRjVGYmZ3bEVQY3dReHdJSGx2Ty1zTzlseXNGYjBtSW5yN2hoRWpDWkNTRGNYMUdrVG9kN1dvLWZHUEZuY2lnV2NHMFV5YjJ3Qk9nc2NhQzFpdw?oc=5
 
-### Frühstartrente: Bundestag beschließt 10 Euro für Kinder - ad-hoc-news.de
-*GN Bundestag Gesetz - 16.10. 09:07*
+### Reichstag: Klöckner plant Gesetz gegen Drohnengefahr - ad-hoc-news.de
+*GN Bundestag Gesetz - 17.10. 07:00*
 
-Frühstartrente: Bundestag beschließt 10 Euro für Kinder ad-hoc-news.de
+Reichstag: Klöckner plant Gesetz gegen Drohnengefahr ad-hoc-news.de
 
-https://news.google.com/rss/articles/CBMitwFBVV95cUxOV1I5MVY4cG02UTVfU2tvYnEtNlZ3U2VUQzRrc2t0R08zZ21OZ095YjVHTXpBVnoyb3VfTFdTMk9kek93ZmdMb2w2RjFCUFNYdTl2MnF4WFd5RHkzclhKWWVibFZVeGt6eXV3cDRGVmdDaHhBcUpVRlFNUXBsb2VmZXVlS2t2VGstT3dhOHhqRTlXNDh6UERVNFNfV2pHek91eHhPLWE2X3NOeV9pSExnNjlTU3NVZlU?oc=5
+https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHlCQy1lNEFmN3dhejZVdEJTN2lyNnRZOWplSUZiOTlzaHJZaTN2eGkxalBqYWo5NWRuVlJub2toQzVDdlFPMGFvM1NVckE0TF94VUFwQVZqTldUYkE2VUxOeUF6QmFwSTJjc08wM1RSX2RFSlZIQ3BEaDluRGpkR195ZDczbTRqak00S1BnOFdjcm5ielBncVJmWWo?oc=5
 
-### Weniger Nachteile nach überstandener Krebserkrankung - Bundesrat fordert neues Gesetz - n-tv.de
-*GN Bundestag Gesetz - 16.10. 08:43*
+### Diese Woche im Bundestag beschlossen 🏛️✅ 💸 Frühstartrente: Zehn Euro monatlich, die langfristig am Kapitalmarkt angelegt werden. 📲 Staatsmodernisierung und Bürokratierückbau: Regeln abbauen, die Menschen unnötig belasten, Planungs- und Geneh - Instagram
+*GN Bundestag Gesetz - 17.10. 00:44*
 
-Weniger Nachteile nach überstandener Krebserkrankung - Bundesrat fordert neues Gesetz n-tv.de
+Diese Woche im Bundestag beschlossen 🏛️✅ 💸 Frühstartrente: Zehn Euro monatlich, die langfristig am Kapitalmarkt angelegt werden. 📲 Staatsmodernisierung und Bürokratierückbau: Regeln abbauen, die Menschen unnötig belasten, Planungs- und Geneh Instagram
 
-https://news.google.com/rss/articles/CBMixgFBVV95cUxNbmw5d3RoN3E4Z1hrQXE4Mkdyck5DV2RtVmI5b0ZxdmtRQUtUai1qbzh2WG9VVFUwajZXWHVSUUNDd1hWYnh6T2FIaUZtMnlBTkFuQXI2U0gtSTN6UkktTE1lR2QzMVhEcVZjRGJuNGlOLU9MZzJadHp2R2FSX3VPMWtralZyUTIwMF9sa1ByMmVSWVIzVXFmM0FxMWlmcGxBOTFGV1J2MjlPMjhVRXhWTWpVOHdHVTZvajlBcE1YaU1id0dqTnc?oc=5
+https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1ZTZYWVlVSllMTHcycFB6OHQxeTYzcjNsZUhaUXJvSFRzYmk4LS1ZV3NxRER4WWhzS1ZBaUd0YnBmc0JyQ3laMmNNZlVHWU5hZ2c?oc=5
 
-### Altersvorsorge für Kinder: Bundestag beschließt Frühstartrente - WirtschaftsWoche
-*GN Bundestag Gesetz - 16.10. 08:40*
+### Sat.1 NRW - Notfallreform: Bundestag stimmt über Reform ab - Joyn
+*GN Novelle Reform - 16.10. 21:03*
 
-Altersvorsorge für Kinder: Bundestag beschließt Frühstartrente WirtschaftsWoche
+Sat.1 NRW - Notfallreform: Bundestag stimmt über Reform ab Joyn
 
-https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYXBYblk4ZnJCSW1pb0FlUkd1SDhybE5ldm9JV2pXOFlMSThxSFlQMm01VEJqM2lSWkl0M3pWQ2U2ZVlFamtSMUpvTFk3VDRfYnU5Ung2aTRQQ3owck95aWxJYmdud3Q0R2dsZWMwVzZiWmR0V1VQQURfMlhfenp1TG9ZcGV4NzNQWnU4LVRqYlg1NFpsRno4SGJLSWIzREstN3BpeU9BbE9mSU9YQ0NINDJDU2NHMFJfVEdn?oc=5
+https://news.google.com/rss/articles/CBMiggFBVV95cUxNREM2ODdqbVo4U0xyRTJyMVBIcUtVWVNodXJSczdqdEV0RlMzTVI3bkYwVTFIaFUwSlZKZnhObEdCZDc1ek94QUlsczM5RlN2bXVHZjduazlxckl1MUlJRi1ZUkVnalVIbGtHb3V6VFQ2UkxmdFhQdTNuSkVoZmtUU1Zn?oc=5
+
+### Deutschland hat eine Erhöhung der Spirituosensteuer um 20 Prozent noch nicht beschlossen - Vinetur
+*GN Steuer und Arbeit - 16.10. 20:07*
+
+Deutschland hat eine Erhöhung der Spirituosensteuer um 20 Prozent noch nicht beschlossen Vinetur
+
+https://news.google.com/rss/articles/CBMipAFBVV95cUxPRGFWdmdDUUhTWEk1eXJDOVY3N29MVGdYSXI1bHhCejNpeWlWREpnVVk0QlEwdHhPNDhiTERhLXZPaUx1aUJaS3U2UmZxcUQzNEJpTzI5OG81aDdjR29BUEdlOVUxUzR2WUotempSTGYtRHpxUTVWUlpLdUtqVExmTm5qWEVZcHIyVXhFMG5wYjVGNjZSbnhrSE5xTm05V2lWSGZhM9IBqgFBVV95cUxNQ0FPcnNVakR0Q1pwdE1BOFVwZFZ5U1pJVUNsTWt5QjREM01YeGtaTFRBNFNxVGhXcEZtTkdiTjVnVkFUM2dkam5PeEJTWElHaFR0QXgtLV9ZSVJFUXJINS1MUWg5dlpCcUpRRmp2Q1FuLU9GT2w0YlpJeUhVX3Z6RWNZcWVrcTY5VGc2aWJEam1XcUtzOGtrRmFxbjdLTHk5bTdLT2FOTzBoQQ?oc=5
+
+### Weihnachten - Seite 13 - Aktuelles aus Recht, Gesetz und Justiz - Legal Tribune Online
+*GN Recht Fachpresse - 16.10. 17:50*
+
+Weihnachten - Seite 13 - Aktuelles aus Recht, Gesetz und Justiz Legal Tribune Online
+
+https://news.google.com/rss/articles/CBMibEFVX3lxTE5NQjJNWFpLb20tZXRYdndVREk4dzlDMjBjeDBlUlF0ZlJSTlJ4Q05YLV9rNEFyWG85b2tKZzRhSUFEeF81TUQxNGU3UFhjWU8xTmg0cUZKMWs1RDY5TmozRVlJd3hETTltX0FHQw?oc=5
+
+### Bundestag hat Frühstartrente beschlossen: So kassieren Sie 50.000 Euro für Ihr Kind vom Staat - Frankfurter Rundschau
+*GN Bundestag Gesetz - 16.10. 17:27*
+
+Bundestag hat Frühstartrente beschlossen: So kassieren Sie 50.000 Euro für Ihr Kind vom Staat Frankfurter Rundschau
+
+https://news.google.com/rss/articles/CBMitAFBVV95cUxOaEpXT3JNaVBLTS1xVi1BWjZUY25Zd01IdDJIMTAtb0l4eG94WVB4dXdrclpIWU1kU0hKWjktWU1KaEpsREVtRjJHRkZ5a2JHX0ZMRF9zRjdrbER2M1pMbmdFTU9jb2p5RTFyWDNrTm51WDdneEp3WGhWRHpNSE43ZERUMFloZVBPc2R0bkVHamlwOFJfSVUwZUcxTTJ6OEtSR1A3YUlLVzJkTEM1RU9JN3prN0Y?oc=5
+
+### Tagesordnungen & Termine - Bundesrat
+*GN Bundesrat - 16.10. 16:33*
+
+Tagesordnungen & Termine Bundesrat
+
+https://news.google.com/rss/articles/CBMidEFVX3lxTFBxUmI1TVJUNUw1dDBnZ1lOUUhuZmhveXJCcEFwLWw0N0U5ZFFNQVpGSk05VW11dUp1UW45QTZMNzk1anNoMXJRblBOczBVbmdKSTFJU1RQR0NWQzI4Z1ZKcUIycDgwZVpkMFVxX2M2bGhEZUg2?oc=5
+
+### Deutscher Bundestag beschliesst Frühstartrente - SRF
+*GN Bundestag Gesetz - 16.10. 16:19*
+
+Deutscher Bundestag beschliesst Frühstartrente SRF
+
+https://news.google.com/rss/articles/CBMixAFBVV95cUxQUjY4cHRkUUNBTzNZN0NaRFNCOWRJWDU1Qk5EZW1Qa3pWeTNQNF92T21Ua3diODNXWC1BMGF6Sk42VXZIclhfRUR6RmdDS0N5YjhPLThYTEVMaEtDWGNacWpzR25EQ3J2amdYV3dEalN6T2VXQURMYlBUYnhrWmpmb1BuYWF0VXkxNDRoRVNfRlluQUJDN3RKR2trWTUwRlZZei1WVTFWeVdRbmtaRXZjTzR2cFVsMVRIZlk2RXp0LUJ2R2s5?oc=5
+
+### Pflegebeitrag steigt 2027: Kinderlose zahlen schon vor der großen Reform mehr - Frankfurter Rundschau
+*GN Novelle Reform - 16.10. 14:38*
+
+Pflegebeitrag steigt 2027: Kinderlose zahlen schon vor der großen Reform mehr Frankfurter Rundschau
+
+https://news.google.com/rss/articles/CBMipAFBVV95cUxNX1VIcjVkSjVIbVQ1ZDVkZWc5T1BDYU1QdFNpdjgzZGNSalgydDFhVk8wZ2FvTWVvenZBb09KZ0xSX2JnTGowQkRaLXkxMmZiVllHMEJnUVhLMUc1blhvcWpHd3ptWjY5Y2NnMXZjVFlmU1pHRXpjWEtBbEN5OEhwa181YUN4VkRZWDdxeE5mLXk5UUhnaEZlRkwzTmFRZE5RWE52Yw?oc=5
+
+### Tabaksteuer: Bundesrat stimmt erhöhter Tabaksteuer zu - DIE ZEIT
+*GN Bundestag Gesetz - 16.10. 13:51*
+
+Tabaksteuer: Bundesrat stimmt erhöhter Tabaksteuer zu DIE ZEIT
+
+https://news.google.com/rss/articles/CBMipAFBVV95cUxQWHlZZFFwS3NOZ052RURJdjFJNzZ6bVZzd0NMVG81Q2NFSWFCYUM3aWtuLVFGWHNnYnF1SmprVW1PdWphOS1ES0p3VjB1QWYxOUJCVFdURUwxT2o0LUVBLTVHLWVQNmxBNDU1STFzVFB5ZWV0cGFxeEtDLVhwaVh4YXVEOVdzWmxiN3BTTEhZekxUc1JyNnB5WGdPa1J6djRqNmd4NA?oc=5
+
+### Termine - 1069. Plenarsitzung - Bundesrat
+*GN Bundesrat - 16.10. 13:32*
+
+Termine - 1069. Plenarsitzung Bundesrat
+
+https://news.google.com/rss/articles/CBMif0FVX3lxTE02dzBEOW9yX0lvTjRhc0pOZzJreWRQX0k0QXM4YjNrbDc4NlB6SDJhTmJqMUd1dUtOam0xeE44cnRRRk5idGJsWE54ZmNVV2pEQnIxNFg0Zm9YeTVHUVdPa19WTE9kRkNjaU9DbVBmQUF6cmNORWJJZlhJRWpRaDg?oc=5
+
+### Neue Gesetzesänderung: Bundestag beschließt Erhöhung der Tabaksteuer - Franken Fernsehen
+*GN Novelle Reform - 16.10. 13:24*
+
+Neue Gesetzesänderung: Bundestag beschließt Erhöhung der Tabaksteuer Franken Fernsehen
+
+https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd2owbmU3WUJWOFNGaXd3Y3ZIcWhGQko4RHhRNnYzVHN0ank5Z2k0NnBXSEtLRDJEZl9KUDlmMk50TVhYOVd2bUFOSjcxcTYwZ2VIUnpjV3pER3pheTNyVXRkd1J2UEdKcDRUR3gtVDJaNlhqSFVEVFhxVmp2VTQ3ZndmemtMUFY4LVd3TDE5VDJjX0ZLQXpNcnYzTzJsTDB1X2t2eWJrdFBEdmdWQ0FYbGVrSk1NcWd2R3B4NkdLMXQ?oc=5
+
+### Zigaretten werden teurer: Bundestag beschließt Anhebung der Tabaksteuer - ZDFheute
+*GN Bundestag Gesetz - 16.10. 13:00*
+
+Zigaretten werden teurer: Bundestag beschließt Anhebung der Tabaksteuer ZDFheute
+
+https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3dRTXhjbW16UnZXSndTM0F5MmVodDhqcmptZnp3TVlaMTFwUm52Ty1EdzR3TmxfYkNtZjNyRV8zd0x1dDVXN2RkMnJ1dzlHRDhJVWRuQ21WNHFuWEdnZldoRUVBS1ltcFE2c3dFNHdtVDhWUlk4SHFJOUZZdnJDZnlabDBLd1FhdXc?oc=5
+
+### Wochenzeitung „Das Parlament“: Europa-Politikerin Lips (CDU) fordert härtere Gangart der EU gegenüber China
+*BT Pressemitteilungen - 16.10. 10:45*
+
+Die stellvertretende Fraktionsvorsitzende der Unionsfraktion im Bundestag, Patricia Lips (CDU), stützt den Kurs von Bundeskanzler Friedrich Merz im Streit um den EU-Haushalt ab 2028. „Es wäre ein sehr schlechtes Signal, wenn wir auf europäischer Ebene sagen würden: Hier schöpfen wir aus dem Vollen“, sagte sie der Wochenzeitung „Das Parlament“. Die EU-Kommission will den Etat für die sieben Jahre ab 2028 von 1,2 auf 2 Billionen Euro erhöhen. Streichungen von einigen hundert Milliarden Euro seien deshalb kein Sparen, sagte Lips. In Deutschland stünden Sozialleistungen zur Debatte, während die EU
+
+https://www.bundestag.de/presse/pressemitteilungen/2026/pm-261016-parlament-vorab-lips-1225286
+
+### BEHG-Novelle beschlossen: Bundestag fordert Entlastungen für Abfallverbrenner - EUWID Recycling und Entsorgung
+*GN Bundestag Gesetz - 16.10. 10:31*
+
+BEHG-Novelle beschlossen: Bundestag fordert Entlastungen für Abfallverbrenner EUWID Recycling und Entsorgung
+
+https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT1Q2MF9ZbmpveEppcm1BbDdTdFYxMEV0bVFod291VnBHOEJnazhiT3JneVdVcDJZcUR5Njh5VGVGMFVIbFU1ZEVhcE1EaW81Z3Z1SEVQNkRfUUNMQWNsc2U4dGhuQjRVVVJoQ1JEcExkSjJLeEhkZ2MzREF3dVpQQUtXdFJvVXdfSlF0RU0zQU9OYTJtQ0hFbVJ3NmM3bUpVZFJqUkM4ZUJ6OXlQN3BITEZNRHdGT2lNYS1iU0c0X280MHZleXJleQ?oc=5
+
+### Erste Lesung zur Modernisierung des Schiedsverfahrensrechts
+*BT Aktuelle Themen - 16.10. 10:30*
+
+Der Bundestag hat am Freitag, 16. Oktober 2026, in erster Lesung den Gesetzentwurf der Bundesregierung „zur Modernisierung des Schiedsverfahrensrechts sowie zu weiteren Änderungen der Zivilprozessordnung im Bereich des internationalen Zivilverfahrensrechts“ (21/8414(Dokument, öffnet ein neues Fenster)) debattiert. Damit will die Bundesregierung das Schiedsverfahrensrecht modernisieren. Nach 30-minütige Aussprache wurde der Entwurf dem federführenden Ausschuss für Recht und Verbraucherschutz zur weiteren Beratung überwiesen. Gesetzentwurf der Bundesregierung Dem Entwurf zufolge sollen digitale 
+
+https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-schiedsverfahrensrecht-1223634
+
+### Bundesrat fordert Nachbesserungen beim Gesetz zu frühkindlicher Bildung - STERN.de
+*GN Bundestag Gesetz - 16.10. 10:21*
+
+Bundesrat fordert Nachbesserungen beim Gesetz zu frühkindlicher Bildung STERN.de
+
+https://news.google.com/rss/articles/CBMisgFBVV95cUxPNEItTzFCT1g5V2N2RWQtang1NS14MVdDdy1seG9HZzlQcGhObDVHS25yNVYtYWF6S19nUDAxR3liTGs0UUNJX04zRzVWVVF4ZUxJME9VeHNmNE9EX2ZPNS14dlpkcUJsLVZJbnhFTVhOY01IV3N1bDZ2enphcm94QU5rYmNQX2RHWGpMV2hXUm52RWFVemh1LTFrT0FHb1ZZSG1hOWZBa3RiLTRNdUtBUzFR?oc=5
 
 ### Bundestag beschließt Frühstartrente: Was Eltern wissen müssen - MDR.de
 *GN Bundestag Gesetz - 16.10. 08:38*
@@ -109,47 +200,12 @@ Bundestag beschließt Frühstartrente: Was Eltern wissen müssen MDR.de
 
 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNclpDMEtjSWlpd1pZMkF3bDNXQlFJTkpKLTB3dHdFbzN6WG5vWGIzZTdMZzh0cllvYzA0Y0FERVlSS1ZKS21JNEpaSW40THBfRWZoZHpEMkd6LVc5M2ROdzF5MmJSeXVoRVFYbndwNkZQNEdLSkkxTnl5WVJoZExvRV80Y3dxLXRuT2dFREs0cF95clFqckppVHNYYUFjZ0lnODRrZW1XRzg?oc=5
 
-### Frühstartrente beschlossen: So bekommen Kinder zehn Euro im Monat vom Staat - Berliner Zeitung
-*GN Bundestag Gesetz - 16.10. 08:37*
-
-Frühstartrente beschlossen: So bekommen Kinder zehn Euro im Monat vom Staat Berliner Zeitung
-
-https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTd0ZHhCS1Vrb0RCcWxMQWQ0RUc3MG5KU3NhMGk3VTJha2JDYnpnR1ZNMmc3YU5KQ2dqenBWVzJYT2tsZXlfak1LY3FlVTJ3NlA0RnIzTExYbGZDdl9QT0gzUG43MEN4WUdiVjNrSHB0S1JGZjNid19RdGdyS1lxdTdWZ3hya2RuaENHZzJPdUF3cHhtUkFkUlljV2RPYXV5ZzRldGptR1VHRTc0M0ppMWpmNA?oc=5
-
-### Frühstartrente: Bundestag beschließt zehn Euro für Kinder - ad-hoc-news.de
-*GN Bundestag Gesetz - 16.10. 08:25*
-
-Frühstartrente: Bundestag beschließt zehn Euro für Kinder ad-hoc-news.de
-
-https://news.google.com/rss/articles/CBMipgFBVV95cUxPaGNwdDdUUmM5Q190ZkVFbHNGMWFUV0hIbjVnS01vSktqX3VVX3psZmhjWG14UlRaX2IyU2YwTzkyMFc2UFVJdmo2djUwaTN0U2NkRXVRWVBPNXJRVy1IcnZJb2FJRnBZZjBRQ183WWtWZVd1cjFJV3NZUWRpd1MyZUFneXVQcEZ1c1RpMkhFZHh6ZHRsNFJTMVhzajZHd0J5RlNXNldn?oc=5
-
 ### Altersvorsorge: 10 Euro jeden Monat vom Staat fürs Kind – Bundestag beschließt „Frühstartrente“ - WELT
 *GN Bundestag Gesetz - 16.10. 08:24*
 
 Altersvorsorge: 10 Euro jeden Monat vom Staat fürs Kind – Bundestag beschließt „Frühstartrente“ WELT
 
 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdXJCdTNvQnNrcEdJb1dTaXQ2ck0ycENoeXJGMF9iQkphdWZpRGdtR2RYb01OYVhCN3JIV3lCd1p1RGFRQ1lzRGtJMmd2V2NkTmFZS2xJMjk1OXMzVm84a0psMGpINEdBTkFwOEZ0cHE3QjRPVlB1Z2lYZW54Um9uRi1DTG9mYUVoVnd2T2RlcFI5dmZueXJvbWxrQWNKU3hoYU5peklNZExsSHdPZS11NjJzdlNmSEFqaUNIVUt3NFdUYjI1RkNkemd1Y2lmUXdXWUNrQnhuZXBFbXdMTERkeTBxN2VvekpRTHlwUGxHbDdUSjVwcFhpOEhkM19HcUk?oc=5
-
-### Bundestag beschließt Frühstartrente - STERN.de
-*GN Bundestag Gesetz - 16.10. 08:14*
-
-Bundestag beschließt Frühstartrente STERN.de
-
-https://news.google.com/rss/articles/CBMigwFBVV95cUxOUnhTd2txT3hpWXE2MVRUWVpXX0U2OUhTYVNpTlRVT0JoTE5JOGlESndSVFhXVlRQV3AwX1ZTWDdKUGIzaXdYLUpnaUlPV2RRZjZsaVJzM0xOSV9DQWxlVFdTRldyN0lfbWtqdEhrTlNxeVJYbmZPd3pybFpMYmFCNFFaNA?oc=5
-
-### Bundestag gibt grünes Licht für Notfallreform - Stumpf + Kossendey Verlagsgesellschaft mbH
-*GN Bundestag Gesetz - 16.10. 08:11*
-
-Bundestag gibt grünes Licht für Notfallreform Stumpf + Kossendey Verlagsgesellschaft mbH
-
-https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNGc1Y05jWVJKUWVxd1V1NzFmQ2ZvYkNJSjdBY1dmT2pTU1VtQlhYMUJ5UW40eFZVd1AzeHREU3FSOXZ3YzBfZjJyQjR6V0VRbF9zMW5mTURSblB0TTFscTlOQUpJQ0tweTB2T1p4Y3ctcVNoNnJvLWxmYlFxYngzY2RRSmJQMFF1RGVN?oc=5
-
-### Handwerkerbonus im Bundesrat - Bonus erhalten und Sanieren bezahlbar gestalten - verbaende.com
-*GN Bundestag Gesetz - 16.10. 07:33*
-
-Handwerkerbonus im Bundesrat - Bonus erhalten und Sanieren bezahlbar gestalten verbaende.com
-
-https://news.google.com/rss/articles/CBMizAFBVV95cUxOaWh1aWRMSFZaUklPdzdadkxsb1BVLV9UU2pwb2cwWENrcEYzS2lMSVJRWEFCNzJVZ2YtbThpUFJEbW84ak8zaFBGdTU4Sk5GWWpfaEtVVVRfM0djVHpkR21jYWNpM3Vya1daUFdQVzlOSFdyUk5Fd1lLYXdxbDdGTmx3b0NJSTRjV3NUeFdRaEJON0ZDLXJNc3dnNC1TZkVtMDAxeGQ3ZjhnUGZRMFpvejlVcFNfNk1lVGRkcm96aXhxRmNFSWlRQ0xVZnM?oc=5
 
 ### Bundestag beschließt die Frühstartrente
 *BT Aktuelle Themen - 16.10. 07:00*
@@ -158,19 +214,19 @@ Der Bundestag hat am Freitag, 16. Oktober 2026, die Frühstartrente beschlossen.
 
 https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-fruehstartrente-1223624
 
-### Erste Lesung zur Modernisierung des Schiedsverfahrensrechts
-*BT Aktuelle Themen - 16.10. 06:40*
-
-Der Bundestag berät am Freitag, 16. Oktober 2026, in erster Lesung den Gesetzentwurf der Bundesregierung „zur Modernisierung des Schiedsverfahrensrechts sowie zu weiteren Änderungen der Zivilprozessordnung im Bereich des internationalen Zivilverfahrensrechts“ (21/8414(Dokument, öffnet ein neues Fenster)). Damit will die Bundesregierung das Schiedsverfahrensrecht modernisieren. Nach der 30-minütigen Aussprache soll der Entwurf dem federführenden Ausschuss für Recht und Verbraucherschutz überwiesen werden. Gesetzentwurf der Bundesregierung Dem Entwurf zufolge sollen digitale Kommunikations- und 
-
-https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-schiedsverfahrensrecht-1223634
-
 ### AfD fordert strukturelle Reform der Pflegeversicherung
 *BT heute im bundestag - 16.10. 06:30*
 
 Gesundheit/Antrag Die AfD-Fraktion fordert in einem Antrag eine strukturelle Reform der Sozialen Pflegeversicherung.
 
 https://www.bundestag.de/presse/hib/kurzmeldungen-1225164
+
+### Bundestag: Pistorius wirbt für Reservestärkungsgesetz - Bundesministerium der Verteidigung
+*GN Bundestag Gesetz - 16.10. 05:43*
+
+Bundestag: Pistorius wirbt für Reservestärkungsgesetz Bundesministerium der Verteidigung
+
+https://news.google.com/rss/articles/CBMigwFBVV95cUxONk4xRWhpU21iSnBqcVd4SmRLNUdHNUs2VzJ4cDhQWXF6aTNvV014RFRuVnpWVFRJbGhoNS1rZTE5dFZ5aVZ2Q0NqN0ZhdVNaTnVkb09jZ0txcmRvYldzemVNb1lpWk1udzZyQmgtMHk5NHdDbGI1TmlWaWRFSURDNm1Ddw?oc=5
 
 ### Pflegereform: Linke ruft wegen Reform zu schneller Beantragung von Pflegegrad auf - DIE ZEIT
 *GN Novelle Reform - 16.10. 05:06*
@@ -179,40 +235,12 @@ Pflegereform: Linke ruft wegen Reform zu schneller Beantragung von Pflegegrad au
 
 https://news.google.com/rss/articles/CBMirwFBVV95cUxPY1JsQ2wtTnduSnBOLXVESkRReVdTSVhOQVFYOHJGcXM0RXVDT3VmcVRqaXh1VmtuQjU4NGJhcjNXdmJWakpLWGlvNGVWaGNjZ1lHZW1LZk5CSHN5T1lGSW1DRUlfT2wtRUp1MUNXcmxYTUlZRm1FR2VKc1M5a2s1dUVsVEVoT3lkNHFVNnc1TUFyRVFicHpmakR3N2ZfSHpXZ3FYVnZTLXRwalBQckxN?oc=5
 
-### Smartphone als Ausweis: Bundestag beschließt Reform - it-daily.net
-*GN Novelle Reform - 16.10. 04:36*
-
-Smartphone als Ausweis: Bundestag beschließt Reform it-daily.net
-
-https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mN1IwUDBEMHdzTjRWN3pfdS1aUkhEN2x2UTJzbFJVeDNoeGZDSGkxcE9POUFJMVhyV0FZOUdBd0J2MVFOakdyd3k0b0RfVlZmYmh6ZUkzdFpfMF9UTnJ0aXZUdG1PQUhK?oc=5
-
-### Zigaretten werden teurer: Bundestag beschließt Anhebung der Tabaksteuer - ZDFheute
-*GN Bundestag Gesetz - 16.10. 04:30*
-
-Zigaretten werden teurer: Bundestag beschließt Anhebung der Tabaksteuer ZDFheute
-
-https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3dRTXhjbW16UnZXSndTM0F5MmVodDhqcmptZnp3TVlaMTFwUm52Ty1EdzR3TmxfYkNtZjNyRV8zd0x1dDVXN2RkMnJ1dzlHRDhJVWRuQ21WNHFuWEdnZldoRUVBS1ltcFE2c3dFNHdtVDhWUlk4SHFJOUZZdnJDZnlabDBLd1FhdXc?oc=5
-
 ### Bundestag beschließt: Zigaretten kosten bald fast doppelt so viel - T-Online
 *GN Steuer und Arbeit - 16.10. 04:27*
 
 Bundestag beschließt: Zigaretten kosten bald fast doppelt so viel T-Online
 
-https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQW5LMUViSlItX3VQMVg4WEdSbWYtbF9kckZBdW5abGNPOVZrelNsMGVGRXhpUEd2MWhDM0g1eGVPelVKZ3dyNF8wZWlpTy1aNWpYb1FjRk83S2x1N3VSdmgwUW1SNTl0bDhTc2V3ZmlUUTd0TXhOQ0hyczdQVXZrLXJzY1FEeWRYT05YRkQzMlBEYm9lSVBSeUV0c0RIQndNb0EzY3ZCMTBfc05INEF3MDhDV2xrSlNYcU9PY3NXNnY?oc=5
-
-### Pflegereform 2027: Welche Termine jetzt wichtig sind und wann die nächste Reform kommt - Allgäuer Zeitung
-*GN Novelle Reform - 16.10. 03:52*
-
-Pflegereform 2027: Welche Termine jetzt wichtig sind und wann die nächste Reform kommt Allgäuer Zeitung
-
-https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaWlBWVpRVXYwUkRRbWFkVXpQeGEzeXZuX3EtMlByX29ycmsyekgtVnphWExwX2NPeUo0alM4algtbVlLcVF6c0xVU2I3UmlFUnZ4Z0NNTGVwM3h5c0VPb1ZVYWJ1cjg3Y0RKR3NzMGdMYnhuR1RhTHdrVk9ORW5xYVRfNmhDU3FoNzRLbkF1ZFZidGRwUjFzX3Q3SXdDNjlQeFlUb3VfNGJlUzJKZXg4M3p2MjloYUFtalRRZ2kwLW4?oc=5
-
-### Höhere Tabaksteuer beschlossen – drei Parteien stimmen gegen Reform - WEB.DE
-*GN Bundestag Gesetz - 16.10. 03:35*
-
-Höhere Tabaksteuer beschlossen – drei Parteien stimmen gegen Reform WEB.DE
-
-https://news.google.com/rss/articles/CBMipgFBVV95cUxNaEFSLU03NWE2Yzg1bHBKOUY0aTA0WDUtUTV1VUE3RXFmYmZ5UUtKc0UwbUd6dFpyXzUzdXRZdzV0dnZOUDIxZVAteXFGd2hIaDlMUnNxcHY4dUdsNFpDZnczeW1uWFdZNjR1WkpBc1plaVE2eFczQTlkQk9qUXVrd1pLdVpJVEVyY2tNOVM4dmhnbXBVTWo5TFRLSTFDZ0lTaUphZV93?oc=5
+https://news.google.com/rss/articles/CBMitwFBVV95cUxPa1VRczl0OERXcjVTMGlkVVFaQzg1UjV5OXYxUVhGaEpHeE9JUElKOXRxOWZ3NnliVFlSUFlxWURHazZ5NDRIR1hkZXVib1NGNkR5RjN4ZnhyYlhub2c2WXJXbFFiM2ZVR2VNWW9aRXJ4NEJCYjdNZ29zNndISF9nOHdZb05kUUVCZ1Y0S2s4aFpRd3lMNS1JNlRhTUQ3c3U0SzFRc3FPWjhEeDFJRjNNRW5SZHJrRFE?oc=5
 
 ### Dreiundzwanzigste Verordnung zur Änderung der Außenwirtschaftsverordnung
 *BGBl Teil I und II - 16.10. 00:00*
@@ -227,13 +255,6 @@ https://www.recht.bund.de/eli/bund/bgbl-1/2026/300
 Typ: Verordnung | Initiant: Bundesaufsichtsamt für Flugsicherung | Fundstelle: BGBl. 2026 I Nr. 298 vom 16.10.2026 | Sachgebiet: Luftverkehr
 
 https://www.recht.bund.de/eli/bund/bgbl-1/2026/298
-
-### Bundestag beschließt höhere Tabaksteuer: So teuer werden Zigaretten - Berliner Morgenpost
-*GN Bundestag Gesetz - 15.10. 21:50*
-
-Bundestag beschließt höhere Tabaksteuer: So teuer werden Zigaretten Berliner Morgenpost
-
-https://news.google.com/rss/articles/CBMitgFBVV95cUxQSjVxUXdSa0EzOWZCRUNCQ0NzNllHb3FpdW1wLUpLX2ctU2p5T1k5ZEFJblR3T0N2Mld6ZU83THlpU1hxaXhzMmZfSVg3WWNscVpwcldNYkEwVkFSckt5ZmlZMTBKTjB5d1BpNXZMV2NESjI0WmFZRVBJbjdmbHZ3TGd0UnQ5bVM3XzVnNlVaTFUwcF84dGJ0S1RaWXZ3OXRrOTM4THdwVWlzbEFvY3o4cjFqU3JhQQ?oc=5
 
 ### Gesundheitspolitik - Bundestag hat Reform der Notfallversorgung beschlossen - Deutschlandfunk
 *GN Bundestag Gesetz - 15.10. 21:37*
@@ -298,13 +319,6 @@ Cannabis-Legalisierung - Seite 4076 - Aktuelles aus Recht, Gesetz und Justiz Leg
 
 https://news.google.com/rss/articles/CBMifEFVX3lxTFBUd3NWeVpXUDRoUW1uSzQtMVZHWjd2a0pIOW1vd1VraU9KVUpuaUxUUDJTaVB5SFBldmJqZXF6d0NmTTlZbnpvVjRmMF9ZLWFjb1JkSkZkcVl0WEZBeUJMdG9jWWVXQlZqUkxSUHFLa2hjTEhpakVvZGlJZ1k?oc=5
 
-### Karin Priens neues Kita-Gesetz im Bundesrat: Scheitern lassen verboten! - shz.de
-*GN Bundestag Gesetz - 15.10. 18:00*
-
-Karin Priens neues Kita-Gesetz im Bundesrat: Scheitern lassen verboten! shz.de
-
-https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMzBGa25vTUlUcXRvdnFTVU5ZRjB6bUppZWJyQm9ZY2Q0bzAybmlBUU9FN2loRDlkdFdmbVdzZGZfanNJc2dGUGJuejB3RGxsUWhNVktYLWlFRkcxbERXVU1RVUs5VkVxM1hwUlJJR01BQmZSeUxSRVhDRlV1a0xXRzV4QWtDd0R3OVM4M0lRYm1uaVNCSzZGT1JZQnFzRWE2ZHdYS3FvYTZaWHhyWjNzYTlLYU9KOGx6MGVlUENRb1FVdmwzcUNhbGxXV1BNekdL?oc=5
-
 ### Bundestag beschließt Notfallreform – was sich 2027 ändert - kma Online
 *GN Bundestag Gesetz - 15.10. 17:14*
 
@@ -312,40 +326,12 @@ Bundestag beschließt Notfallreform – was sich 2027 ändert kma Online
 
 https://news.google.com/rss/articles/CBMitAFBVV95cUxOWHJGZjhWRm55a242S3FmREhIa0RoWWN4bHF5ZUg0ZjRxQjVIaHF1UnVTWl9VbWlJOHpMUHRNeUtmR1cwUi1ZWGJrSnpraWpyeTJkaW9JS2xqekZoUm5HbzlCWm5LNW81RmgzU0tvRE1EeGViRUM2OVRmeWZ0ZXpEODQ3OGpzNmhOa09EcG9zb2p2MzZZeFU4Q3RnYTc4bzdHNl94UzFSRkQ1VHhoZjZRR3RCSzM?oc=5
 
-### Digitale Identitätengesetz verabschiedet: Schwuppdiwupp, die digitale Brieftasche kommt - Netzpolitik.org
-*GN Bundestag Gesetz - 15.10. 15:47*
-
-Digitale Identitätengesetz verabschiedet: Schwuppdiwupp, die digitale Brieftasche kommt Netzpolitik.org
-
-https://news.google.com/rss/articles/CBMitwFBVV95cUxPUVV0OC14bkZ3SW9TMDR1WUR3THVoMF9wZmN2QWJ4Q28wTDhfUjJab3NBTDc3V2ZPN1Y4ZzRyazBaelpCekJkWXFEeGZaMVUyWW55ZC1KSURLOEp0NWNMUmNTUXNLWFhKZG5fa1NjVUpSRDF4QUZYbXRZU0RxQWc5LXNnWEN4U0pmMXpNTFZFUmlZX2phWE5qTUNzalZQY1RKY0xHUDEycGhUQ0hCUmpMdkxCNGZ0Y3c?oc=5
-
 ### Digitalisierung: Bundestag stimmt für Einführung einer digitalen Brieftasche - DIE ZEIT
 *GN Bundestag Gesetz - 15.10. 15:39*
 
 Digitalisierung: Bundestag stimmt für Einführung einer digitalen Brieftasche DIE ZEIT
 
 https://news.google.com/rss/articles/CBMirAFBVV95cUxPVEh0dzRMTVMtbnkyUTNjSUZFblgzOUI2YVZVNGp2UkhGSzZoZkdQN1V2NU5xTEJJRUlKWG5qa0d6b3lxNm8yR3RMd28xTkJOOGl4UEtoTlFlVFEzZ25QNDY3MHdlMzNKVnQtcF9KNnlzX2Y2UENabzJDeXRNSUU2YnEwQmFSbFJ6aVNwS3p0ak5DOWFmUzMzSXdXcXVDR0FQckExb3ROemxpcjZs?oc=5
-
-### Bundestag beschließt Notfallreform - FAZ
-*GN Novelle Reform - 15.10. 14:55*
-
-Bundestag beschließt Notfallreform FAZ
-
-https://news.google.com/rss/articles/CBMiggFBVV95cUxQWUY3VkJmZkhzbmJDYVEwaWZ1NGtSMGFMVXdKTXJRazFWdkJFMFdYZUxzWEs4OVpBVkNmc1ZYWUJMMUlWVHBwYXNRQXk5MDEtUGU3MUZXdVVTandqTWlVXzBoNUY5OWM4NmplTHRKalJ3Wi00TlBxaHpIS3dRSlRPTFFR?oc=5
-
-### Bundestag: Reform der Notfallversorgung - ZDFheute
-*GN Novelle Reform - 15.10. 14:52*
-
-Bundestag: Reform der Notfallversorgung ZDFheute
-
-https://news.google.com/rss/articles/CBMimwFBVV95cUxQY1JJR3VhS2JoTGdjLVJNVE41cGlwcGR4NVotMk5US29EMFZJVjN2ZFl2cjlkTndPX3h5NlZTQUVfU0hNS2NuS1R6ckdNOVBBV09FTkhVWWk0NFhsZzdfMkYzdFNCTGxjeS1mNmUyUURyZ0RzNmZ1aEFSellGVXBxNUVDVHFrYlhkVUFLS3hHVjlQZi03cnduX2xYMA?oc=5
-
-### Reform soll Notfallversorgung entlasten - DIE ZEIT
-*GN Novelle Reform - 15.10. 14:04*
-
-Reform soll Notfallversorgung entlasten DIE ZEIT
-
-https://news.google.com/rss/articles/CBMifkFVX3lxTFBTYk00WVk0YVRUOW00eGhGYVFYUE8tbEczR1RvcWZpZGpTMl9xdEh1dlJCWWZtSk90eDlLNzFUNFRRMW81clo0WjVvWDNlSngxS0o3VDdvUXc5S2xpYnVGczk3dmVnbGN4VEFmb3VrTmk5S0ctZkhldTlMSHktUQ?oc=5
 
 ### Bundestag: Reform der Notfallversorgung - ZDF
 *GN Novelle Reform - 15.10. 11:53*
@@ -367,13 +353,6 @@ https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMWhaaGpkZlhvaGpCY2lSR1VyRTN
 Entlastung für Notaufnahmen: Bundestag beschließt Reform der Notfallversorgung STERN.de
 
 https://news.google.com/rss/articles/CBMivAFBVV95cUxONU03ZW41aW4zYlFPcEpNWE13S3RoaDJLc2NFYi0tZWNsYjNsTVRUdjltR0VicVdReVNtdDZ5TmJobjNTTDBGdm0wZ2NyMEVYcnVmYldYZVVkUkdxT0lUaURJN2JCdjBIMTI4S2JJRTNIajBtckc4OVVFcXBCajMza2EwTFNRYU5IMm81ZlZ1OHNGM1RzSm9BTHFiVmVnVEI2YlZ2RE9JQ2t2b3BQVENwVzk0NGJXcVd5eE5MeA?oc=5
-
-### Rettungsdienst und Notaufnahmen sollen entlastet werden Bundestag stimmt für Reform der Notfallversorgung - Tagesspiegel
-*GN Novelle Reform - 15.10. 10:58*
-
-Rettungsdienst und Notaufnahmen sollen entlastet werden Bundestag stimmt für Reform der Notfallversorgung Tagesspiegel
-
-https://news.google.com/rss/articles/CBMipgFBVV95cUxOQjVZRnNrZUE3NVhFejl6U2RCQktiN3J5ZDJrZk0xUHA3NG5La0lLcjUtblpoNzdxS0NxU2VzdjRFTXJ6SzVIZGdQYTc5ZzJKZUwyd1RVM01oT3lqSEMtMlltdjJmLVBPVm5KQV9tUVE5clJLWjJuNTJ6TFA3cGw2Q2lkV01fSE0tRWYzaGRXWWZnYjExQ3JCTldJa1JuYWxSWHhETFV3?oc=5
 
 ### News of the Day vom 15.10.2026: Alkoholverbot an Bahnhöfen tritt in Kraft - Franken Fernsehen
 *GN tritt in Kraft - 15.10. 10:50*
@@ -419,12 +398,26 @@ Bundestag beschließt Reform der Notfallmedizin tagesschau.de
 
 https://news.google.com/rss/articles/CBMiX0FVX3lxTE56N0EzQzRnQVVTZTA4N29hNFk1NnVTaXI0U2xxb0I0UkNGZkZRWWpPS2ZQQzI2cF93aG5SY09VbGJyODBYYW0xdXdJZktUVWwycUhfOXVkUG1oLWNaczc4?oc=5
 
+### 112 und 116 117 werden vernetzt – Bundestag beschließt Notfallreform - WELT
+*GN Novelle Reform - 15.10. 09:43*
+
+112 und 116 117 werden vernetzt – Bundestag beschließt Notfallreform WELT
+
+https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU2lPV1lBYVh0cW5HUEtvSWlNV216TE1Lalo3RUFYZnFOM3Y3b3Y0REl6Q2pIcmQtNFdvOU5FeXR3V1liLURPcHVHbC1rcWRJUWo2TmE5ZVNBU2J3bFRLZmFIX0lsZzVtNW1Qa0tyNS03TGlMR01JZ3B3WVpvUnI3dVdWSnJLNDhGSTZ4cmRYZlMtVHgzTy1ITzVHZE5rWmg1VlphS2gtU3BISnZQYkhyVVNwRFFnbUZEaXZpakQtdXA0a0tLSGY2ZUJtZ1RJajB1TXRDdTRFQnJlUGZW?oc=5
+
 ### Reform der Notfallversorgung vom Bundestag beschlossen - tagesschau.de
 *GN Bundestag Gesetz - 15.10. 09:40*
 
 Reform der Notfallversorgung vom Bundestag beschlossen tagesschau.de
 
 https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yWHlNd1FWUEVNc3FZTlZ4d0hMbW1lUXZOM0pMb2Q5UjQwVzllMVRBdTBRS05QSnQyX29mN1lidFVqcFBySV9fbXZfMXc3YW9aaW4yVXlRSXd0a0hWVE5N?oc=5
+
+### Aus für das Bahnsteig-Bier – Alkoholverbot an allen Bahnhöfen tritt in Kraft - WELT
+*GN tritt in Kraft - 15.10. 09:37*
+
+Aus für das Bahnsteig-Bier – Alkoholverbot an allen Bahnhöfen tritt in Kraft WELT
+
+https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWnZWN2VnRTFBUGxHNFZhM3M0c0FXZXRvLXg3Q3ZtRnplSy1uRmVfRjZpaUFiSTNhYXdYbXd2Q2JIRXllcXpMUzdMdmdDYkoybHFoRlpwcFVERWxmb0FITkhCSU91anRSMTRTNk1uRGFnak92eG9XalRkMjVIWmFCVU5YWGkxS3djdlFSZlpUVnNEbFJ6Njd3RFRHSUN2R1BmdlloLS0zVVZMQWp0bFRsWkJGaFBhYWpIeERIYUxOUE1EdFEzM19LYWVWRGJUQmkzbmRoWTJTWjhwSTM5Zmc?oc=5
 
 ### Zuckersteuer beschlossen – Verbraucherpreise für Süßgetränke steigen - Perspektive Online
 *GN Steuer und Arbeit - 15.10. 09:35*
@@ -454,12 +447,26 @@ Gesundheitswesen: Bundestag beschließt Reform der Notfallversorgung STERN.de
 
 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU1MtaklZZmNaS1kxZS1Hd3dmSU9wZ1JnM2diWk5hcFNlOUh1NEVUNjJQbFUwczVMU3FBS1pubXFfbVRBbHhDa05aLVQ0dHFEaWJPS1JxV01qdEhYc2FrblJLenVpc1REOGo4aXBuQmgtNjhKcEJsNGE0ZnlZQUJ0cUJ0ZEY0UnEydk5OeGM1M2U1WTNmSXU0b2lCRjYwM3JGeTBwVGVYYm9oQXlHc3RMRzhOSHFwLVV6Z2ctZXNCOGM?oc=5
 
+### Bundestag beschließt Reform der Notfallversorgung - Antenne Düsseldorf
+*GN Novelle Reform - 15.10. 08:56*
+
+Bundestag beschließt Reform der Notfallversorgung Antenne Düsseldorf
+
+https://news.google.com/rss/articles/CBMinAFBVV95cUxNOUYwZEFFS2RTekNRM3pka0haVDVvcXJVRFpELWJqcGVJWUdPMXRYVGVKUHlETm5xVDB3dXNvRXpXdGNKUWVlMW13Q0N4NmFPSUlsQ0JvWmMxQUVVc21vQjV6LWdzWkFEVkdCMGIySEJ1SmQ4NzQwVmRneHNEMUtrdDBrRHcxekZjVmhnU0UtY2t3bFEyRUxpNkhwTEQ?oc=5
+
 ### Bundestag beschließt Notfallreform - ein "zahnloser Tiger"? - NDR.de
 *GN Bundestag Gesetz - 15.10. 08:51*
 
 Bundestag beschließt Notfallreform - ein "zahnloser Tiger"? NDR.de
 
 https://news.google.com/rss/articles/CBMiywFBVV95cUxQaVg0R3h1eV96anF0OFJaSDhFcEVfd3UzRlZuNDYxOERKaEh0akljMVRQYWNLQXJuSFlwYk5vVmJEYk56ZDlNMndya0cxYk1pSHpleTZDTGUzYUpNTVRwNmgxaGItTnJ3bzdKcHpyUnE1RURTVkNsNGJkY091ampsRGZiaXhXbjZEc29pS2liODJLSHhlRnBqeDlzbTF5QUFtTFo1b2lFbm1MWjV4aEdUT2NmVGNSNW12R1hsZnFVaEsxci1TWHRmSnpwUQ?oc=5
+
+### Bundestagsdebatte - Linnemann: Reform der Notfallversorgung wird Gesundheitssystem effizienter machen - Deutschlandfunk
+*GN Novelle Reform - 15.10. 08:19*
+
+Bundestagsdebatte - Linnemann: Reform der Notfallversorgung wird Gesundheitssystem effizienter machen Deutschlandfunk
+
+https://news.google.com/rss/articles/CBMivAFBVV95cUxOeHQyaFZ0Si1LNVhBWEhsWW5WajE3a3VBdm9rQUVEVDhvNEV2U3M4Y0Q2SDVadEQtbWRaNXUxaDQzV0NnTjFfNUR1SFFJTkZpZmdBNnR6SUtRTVNBRjQ2UjFQcU94T0dUWUo3QW1SOHJ3Ui0zMWF0TVFEQUR4c3A2WGdNRVpOOHNrekxBT0ttMTJGX1hGdVJXNjJTdGNzc2lza3VoLU1Yc0llSDVHZ1VsUER6MndEU2hVd1phYQ?oc=5
 
 ### Bundestag beschäftigt sich mit Reform zur Notfallmedizin - tagesschau.de
 *GN Novelle Reform - 15.10. 07:41*
@@ -517,6 +524,13 @@ Alkoholverbot an allen Bahnhöfen tritt in Kraft Yahoo Nachrichten
 
 https://news.google.com/rss/articles/CBMimgFBVV95cUxNZUI0UUhDcDJlX2lHbEplLTVDdVJYNDBFN2x5MVk4YjhtdVZIaHNoaUpPdzJCMDNQOVRXcFJINFhfU25tVmozMzEwd3dtSUt4cHpFS0p3TE1YRTNKZUZNaU4zcVhzWTNhUFVPVG1UVUkzYVFyZGN3bUJhMDFtRW1WZGhoNEx2MUF6SWdnMkhnQlNTNG91RmxMOFd3?oc=5
 
+### Haushalt 2027 - Bundesrat
+*GN Bundestag Gesetz - 15.10. 01:36*
+
+Haushalt 2027 Bundesrat
+
+https://news.google.com/rss/articles/CBMieEFVX3lxTE1FdXJzb1lXbUtoYU90UE02QkJUVGhhemhWQWNOVmxOczFpMHlTOVhMV09FS1I2UVI5MlQ5RnRkYnJ5bUhyWW5rTmd0VnNJWVJ5MUF3MGgzV0RrcUZhZWU4cDNaVUxEdU95aUM2V1lidVBBXzlvUWs4MA?oc=5
+
 ### Sechsundsechzigste Verordnung zur Änderung der Zweihundertfünfundfünfzigsten Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Streckenführungen, Meldepunkten und Reiseflughöhen für Flüge nach Instrumentenflugregeln im kontrollierten Luftraum innerhalb der Bundesrepublik Deutschland)
 *BGBl Teil I und II - 15.10. 00:00*
 
@@ -559,6 +573,13 @@ Bundestag: Geplante Reform soll Reserve stärken NDR.de
 
 https://news.google.com/rss/articles/CBMiygFBVV95cUxNTW9qRXMwdDRDbEljSVRXOThkUGFrSEtvTHJ5OTN4UUpGdm5zZndtTjNVaDEwS2NqQXJXUWItZFhRbDJpcVgwNVFzUlRBVU9EYVRGNEUxcGFLM0pUQTNZQmF2cVR6dmNGQldIOHplYWRELU1PXzl5dUlNLUxJODJNbXpKQkdSRGFFX2VoTVFadjl2WThROUcwRWdpcUcxcmRJNHh2UU9pbVJyZUpLZW42ZzlKeEJDZmpwbjJxTGp3Rm1sdG5LN0h3SDFR?oc=5
 
+### Bundestag - Blaulicht-Protest in Berlin: Retter warnen vor Notfallreform - Deutschlandfunk
+*GN Novelle Reform - 14.10. 21:43*
+
+Bundestag - Blaulicht-Protest in Berlin: Retter warnen vor Notfallreform Deutschlandfunk
+
+https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ1gwbnZvX1MtWEg5TUNMZkpwVDAyTV9helVXenpoSEgxWXRQSmhqN1RoMXZvdFBESW5idWgyS2dBOUhpcjFVYnRSMEc4QmVaMjdEMTJqSUpZcEh5QlZCME9KSnUycDd2VE9vWVNCZjNmRmVOeml4djJJY2pOUU91MVZic08xWnBpU2JBaWEzeTM3dEcxdmdEMVdpN1RoZGZ0?oc=5
+
 ### Bundestag berät über Gesetzentwurf eines Reservestärkungsgesetzes - tagesschau.de
 *GN Bundestag Gesetz - 14.10. 20:44*
 
@@ -566,19 +587,19 @@ Bundestag berät über Gesetzentwurf eines Reservestärkungsgesetzes tagesschau.
 
 https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NZFliS3otakNwNHBEOG5wNXNpNFBXOWZNclM4ajJ2TWJxSXdCRGkwdTZPdmZoNFdqOTI3b3ZxVFlac3lBRkFSa2Y4U0NKQ0FBMUZSN2VOQjU5WkRDRTdUelcxTFpXbFE?oc=5
 
-### Bundestag - Blaulicht-Protest in Berlin: Retter warnen vor Notfallreform - Deutschlandfunk
-*GN Novelle Reform - 14.10. 20:07*
-
-Bundestag - Blaulicht-Protest in Berlin: Retter warnen vor Notfallreform Deutschlandfunk
-
-https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ1gwbnZvX1MtWEg5TUNMZkpwVDAyTV9helVXenpoSEgxWXRQSmhqN1RoMXZvdFBESW5idWgyS2dBOUhpcjFVYnRSMEc4QmVaMjdEMTJqSUpZcEh5QlZCME9KSnUycDd2VE9vWVNCZjNmRmVOeml4djJJY2pOUU91MVZic08xWnBpU2JBaWEzeTM3dEcxdmdEMVdpN1RoZGZ0?oc=5
-
 ### 25. Kulturpolitisches Spitzengespräch: Gemeinsame Erklärung zur Freiheit der Kunst und Konzept zur Stärkung der Provenienzforschung verabschiedet
 *BReg Pressemitteilung - 14.10. 17:15*
 
 Auf Einladung von Kulturstaatsminister Wolfram Weimer haben sich heute die Kulturministerinnen und Kulturminister, die Kultursenatorinnen und Kultursenatoren der Länder und die Kommunalen Spitzenverbände zum 25. Kulturpolitischen Spitzengespräch in Berlin getroffen. Im Mittelpunkt standen die Bedeutung der Freiheit für Kunst und Kultur, die gemeinsame Verantwortung für eine offene demokratische Gesellschaft sowie die weitere Stärkung der Provenienzforschung. Der besondere Ort des Treffens, der Apollosaal der Staatsoper Unter den Linden Berlin, setzte zugleich den Rahmen: Die Kammerkonzerte im 
 
 https://www.bundesregierung.de/breg-de/aktuelles/25-kulturpolitisches-spitzengespraech-gemeinsame-erklaerung-zur-freiheit-der-kunst-und-konzept-zur-staerkung-der-provenienzforschung-verabschiedet-2457048
+
+### Zuckersteuer in Deutschland beschlossen: Ab wann sie gilt und wer zahlen muss - cristinaiglesias.com
+*GN Steuer und Arbeit - 14.10. 13:21*
+
+Zuckersteuer in Deutschland beschlossen: Ab wann sie gilt und wer zahlen muss cristinaiglesias.com
+
+https://news.google.com/rss/articles/CBMitAFBVV95cUxNUnpHSkV0d21TNGpWRDBVNUl1XzdxOEFWQkFBSGkwdVNOSmw5RUVRYnlXV01YOW1SLVRGSEpveU00QXlTRlY2RUtDMWV3Tjd1LVFmOHhWNXFYblZTWHN6U1BfOFZnYlhjVHRQZTRNem1vVUhnd0gyNl9LY0R0aTBXV2x4aW9NS2NYeUVKbjFZTjh6MUkxd2E0TmJLbnhHYzQyZ0Y0MFF3aS1mbEVvM3BPNWxJOEo?oc=5
 
 ### Social Media unter 13 tabu - Kabinett plant Übergangsregeln - Lippische Landes-Zeitung
 *GN EU-Verordnung - 14.10. 11:44*
@@ -594,22 +615,24 @@ Zuckersteuer beschlossen: Wir haben nachgerechnet, wie teuer die Cola jetzt wird
 
 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeVB4aFAzX3p2Qk5QQllSNDhyUFVPSTdLRE0weHBIczBpck54eVlMTHpMLW5Ra2MxdFlVaElGNVZVZnEwbGVtTUlyMUxpRl9RWUhVT2J0YnhEazVqMXhYYks1VjdvMzdmUXpMQjRzS0x2UzNqNnNLQ2pONzY4VVRfRTY0T2dvbURTOXhFa1NNU0FtWlF2MFVpanZmNEVLMjRoWFlNdXdod2xuU2I3N0NOQlIwcF9ZQlhVZjUyQ2I3NW1VRk0?oc=5
 
-### 21/8603: Beschlussempfehlung und Bericht zu dem Gesetzentwurf der Abgeordneten Tobias Matthias Peterka, Fabian Jacobi, Peter Bohnhof, weiterer Abgeordneter und der Fraktion der AfD - Drucksache 21/5476 - Entwurf eines Gesetzes zur Änderung des Bürgerlichen Gesetzbuchs und des Asylgesetzes (Massenmigrationsbewältigungsgesetz) (PDF)
+### Kabinett beschließt abgespeckte Zuckersteuer – Zuckerindustrie hofft auf Scheitern im Bundestag - agrarheute.com
+*GN Steuer und Arbeit - 14.10. 11:09*
+
+Kabinett beschließt abgespeckte Zuckersteuer – Zuckerindustrie hofft auf Scheitern im Bundestag agrarheute.com
+
+https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVkxTMzZncUhsSzhSTHExWWRLdDR6RnZUUTAzMkVRUzEyU3BBU29sZ0JGTm9KSGVjOFg2UUE1ajUxWC1fc3A4Y21IbEJBYktlNEctNElsbTRPUkFDNnp4dWtvdG5JcWVSNmh5U2NGQ1FXdWwzTktQV1p6LWVfaTZPMzlsdG9Vb2ptYmdzVUE1NldkVjJ2bEFNbXk0SXA2SXM5VlhLck9uMmp4dHBRRFZfWm9jWTZYQ1NndWVB?oc=5
+
+### 21/8632: Entschließungsantrag zu der dritten Beratung des Gesetzentwurfs der Bundesregierung - Drucksachen 21/6808, 21/8629 - Entwurf eines Gesetzes zur Reform der Notfallversorgung (PDF)
 *BT Drucksachen - 14.10. 10:00*
 
-https://dserver.bundestag.de/btd/21/086/2108603.pdf
+https://dserver.bundestag.de/btd/21/086/2108632.pdf
 
-### 21/8602: Beschlussempfehlung und Bericht zu dem Antrag der Abgeordneten Martin Hess, Dr. Gottfried Curio, Dr. Bernd Baumann, weiterer Abgeordneter und der Fraktion der AfD - Drucksache 21/5748 - Polizeiliche Kriminalstatistik sowie Berichtswesen zur Ausländerkriminalität mit maximaler Transparenz ausgestalten - Effektivität sicherheitspolitischer Maßnahmen steigern (PDF)
-*BT Drucksachen - 14.10. 10:00*
+### Eckpunkte für Social-Media-Beschränkungen beschlossen - Onetz
+*GN EU-Verordnung - 14.10. 09:33*
 
-https://dserver.bundestag.de/btd/21/086/2108602.pdf
+Eckpunkte für Social-Media-Beschränkungen beschlossen Onetz
 
-### Eckpunkte für Social-Media-Beschränkungen beschlossen - Lippische Landes-Zeitung
-*GN EU-Verordnung - 14.10. 09:32*
-
-Eckpunkte für Social-Media-Beschränkungen beschlossen Lippische Landes-Zeitung
-
-https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVBPamgzMnZ4SG1MS0dXX3dZOTNkeF9weExLaGE5Z2p2Sl85UDljSGNmM2liazRLTk9EZkxjQzdPMU9iRkprT0dIcG9lLTBfeGo3TlBWTWZVbnpOVGpGdG9keWwzNWdsSjNKNGxUay01TF9lLWUzSGJ2cFE3NWZaZnB2WWFLazNYMmlwbE1wNmpyb2FhMkdRelFiNUVBQzhrM2gzandIN3N6bS04d3gzTFFQZDI1N3M?oc=5
+https://news.google.com/rss/articles/CBMirAFBVV95cUxQbHNfcDNkYWd2cFZ5RngyeElhRnlMVkJQNkwxemxHUGFsU2ZEZ3c0cVdPSHlxZnRsRjhBcnB5SXAtUUR6VkctM0xJM1RnLVBENGo0a3RzdUlrMy1tYjRaM3V2MUtoWDNwRjRpLTZLUHFkSzRCRTctelgxbzA0XzVsRjhVVlBGLUFmdFAtZEJseFZ5TXBfUWw0RmlUczZPOEZ1U1I1T2xvdG0xWDV1?oc=5
 
 ### Verordnung zur Modernisierung der nationalen Umsetzung von europäischen Regelungen zum Ökodesign und zur Energieverbrauchskennzeichnung
 *BGBl Teil I und II - 14.10. 00:00*
@@ -632,12 +655,33 @@ Typ: Verordnung | Initiant: Bundesministerium für Wirtschaft und Energie | Fund
 
 https://www.recht.bund.de/eli/bund/bgbl-1/2026/290
 
-### 110. Jahrestag - Dresdner Katzensteuer wird beschlossen - rbb | radio3
-*GN Steuer und Arbeit - 13.10. 16:02*
+### Beratungen zum Bundeshaushalt 2027 fortgesetzt
+*BT heute im bundestag - 16.10. 12:46*
 
-110. Jahrestag - Dresdner Katzensteuer wird beschlossen rbb | radio3
+Haushalt/Ausschuss Der Haushaltsausschuss hat in dieser Woche die Beratungen über den Regierungsentwurf des Bundeshaushalts 2027 fortgesetzt.
 
-https://news.google.com/rss/articles/CBMisAFBVV95cUxOamxWeTN3TWhLQkgxV3R4SkdEOFhuLUdXX01pQXNHLUdDelVZLWJ1MFJ5clZkTzFyTmdTbDRicFhucmlBVGRqZ21Wa3VGdVUwZnloMG1oOHlMbUpQOXIxcnRjS2dGU1JabW9tTjJjcEJ3akEwUWNpOGNCQndBVGlZTHQ5M2tCVXhCd2FWTHRNZnRIcXJPTnZyMXhodDIxSXRodk16WkVCdzZjbFFvaWo0Qg?oc=5
+https://www.bundestag.de/presse/hib/kurzmeldungen-1225360
+
+### Forderung nach Technologieoffenheit im Verkehrssektor beraten
+*BT Aktuelle Themen - 16.10. 11:05*
+
+Der Bundestag hat am Freitag, 16. Oktober 2026, erstmals einen Antrag der AfD-Fraktion mit dem Titel „Technologieoffenheit im Verkehrssektor gewährleisten – Privilegierung der Elektromobilität beenden“ (21/8557(Dokument, öffnet ein neues Fenster)) debattiert. Nach halbstündiger Debatte wurde der Antrag dem federführenden Ausschuss für Wirtschaft und Energie zur weiteren Beratung überwiesen. Antrag der AfD Die AfD-Fraktion fordert in ihrem Antrag die Bundesregierung auf, die staatliche Subventionierung der Elektromobilität sofort zu beenden. Dazu müsse die E-Auto-Kaufprämie 2026 sofort eingeste
+
+https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-technologieoffenheit-1223636
+
+### Forderungen im Vorfeld der Weltbiodiversitätskonferenz in Jerewan abgelehnt
+*BT Aktuelle Themen - 16.10. 09:55*
+
+Der Bundestag hat am Freitag, 16. Oktober 2026, einen Antrag der Fraktion Bündnis 90/Die Grünen mit dem Titel „Bei der Weltbiodiversitätskonferenz in Jerewan ein starkes Signal zum Schutz unserer Lebensgrundlagen setzen“ (21/8144(Dokument, öffnet ein neues Fenster)) nach halbstündiger Aussprache abgelehnt. Dagegen stimmten CDU/CSU, AfD und SPD, dafür die Antragsteller. Die Linke enthielt sich. Antrag der Grünen Vor der UN-Biodiversitätskonferenz (COP17) in der armenischen Hauptstadt Jerewan (Eriwan) vom 19. bis 30. Oktober drang die Fraktion Bündnis 90/Die Grünen auf ein „starkes Signal zum Sc
+
+https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-biodiversitaet-1223632
+
+### Debatte zum Bürokratierückbau im Verkehrsbereich
+*BT Aktuelle Themen - 16.10. 09:30*
+
+Der Bundestag hat am Freitag, 9. Oktober 2026, in erster Lesung den Gesetzentwurf der Bundesregierung zum Bürokratierückbau im Verkehrsbereich (21/8404(Dokument, öffnet ein neues Fenster)) beraten. Im Anschluss an die halbstündige Aussprache wurde der Entwurf zur weiteren Beratung an die Ausschüsse überwiesen. Federführend ist der Verkehrsausschuss. Gesetzentwurf der Bundesregierung Mit der Regelung soll ein umfassendes Maßnahmenbündel zur strukturellen Modernisierung des Verkehrsrechts umgesetzt werden. Der Entwurf umfasse Änderungen in verschiedenen Fachgesetzen des Verkehrsrechts und bündle
+
+https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-buerokratierueckbau-verkehr-1223628
 
 ### Das Designrecht bekommt ein Update
 *BReg Artikel - 16.10. 09:00*
@@ -649,7 +693,7 @@ https://www.bundesregierung.de/breg-de/aktuelles/kabinett-modernisierung-designr
 ### Einspruch gegen ein verhängtes Ordnungsgeld zurückgewiesen
 *BT Aktuelle Themen - 16.10. 08:15*
 
-Der Bundestag hat am Freitag, 16. Oktober 2026, ohne Aussprache einen Einspruchs gegen ein in der Plenarsitzung am Donnerstag, 15. Oktober, verhängtes Ordnungsgeld abgewiesen. In der Sitzung hatte die amtierende Bundestagspräsidentin Andrea Lindholz (CDU/CSU) ein Ordnungsgeld gegen den AfD-Abgeordneten Martin Reichardt wegen einer zuvor getätigten Äußerung verhängt. Gegen das Ordnungsgeld hatte Reichardt mit Schreiben vom 15. Oktober an Bundestagspräsidentin Klöckner Einspruch eingelegt. Für die Zurückweisung des Einspruchs stimmten CDU/CSU, SPD, Bündnis 90/Die Grünen und Die Linke, dagegen vo
+Der Bundestag hat am Freitag, 16. Oktober 2026, ohne Aussprache einen Einspruch gegen ein in der Plenarsitzung am Donnerstag, 15. Oktober, verhängtes Ordnungsgeld abgewiesen. In der Sitzung hatte die amtierende Bundestagspräsidentin Andrea Lindholz (CDU/CSU) ein Ordnungsgeld gegen den AfD-Abgeordneten Martin Reichardt wegen einer zuvor getätigten Äußerung verhängt. Gegen das Ordnungsgeld hatte Reichardt mit Schreiben vom 15. Oktober an Bundestagspräsidentin Klöckner Einspruch eingelegt. Für die Zurückweisung des Einspruchs stimmten CDU/CSU, SPD, Bündnis 90/Die Grünen und Die Linke, dagegen vot
 
 https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-einspruch-ordnungsgeld-1225202
 
@@ -659,27 +703,6 @@ https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-einspruch-ordnungsgel
 Der Bundestag hat am Freitag, 16. Oktober 2026, nach einstündiger Debatte einen Antrag der Fraktion Die Linke mit dem Titel „Keine Leistungskürzungen in der Pflege“ (21/2216(Dokument, öffnet ein neues Fenster)) abgelehnt. Gegen den Antrag stimmten CDU/CSU, AfD und SPD, dafür stimmten die Antragsteller, während sich Bündnis 90/Die Grünen enthielten. Dazu lag eine Beschlussempfehlung des Gesundheitsausschusses (21/6409(Dokument, öffnet ein neues Fenster)) vor. Zur federführenden Beratung an den Gesundheitsausschuss überwiesen wurden ein weiterer Antrag der Linken mit dem Titel „Pflegeversicherun
 
 https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-pflegeversicherung-1223626
-
-### Debatte zum Bürokratierückbau im Verkehrsbereich
-*BT Aktuelle Themen - 16.10. 06:50*
-
-Der Bundestag berät am Freitag, 9. Oktober 2026, in erster Lesung den Gesetzentwurf der Bundesregierung zum Bürokratierückbau im Verkehrsbereich (21/8404(Dokument, öffnet ein neues Fenster)). Im Anschluss an die halbstündige Aussprache soll der Entwurf zur weiteren Beratung an die Ausschüsse überwiesen werden. Federführend ist der Verkehrsausschus. Gesetzentwurf der Bundesregierung Mit der Regelung soll ein umfassendes Maßnahmenbündel zur strukturellen Modernisierung des Verkehrsrechts umgesetzt werden. Der Entwurf umfasse Änderungen in verschiedenen Fachgesetzen des Verkehrsrechts und bündle 
-
-https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-buerokratierueckbau-verkehr-1223628
-
-### Forderungen im Vorfeld der Weltbiodiversitätskonferenz in Jerewan
-*BT Aktuelle Themen - 16.10. 06:45*
-
-Der Bundestag berät am Freitag, 16. Oktober 2026, einen Antrag der Fraktion Bündnis 90/Die Grünen mit dem Titel „Bei der Weltbiodiversitätskonferenz in Jerewan ein starkes Signal zum Schutz unserer Lebensgrundlagen setzen“ (21/8144(Dokument, öffnet ein neues Fenster)). Über die Vorlage soll im Anschluss an die 30-minütige Aussprache sofort abgestimmt werden. Antrag der Grünen Vor der UN-Biodiversitätskonferenz (COP17) in der armenischen Hauptstadt Jerewan (Eriwan) vom 19. bis 30. Oktober dringt die Fraktion Bündnis 90/Die Grünen auf ein „starkes Signal zum Schutz unserer Lebensgrundlagen“. Kon
-
-https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-biodiversitaet-1223632
-
-### Forderung nach Technologieoffenheit im Verkehrssektor
-*BT Aktuelle Themen - 16.10. 06:35*
-
-Der Bundestag berät am Freitag, 16. Oktober 2026, erstmals einen Antrag mit dem Titel „Technologieoffenheit im Verkehrssektor gewährleisten – Privilegierung der Elektromobilität beenden“ (21/8557(Dokument, öffnet ein neues Fenster)), den die AfD-Fraktion vorgelegt hat. Nach halbstündiger Debatte soll der Antrag dem federführenden Ausschuss für Wirtschaft und Energie zur weiteren Beratung überwiesen werden. Antrag der AfD Die AfD-Fraktion fordert in ihrem Antrag die Bundesregierung auf, die staatliche Subventionierung der Elektromobilität sofort zu beenden. Dazu müsse die E-Auto-Kaufprämie 2026
-
-https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-technologieoffenheit-1223636
 
 ### Selbstständigkeit der Stiftung Flucht, Vertreibung, Versöhnung
 *BT Aktuelle Themen - 15.10. 21:30*
@@ -737,13 +760,6 @@ Betroffene von schweren Straftaten sollen im Verfahren vor Gericht leichter prof
 
 https://www.bundesregierung.de/breg-de/aktuelles/unterstuetzung-fuer-opfer-2415170
 
-### Pro und Contra zu geplanten Neuregelungen im Mietrecht
-*BT heute im bundestag - 15.10. 07:14*
-
-Recht und Verbraucherschutz/Anhörung Der Gesetzentwurf zur Mietrechtsreform stößt bei Sachverständigen auf geteiltes Echo. Vermieterverbände lehnen ihn ab, Mietervertreter fordern Nachbesserungen.
-
-https://www.bundestag.de/presse/hib/kurzmeldungen-1224894
-
 ### Nationaler Aktionsplan klimafreundliche Schifffahrt
 *BReg Artikel - 14.10. 13:59*
 
@@ -783,15 +799,15 @@ https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32018L2001R(14)
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2321
 
-### CELEX:32026D2260: Commission Implementing Decision (EU) 2026/2260 of 8 October 2026 laying down rules for the application of Directive 2010/75/EU of the European Parliament and of the Council as regards uniform conditions for operating rules for rearing of poultry and pigs (notified under document C(2026) 6899)
-*EUR-Lex Amtsblatt L - 15.10. 22:00*
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2260
-
 ### CELEX:32026D2308: Commission Implementing Decision (EU) 2026/2308 of 6 October 2026 on the request for registration, pursuant to Regulation (EU) 2019/788 of the European Parliament and of the Council, of the European citizens’ initiative entitled Creation of a European Digital Space (.IA) for Sovereign AI Governance (notified under document C(2026) 7098)
 *EUR-Lex Amtsblatt L - 15.10. 22:00*
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2308
+
+### CELEX:32026D2260: Commission Implementing Decision (EU) 2026/2260 of 8 October 2026 laying down rules for the application of Directive 2010/75/EU of the European Parliament and of the Council as regards uniform conditions for operating rules for rearing of poultry and pigs (notified under document C(2026) 6899)
+*EUR-Lex Amtsblatt L - 15.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2260
 
 ### CELEX:32026D2331: Political and Security Committee Decision (CFSP) 2026/2331 of 13 October 2026 on the appointment of the Head of the Civilian Pillar of the European Union Support Mission in Lebanon (EUSM Lebanon) (EUSM Lebanon/1/2026)
 *EUR-Lex Amtsblatt L - 15.10. 22:00*
@@ -834,17 +850,31 @@ The corrigendum does not concern the English version.
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32009R0703R(01)
 
-### CELEX:32026R2293: Commission Implementing Regulation (EU) 2026/2293 of 8 October 2026 entering the geographical indication Capocollo di Martina Franca (PGI) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council
-*EUR-Lex Amtsblatt L - 14.10. 22:00*
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2293
-
 ### CELEX:32023R2147R(02)
 *EUR-Lex Amtsblatt L - 14.10. 22:00*
 
 The corrigendum does not concern the English version.
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32023R2147R(02)
+
+### CELEX:32026R2293: Commission Implementing Regulation (EU) 2026/2293 of 8 October 2026 entering the geographical indication Capocollo di Martina Franca (PGI) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council
+*EUR-Lex Amtsblatt L - 14.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2293
+
+### CELEX:32020R0359R(11)
+*EUR-Lex Amtsblatt L - 14.10. 22:00*
+
+The corrigendum does not concern the English version.
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32020R0359R(11)
+
+### CELEX:32014R0910R(13)
+*EUR-Lex Amtsblatt L - 14.10. 22:00*
+
+The corrigendum does not concern the English version.
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32014R0910R(13)
 
 ### CELEX:32026R2301: Commission Implementing Regulation (EU) 2026/2301 of 8 October 2026 on the registration of the geographical indication Café Antigua (PGI) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council
 *EUR-Lex Amtsblatt L - 14.10. 22:00*
@@ -856,24 +886,24 @@ https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2301
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2333
 
-### CELEX:32020R0359R(11)
-*EUR-Lex Amtsblatt L - 14.10. 22:00*
-
-The corrigendum does not concern the English version.
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32020R0359R(11)
-
 ### CELEX:32026D2315: Council Decision (EU) 2026/2315 of 12 October 2026 on the position to be taken on behalf of the European Union within the Trade and Development Committee established by the Economic Partnership Agreement between the European Union and its Member States, of the one part, and the SADC EPA States, of the other part, on the replacement of the list of arbitrators
 *EUR-Lex Amtsblatt L - 14.10. 22:00*
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2315
 
-### CELEX:32014R0910R(13)
+### CELEX:32002L0056R(01)
 *EUR-Lex Amtsblatt L - 14.10. 22:00*
 
 The corrigendum does not concern the English version.
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32014R0910R(13)
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32002L0056R(01)
+
+### CELEX:32019R1148R(05)
+*EUR-Lex Amtsblatt L - 14.10. 22:00*
+
+The corrigendum does not concern the English version.
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32019R1148R(05)
 
 ### CELEX:32018L0851R(07)
 *EUR-Lex Amtsblatt L - 14.10. 22:00*
@@ -887,29 +917,20 @@ https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32018L0851R(07)
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32017L2397R(03)
 
+### CELEX:32026R2280: Regulation (EU) 2026/2280 of the European Parliament and of the Council of 7 October 2026 establishing a common system for the return of third-country nationals staying illegally in the Union, and repealing Directive 2008/115/EC of the European Parliament and of the Council, Council Directive 2001/40/EC and Council Decision 2004/191/EC
+*EUR-Lex Amtsblatt L - 14.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2280
+
 ### CELEX:32026R2302: Commission Implementing Regulation (EU) 2026/2302 of 8 October 2026 on the registration of the geographical indication Miel des Landes (PGI) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council
 *EUR-Lex Amtsblatt L - 14.10. 22:00*
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2302
 
-### CELEX:32019R1148R(05)
+### CELEX:32026D2284: Commission Implementing Decision (EU) 2026/2284 of 15 October 2026 setting the date from which Member States may start entering, updating and deleting information alerts on third-country nationals in the interest of the Union in the Schengen Information System pursuant to Regulation (EU) 2018/1862 of the European Parliament and of the Council
 *EUR-Lex Amtsblatt L - 14.10. 22:00*
 
-The corrigendum does not concern the English version.
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32019R1148R(05)
-
-### CELEX:32002L0056R(01)
-*EUR-Lex Amtsblatt L - 14.10. 22:00*
-
-The corrigendum does not concern the English version.
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32002L0056R(01)
-
-### CELEX:32026R2280: Regulation (EU) 2026/2280 of the European Parliament and of the Council of 7 October 2026 establishing a common system for the return of third-country nationals staying illegally in the Union, and repealing Directive 2008/115/EC of the European Parliament and of the Council, Council Directive 2001/40/EC and Council Decision 2004/191/EC
-*EUR-Lex Amtsblatt L - 14.10. 22:00*
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2280
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2284
 
 ### CELEX:32026R1563R(02)
 *EUR-Lex Amtsblatt L - 14.10. 22:00*
@@ -918,15 +939,31 @@ The corrigendum does not concern the English version.
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1563R(02)
 
-### CELEX:32026D2284: Commission Implementing Decision (EU) 2026/2284 of 15 October 2026 setting the date from which Member States may start entering, updating and deleting information alerts on third-country nationals in the interest of the Union in the Schengen Information System pursuant to Regulation (EU) 2018/1862 of the European Parliament and of the Council
-*EUR-Lex Amtsblatt L - 14.10. 22:00*
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2284
-
 ### CELEX:32026R2228: Commission Implementing Regulation (EU) 2026/2228 of 14 October 2026 amending Implementing Regulation (EU) 2021/405 as regards the lists of third countries or regions thereof authorised for the entry into the Union of consignments of certain animals and goods intended for human consumption in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council
 *EUR-Lex Amtsblatt L - 14.10. 22:00*
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2228
+
+### Speech by Executive Vice-President Teresa Ribera at 17th Conference of the Parties to the United Nations Convention on Biological Diversity (COP17)
+*EU-Kommission - 16.10. 11:40*
+
+European Commission Speech Yerevan, 16 Oct 2026 Dear Prime Minister, Pashinyan, Dear Secretary-General of the United Nations, António Guterres, Dear Heads of State and Government, Dear colleagues and dear fri...
+
+https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2191
+
+### Statement by President von der Leyen at the joint press conference with President Costa following the meeting of the European Council of October 2026
+*EU-Kommission - 16.10. 11:15*
+
+European Commission Statement Brussels, 16 Oct 2026 We have had a long and dense European Council. Let me touch on some of the main topics, starting with European competitiveness and I will go straight into energy. Households and industry are paying the price for a war far beyond our borders. Since the start of the war in the Middle East, costs for imported fossil fuel have risen by EUR 106 billion, without a single additional molecule of energy. Gas prices have risen around 140% since late February, and diesel prices have doubled.
+
+https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2190
+
+### Daily News 16 / 10 / 2026
+*EU-Kommission - 16.10. 09:38*
+
+European Commission Daily news Brussels, 16 Oct 2026 Commission sets out new strategy on combating trafficking in human beings Today, the European Commission sets out a new strategy to combat trafficking in human...
+
+https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2189
 
 ### Statement by Executive Vice-President Mînzatu ahead of the International Day for the Eradication of Poverty
 *EU-Kommission - 16.10. 08:53*
@@ -956,6 +993,13 @@ European Commission Speech Vilnius, 16 Oct 2026 Good morning. Welcome to Vilnius
 
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2179
 
+### Kommission legt neue Strategie zur Bekämpfung des Menschenhandels vor
+*EU-Kommission - 15.10. 22:00*
+
+European Commission Pressemitteilung Brussels, 16 Oct 2026 Die Europäische Kommission legt heute eine neue Strategie zur Bekämpfung des Menschenhandels vor. In den Jahren 2023 und 2024 wurden in der EU mehr als 20 000 Opfer registriert, was einem Anstieg um 16,1 % entspricht, obwohl viele Fälle nach wie vor ungesehen sind. Menschenhandel nimmt viele Formen an, darunter sexuelle Ausbeutung, Arbeitsausbeutung, Zwangskriminalität, Betteln und Zwangsheirat.
+
+https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2177
+
 ### Speech by Commissioner Albuquerque (by video message) for the Malta's Financial Wellbeing Conference 2026: From Access to Trust
 *EU-Kommission - 15.10. 12:59*
 
@@ -970,34 +1014,6 @@ In diesem Jahr trifft sich die Parlamentarische Versammlung der NATO zu ihrer 72
 
 https://www.bundestag.de/presse/pressemitteilungen/2026/pm-261015-nato-pv-1224996
 
-### Commissioner Roswall's keynote address at the 12th Congress of European Farmers
-*EU-Kommission - 15.10. 10:44*
-
-European Commission Speech Stockholm, 15 Oct 2026 Lennart, Palle, Minister, Farmers, Ladies and gentlemen It is a pleasure to be part of the 2026 Congress of European Farmers. And a pleasure to discuss a q...
-
-https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2173
-
-### Rescheduling of the EU-GCC Summit
-*EU-Kommission - 15.10. 10:31*
-
-European Commission Statement Brussels, 15 Oct 2026 The second Summit between the European Union and the Gulf Cooperation Council, originally planned for 24 October 2026 in Riyadh, Saudi Arabia, has been postpone...
-
-https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2172
-
-### Speech by Commissioner Lahbib at the International Conference on the Protection of Aid Workers
-*EU-Kommission - 15.10. 08:29*
-
-European Commission Speech Brussels, 15 Oct 2026 I have spent much of my life travelling from one crisis to the next, first as a journalist, later as Foreign Minister, and now as Commissioner for humanitarian ...
-
-https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2171
-
-### Tägliche Nachrichten 15 / 10 / 2026
-*EU-Kommission - 15.10. 08:19*
-
-European Commission Nachrichten des Tages Brussels, 15 Oct 2026 Dreigliedriger Sozialgipfel in BrüsselDie Staats- und Regierungschefs der EU und die Sozialpartner trafen sich in Brüssel zum Dreigliedrigen Sozialgipfel, einem...
-
-https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2170
-
 ### Bundestagsvizepräsident Nouripour trifft Parlamentspräsidentinnen und -präsidenten der Europarats-Staaten in Rom
 *BT Pressemitteilungen - 14.10. 07:58*
 
@@ -1008,12 +1024,19 @@ https://www.bundestag.de/presse/pressemitteilungen/2026/pm-261014-reise-nouripou
 
 ## Steuern und Abgaben
 
-### Sozialversicherung: Beitragsbemessungsgrenzen sollen ab 2027 steigen
-*BReg Artikel - 12.10. 12:31*
+### Über 3.000 Euro Extra-Rente möglich: Regierung beschließt Klingbeils Rentenreform - T-Online
+*GN Bundestag Gesetz - 17.10. 08:32*
 
-Wer gut verdient soll höhere Beiträge für die gesetzliche Kranken- und Rentenversicherung zahlen. Grund sind die gestiegenen Löhne und Gehälter. Das Kabinett hat eine entsprechende Verordnung beschlossen. Worum es geht und wo die Bemessungsgrenzen liegen.
+Über 3.000 Euro Extra-Rente möglich: Regierung beschließt Klingbeils Rentenreform T-Online
 
-https://www.bundesregierung.de/breg-de/aktuelles/beitragsbemessungsgrenzen-2027-2454638
+https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbjR0NGVOQVdUd3B5aXlzZnF2bjk4aU1lczVpRUVRXzVTVEdSd0JPNmlnY2tPQTAtck5KdklzT1NtRDJWdEdBS0tyMEFNeTB6MzNmQXVKRjlDWU51Sm5hMWJtMFpTVmxMN2lCNndWbmtkVmhJNnZ0d0F2U3Fvbi15MlEyZFhHal9aLTNOM2JNaHdzSTV3RU44XzZOTUJmMktZNDVkRmlraC15QVNFZmdST2tBVjBoODA2bmNCX2FEUDZiSGo0UHYyRHdENTJuS0wwbDZNSnBWd0hkQVZMXzNydFpWMERXclVjcWdDc1VPMHdINnVfSldMQ0p3?oc=5
+
+### Diplom-Finanzwirt (m/w/d) Steuerstrafrecht - Legal Tribune Online
+*GN Recht Fachpresse - 17.10. 04:11*
+
+Diplom-Finanzwirt (m/w/d) Steuerstrafrecht Legal Tribune Online
+
+https://news.google.com/rss/articles/CBMisgFBVV95cUxQUFhyRDgyOFo3Yl9KV2hmSHpkWXVRZHVKSkgtSnoyRU1CX0hobmVwLWRjb0MzVjV0bHRFYWFMY2JSVTVxYkhDcDBxUUlkQzVoUkZqM21lSUZRT0xhRVVDU2dLeXN0S3lDeExaV2l2S2ZTNUxmQ1hkbWdFUXFiN3lzemlTX2dBenQ4eUxMel9JWXFTckhMbmJoVlBHQUZJMEs1QXdtSE9lUjNoRF9Zblo0OC1R?oc=5
 
 ### BMF: Ergänzende Regelungen zur E-Rechnung | Steuern - Haufe. Intelligenz, die bewegt.
 *GN Recht Fachpresse - 16.10. 08:04*
@@ -1036,6 +1059,11 @@ Milliarden für den Staat: Warum der Steuerzahlerbund am Gesundheitsziel der Tab
 
 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVTBqWnVzbWRJTmVDeEtLMkpqRk1ZQXMtVEVMMWpOU0J5b2dMd3R4OG1IXzZmSVRKQVhDN2N5RTBUY0FxSHFaX1BxbC1VYzZKYVIzTjcyT0N3NGJXSUtlamZCRDZmamR2SUhZMnVvb0I4UkNnYUJtT1pqdkhVcWVLaG1wSW1wTFFIbEFTdmZudkFqNEF5dkRTQlJiNlo2QmFvRE5Ba1ZGMkplaS1VY1p0UFBrSExTRVNuRmNhRXNuX2JsOHBrNDRqSWpWa0ZMWUViVXBhME8wOXlzQjFhVUwtdm5oZw?oc=5
 
+### 21/8637: Antrag Steuererhöhung auf Tabak zurücknehmen - Keine weiteren Steuern auf Alkohol, Zucker und Plastik - Bagatellsteuern abschaffen (PDF)
+*BT Drucksachen - 15.10. 10:00*
+
+https://dserver.bundestag.de/btd/21/086/2108637.pdf
+
 ### Kann eine Zuckersteuer den Steuer den Konsum von Cola, Limo und Co. tatsächlich senken? | NANO - ZDF
 *GN Steuer und Arbeit - 15.10. 08:00*
 
@@ -1051,30 +1079,18 @@ Welche Voraussetzungen muss ein neu gegründetes Unternehmen erfüllen, um von d
 https://news.google.com/rss/articles/CBMimAFBVV95cUxPNlRhVzB0UjRqTXozT2N1b0hYR3JVTmhWeV9ibU5HWUd6Zi02NE8yV21vdVZZQTVvd1l5cnNyN0Z4SkgzTkRiSkNhY25YeVdTQTJWUEZWY2RzY2x1WU5iLTcxdE1wNkRfal9vUE0xVGRlUUF2cGs0R2VNOUkzeWtUeUdCY190RmFKUnRkTHdfR3Z2R0JBTzNoSg?oc=5
 
 ### Bundeskabinett: Einführung einer Zuckergetränkesteuer | Steuern - Haufe. Intelligenz, die bewegt.
-*GN Recht Fachpresse - 15.10. 04:45*
+*GN Steuer und Arbeit - 15.10. 04:45*
 
 Bundeskabinett: Einführung einer Zuckergetränkesteuer | Steuern Haufe. Intelligenz, die bewegt.
 
 https://news.google.com/rss/articles/CBMivAFBVV95cUxOcjdENUJ4YUxFcW11SGxrSkRPcUM5VFVPdF81MkVOLVI3UF85N282blVmVV9Ja3lib2hpVi1GMXhZaWVjWHY4aGJ3ZGRtRm1IcGNOWmQyejZ0c09VUy1XZ2dDRVUwRVAwa0V1UGJrdzh5QmtWTXdwS2RaMFZnQWJKS01OU2VJVFJkQm5jMHpEdm9pbl9DVng3V2ZBS0NuZ09QNVlVakhLY3AtSlhsZnZZeVlDeVpEM1pySjdMUQ?oc=5
 
-### 21/8576: Antrag Die Bürgerversicherung in der Rentenversicherung einführen (PDF)
-*BT Drucksachen - 14.10. 10:00*
+### Zuckergetränkesteuer ab 2027: Bundeskabinett beschließt Steuer auf Limonaden, Eistee und Energydrinks - Mittelstand Nachrichten
+*GN Steuer und Arbeit - 14.10. 10:08*
 
-https://dserver.bundestag.de/btd/21/085/2108576.pdf
+Zuckergetränkesteuer ab 2027: Bundeskabinett beschließt Steuer auf Limonaden, Eistee und Energydrinks Mittelstand Nachrichten
 
-### Zuckersteuer kommt abgeschwächt: Weniger Steuern, mehr Ausnahmen - ZDFheute
-*GN Steuer und Arbeit - 14.10. 09:15*
-
-Zuckersteuer kommt abgeschwächt: Weniger Steuern, mehr Ausnahmen ZDFheute
-
-https://news.google.com/rss/articles/CBMilAFBVV95cUxQS1JaX1FKZUZqMTNmRHRGUTFXeGV0Wm84LU1DUThRaVV2Mm5KQnM3YkZnYk45RTlaUjFGaWJQWWl0MDU4VTBrR0RtYzJUWWZ2aXdyZUZldVdBM3FvOEFUQ2Z4SHcyRmVzNEtjcW9vUjFVb1pNdjVqdFBxNjVEcFBqNHFHVVR2OEgzc0RtUDI2ZmRWZ1N3?oc=5
-
-### BVerfG verhandelt über Steuer für Unternehmenserben - Legal Tribune Online
-*GN Steuer und Arbeit - 13.10. 16:55*
-
-BVerfG verhandelt über Steuer für Unternehmenserben Legal Tribune Online
-
-https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOW9qY1hQeXFWOThCWHdCZUw5QmFLa3I5M2h1N2ZGTUxMUzR0cUpDbWNNLWNaNUE0UFptQU9PWFVTVkwtRTJIMnNmVXFYT081ck80d3AtaGloTWVHR1BGbWdTQTFhcFl6cEx4bTQ4SE5oT1UzdVhOMWt5cFhRa1Z5ZnF2WWVianBZbjZFRHZVdjA1cmhibG82MjNtenMzeURCd0FHdjJpMUE?oc=5
+https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdkF5OWxrYnl0UE9ZTGlodk9Ldm5RUExyTXVBVnQyMEZLMkVnREJtcVNEbU1pTVc0amJqdndIRW5SWERzTmtRMTdHdzMxODNVTkROVFhsMXhEczhwc3Z2R2ZNeVN3MFlXOE5xR2hFNlZWT0JBR055UWwxQzQyZWpJUUdyeXMyR0RyRms2WlB0aXc1QVBRa19XYzhRdm5LOEljdTdyS2xfTnk0Mmc?oc=5
 
 
 ## Foerderung
@@ -1095,6 +1111,13 @@ https://www.bundesregierung.de/breg-de/aktuelles/fruehstartrente-2449404
 
 
 ## Arbeit und Unternehmen
+
+### Senior Legal Counsel Arbeitsrecht (m/w/d) - Legal Tribune Online
+*GN Recht Fachpresse - 17.10. 05:11*
+
+Senior Legal Counsel Arbeitsrecht (m/w/d) Legal Tribune Online
+
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdXdqRUNIQjFKQlBCazh5YXphUk1XRXZrSV9ITTRpZUZnSjNNWXJQRTNPWjF4dEhKQjNtZ0pTa2lWVEZsOWVrcHlaNVFEa3llRUxrNFN4alVHallEdHpTempVV1JwNWw5bGtQMlpNTm5KRU4wYmpocTgzRlU4Unk4V00yNVdLUW5HSDVnYUtqRE00ME5SOWRXRkhLODQ1c0JPc1AzODNnQV9ldw?oc=5
 
 ### Syndikusrechtsanwalt/Legal Counsel (alle) im Arbeitsrecht und Datenschutz – Befristet für 1,5-2 Jahre (Elternzeitvertretung) - Legal Tribune Online
 *GN Recht Fachpresse - 15.10. 06:15*
