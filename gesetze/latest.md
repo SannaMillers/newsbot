@@ -1,6 +1,6 @@
-# Rechtslage 17.10.2026 09:20
+# Rechtslage 18.10.2026 09:37
 
-166 Meldungen aus 18 Quellen, Zeitraum der letzten 96 Stunden.
+156 Meldungen aus 18 Quellen, Zeitraum der letzten 96 Stunden.
 
 ---
 
@@ -18,6 +18,13 @@ https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1383R(01)
 
 https://dserver.bundestag.de/btd/21/086/2108634.pdf
 
+### Bundestag automatisiert Rentenhochrechnung ab 2027 - SuaraGarut.ID
+*GN Bundesgesetzblatt - 17.10. 17:44*
+
+Bundestag automatisiert Rentenhochrechnung ab 2027 SuaraGarut.ID
+
+https://news.google.com/rss/articles/CBMicEFVX3lxTE40LUVmYW1yOUVIb1c0Z1VHaktadWlVOG5reFoySkZoN1NteHoxQ1BIWS1OeHpxTTA1bmIxTkZkb1lpVWxiWEdiR0sxdjd6WTJnTG1qTlhmTWl3bjhrdGVKQ2wtRVRBTkh3YnM2QmtSbVo?oc=5
+
 ### Bundeskabinett: Steuerreform Beschlossen | BR24 Hailee Steinfeld (S6c3jYXljl) - Unisba Media
 *GN Steuer und Arbeit - 16.10. 22:49*
 
@@ -32,12 +39,12 @@ Bundestag - Frühstart-Rente: Wie aus zehn Euro eine Altersvorsorge werden soll 
 
 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcUh2MHJvRXJoeUEwS3VmUFpnTU9IVF9nZnJZSEpuS1drQmxSZ2lKMEJ6Y243WV9tWE1LTVBkOF90TDhxbk04U0tOTk15MEdrS3BfTDc5Wk5EN3E5eDVRUlExNkhibFRqQVpJb054WS01MEFOTjM0ZDZLblJmM1RzVURnX0JLNGItQUotVjRVOENLZE5xZFRpa1FiemFuRF9aazZzWTlfVHNEdw?oc=5
 
-### Rentenreform im Bundestag beschlossen: Geld vom Staat ab 2027 – mit einem Haken - T-Online
-*GN Bundestag Gesetz - 16.10. 12:30*
+### Bundesrat - Rhein warnt vor Steuer auf langfristige Immobiliengewinne - Wirtschaft - SZ.de - SZ.de
+*GN Steuer und Arbeit - 16.10. 02:00*
 
-Rentenreform im Bundestag beschlossen: Geld vom Staat ab 2027 – mit einem Haken T-Online
+Bundesrat - Rhein warnt vor Steuer auf langfristige Immobiliengewinne - Wirtschaft - SZ.de SZ.de
 
-https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd043Z19uYm90M2RqM21VemQwN2lfZXJNQkxGWHRXcU1Kc1N6MnBETjQyVGVGQno3aGVHSm9NTlQ1MnJLTmRHUUJ5MjV6bkx4Vko4elg4ZHp0VEpHTFJ2T0VJQ0liNGtvMjlfX1VoV2lRaFNzSi1pRlRtR3dOYkZreHgtak9ieEQtSUJnQTlvX0tHTHFWMGljbUxpbGJ4SEVxNTlDYlNmSXpKUW1ic192eURlRXJycTdHUnQ0Ym9BdlpqdlExMm5NdUh4Nk1HNkI5R04tclRTOUZ5a1hfTzh4ckZ3VXg5UmV3MU0w?oc=5
+https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaHF6SlJhdkFYRGhnbUJOU3hzbm1IdmdjRTBESFY0Yy1HUnRIdW9rLVJzSU5UenlSYXpHRHhLeGtFUkFQOE9vYmswWTlHRnp1TElRdHlWOFA2X2tyR2Q4amNZNG9vZGp3bm9KeFJJVTBJRGZsN3k0Vi10Z19wdEtQOXZYMzJzMTYybFpXUThtMHh2RnlDWGFRWjUwTDdkQWJEZHNNaHdXb201ZXI2ODE4YmV6R3FKbHJVbkhXT29PVlVTS3p4U05jZnd2bVh2V3lOb3gya2locGRKSzJxSmprNENkTTRPejBNejFoRQ?oc=5
 
 ### Bundestag wird EEG 2027 und Netzpaket wohl erst im November verabschieden - pv magazine Deutschland
 *GN Novelle Reform - 15.10. 14:16*
@@ -46,26 +53,33 @@ Bundestag wird EEG 2027 und Netzpaket wohl erst im November verabschieden pv mag
 
 https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2g2WDg4aUNxU3dMZzR2ZFc5S18yX1NCdjVzSl8tWkdKQjBNLUhYX0ZEQXB6Mm50NWVJQlhOcFVRaFRBcVo5bkh5YVo1YmNUd05sdV9GZVQ2czVEeG5GNHRraFlNWDJ2alY3WU9rUVQxbkZXOV9HTFFjNEVJdmpOVzRaS3hLeEZjU3hzVHBMbXNYN01qYzJWUEctaEswc3JIeHZNajJIbUx5U0c0YWJJYmdB?oc=5
 
-### Bundestag verschärft Terminmeldepflicht für Praxen - AerzteZeitung.de
-*GN Bundestag Gesetz - 15.10. 09:18*
+### Ausweis auf dem Handy und Erleichterungen im Alter: Bundestag beschließt Änderungen - Echo24.de
+*GN Bundestag Gesetz - 18.10. 07:10*
 
-Bundestag verschärft Terminmeldepflicht für Praxen AerzteZeitung.de
+Ausweis auf dem Handy und Erleichterungen im Alter: Bundestag beschließt Änderungen Echo24.de
 
-https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNEFoSlE2cVgzY3RkbW8xaFg1TjlEdHB0Qm5xQVRrNWFWWmNWRW9jTkF5aGs3TXZyUXZpZGVKWlRVakVtQUxHVWxkTUZ3ZDFudnBUdzRwV3BjZFYwS1N3WW93dWhzU0s2Z09veEF3RVdVbnhEbDJNbTlnOTg5NXZNWktRYWNma1N5RVZZak5qYU10NTNOaDNIdUcyRDhrQzE4S1JheF80NlQ4NDVtNHpHamlnd0FneDZVZ2FvcnJuX0VZU0U?oc=5
+https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjlHeHdlXzJMd1dGbTJobHJKY1lWNnBkU29halFyNWliMWNQazhfQThwMkZNU1dxY01uZVBmSHdlMXNyazgwYTNZMWdiRWxRckI1LUtnQVNaWHlzX2k2WTlHQVhGb2p2bmRMY3daZ0FTQnVHaU1SMHBpMXFFdkZlU2RIbWdUMUN3RmRUeGtneEFrelhuQTRDMEt4R3pVY0pIbE5GODBJWHdKNGxDYzdzbXp5SExabi00U1dzTjBnaXJDYmM?oc=5
 
-### Im Kabinett: Steuer auf zuckerhaltige Getränke - bundesregierung.de
-*GN Steuer und Arbeit - 14.10. 10:42*
+### Bundestag beschließt Frühstartrente: Bis zu 1.440 Euro vom Staat für Kinder - CHIP
+*GN Bundestag Gesetz - 17.10. 11:48*
 
-Im Kabinett: Steuer auf zuckerhaltige Getränke bundesregierung.de
+Bundestag beschließt Frühstartrente: Bis zu 1.440 Euro vom Staat für Kinder CHIP
 
-https://news.google.com/rss/articles/CBMihAFBVV95cUxPUk5GZGN0bWpoVEpVdm9xT20xaUF1dzg1bUZfbWJSazhFa2NoUU5QNmtQQ0FUYjIta3BWbU9mUDMxQlZmNzMxeE44aGVweGpMcUpWNjZsaEIxbUlFLVBidlJ1X1c1UUZyU2llak1fWHYwdndjOWVvUnRHV0NVZHREVTBDRlo?oc=5
+https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd3lHeEpCNjJXMExzaE90QS1MczZkdlY4N3k5cTYyajZtQzA2UDJmZkxLY2tWZzVJTnRBeThlQmZ1UHJLWUFnNVMtbERENlBWYUVRUHFkSVRVc2lkNGZvdHljejJuaWhaWkRxdk0yTmR3MVR6NTFKa0dzSDNGLWEtb0NMbXBhbWJRTmZYQmpUOUhJVExwRzJQNFVpSnhlNkI3d282THNYQWJCMDdpZmdBRm9Scms2RjZVb2lWNXpRbU9CNVhVUkJ5RXZ2SHVlMlFOSFJFaXQ0eUMzLTVlbWtPNEI2ZnN1azJIR0FOSTVWQm9MeFgwdFdz?oc=5
 
-### Zuckersteuer: Kabinett beschließt neue Abgabe – in einer Light-Variante - Spiegel
-*GN Steuer und Arbeit - 14.10. 10:02*
+### Führerschein-Reform 2027: Diese Regeln sollen sich für Fahrschüler ändern - CHIP
+*GN Novelle Reform - 17.10. 11:05*
 
-Zuckersteuer: Kabinett beschließt neue Abgabe – in einer Light-Variante Spiegel
+Führerschein-Reform 2027: Diese Regeln sollen sich für Fahrschüler ändern CHIP
 
-https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZkxXdHN5Y0xJdGowelE4Y2ZrTS1ZcE9SWnZ2QUNEU0NPanpucS1qT3BFOHVJVF9qLWE4QUxDRUxvQVRWZlpGT2pSVGNrTkhIX2lUcV93UVU5cnRwQ2sxVEJYUFZGTk5TaHo1VEdWeGZObENCaFlyYW9lcnFUN2w0ZkRETGVRZUE4NlJXNkN0YkdXNU5hRG4zMVBtWnJ0NGY2a0VoWTZZZlNnRmVQY2dXQWhtX2I4X2pDR2UzRGhCRzI4UkhraVlHWnJXbG96b255SXBtLS1Ta09UektKWExtS0hEM1o?oc=5
+https://news.google.com/rss/articles/CBMi7AFBVV95cUxQU25sMlViR0J0WGxMTkpYdTZZQzRnVGI4cGprVlQ4eG5raTl0c2pGUmpudXFnQ1RSeVNJVWlxSEwtMmY1QnJJanBPalc0XzVHakc1aTlKSUJBRm1odXMwY2dPM0dGV2w2bjJ4OUpzZzRVYzNDaDdrN0R2SnpwUG9uakwwQ09oanpLZVFkMmowZVdYVV9yN2dDTzlBa044T3RVZ2RJSUQ3MnE0LUZwb0tNZy0tcUJIckw2aGY1emlIRDh3aTI1VGdSenVPN3FQQUNhalBHa0ZFYVhHVmdKOHNmcWE3bVdUcXBqejNmeg?oc=5
+
+### Nach Krankenkassen‑Reform: Beamten droht höhere Zuzahlung – doch Bayern zögert - Merkur
+*GN Bundesgesetzblatt - 17.10. 09:51*
+
+Nach Krankenkassen‑Reform: Beamten droht höhere Zuzahlung – doch Bayern zögert Merkur
+
+https://news.google.com/rss/articles/CBMioAFBVV95cUxNZzlWU0ZqWnhnRzVSUXBndnA1VzBtMWZDUXZfYVliR2RBVHJOVUFwY2JIbTNMWHVTV3EwVUpNbmwzcl9zOW5nMVFaTlk5YlQ4d0Y0ajRuVDVhdzNBYkttZFhwajliQ0szaDY1aUk3N0YxRU96RnZzZW85bGxkWThDU2MzcXZLcFE3SURsYWxkc1k3QVpKQVVqdXNUOXZGcmZ3?oc=5
 
 ### JANUAR FEBRUAR MÄRZ APRIL MAI JUNI JULI AUGUST SEPTEMBER OKTOBER NOVEMBER DEZEMBER 01 Fr 01 Mo 01 Mo 01 Do 01 Sa 01 Di 01 - Bundesrat
 *GN Bundesrat - 17.10. 07:42*
@@ -73,20 +87,6 @@ https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZkxXdHN5Y0xJdGowelE4Y2ZrTS1
 JANUAR FEBRUAR MÄRZ APRIL MAI JUNI JULI AUGUST SEPTEMBER OKTOBER NOVEMBER DEZEMBER 01 Fr 01 Mo 01 Mo 01 Do 01 Sa 01 Di 01 Bundesrat
 
 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa2xlSzFQRVN5dDdHUk1KZm9uWkgxT19CR2hmd0xPcm54V0tabGJaTkZIXzl5MmE1a2hxVHYyMjdpX2hidHZMY2d4bjVpclFUM0sxVS1mTkpxRjVGYmZ3bEVQY3dReHdJSGx2Ty1zTzlseXNGYjBtSW5yN2hoRWpDWkNTRGNYMUdrVG9kN1dvLWZHUEZuY2lnV2NHMFV5YjJ3Qk9nc2NhQzFpdw?oc=5
-
-### Reichstag: Klöckner plant Gesetz gegen Drohnengefahr - ad-hoc-news.de
-*GN Bundestag Gesetz - 17.10. 07:00*
-
-Reichstag: Klöckner plant Gesetz gegen Drohnengefahr ad-hoc-news.de
-
-https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHlCQy1lNEFmN3dhejZVdEJTN2lyNnRZOWplSUZiOTlzaHJZaTN2eGkxalBqYWo5NWRuVlJub2toQzVDdlFPMGFvM1NVckE0TF94VUFwQVZqTldUYkE2VUxOeUF6QmFwSTJjc08wM1RSX2RFSlZIQ3BEaDluRGpkR195ZDczbTRqak00S1BnOFdjcm5ielBncVJmWWo?oc=5
-
-### Diese Woche im Bundestag beschlossen 🏛️✅ 💸 Frühstartrente: Zehn Euro monatlich, die langfristig am Kapitalmarkt angelegt werden. 📲 Staatsmodernisierung und Bürokratierückbau: Regeln abbauen, die Menschen unnötig belasten, Planungs- und Geneh - Instagram
-*GN Bundestag Gesetz - 17.10. 00:44*
-
-Diese Woche im Bundestag beschlossen 🏛️✅ 💸 Frühstartrente: Zehn Euro monatlich, die langfristig am Kapitalmarkt angelegt werden. 📲 Staatsmodernisierung und Bürokratierückbau: Regeln abbauen, die Menschen unnötig belasten, Planungs- und Geneh Instagram
-
-https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1ZTZYWVlVSllMTHcycFB6OHQxeTYzcjNsZUhaUXJvSFRzYmk4LS1ZV3NxRER4WWhzS1ZBaUd0YnBmc0JyQ3laMmNNZlVHWU5hZ2c?oc=5
 
 ### Sat.1 NRW - Notfallreform: Bundestag stimmt über Reform ab - Joyn
 *GN Novelle Reform - 16.10. 21:03*
@@ -109,12 +109,33 @@ Weihnachten - Seite 13 - Aktuelles aus Recht, Gesetz und Justiz Legal Tribune On
 
 https://news.google.com/rss/articles/CBMibEFVX3lxTE5NQjJNWFpLb20tZXRYdndVREk4dzlDMjBjeDBlUlF0ZlJSTlJ4Q05YLV9rNEFyWG85b2tKZzRhSUFEeF81TUQxNGU3UFhjWU8xTmg0cUZKMWs1RDY5TmozRVlJd3hETTltX0FHQw?oc=5
 
+### Prütting/Gehrlein, ZPO - Kommentar, ZPO § 807 ZPO – Abna ... / Gesetzestext - Haufe. Intelligenz, die bewegt.
+*GN Recht Fachpresse - 16.10. 17:36*
+
+Prütting/Gehrlein, ZPO - Kommentar, ZPO § 807 ZPO – Abna ... / Gesetzestext Haufe. Intelligenz, die bewegt.
+
+https://news.google.com/rss/articles/CBMisAFBVV95cUxQUGV3blBMTGpFb2JhNTdFS2NzRjB3REd3eUxWZFpodlZWRWFRRVJXcTNqZk1sOFZ1c3I5bHMtbmZNTkx0ZjlpLVZ1Wi03NzJ3RXkzNl94ZlZycjcxRkdfRDltS2lWeUphRXdZbUJhQ1lIVkxUN3dIQWlHbEJkNVd4bE8xeHB0YlU2ZDFxWnFNa2o0QUx4OExCLVB0QWUyeWZSVnY3eXN5Q1dZTDlFM1lYUQ?oc=5
+
+### Diese Woche im Bundestag beschlossen 🏛️✅ 💸 Frühstartrente: Zehn Euro monatlich, die langfristig am Kapitalmarkt angelegt werden. 📲 Staatsmodernisierung und Bürokratierückbau: Regeln abbauen, die Menschen unnötig belasten, Planungs- und Geneh - Instagram
+*GN Bundestag Gesetz - 16.10. 17:35*
+
+Diese Woche im Bundestag beschlossen 🏛️✅ 💸 Frühstartrente: Zehn Euro monatlich, die langfristig am Kapitalmarkt angelegt werden. 📲 Staatsmodernisierung und Bürokratierückbau: Regeln abbauen, die Menschen unnötig belasten, Planungs- und Geneh Instagram
+
+https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1ZTZYWVlVSllMTHcycFB6OHQxeTYzcjNsZUhaUXJvSFRzYmk4LS1ZV3NxRER4WWhzS1ZBaUd0YnBmc0JyQ3laMmNNZlVHWU5hZ2c?oc=5
+
 ### Bundestag hat Frühstartrente beschlossen: So kassieren Sie 50.000 Euro für Ihr Kind vom Staat - Frankfurter Rundschau
 *GN Bundestag Gesetz - 16.10. 17:27*
 
 Bundestag hat Frühstartrente beschlossen: So kassieren Sie 50.000 Euro für Ihr Kind vom Staat Frankfurter Rundschau
 
 https://news.google.com/rss/articles/CBMitAFBVV95cUxOaEpXT3JNaVBLTS1xVi1BWjZUY25Zd01IdDJIMTAtb0l4eG94WVB4dXdrclpIWU1kU0hKWjktWU1KaEpsREVtRjJHRkZ5a2JHX0ZMRF9zRjdrbER2M1pMbmdFTU9jb2p5RTFyWDNrTm51WDdneEp3WGhWRHpNSE43ZERUMFloZVBPc2R0bkVHamlwOFJfSVUwZUcxTTJ6OEtSR1A3YUlLVzJkTEM1RU9JN3prN0Y?oc=5
+
+### Zuckersteuer beschlossen: Werden Softdrinks bald gesünder? - SRF
+*GN Steuer und Arbeit - 16.10. 17:00*
+
+Zuckersteuer beschlossen: Werden Softdrinks bald gesünder? SRF
+
+https://news.google.com/rss/articles/CBMi7AFBVV95cUxOT1V1Q2F5aF91WW1yOVI3NE5VdHowUUthLTMxUk1MMTY3TlFJQnltNnltckhiUXk1NlU4QlZhbUVDYVFRN3ZtWG1TQkEzSnJpaTB2UTVPcEdlT0RLN0hOYUhRbEhkM2Y4S2dFdWJXakNUUWloRVNQNmVqaEgtSTFsTkRTZHYxQnAycTJRUDhHanl4UVZqSzVLVWRnY3hmcUI1aUJ6bnE2Qy1sRG1FdTlPZ3NKdFdLVFJTVmJUVWttbjVTN1hlWGZoUGduWGRyR19BWFVzS1E3d1hXdmdUWkxrQlloUS1SNFJsakVlUw?oc=5
 
 ### Tagesordnungen & Termine - Bundesrat
 *GN Bundesrat - 16.10. 16:33*
@@ -123,17 +144,17 @@ Tagesordnungen & Termine Bundesrat
 
 https://news.google.com/rss/articles/CBMidEFVX3lxTFBxUmI1TVJUNUw1dDBnZ1lOUUhuZmhveXJCcEFwLWw0N0U5ZFFNQVpGSk05VW11dUp1UW45QTZMNzk1anNoMXJRblBOczBVbmdKSTFJU1RQR0NWQzI4Z1ZKcUIycDgwZVpkMFVxX2M2bGhEZUg2?oc=5
 
-### Deutscher Bundestag beschliesst Frühstartrente - SRF
-*GN Bundestag Gesetz - 16.10. 16:19*
+### Haushalt 2026 für Falkenstein beschlossen: Von Schulsanierung bis Feuerwehrauto: Diese Projekte plant Falkenstein - Mitteldeutsche Zeitung
+*GN Steuer und Arbeit - 16.10. 16:30*
 
-Deutscher Bundestag beschliesst Frühstartrente SRF
+Haushalt 2026 für Falkenstein beschlossen: Von Schulsanierung bis Feuerwehrauto: Diese Projekte plant Falkenstein Mitteldeutsche Zeitung
 
-https://news.google.com/rss/articles/CBMixAFBVV95cUxQUjY4cHRkUUNBTzNZN0NaRFNCOWRJWDU1Qk5EZW1Qa3pWeTNQNF92T21Ua3diODNXWC1BMGF6Sk42VXZIclhfRUR6RmdDS0N5YjhPLThYTEVMaEtDWGNacWpzR25EQ3J2amdYV3dEalN6T2VXQURMYlBUYnhrWmpmb1BuYWF0VXkxNDRoRVNfRlluQUJDN3RKR2trWTUwRlZZei1WVTFWeVdRbmtaRXZjTzR2cFVsMVRIZlk2RXp0LUJ2R2s5?oc=5
+https://news.google.com/rss/articles/CBMiswFBVV95cUxNTTlCdUNyeWo1TDF1dUFVTkNFX2FPNFFIbG13MmJ5eFAtN29kMkdZYTZmVGxRNDdQaERsVWJQYm4wcVFFbnBlbmZGcG05Q3dhd2NrdTJoeVFMNG5LOEtLTDNqNGhVdHBRNzRkQTZONGp6VjZSdnNSUUdTd1N1cGZ1dFNPWk4xNGFGSEJ0d212X0NjcWUwUGhuTmptRmo1REJBc0pMYU55QlB1czFhSHJNOWtQdw?oc=5
 
-### Pflegebeitrag steigt 2027: Kinderlose zahlen schon vor der großen Reform mehr - Frankfurter Rundschau
+### Pflegebeitrag steigt 2027: Kinderlose zahlen ab Januar mehr – Bundesregierung plant große Reform - Frankfurter Rundschau
 *GN Novelle Reform - 16.10. 14:38*
 
-Pflegebeitrag steigt 2027: Kinderlose zahlen schon vor der großen Reform mehr Frankfurter Rundschau
+Pflegebeitrag steigt 2027: Kinderlose zahlen ab Januar mehr – Bundesregierung plant große Reform Frankfurter Rundschau
 
 https://news.google.com/rss/articles/CBMipAFBVV95cUxNX1VIcjVkSjVIbVQ1ZDVkZWc5T1BDYU1QdFNpdjgzZGNSalgydDFhVk8wZ2FvTWVvenZBb09KZ0xSX2JnTGowQkRaLXkxMmZiVllHMEJnUVhLMUc1blhvcWpHd3ptWjY5Y2NnMXZjVFlmU1pHRXpjWEtBbEN5OEhwa181YUN4VkRZWDdxeE5mLXk5UUhnaEZlRkwzTmFRZE5RWE52Yw?oc=5
 
@@ -193,6 +214,20 @@ Bundesrat fordert Nachbesserungen beim Gesetz zu frühkindlicher Bildung STERN.d
 
 https://news.google.com/rss/articles/CBMisgFBVV95cUxPNEItTzFCT1g5V2N2RWQtang1NS14MVdDdy1seG9HZzlQcGhObDVHS25yNVYtYWF6S19nUDAxR3liTGs0UUNJX04zRzVWVVF4ZUxJME9VeHNmNE9EX2ZPNS14dlpkcUJsLVZJbnhFTVhOY01IV3N1bDZ2enphcm94QU5rYmNQX2RHWGpMV2hXUm52RWFVemh1LTFrT0FHb1ZZSG1hOWZBa3RiLTRNdUtBUzFR?oc=5
 
+### Bundestag beschließt Notfallreform - zm-online
+*GN Novelle Reform - 16.10. 09:51*
+
+Bundestag beschließt Notfallreform zm-online
+
+https://news.google.com/rss/articles/CBMifEFVX3lxTFBuazB6OEJ4aFl3dkU4Q2lpYVRTNXU5MXdLNDdXeWpQQmdzMUZRSDJoRVJna3psMkRWcUdfMFZXLVAweWs1TG11VHVGNnJ2MFVlZVZPSGVCNm9QMy1jeUdjX3N5TXRhMGVJUU5YQk1zc0REbTltQ3FBaHRTRGI?oc=5
+
+### Weniger Nachteile nach überstandener Krebserkrankung - Bundesrat fordert neues Gesetz - n-tv.de
+*GN Bundestag Gesetz - 16.10. 08:43*
+
+Weniger Nachteile nach überstandener Krebserkrankung - Bundesrat fordert neues Gesetz n-tv.de
+
+https://news.google.com/rss/articles/CBMixgFBVV95cUxNbmw5d3RoN3E4Z1hrQXE4Mkdyck5DV2RtVmI5b0ZxdmtRQUtUai1qbzh2WG9VVFUwajZXWHVSUUNDd1hWYnh6T2FIaUZtMnlBTkFuQXI2U0gtSTN6UkktTE1lR2QzMVhEcVZjRGJuNGlOLU9MZzJadHp2R2FSX3VPMWtralZyUTIwMF9sa1ByMmVSWVIzVXFmM0FxMWlmcGxBOTFGV1J2MjlPMjhVRXhWTWpVOHdHVTZvajlBcE1YaU1id0dqTnc?oc=5
+
 ### Bundestag beschließt Frühstartrente: Was Eltern wissen müssen - MDR.de
 *GN Bundestag Gesetz - 16.10. 08:38*
 
@@ -206,6 +241,20 @@ https://news.google.com/rss/articles/CBMiqAFBVV95cUxNclpDMEtjSWlpd1pZMkF3bDNXQlF
 Altersvorsorge: 10 Euro jeden Monat vom Staat fürs Kind – Bundestag beschließt „Frühstartrente“ WELT
 
 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdXJCdTNvQnNrcEdJb1dTaXQ2ck0ycENoeXJGMF9iQkphdWZpRGdtR2RYb01OYVhCN3JIV3lCd1p1RGFRQ1lzRGtJMmd2V2NkTmFZS2xJMjk1OXMzVm84a0psMGpINEdBTkFwOEZ0cHE3QjRPVlB1Z2lYZW54Um9uRi1DTG9mYUVoVnd2T2RlcFI5dmZueXJvbWxrQWNKU3hoYU5peklNZExsSHdPZS11NjJzdlNmSEFqaUNIVUt3NFdUYjI1RkNkemd1Y2lmUXdXWUNrQnhuZXBFbXdMTERkeTBxN2VvekpRTHlwUGxHbDdUSjVwcFhpOEhkM19HcUk?oc=5
+
+### Bundestag gibt grünes Licht für Notfallreform - Stumpf + Kossendey Verlagsgesellschaft mbH
+*GN Novelle Reform - 16.10. 08:11*
+
+Bundestag gibt grünes Licht für Notfallreform Stumpf + Kossendey Verlagsgesellschaft mbH
+
+https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNGc1Y05jWVJKUWVxd1V1NzFmQ2ZvYkNJSjdBY1dmT2pTU1VtQlhYMUJ5UW40eFZVd1AzeHREU3FSOXZ3YzBfZjJyQjR6V0VRbF9zMW5mTURSblB0TTFscTlOQUpJQ0tweTB2T1p4Y3ctcVNoNnJvLWxmYlFxYngzY2RRSmJQMFF1RGVN?oc=5
+
+### Reform der Altersvorsorge soll ausländisches Kapital nach Deutschland locken - Börsen-Zeitung
+*GN Novelle Reform - 16.10. 07:08*
+
+Reform der Altersvorsorge soll ausländisches Kapital nach Deutschland locken Börsen-Zeitung
+
+https://news.google.com/rss/articles/CBMixgFBVV95cUxQOVQ4c0lNaEZRc0pJZkhhNWVQY0FRYlk0V093RDE2eXZMZHlGSGxMc3czLXZQTzM5aFQxSnh0TFZURUZqX3FwYjlGdmxHQ0ZqU0I4Z1U0cVNXUE96Vm5vaVRYTU9Lbno2OEpHODRId1h1QmRVVGk2ckFiZUdGa3VTbHV6aldzTjNTTHBNc0RBbWlycUx3RTV5MG1relkyWjhSdVphOFRudXpQWGpyRERTRTVIV1BaUTFTYjN2bHRHN3E0OVNWWWc?oc=5
 
 ### Bundestag beschließt die Frühstartrente
 *BT Aktuelle Themen - 16.10. 07:00*
@@ -234,6 +283,13 @@ https://news.google.com/rss/articles/CBMigwFBVV95cUxONk4xRWhpU21iSnBqcVd4SmRLNUd
 Pflegereform: Linke ruft wegen Reform zu schneller Beantragung von Pflegegrad auf DIE ZEIT
 
 https://news.google.com/rss/articles/CBMirwFBVV95cUxPY1JsQ2wtTnduSnBOLXVESkRReVdTSVhOQVFYOHJGcXM0RXVDT3VmcVRqaXh1VmtuQjU4NGJhcjNXdmJWakpLWGlvNGVWaGNjZ1lHZW1LZk5CSHN5T1lGSW1DRUlfT2wtRUp1MUNXcmxYTUlZRm1FR2VKc1M5a2s1dUVsVEVoT3lkNHFVNnc1TUFyRVFicHpmakR3N2ZfSHpXZ3FYVnZTLXRwalBQckxN?oc=5
+
+### Smartphone als Ausweis: Bundestag beschließt Reform - it-daily.net
+*GN Novelle Reform - 16.10. 04:36*
+
+Smartphone als Ausweis: Bundestag beschließt Reform it-daily.net
+
+https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mN1IwUDBEMHdzTjRWN3pfdS1aUkhEN2x2UTJzbFJVeDNoeGZDSGkxcE9POUFJMVhyV0FZOUdBd0J2MVFOakdyd3k0b0RfVlZmYmh6ZUkzdFpfMF9UTnJ0aXZUdG1PQUhK?oc=5
 
 ### Bundestag beschließt: Zigaretten kosten bald fast doppelt so viel - T-Online
 *GN Steuer und Arbeit - 16.10. 04:27*
@@ -264,7 +320,7 @@ Gesundheitspolitik - Bundestag hat Reform der Notfallversorgung beschlossen Deut
 https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnRGTFYxUHNRd1llTFhRcU1LdlFLcHZDeDdIT052MDFXdVdKbDVDbVJVZlFqQlF6eDFVOXZpczk1OWM4TkYydFo2OUlDX080NGJ3d3hYS3JlWVdtSVFrQ2lkM3BScmlYQTAxRmpROXA3bjFOcUZiQ1FOT2hDMDZoSjQtZFJraWtmTmQ2TldPYXh6TEtZODFaVkNR?oc=5
 
 ### Teurere Zigaretten beschlossen: Der Bundestag stimmt für stufenweise Erhöhung der Tabaksteuer - Frankfurter Rundschau
-*GN Steuer und Arbeit - 15.10. 21:31*
+*GN Novelle Reform - 15.10. 21:31*
 
 Teurere Zigaretten beschlossen: Der Bundestag stimmt für stufenweise Erhöhung der Tabaksteuer Frankfurter Rundschau
 
@@ -305,6 +361,13 @@ Bundestag beschließt Reform der Notfall-Versorgung NDR.de
 
 https://news.google.com/rss/articles/CBMizwFBVV95cUxPZFQ3UHl5YTZGWm9TLU1saEMwV1dLckthOXlLT29pRTJZVmE1cnRWeDRQWDZPVmkzRDRmbUFCc01LODdlcE1fbWI5Ri1senUzaE5sdzMxSHdCY19BcnFzb25saFFyNUVRRk9IWHUtNktpNDI4RjlIdG9WNlZLY1pYaGdXU0o1alZfUU1QRFQ2c3F6OVpqck02cHFhb0FScGZzLUZzcVc0eThGTHg3cEJ1SUlCdGVDdDNfb3hhaUdkMURpZTJEWE1KSjlzVFlPcGM?oc=5
 
+### Smartphone als Personalausweis: Bundestag beschließt d-you App - ZDFheute
+*GN Bundestag Gesetz - 15.10. 19:31*
+
+Smartphone als Personalausweis: Bundestag beschließt d-you App ZDFheute
+
+https://news.google.com/rss/articles/CBMimwFBVV95cUxNZjVOWnlhLVRwQjlSS1lCWnZDRHlyczFGbTVKeHlGdlJkM0otZHZPOGMyb3p3TGhnQl85RU1PS2FZSU03RG5SSTJwVjVOUlk0ZGZGQlQ2RVNxZjR1a2I4dHZxMWhfOE9oZVJHNkJOZU5ILXpKUzNWVnViYm9rbXNiZzJRNjI3X1VYSnZwV3UxS3lPdk53d3RfeUxIbw?oc=5
+
 ### Bundestag stimmt für eine Reform der Notfallversorgung - tagesschau.de
 *GN Novelle Reform - 15.10. 18:25*
 
@@ -312,12 +375,12 @@ Bundestag stimmt für eine Reform der Notfallversorgung tagesschau.de
 
 https://news.google.com/rss/articles/CBMib0FVX3lxTE0wVWZ0OThiZUNLTDhoZUE1ZEtwSkg2dzNIcXU3XzdjWW1GVExvZVBPRmN6WjBnTVdreUpvUG11enlvNXB3b0RWVzh5OWlLUE1zYi1URGI4TWZPLWNjRjF4V1JWRTlYUmRfVTBiZzFBbw?oc=5
 
-### Cannabis-Legalisierung - Seite 4076 - Aktuelles aus Recht, Gesetz und Justiz - Legal Tribune Online
-*GN Recht Fachpresse - 15.10. 18:01*
+### Karin Priens neues Kita-Gesetz im Bundesrat: Scheitern lassen verboten! - shz.de
+*GN Bundestag Gesetz - 15.10. 18:00*
 
-Cannabis-Legalisierung - Seite 4076 - Aktuelles aus Recht, Gesetz und Justiz Legal Tribune Online
+Karin Priens neues Kita-Gesetz im Bundesrat: Scheitern lassen verboten! shz.de
 
-https://news.google.com/rss/articles/CBMifEFVX3lxTFBUd3NWeVpXUDRoUW1uSzQtMVZHWjd2a0pIOW1vd1VraU9KVUpuaUxUUDJTaVB5SFBldmJqZXF6d0NmTTlZbnpvVjRmMF9ZLWFjb1JkSkZkcVl0WEZBeUJMdG9jWWVXQlZqUkxSUHFLa2hjTEhpakVvZGlJZ1k?oc=5
+https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMzBGa25vTUlUcXRvdnFTVU5ZRjB6bUppZWJyQm9ZY2Q0bzAybmlBUU9FN2loRDlkdFdmbVdzZGZfanNJc2dGUGJuejB3RGxsUWhNVktYLWlFRkcxbERXVU1RVUs5VkVxM1hwUlJJR01BQmZSeUxSRVhDRlV1a0xXRzV4QWtDd0R3OVM4M0lRYm1uaVNCSzZGT1JZQnFzRWE2ZHdYS3FvYTZaWHhyWjNzYTlLYU9KOGx6MGVlUENRb1FVdmwzcUNhbGxXV1BNekdL?oc=5
 
 ### Bundestag beschließt Notfallreform – was sich 2027 ändert - kma Online
 *GN Bundestag Gesetz - 15.10. 17:14*
@@ -333,12 +396,47 @@ Digitalisierung: Bundestag stimmt für Einführung einer digitalen Brieftasche D
 
 https://news.google.com/rss/articles/CBMirAFBVV95cUxPVEh0dzRMTVMtbnkyUTNjSUZFblgzOUI2YVZVNGp2UkhGSzZoZkdQN1V2NU5xTEJJRUlKWG5qa0d6b3lxNm8yR3RMd28xTkJOOGl4UEtoTlFlVFEzZ25QNDY3MHdlMzNKVnQtcF9KNnlzX2Y2UENabzJDeXRNSUU2YnEwQmFSbFJ6aVNwS3p0ak5DOWFmUzMzSXdXcXVDR0FQckExb3ROemxpcjZs?oc=5
 
+### Gesundheitspolitik – Bundestag beschließt Reform der Notfallversorgung - nd-aktuell.de
+*GN Novelle Reform - 15.10. 14:56*
+
+Gesundheitspolitik – Bundestag beschließt Reform der Notfallversorgung nd-aktuell.de
+
+https://news.google.com/rss/articles/CBMitwFBVV95cUxOSWlZNExUX3E1dHBxZVFTSk9KOEhBNHU3YXU2UzdtWDJudnQ1SjBwcU9mbENTTnpiNW01dTcyX1hMWEI1RGZWeTRzWmpwSDBtNVRDTHpzT3R0ZnNrMEFxRmNsRkFlMEgxS1hWUXIwVDRIMGpqaVF6dXQ0M243bmZ2MTVVek5haHVyLTRkaEZEc2JQVUtZaVJrcUdWb2NmUjlwUTZ3RFNPZlhUZUp3S0xmTDNTY25RRkU?oc=5
+
+### Bundestag beschließt Notfallreform - FAZ
+*GN Novelle Reform - 15.10. 14:55*
+
+Bundestag beschließt Notfallreform FAZ
+
+https://news.google.com/rss/articles/CBMiggFBVV95cUxQWUY3VkJmZkhzbmJDYVEwaWZ1NGtSMGFMVXdKTXJRazFWdkJFMFdYZUxzWEs4OVpBVkNmc1ZYWUJMMUlWVHBwYXNRQXk5MDEtUGU3MUZXdVVTandqTWlVXzBoNUY5OWM4NmplTHRKalJ3Wi00TlBxaHpIS3dRSlRPTFFR?oc=5
+
+### Bundestag: Reform der Notfallversorgung - ZDFheute
+*GN Novelle Reform - 15.10. 14:52*
+
+Bundestag: Reform der Notfallversorgung ZDFheute
+
+https://news.google.com/rss/articles/CBMimwFBVV95cUxQY1JJR3VhS2JoTGdjLVJNVE41cGlwcGR4NVotMk5US29EMFZJVjN2ZFl2cjlkTndPX3h5NlZTQUVfU0hNS2NuS1R6ckdNOVBBV09FTkhVWWk0NFhsZzdfMkYzdFNCTGxjeS1mNmUyUURyZ0RzNmZ1aEFSellGVXBxNUVDVHFrYlhkVUFLS3hHVjlQZi03cnduX2xYMA?oc=5
+
+### Notfallversorgung soll besser koordiniert werden: Bundestag beschließt Reform - Franken Fernsehen
+*GN Novelle Reform - 15.10. 14:24*
+
+Notfallversorgung soll besser koordiniert werden: Bundestag beschließt Reform Franken Fernsehen
+
+https://news.google.com/rss/articles/CBMixAFBVV95cUxNbl9Wd3E2WnVTYlpiQ185cXdwTXMtV3V6MHIwV1VZVlAwd0xGZ3ZHeVlucU9HdUFUSGtZbjBlUnJBd0RNSDhxSTU3ZmlKS0VxR05wQ0dUOEk5T0c5QkIxZGkwYTNFZU5ZajJ5RW9vbWlzYzNidEtKdGpkZEc3aXlNT2cwVjFxYlVzT2xieU1oT3pYNi1tVVE1RTZSN3VRbzdRMzRMcThSUjdYTURuMDhpWm1lQi1NbzNyaWVEdmllZ0JRRHlM?oc=5
+
 ### Bundestag: Reform der Notfallversorgung - ZDF
 *GN Novelle Reform - 15.10. 11:53*
 
 Bundestag: Reform der Notfallversorgung ZDF
 
 https://news.google.com/rss/articles/CBMinAFBVV95cUxQYlNoeWVZdlVLOTlCd3JITVp6TE1Yd3VSUzgtdFRIU0NJMmhRVW4yb0xDX1pqbTFwN3JxVmpubE5GeWxzMHhCMkpmX0tZUVJtb2plczN5TDB4TENoVGFQNmNoT0lVYWZXZGRmb3V2bUZydWNrRUpwUTJndEVlaGFFc2RCMVJ6SnhSOVJDRGpIUE1hMEhIRVVXMkVZMmQ?oc=5
+
+### Reform der Notfallversorgung: "Wer Qualität bestellt, muss auch Qualität bezahlen" - MDR.de
+*GN Bundestag Gesetz - 15.10. 11:49*
+
+Reform der Notfallversorgung: "Wer Qualität bestellt, muss auch Qualität bezahlen" MDR.de
+
+https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX0tJa015cDIxWnFJeXpacEI0eHQwZHpxSC1nMlhpaXJscFNCM09TWHl5NmlHOVBja3dPQWIwcVAtX1czTFdNa2J4cGJqRHRkelhpU0NYYU54eWliQUFDem9VWmoxcy1BR2hiT0xpUTZGR0RLb0VsRUZBd2stU3R1WWF5SUhmSVdKZm11aHBTYzlYdUwxVXlTQ0tqeFBpbHBkdHBrUFpHNzRrV3RfNHphS1l3TTY5WnNtdmpRUmhNOFh2ZHRZUFo4YkNLX2Nua21yOWJjZE8wMUlVZHM?oc=5
 
 ### Cannabis-Erstverordnung: Bundestag entschärft den Fertigarzneimittel-Vorrang - Hanf Magazin
 *GN Bundesgesetzblatt - 15.10. 11:29*
@@ -354,12 +452,33 @@ Entlastung für Notaufnahmen: Bundestag beschließt Reform der Notfallversorgung
 
 https://news.google.com/rss/articles/CBMivAFBVV95cUxONU03ZW41aW4zYlFPcEpNWE13S3RoaDJLc2NFYi0tZWNsYjNsTVRUdjltR0VicVdReVNtdDZ5TmJobjNTTDBGdm0wZ2NyMEVYcnVmYldYZVVkUkdxT0lUaURJN2JCdjBIMTI4S2JJRTNIajBtckc4OVVFcXBCajMza2EwTFNRYU5IMm81ZlZ1OHNGM1RzSm9BTHFiVmVnVEI2YlZ2RE9JQ2t2b3BQVENwVzk0NGJXcVd5eE5MeA?oc=5
 
+### Rettungsdienst und Notaufnahmen sollen entlastet werden Bundestag stimmt für Reform der Notfallversorgung - Tagesspiegel
+*GN Novelle Reform - 15.10. 10:58*
+
+Rettungsdienst und Notaufnahmen sollen entlastet werden Bundestag stimmt für Reform der Notfallversorgung Tagesspiegel
+
+https://news.google.com/rss/articles/CBMipgFBVV95cUxOQjVZRnNrZUE3NVhFejl6U2RCQktiN3J5ZDJrZk0xUHA3NG5La0lLcjUtblpoNzdxS0NxU2VzdjRFTXJ6SzVIZGdQYTc5ZzJKZUwyd1RVM01oT3lqSEMtMlltdjJmLVBPVm5KQV9tUVE5clJLWjJuNTJ6TFA3cGw2Q2lkV01fSE0tRWYzaGRXWWZnYjExQ3JCTldJa1JuYWxSWHhETFV3?oc=5
+
 ### News of the Day vom 15.10.2026: Alkoholverbot an Bahnhöfen tritt in Kraft - Franken Fernsehen
 *GN tritt in Kraft - 15.10. 10:50*
 
 News of the Day vom 15.10.2026: Alkoholverbot an Bahnhöfen tritt in Kraft Franken Fernsehen
 
 https://news.google.com/rss/articles/CBMivwFBVV95cUxPbTdLLUhsTk1IVmw0THpnTFYtOVVIWm4tRFlVYV93WXRweUlGRkxaRk4wOTRCZTZjZGczdGR1NDRnQkJES2JMOUR3SDhnLThfXzlBeDFmY0FqMW5EaVBiT2lhVlF1eTBBMHVfT2tveHVmeDFXaDd5ZVhJcGV6cVBXdE1JZUs3bDl3empaSzdOazB4bzBwNXJIVUxxWFdLV0dtUnlFODB3NDRvZ1dzQjZnQmpCSEVrRXJRZFBfVFlpaw?oc=5
+
+### Staatsfinanzen - Bundestag soll höhere Tabaksteuer absegnen - Packung soll bald 12 Euro kosten - Deutschlandfunk
+*GN Bundestag Gesetz - 15.10. 10:11*
+
+Staatsfinanzen - Bundestag soll höhere Tabaksteuer absegnen - Packung soll bald 12 Euro kosten Deutschlandfunk
+
+https://news.google.com/rss/articles/CBMitwFBVV95cUxNRXp6N0xrQ1M4ODBvdFNRY2pmenZVSjNHUUR2ZDBZb2dYZzI3WjNhNGc1M0lLcEgzSmd3cl9ZZ2JwX1FQa1FoYUo1RjNvcFE4TFNBdXc0cXY2eFZQYkFvSmJTd3B2T0RtNkI4OFFKTzg5Wm03WVd1MVhtX3ZtQjdQOTRrVjMyUnNyTjNoU3RfM3hVN0VnVENyd2ZWcmhhcnktRzMyMWFSYlA2MG83aGdfQXQwVmJOeVU?oc=5
+
+### Reservestärkungsgesetz im Bundestag - tagesschau.de
+*GN Bundestag Gesetz - 15.10. 10:01*
+
+Reservestärkungsgesetz im Bundestag tagesschau.de
+
+https://news.google.com/rss/articles/CBMibkFVX3lxTE54NWIwa0g4YldBU25TUmQ4SFpDQUxFSXBiZWYxNFRrRGxvemw4ZE0wVnFPTjlyTkRrQWREZUtkOVFIOFlBclgtRTA5bXQ1RVBzRmxCUXZJRFR0TUpiRE56eUhabmpFTXJnX0VhcVFB?oc=5
 
 ### 21/8652: Beschlussempfehlung und Bericht zu dem Gesetzentwurf der Abgeordneten Tobias Matthias Peterka, Stephan Brandner, Ulrich von Zons, weiterer Abgeordneter der Fraktion der AfD - Drucksache 21/333 - Entwurf eines Gesetzes zur besseren Bekämpfung der Kriminalität von Kindern, Jugendlichen und Heranwachsenden (PDF)
 *BT Drucksachen - 15.10. 10:00*
@@ -412,125 +531,6 @@ Reform der Notfallversorgung vom Bundestag beschlossen tagesschau.de
 
 https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yWHlNd1FWUEVNc3FZTlZ4d0hMbW1lUXZOM0pMb2Q5UjQwVzllMVRBdTBRS05QSnQyX29mN1lidFVqcFBySV9fbXZfMXc3YW9aaW4yVXlRSXd0a0hWVE5N?oc=5
 
-### Aus für das Bahnsteig-Bier – Alkoholverbot an allen Bahnhöfen tritt in Kraft - WELT
-*GN tritt in Kraft - 15.10. 09:37*
-
-Aus für das Bahnsteig-Bier – Alkoholverbot an allen Bahnhöfen tritt in Kraft WELT
-
-https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWnZWN2VnRTFBUGxHNFZhM3M0c0FXZXRvLXg3Q3ZtRnplSy1uRmVfRjZpaUFiSTNhYXdYbXd2Q2JIRXllcXpMUzdMdmdDYkoybHFoRlpwcFVERWxmb0FITkhCSU91anRSMTRTNk1uRGFnak92eG9XalRkMjVIWmFCVU5YWGkxS3djdlFSZlpUVnNEbFJ6Njd3RFRHSUN2R1BmdlloLS0zVVZMQWp0bFRsWkJGaFBhYWpIeERIYUxOUE1EdFEzM19LYWVWRGJUQmkzbmRoWTJTWjhwSTM5Zmc?oc=5
-
-### Zuckersteuer beschlossen – Verbraucherpreise für Süßgetränke steigen - Perspektive Online
-*GN Steuer und Arbeit - 15.10. 09:35*
-
-Zuckersteuer beschlossen – Verbraucherpreise für Süßgetränke steigen Perspektive Online
-
-https://news.google.com/rss/articles/CBMirwFBVV95cUxOX2h3bkhtQ1liWE11V3V4aVQzaU53XzVrUHFRb0plRXh6alZZNTFlQ1EyMlVrY1l2T1dZNTA4V2J2Q0I1MTMtcVd5c1hqOW9EdXZ6djg4LThiTHFrdWZrdDdsYzU1aWNSeXNPNWswNXp5MVpGLWpWbEFORkdralhTclhuSmNUQlVGeGNDdF9xQzhyOXZnWjBhUjc3bk9ucWxzTWhyblNTSEpUczJLN1Mw?oc=5
-
-### Alkoholverbot an Bahnhöfen tritt in Kraft: Was Reisende jetzt noch dürfen - Aachener Zeitung
-*GN tritt in Kraft - 15.10. 09:04*
-
-Alkoholverbot an Bahnhöfen tritt in Kraft: Was Reisende jetzt noch dürfen Aachener Zeitung
-
-https://news.google.com/rss/articles/CBMizAFBVV95cUxNbTAyQVJLaEZkUlEzTUt5eU5mVkUwRndIeHl2TzdsNVF6OHhrQnJocElBUkVvTk9OQm5ublBlVk54T0ltOFBVYVBENjh6cjNoaFVOazNZd2xPQUJFZWxjeGszcnVMUHhtV2M3YXdmVXRkdHVMcG5DVnMyVmh1cEFUdXBGQWJfX0tabEx5Qk8tSmJEQm15ZTBZSjVlZGFCa0xiYTRGb21lZThlLVJ6NjFpRFYwUkI3d2hsaHpRc3pON3B2U0Rwc0YwZ29ndHE?oc=5
-
-### Neue Notfallversorgung beschlossen: Was sich ändern soll - ZDFheute
-*GN Bundestag Gesetz - 15.10. 09:01*
-
-Neue Notfallversorgung beschlossen: Was sich ändern soll ZDFheute
-
-https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkxPbWlrNDZaMVZNZkJ3djJYRTBXNEJPS04xaFBjOVVWRUVDMDVaeGx5WFlZNjJSUzNlOWZ1UW5qVXlBZHNWZkVBSEtXamNzMkFmcm1lZmt4VjNPLWlYZ3VudmdJcHhubkFmRU94THBDSXFnZUdnY2lrbDBFaXZMNjRnXzI5Z1NIbXZWQ3VjeHlGZ1BSTnpEeXlWSjVGZXlyajVnWVRBUVdHcmRBY0sxME1DelZDUQ?oc=5
-
-### Gesundheitswesen: Bundestag beschließt Reform der Notfallversorgung - STERN.de
-*GN Novelle Reform - 15.10. 08:56*
-
-Gesundheitswesen: Bundestag beschließt Reform der Notfallversorgung STERN.de
-
-https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU1MtaklZZmNaS1kxZS1Hd3dmSU9wZ1JnM2diWk5hcFNlOUh1NEVUNjJQbFUwczVMU3FBS1pubXFfbVRBbHhDa05aLVQ0dHFEaWJPS1JxV01qdEhYc2FrblJLenVpc1REOGo4aXBuQmgtNjhKcEJsNGE0ZnlZQUJ0cUJ0ZEY0UnEydk5OeGM1M2U1WTNmSXU0b2lCRjYwM3JGeTBwVGVYYm9oQXlHc3RMRzhOSHFwLVV6Z2ctZXNCOGM?oc=5
-
-### Bundestag beschließt Reform der Notfallversorgung - Antenne Düsseldorf
-*GN Novelle Reform - 15.10. 08:56*
-
-Bundestag beschließt Reform der Notfallversorgung Antenne Düsseldorf
-
-https://news.google.com/rss/articles/CBMinAFBVV95cUxNOUYwZEFFS2RTekNRM3pka0haVDVvcXJVRFpELWJqcGVJWUdPMXRYVGVKUHlETm5xVDB3dXNvRXpXdGNKUWVlMW13Q0N4NmFPSUlsQ0JvWmMxQUVVc21vQjV6LWdzWkFEVkdCMGIySEJ1SmQ4NzQwVmRneHNEMUtrdDBrRHcxekZjVmhnU0UtY2t3bFEyRUxpNkhwTEQ?oc=5
-
-### Bundestag beschließt Notfallreform - ein "zahnloser Tiger"? - NDR.de
-*GN Bundestag Gesetz - 15.10. 08:51*
-
-Bundestag beschließt Notfallreform - ein "zahnloser Tiger"? NDR.de
-
-https://news.google.com/rss/articles/CBMiywFBVV95cUxQaVg0R3h1eV96anF0OFJaSDhFcEVfd3UzRlZuNDYxOERKaEh0akljMVRQYWNLQXJuSFlwYk5vVmJEYk56ZDlNMndya0cxYk1pSHpleTZDTGUzYUpNTVRwNmgxaGItTnJ3bzdKcHpyUnE1RURTVkNsNGJkY091ampsRGZiaXhXbjZEc29pS2liODJLSHhlRnBqeDlzbTF5QUFtTFo1b2lFbm1MWjV4aEdUT2NmVGNSNW12R1hsZnFVaEsxci1TWHRmSnpwUQ?oc=5
-
-### Bundestagsdebatte - Linnemann: Reform der Notfallversorgung wird Gesundheitssystem effizienter machen - Deutschlandfunk
-*GN Novelle Reform - 15.10. 08:19*
-
-Bundestagsdebatte - Linnemann: Reform der Notfallversorgung wird Gesundheitssystem effizienter machen Deutschlandfunk
-
-https://news.google.com/rss/articles/CBMivAFBVV95cUxOeHQyaFZ0Si1LNVhBWEhsWW5WajE3a3VBdm9rQUVEVDhvNEV2U3M4Y0Q2SDVadEQtbWRaNXUxaDQzV0NnTjFfNUR1SFFJTkZpZmdBNnR6SUtRTVNBRjQ2UjFQcU94T0dUWUo3QW1SOHJ3Ui0zMWF0TVFEQUR4c3A2WGdNRVpOOHNrekxBT0ttMTJGX1hGdVJXNjJTdGNzc2lza3VoLU1Yc0llSDVHZ1VsUER6MndEU2hVd1phYQ?oc=5
-
-### Bundestag beschäftigt sich mit Reform zur Notfallmedizin - tagesschau.de
-*GN Novelle Reform - 15.10. 07:41*
-
-Bundestag beschäftigt sich mit Reform zur Notfallmedizin tagesschau.de
-
-https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NOUx6SjdJamwycFMwNGxIYTU5a3B5UTl2Y1NnekRkdjhNcHVMelVKR3d4SGJBOUpGODdqMjhWel8wQnozT1ZnOURuZXNDSlZiTUF4Tmd3QUdMREFPY1E?oc=5
-
-### Kreis Unna: Alkoholverbot in Bahnhöfen tritt in Kraft - Antenne Unna
-*GN tritt in Kraft - 15.10. 07:31*
-
-Kreis Unna: Alkoholverbot in Bahnhöfen tritt in Kraft Antenne Unna
-
-https://news.google.com/rss/articles/CBMinAFBVV95cUxNNy0zLW9sT29STXhxU0RCcmsyWlR3Q01BWmtfbGxoT1MtaU9wNUVnVHRCM1VVdmpPaC1kOWxoRjhZaGstVFM0VWplNzJLaU54dGx6LU9JcFJJTzB6V2R0ZGoyRFNXZ280V0VMZHdkVUdNNFdMdDIyblpSOVpKanhEVzE1TXpEaWl2ejFudTdOWUV0LUlRT1B5NkZ0UlI?oc=5
-
-### Gesundheitspolitik - Bundestag entscheidet über Reform von Notfallversorgung - Deutschlandfunk
-*GN Novelle Reform - 15.10. 07:00*
-
-Gesundheitspolitik - Bundestag entscheidet über Reform von Notfallversorgung Deutschlandfunk
-
-https://news.google.com/rss/articles/CBMinAFBVV95cUxPdTdOYndmTm5OUGNUMm1hWDdORGZlS2xQWC1MdTlsTGg2Zko5NDhwd2ZSWDBnRGZwbkFhdWNfVGtpMk5BS0VYV3lTTllYd0NzaHF5anF3V0pNSEhhVWJ3bGFKcHV0YmpPTUExc09oTnRnWFdSdEk3X3hOaUZFQVRuSjNNNVVaX2lkMXF0WThsNTFmV08wV1RoX2ROWDg?oc=5
-
-### Bundestag will Reform beschließen: Notfallmedizin unter Druck - taz.de
-*GN Novelle Reform - 15.10. 06:43*
-
-Bundestag will Reform beschließen: Notfallmedizin unter Druck taz.de
-
-https://news.google.com/rss/articles/CBMia0FVX3lxTE1JQjFFdEpzaS1OZUtlaE9yd0FXLWo4VDg2cUxmZXphcUxIeTlLSXNETkF1VHRBeEZpTmJHcFdlR1RzbHlzRFdaallBdTd5Tm9sUjNhUUF3ZXVBREVvZkxWelluOVhrUXpxa2xR?oc=5
-
-### Gesundheitspolitik - Bundestag will Reform der Notfallversorgung beschließen - Deutschlandfunk
-*GN Novelle Reform - 15.10. 06:01*
-
-Gesundheitspolitik - Bundestag will Reform der Notfallversorgung beschließen Deutschlandfunk
-
-https://news.google.com/rss/articles/CBMinAFBVV95cUxOcjNiZmREbzlmRjBrVFpnVEllN25ic0NLLUoybDZYX0tvaUdqNmhETEE1T0RDNEEtY0xEa1VjbzJucE1fZ1V4ekUzV19WRHoxSWI5cTFEbnZLMlFJbzR3STgxREEyMEpDMDZrUmh3dUM5Tk94Q19sQ0VLdDIyZW9rRjFVMThyenNPNU5DcmpsMWpXYU1DU0VvcFVzYng?oc=5
-
-### Alkoholverbot an mehr als 5000 deutschen Bahnhöfen tritt in Kraft - Panorama - SZ.de - SZ.de
-*GN tritt in Kraft - 15.10. 05:06*
-
-Alkoholverbot an mehr als 5000 deutschen Bahnhöfen tritt in Kraft - Panorama - SZ.de SZ.de
-
-https://news.google.com/rss/articles/CBMijgFBVV95cUxNTjFta19TR0daRF96aVhhZGMzS2ZVNHhocHlMNVY5bHJRcHh4dnUyXzAwUGt4b1R0a2RQTUF3akNuSFBWZ3FlZ3NrVDllMTZwWWp6SUNITjlSWWtwZTJwZFJVYllZRV80NElYaEhmTm1TMC0yREFUVWNWRXN4TmRqcDJnOXdOb2RLZnkxS053?oc=5
-
-### Zuckersteuer beschlossen: Werden Softdrinks bald gesünder? - SRF
-*GN Steuer und Arbeit - 15.10. 03:55*
-
-Zuckersteuer beschlossen: Werden Softdrinks bald gesünder? SRF
-
-https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMm04Rk1BMzhQN0ktQmoxZl9pNkxqU3JWblZVSGxqbmN5dGRaWThGYmZOUjZjRmVzQjBrb251a2p6STQxNHowaHNaYmRDeEp0MHlWM1IyZFdCMUF6YW9Hell6TFF2eGdTZGVTTVdhUVMycks1ODliWnpsZGFxck9pdDJCdjFubUFmVl9nTnNrdGxYRUdqZTdBRmhSODNJTjd0ZGI0U0ZaZXdUSGFWc0YzM2NmUGY1UWVGOThyN3J5OV80OFhvejVBMzVYVTQ4UEZkWE00NUdqSDdmNklKNUFxYXgzX1k?oc=5
-
-### Alkoholverbot an allen Bahnhöfen tritt in Kraft - Yahoo Nachrichten
-*GN tritt in Kraft - 15.10. 02:04*
-
-Alkoholverbot an allen Bahnhöfen tritt in Kraft Yahoo Nachrichten
-
-https://news.google.com/rss/articles/CBMimgFBVV95cUxNZUI0UUhDcDJlX2lHbEplLTVDdVJYNDBFN2x5MVk4YjhtdVZIaHNoaUpPdzJCMDNQOVRXcFJINFhfU25tVmozMzEwd3dtSUt4cHpFS0p3TE1YRTNKZUZNaU4zcVhzWTNhUFVPVG1UVUkzYVFyZGN3bUJhMDFtRW1WZGhoNEx2MUF6SWdnMkhnQlNTNG91RmxMOFd3?oc=5
-
-### Haushalt 2027 - Bundesrat
-*GN Bundestag Gesetz - 15.10. 01:36*
-
-Haushalt 2027 Bundesrat
-
-https://news.google.com/rss/articles/CBMieEFVX3lxTE1FdXJzb1lXbUtoYU90UE02QkJUVGhhemhWQWNOVmxOczFpMHlTOVhMV09FS1I2UVI5MlQ5RnRkYnJ5bUhyWW5rTmd0VnNJWVJ5MUF3MGgzV0RrcUZhZWU4cDNaVUxEdU95aUM2V1lidVBBXzlvUWs4MA?oc=5
-
 ### Sechsundsechzigste Verordnung zur Änderung der Zweihundertfünfundfünfzigsten Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Streckenführungen, Meldepunkten und Reiseflughöhen für Flüge nach Instrumentenflugregeln im kontrollierten Luftraum innerhalb der Bundesrepublik Deutschland)
 *BGBl Teil I und II - 15.10. 00:00*
 
@@ -566,27 +566,6 @@ Kurztitel: Schuldnerberatungsdienstegesetz | Typ: Gesetz | Initiant: Bundesminis
 
 https://www.recht.bund.de/eli/bund/bgbl-1/2026/293
 
-### Bundestag: Geplante Reform soll Reserve stärken - NDR.de
-*GN Novelle Reform - 14.10. 21:46*
-
-Bundestag: Geplante Reform soll Reserve stärken NDR.de
-
-https://news.google.com/rss/articles/CBMiygFBVV95cUxNTW9qRXMwdDRDbEljSVRXOThkUGFrSEtvTHJ5OTN4UUpGdm5zZndtTjNVaDEwS2NqQXJXUWItZFhRbDJpcVgwNVFzUlRBVU9EYVRGNEUxcGFLM0pUQTNZQmF2cVR6dmNGQldIOHplYWRELU1PXzl5dUlNLUxJODJNbXpKQkdSRGFFX2VoTVFadjl2WThROUcwRWdpcUcxcmRJNHh2UU9pbVJyZUpLZW42ZzlKeEJDZmpwbjJxTGp3Rm1sdG5LN0h3SDFR?oc=5
-
-### Bundestag - Blaulicht-Protest in Berlin: Retter warnen vor Notfallreform - Deutschlandfunk
-*GN Novelle Reform - 14.10. 21:43*
-
-Bundestag - Blaulicht-Protest in Berlin: Retter warnen vor Notfallreform Deutschlandfunk
-
-https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ1gwbnZvX1MtWEg5TUNMZkpwVDAyTV9helVXenpoSEgxWXRQSmhqN1RoMXZvdFBESW5idWgyS2dBOUhpcjFVYnRSMEc4QmVaMjdEMTJqSUpZcEh5QlZCME9KSnUycDd2VE9vWVNCZjNmRmVOeml4djJJY2pOUU91MVZic08xWnBpU2JBaWEzeTM3dEcxdmdEMVdpN1RoZGZ0?oc=5
-
-### Bundestag berät über Gesetzentwurf eines Reservestärkungsgesetzes - tagesschau.de
-*GN Bundestag Gesetz - 14.10. 20:44*
-
-Bundestag berät über Gesetzentwurf eines Reservestärkungsgesetzes tagesschau.de
-
-https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NZFliS3otakNwNHBEOG5wNXNpNFBXOWZNclM4ajJ2TWJxSXdCRGkwdTZPdmZoNFdqOTI3b3ZxVFlac3lBRkFSa2Y4U0NKQ0FBMUZSN2VOQjU5WkRDRTdUelcxTFpXbFE?oc=5
-
 ### 25. Kulturpolitisches Spitzengespräch: Gemeinsame Erklärung zur Freiheit der Kunst und Konzept zur Stärkung der Provenienzforschung verabschiedet
 *BReg Pressemitteilung - 14.10. 17:15*
 
@@ -594,66 +573,10 @@ Auf Einladung von Kulturstaatsminister Wolfram Weimer haben sich heute die Kultu
 
 https://www.bundesregierung.de/breg-de/aktuelles/25-kulturpolitisches-spitzengespraech-gemeinsame-erklaerung-zur-freiheit-der-kunst-und-konzept-zur-staerkung-der-provenienzforschung-verabschiedet-2457048
 
-### Zuckersteuer in Deutschland beschlossen: Ab wann sie gilt und wer zahlen muss - cristinaiglesias.com
-*GN Steuer und Arbeit - 14.10. 13:21*
-
-Zuckersteuer in Deutschland beschlossen: Ab wann sie gilt und wer zahlen muss cristinaiglesias.com
-
-https://news.google.com/rss/articles/CBMitAFBVV95cUxNUnpHSkV0d21TNGpWRDBVNUl1XzdxOEFWQkFBSGkwdVNOSmw5RUVRYnlXV01YOW1SLVRGSEpveU00QXlTRlY2RUtDMWV3Tjd1LVFmOHhWNXFYblZTWHN6U1BfOFZnYlhjVHRQZTRNem1vVUhnd0gyNl9LY0R0aTBXV2x4aW9NS2NYeUVKbjFZTjh6MUkxd2E0TmJLbnhHYzQyZ0Y0MFF3aS1mbEVvM3BPNWxJOEo?oc=5
-
-### Social Media unter 13 tabu - Kabinett plant Übergangsregeln - Lippische Landes-Zeitung
-*GN EU-Verordnung - 14.10. 11:44*
-
-Social Media unter 13 tabu - Kabinett plant Übergangsregeln Lippische Landes-Zeitung
-
-https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUENLRGpRSEdISHBLZWRTM1RDM3NkWTVDYU5vRXp5OEhUaW1JS1k0dmJ5LV91QVRSZER3Z2psYXlORFNUaTZ3ckdGcXotMHlaZDFxU3lkZHJlaWJ1ZHE3cWlmOVFYX0FLRWk0VGNUMWp3clU0c0pEVmxBNXZ6eXJYYm80QnROMkRkNFZ1LWxxXy1LOXJkbTNiUERzV3N6a0lqdFRMZHlHbVlneUlRZEhJd21rcU1aQm9RWWpn?oc=5
-
-### Zuckersteuer beschlossen: Wir haben nachgerechnet, wie teuer die Cola jetzt wird - Watson.de
-*GN Steuer und Arbeit - 14.10. 11:16*
-
-Zuckersteuer beschlossen: Wir haben nachgerechnet, wie teuer die Cola jetzt wird Watson.de
-
-https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeVB4aFAzX3p2Qk5QQllSNDhyUFVPSTdLRE0weHBIczBpck54eVlMTHpMLW5Ra2MxdFlVaElGNVZVZnEwbGVtTUlyMUxpRl9RWUhVT2J0YnhEazVqMXhYYks1VjdvMzdmUXpMQjRzS0x2UzNqNnNLQ2pONzY4VVRfRTY0T2dvbURTOXhFa1NNU0FtWlF2MFVpanZmNEVLMjRoWFlNdXdod2xuU2I3N0NOQlIwcF9ZQlhVZjUyQ2I3NW1VRk0?oc=5
-
-### Kabinett beschließt abgespeckte Zuckersteuer – Zuckerindustrie hofft auf Scheitern im Bundestag - agrarheute.com
-*GN Steuer und Arbeit - 14.10. 11:09*
-
-Kabinett beschließt abgespeckte Zuckersteuer – Zuckerindustrie hofft auf Scheitern im Bundestag agrarheute.com
-
-https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVkxTMzZncUhsSzhSTHExWWRLdDR6RnZUUTAzMkVRUzEyU3BBU29sZ0JGTm9KSGVjOFg2UUE1ajUxWC1fc3A4Y21IbEJBYktlNEctNElsbTRPUkFDNnp4dWtvdG5JcWVSNmh5U2NGQ1FXdWwzTktQV1p6LWVfaTZPMzlsdG9Vb2ptYmdzVUE1NldkVjJ2bEFNbXk0SXA2SXM5VlhLck9uMmp4dHBRRFZfWm9jWTZYQ1NndWVB?oc=5
-
 ### 21/8632: Entschließungsantrag zu der dritten Beratung des Gesetzentwurfs der Bundesregierung - Drucksachen 21/6808, 21/8629 - Entwurf eines Gesetzes zur Reform der Notfallversorgung (PDF)
 *BT Drucksachen - 14.10. 10:00*
 
 https://dserver.bundestag.de/btd/21/086/2108632.pdf
-
-### Eckpunkte für Social-Media-Beschränkungen beschlossen - Onetz
-*GN EU-Verordnung - 14.10. 09:33*
-
-Eckpunkte für Social-Media-Beschränkungen beschlossen Onetz
-
-https://news.google.com/rss/articles/CBMirAFBVV95cUxQbHNfcDNkYWd2cFZ5RngyeElhRnlMVkJQNkwxemxHUGFsU2ZEZ3c0cVdPSHlxZnRsRjhBcnB5SXAtUUR6VkctM0xJM1RnLVBENGo0a3RzdUlrMy1tYjRaM3V2MUtoWDNwRjRpLTZLUHFkSzRCRTctelgxbzA0XzVsRjhVVlBGLUFmdFAtZEJseFZ5TXBfUWw0RmlUczZPOEZ1U1I1T2xvdG0xWDV1?oc=5
-
-### Verordnung zur Modernisierung der nationalen Umsetzung von europäischen Regelungen zum Ökodesign und zur Energieverbrauchskennzeichnung
-*BGBl Teil I und II - 14.10. 00:00*
-
-Typ: Verordnung | Initiant: Bundesministerium für Wirtschaft und Energie | Fundstelle: BGBl. 2026 I Nr. 292 vom 14.10.2026 | Sachgebiet: Energieversorgung
-
-https://www.recht.bund.de/eli/bund/bgbl-1/2026/292
-
-### Dritte Verordnung zur Änderung der Marktstammdatenregisterverordnung
-*BGBl Teil I und II - 14.10. 00:00*
-
-Typ: Verordnung | Initiant: Bundesministerium für Wirtschaft und Energie | Fundstelle: BGBl. 2026 I Nr. 291 vom 14.10.2026 | Sachgebiet: Elektrizität und Gas
-
-https://www.recht.bund.de/eli/bund/bgbl-1/2026/291
-
-### Verordnung zur Neuordnung der Meisterprüfung im Print- und Medientechnologen-Handwerk
-*BGBl Teil I und II - 14.10. 00:00*
-
-Typ: Verordnung | Initiant: Bundesministerium für Wirtschaft und Energie | Fundstelle: BGBl. 2026 I Nr. 290 vom 14.10.2026 | Sachgebiet: Handwerk im Allgemeinen
-
-https://www.recht.bund.de/eli/bund/bgbl-1/2026/290
 
 ### Beratungen zum Bundeshaushalt 2027 fortgesetzt
 *BT heute im bundestag - 16.10. 12:46*
@@ -766,13 +689,6 @@ https://www.bundesregierung.de/breg-de/aktuelles/unterstuetzung-fuer-opfer-24151
 Das Bundeskabinett hat am 14. Oktober 2026 den Nationalen Aktionsplan klimafreundliche Schifffahrt (NAPS) beschlossen. Er schafft die Voraussetzungen, dass die Schifffahrt ihre Klimaziele erreicht und gleichzeitig wettbewerbsfähig bleibt.
 
 https://www.bundesregierung.de/breg-de/aktuelles/klimafreundliche-schifffahrt-2457038
-
-### Kinder- und Jugendschutz in der digitalen Welt verbessern
-*BReg Artikel - 14.10. 08:17*
-
-Der Schutz von Kindern und Jugendlichen auch im digitalen Raum ist der Bundesregierung ein äußerst wichtiges Anliegen. Das Bundeskabinett hat deshalb nun Eckpunkte zum Kinder- und Jugendmedienschutz beschlossen.
-
-https://www.bundesregierung.de/breg-de/aktuelles/kabinett-eckpunkte-jugendmedienschutz-2456960
 
 
 ## EU-Recht
@@ -927,11 +843,6 @@ https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2280
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2302
 
-### CELEX:32026D2284: Commission Implementing Decision (EU) 2026/2284 of 15 October 2026 setting the date from which Member States may start entering, updating and deleting information alerts on third-country nationals in the interest of the Union in the Schengen Information System pursuant to Regulation (EU) 2018/1862 of the European Parliament and of the Council
-*EUR-Lex Amtsblatt L - 14.10. 22:00*
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2284
-
 ### CELEX:32026R1563R(02)
 *EUR-Lex Amtsblatt L - 14.10. 22:00*
 
@@ -939,10 +850,15 @@ The corrigendum does not concern the English version.
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1563R(02)
 
-### CELEX:32026R2228: Commission Implementing Regulation (EU) 2026/2228 of 14 October 2026 amending Implementing Regulation (EU) 2021/405 as regards the lists of third countries or regions thereof authorised for the entry into the Union of consignments of certain animals and goods intended for human consumption in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council
+### CELEX:32026D2284: Commission Implementing Decision (EU) 2026/2284 of 15 October 2026 setting the date from which Member States may start entering, updating and deleting information alerts on third-country nationals in the interest of the Union in the Schengen Information System pursuant to Regulation (EU) 2018/1862 of the European Parliament and of the Council
 *EUR-Lex Amtsblatt L - 14.10. 22:00*
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2228
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2284
+
+### CELEX:32026R2307: Commission Implementing Regulation (EU) 2026/2307 of 8 October 2026 on the registration of the geographical indication Čepinski kupus (PDO) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council
+*EUR-Lex Amtsblatt L - 14.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2307
 
 ### Speech by Executive Vice-President Teresa Ribera at 17th Conference of the Parties to the United Nations Convention on Biological Diversity (COP17)
 *EU-Kommission - 16.10. 11:40*
@@ -1014,29 +930,22 @@ In diesem Jahr trifft sich die Parlamentarische Versammlung der NATO zu ihrer 72
 
 https://www.bundestag.de/presse/pressemitteilungen/2026/pm-261015-nato-pv-1224996
 
-### Bundestagsvizepräsident Nouripour trifft Parlamentspräsidentinnen und -präsidenten der Europarats-Staaten in Rom
-*BT Pressemitteilungen - 14.10. 07:58*
-
-Bundestagsvizepräsident Omid Nouripour nimmt von Donnerstag, 15. Oktober 2026, bis Freitag, 16. Oktober 2026, an der Konferenz der Parlamentspräsidentinnen und -präsidenten der Mitgliedstaaten des Europarates im Rom teil. Dabei vertritt er Bundestagspräsidentin Julia Klöckner. Im Mittelpunkt der Beratung stehen die hybriden Bedrohungen für Demokratien und die regelbasierte internationale Ordnung. Außerdem werden die Auswirkungen der Künstlichen Intelligenz auf den Arbeitsmarkt beraten. Die Konferenz findet in der Regel alle zwei Jahre abwechselnd am Sitz der Parlamentarischen Versammlung des E
-
-https://www.bundestag.de/presse/pressemitteilungen/2026/pm-261014-reise-nouripour-1224650
-
 
 ## Steuern und Abgaben
 
-### Über 3.000 Euro Extra-Rente möglich: Regierung beschließt Klingbeils Rentenreform - T-Online
-*GN Bundestag Gesetz - 17.10. 08:32*
+### Die Erbschaftswelle: Wie Vermögen Deutschland neu sortiert - und die Steuerdebatte neu entfacht - Berliner Zeitung
+*GN Steuer und Arbeit - 18.10. 08:50*
 
-Über 3.000 Euro Extra-Rente möglich: Regierung beschließt Klingbeils Rentenreform T-Online
+Die Erbschaftswelle: Wie Vermögen Deutschland neu sortiert - und die Steuerdebatte neu entfacht Berliner Zeitung
 
-https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbjR0NGVOQVdUd3B5aXlzZnF2bjk4aU1lczVpRUVRXzVTVEdSd0JPNmlnY2tPQTAtck5KdklzT1NtRDJWdEdBS0tyMEFNeTB6MzNmQXVKRjlDWU51Sm5hMWJtMFpTVmxMN2lCNndWbmtkVmhJNnZ0d0F2U3Fvbi15MlEyZFhHal9aLTNOM2JNaHdzSTV3RU44XzZOTUJmMktZNDVkRmlraC15QVNFZmdST2tBVjBoODA2bmNCX2FEUDZiSGo0UHYyRHdENTJuS0wwbDZNSnBWd0hkQVZMXzNydFpWMERXclVjcWdDc1VPMHdINnVfSldMQ0p3?oc=5
+https://news.google.com/rss/articles/CBMi2gFBVV95cUxPenlJaHJkTUo1OTZPaWJVb1U3ZWR5dWtiUEIyX2djSlhGdk9GZDZrNEFzc3BZSTl0c3NxX0VjeTVXM0pRa3BhcElROExtaVJFa1pJU3RqVll1ZzUwd0dHRTVnT1lTejBVOXRpZkhPY2Z3T0ZOakZ4T0FaVzBmSUJxazRRODJ2YUxKUUFDTlZJaTZFNTNkSG1uakdQRzljWlU0UEpVcElyN0EzVWQxbGVCVjZ1el9aLXZIaXZqYzczSUhaNXpLd2tUbk1FRzVVdUdvVVBlUEtpRDFDZw?oc=5
 
-### Diplom-Finanzwirt (m/w/d) Steuerstrafrecht - Legal Tribune Online
-*GN Recht Fachpresse - 17.10. 04:11*
+### Frühstart-Rente: Staatliches Vorsorgedepot für Kinder - Steuertipps
+*GN Steuer und Arbeit - 16.10. 11:23*
 
-Diplom-Finanzwirt (m/w/d) Steuerstrafrecht Legal Tribune Online
+Frühstart-Rente: Staatliches Vorsorgedepot für Kinder Steuertipps
 
-https://news.google.com/rss/articles/CBMisgFBVV95cUxQUFhyRDgyOFo3Yl9KV2hmSHpkWXVRZHVKSkgtSnoyRU1CX0hobmVwLWRjb0MzVjV0bHRFYWFMY2JSVTVxYkhDcDBxUUlkQzVoUkZqM21lSUZRT0xhRVVDU2dLeXN0S3lDeExaV2l2S2ZTNUxmQ1hkbWdFUXFiN3lzemlTX2dBenQ4eUxMel9JWXFTckhMbmJoVlBHQUZJMEs1QXdtSE9lUjNoRF9Zblo0OC1R?oc=5
+https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ1VyX3MzOWF1bGxhQUVkVWdVNUNzdWNMdFVmQ2NLNFpVdHg2dkFpY3ZDcU9UNlNmUWZ3NXkyd0Jpd0lZVnBzcHFQaE9Lc1NwS3NocGVES1dfb0NkOV9xQ2Z5UG9FUHBPVjZXdDFBNlV0R194TnZodnZDcFUzcDZ2dkR3OGtaamNpaUg1cXdHRzlCYjlROEN6SXpieVZmeHNPU2c?oc=5
 
 ### BMF: Ergänzende Regelungen zur E-Rechnung | Steuern - Haufe. Intelligenz, die bewegt.
 *GN Recht Fachpresse - 16.10. 08:04*
@@ -1059,38 +968,38 @@ Milliarden für den Staat: Warum der Steuerzahlerbund am Gesundheitsziel der Tab
 
 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVTBqWnVzbWRJTmVDeEtLMkpqRk1ZQXMtVEVMMWpOU0J5b2dMd3R4OG1IXzZmSVRKQVhDN2N5RTBUY0FxSHFaX1BxbC1VYzZKYVIzTjcyT0N3NGJXSUtlamZCRDZmamR2SUhZMnVvb0I4UkNnYUJtT1pqdkhVcWVLaG1wSW1wTFFIbEFTdmZudkFqNEF5dkRTQlJiNlo2QmFvRE5Ba1ZGMkplaS1VY1p0UFBrSExTRVNuRmNhRXNuX2JsOHBrNDRqSWpWa0ZMWUViVXBhME8wOXlzQjFhVUwtdm5oZw?oc=5
 
+### § 39 Steuerrecht / 2. Rechtliche Grundlagen - Haufe. Intelligenz, die bewegt.
+*GN Recht Fachpresse - 15.10. 19:32*
+
+§ 39 Steuerrecht / 2. Rechtliche Grundlagen Haufe. Intelligenz, die bewegt.
+
+https://news.google.com/rss/articles/CBMijwFBVV95cUxPaFgtd0ZzaDhQZjBYM2ZLUXM5ZzZrZC1tQkNRekJMdTJJY2VPMmo0QU1LMUdnY05xV2k0MEdMNlp1SEdiMHlQQWJyekhPSTlrSDlXS19uWDJHdU93UHpOVC03cUZ4QndYU3ZET2lCblpXemJYUU1Uekc2SnFTcWFGR3ZkeHd4bThPX0ZTUXhuUQ?oc=5
+
+### Minijob neben der Rente: Das Bundeskabinett beschließt nun schon die nächste Änderung - Gegen Hartz IV
+*GN Steuer und Arbeit - 15.10. 14:18*
+
+Minijob neben der Rente: Das Bundeskabinett beschließt nun schon die nächste Änderung Gegen Hartz IV
+
+https://news.google.com/rss/articles/CBMiswFBVV95cUxObHNFMGg5Um1sQ1J5WWxkeFItR25pRXRuR2ZvV1JEVXBKLXc3eVVEZEdBUVo0QmFXWVgtUGZfREhIZlJlSFJ3cWZzOGZ4Z0U4UnQwSXAyNDBIV1lWYWMzVEpSWUVJRTJlNXdnUlhOSW41dE9Wb1JOTGVwNnFVMFFiNDZtTmx3MzZFeDQweHdFTmFIOVVpUmlEM196TE9KWW1EUjJxYWlqSnRFeDZvdDNhZ29POA?oc=5
+
+### 1,3 Millionen sparen sich ein Steuerformular: Pauschbetrag steigt um 200 Euro - CHIP
+*GN Steuer und Arbeit - 15.10. 12:20*
+
+1,3 Millionen sparen sich ein Steuerformular: Pauschbetrag steigt um 200 Euro CHIP
+
+https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZDVselFhdmVleUVBNnNsMTh2S3VEUFBzS3ktOE5Ud2RkWmxsLTFiQ2laeDZhU3BBVTYyeFA3b0ZjUHV5NlBocm1SZThWR01TUWlaS0ZMSjgxRHl4b0FKTG9leE5Uc0VuUlBPeXg2eVRPNVBiR09qbkE1X3BQNm52ODc1QV9xUGo3TjdIcmdPdUtGRkczVTJWZUJCczJXbmFwNm1BV2ZoVFFvZ29KRExSRS1YWGpDQW1KREZSdVh5WVlQck9FOEtqUTQ2NHpCaHprM2pVMmRUY2pndTU1ZjFIVUJpSTF6ME5xc3FkMU5yM2xhZDlEcXc?oc=5
+
+### Zwischen Patentsystem und Investitionsbonus: Russlands Steuerpaket teilt die Wirtschaft neu ein - Welt Stimme
+*GN Steuer und Arbeit - 15.10. 10:13*
+
+Zwischen Patentsystem und Investitionsbonus: Russlands Steuerpaket teilt die Wirtschaft neu ein Welt Stimme
+
+https://news.google.com/rss/articles/CBMixAFBVV95cUxQUFB1OXFtb3dtcFJDd2UwRl91ZmhzVjI4STJ0bUlzLUNBUHprcUdvWjQ4eW42Vy00SDJSUGtoSk80OTBkY1dSSGFlNlhaQ01YOU93Qjl0N0c2OXBseEYxVmFxclV4cEpaVzBxTXpDYVVmX1RBUHFCdlBrNDhKMlB1cmRuQW9BcmtFLWlZdXVtRldKNWhZZXRXamJIQXBzZ0pBRG92ODNwSkZ0dDBPUS1NRVFSRGlRaFVCS0M0VHdBWmR3LU9E?oc=5
+
 ### 21/8637: Antrag Steuererhöhung auf Tabak zurücknehmen - Keine weiteren Steuern auf Alkohol, Zucker und Plastik - Bagatellsteuern abschaffen (PDF)
 *BT Drucksachen - 15.10. 10:00*
 
 https://dserver.bundestag.de/btd/21/086/2108637.pdf
-
-### Kann eine Zuckersteuer den Steuer den Konsum von Cola, Limo und Co. tatsächlich senken? | NANO - ZDF
-*GN Steuer und Arbeit - 15.10. 08:00*
-
-Kann eine Zuckersteuer den Steuer den Konsum von Cola, Limo und Co. tatsächlich senken? | NANO ZDF
-
-https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZFozLVYwZUVpRmNEZVc1aklvNFg4cXNxUWktZzFieWhBWGd0SWlmU1FwVmhXOXZIRnltT296dTFhUW9CMVJwRWpuV1VPbTk5S1AzQjVhX0szcWhoQ1owSHExUG1XMGZYaEE0cnlhT1lHWEk4RnpzZ3Z1S0FXVWw0djdJR2xLWTJmcXJpQmRCaEdyU3pHU1FLcjByaEdiUDByd2NsWmRMeWZPSUNOZEh4Q1EyUWVEOTczTE95dUxyVkhJOUk?oc=5
-
-### Welche Voraussetzungen muss ein neu gegründetes Unternehmen erfüllen, um von der Steuer befreit zu werden? - Vietnam.vn
-*GN Steuer und Arbeit - 15.10. 07:44*
-
-Welche Voraussetzungen muss ein neu gegründetes Unternehmen erfüllen, um von der Steuer befreit zu werden? Vietnam.vn
-
-https://news.google.com/rss/articles/CBMimAFBVV95cUxPNlRhVzB0UjRqTXozT2N1b0hYR3JVTmhWeV9ibU5HWUd6Zi02NE8yV21vdVZZQTVvd1l5cnNyN0Z4SkgzTkRiSkNhY25YeVdTQTJWUEZWY2RzY2x1WU5iLTcxdE1wNkRfal9vUE0xVGRlUUF2cGs0R2VNOUkzeWtUeUdCY190RmFKUnRkTHdfR3Z2R0JBTzNoSg?oc=5
-
-### Bundeskabinett: Einführung einer Zuckergetränkesteuer | Steuern - Haufe. Intelligenz, die bewegt.
-*GN Steuer und Arbeit - 15.10. 04:45*
-
-Bundeskabinett: Einführung einer Zuckergetränkesteuer | Steuern Haufe. Intelligenz, die bewegt.
-
-https://news.google.com/rss/articles/CBMivAFBVV95cUxOcjdENUJ4YUxFcW11SGxrSkRPcUM5VFVPdF81MkVOLVI3UF85N282blVmVV9Ja3lib2hpVi1GMXhZaWVjWHY4aGJ3ZGRtRm1IcGNOWmQyejZ0c09VUy1XZ2dDRVUwRVAwa0V1UGJrdzh5QmtWTXdwS2RaMFZnQWJKS01OU2VJVFJkQm5jMHpEdm9pbl9DVng3V2ZBS0NuZ09QNVlVakhLY3AtSlhsZnZZeVlDeVpEM1pySjdMUQ?oc=5
-
-### Zuckergetränkesteuer ab 2027: Bundeskabinett beschließt Steuer auf Limonaden, Eistee und Energydrinks - Mittelstand Nachrichten
-*GN Steuer und Arbeit - 14.10. 10:08*
-
-Zuckergetränkesteuer ab 2027: Bundeskabinett beschließt Steuer auf Limonaden, Eistee und Energydrinks Mittelstand Nachrichten
-
-https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdkF5OWxrYnl0UE9ZTGlodk9Ldm5RUExyTXVBVnQyMEZLMkVnREJtcVNEbU1pTVc0amJqdndIRW5SWERzTmtRMTdHdzMxODNVTkROVFhsMXhEczhwc3Z2R2ZNeVN3MFlXOE5xR2hFNlZWT0JBR055UWwxQzQyZWpJUUdyeXMyR0RyRms2WlB0aXc1QVBRa19XYzhRdm5LOEljdTdyS2xfTnk0Mmc?oc=5
 
 
 ## Foerderung
@@ -1102,6 +1011,20 @@ European Commission Pressemitteilung Brussels, 15 Oct 2026 Auf dem Europäischen
 
 https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2175
 
+### KfW-Förderprogramme: Klimafreundliche Nichtwohngebäude ( ... / 1.7 Tilgungszuschuss - Haufe. Intelligenz, die bewegt.
+*GN Recht Fachpresse - 16.10. 00:39*
+
+KfW-Förderprogramme: Klimafreundliche Nichtwohngebäude ( ... / 1.7 Tilgungszuschuss Haufe. Intelligenz, die bewegt.
+
+https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTDUzNThMT09hTVJVaUd3Wi1RemdkZ2ltdUtWVGg2MUZqLVZoTUYwa280SFBPYjFuUmVCVEV6c3Z2MDk1TlV5V1FuZ2lGTGpfMkt6QV9SVzFYUUFhLXhVc3VxNlNPTW1sUkdxZEJ0TU5HN0dTbVlVcUpST2hnMkUzYlB1OFlpd2N1eUxtS0RmMVBqMnJubEZaRklKWXNVYklBQUFaQnFGX1pDVUZMTjdNNVFiVXY5UnNqTXotOWZFSXg?oc=5
+
+### Bundesförderung für effiziente Gebäude (BEG): Kommune (2 ... / 4.6 Höhe der Förderung (Zuschuss) - Haufe. Intelligenz, die bewegt.
+*GN Recht Fachpresse - 15.10. 12:55*
+
+Bundesförderung für effiziente Gebäude (BEG): Kommune (2 ... / 4.6 Höhe der Förderung (Zuschuss) Haufe. Intelligenz, die bewegt.
+
+https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWWFHS2FSOTRMemlIRk13WGU2dDF4WGJyekxfOHNVcl9KVzRFdkFUcFZXQzl3Mk00YWQ5NXhWT2g5MGpEd0p4ZTJRQmxGd2pHSThTNUEtWlVpM2dxZE9rZ2VRVkxzMmoxXzBkYXMxV0Z6aDJRZlF6bTlZTDFMZXFBbWdTM3JPRHBCY29kZFVuRW81bzNlWGpfZVc1T1p1cTE4VUtyQ3YwcDhWR0Jxd3BsUzN2VUo3WUVHTTdOTFRPY05jMU1jRXc3eHY1SUFsRk5NWlE?oc=5
+
 ### Startkapital für private Altersvorsorge
 *BReg Artikel - 16.10. 09:43*
 
@@ -1112,6 +1035,13 @@ https://www.bundesregierung.de/breg-de/aktuelles/fruehstartrente-2449404
 
 ## Arbeit und Unternehmen
 
+### Meldung | NZA - Neue Zeitschrift für Arbeitsrecht - Verlag CH Beck GmbH & Co. KG
+*GN Recht Fachpresse - 17.10. 18:39*
+
+Meldung | NZA - Neue Zeitschrift für Arbeitsrecht Verlag CH Beck GmbH & Co. KG
+
+https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNE5ZMWVVak5IUTBZcjl4Z3RmdmV4akVhUG03RUNNVGNYc1dDV1NITzQ1dTJOODFLWl9qeW9mQlJzU0dpbXZpMlZaNUQ3RlZWeTZBQm92T25yOUFzZHpqMklCLTk2VnJ6WFFUWkJ3LThRa3pCWERyY0N6OTJ0ZTZIR2JWYTZHWVdiNU9FNmhiNE90MWRhYnZjdE0zRXV3MDJyRGRvRXJ3cWc?oc=5
+
 ### Senior Legal Counsel Arbeitsrecht (m/w/d) - Legal Tribune Online
 *GN Recht Fachpresse - 17.10. 05:11*
 
@@ -1119,10 +1049,13 @@ Senior Legal Counsel Arbeitsrecht (m/w/d) Legal Tribune Online
 
 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdXdqRUNIQjFKQlBCazh5YXphUk1XRXZrSV9ITTRpZUZnSjNNWXJQRTNPWjF4dEhKQjNtZ0pTa2lWVEZsOWVrcHlaNVFEa3llRUxrNFN4alVHallEdHpTempVV1JwNWw5bGtQMlpNTm5KRU4wYmpocTgzRlU4Unk4V00yNVdLUW5HSDVnYUtqRE00ME5SOWRXRkhLODQ1c0JPc1AzODNnQV9ldw?oc=5
 
-### Syndikusrechtsanwalt/Legal Counsel (alle) im Arbeitsrecht und Datenschutz – Befristet für 1,5-2 Jahre (Elternzeitvertretung) - Legal Tribune Online
-*GN Recht Fachpresse - 15.10. 06:15*
 
-Syndikusrechtsanwalt/Legal Counsel (alle) im Arbeitsrecht und Datenschutz – Befristet für 1,5-2 Jahre (Elternzeitvertretung) Legal Tribune Online
+## Pflichten und Fristen
 
-https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWGJCSFFZa3RJX0lMOXlkR2NuN1RJcE1ZWFRHS1NsUDdIVWVYUWxLZFlOUm5lVEw2LUcwclhORVB3SzJYUUkzUF84djBOX1FZeGdVMkxlb3U1TXBhMHp2NGZBM2xRVEI0NXRlUFdUODBCUmNJZFRobEhENDV0bEdkQmR3U0NreEowb3l4N3cyQ2xtSldKeE8zS0FQZ1EtdWRKWVhpc05ERE4wbDhpOG9oZU96aGM2VmFia3JKSGNZVW5lR0c1TVRQVlN2cjhMQTNtV0hMWHhvMGNQNS1DZWZOelAwbw?oc=5
+### Legal Counsel/Wirtschaftsjurist/Syndikusrechtsanwalt - Vertragsrecht & Compliance (m/w/d) - Legal Tribune Online
+*GN Recht Fachpresse - 18.10. 05:27*
+
+Legal Counsel/Wirtschaftsjurist/Syndikusrechtsanwalt - Vertragsrecht & Compliance (m/w/d) Legal Tribune Online
+
+https://news.google.com/rss/articles/CBMi9AFBVV95cUxNa1RoQXJQSG5PcVZ4dDRDdWhVekprZkRXMmJ0RkFRdms2UWpyc0dsYjhlUmVxdTVaUHpYZExmbEgtYkRuUDNYQTdybHhBbDVPZ2NzSDZzMFBNWExLN1d4eERjLUJ0Q3ljcy1nUVUxRU9fN182ZWlfWTFNcGtJalluZklZYUNPN3dIeGRSYlBZQmlkS2MxZlI5UlNQbnBZUXZmclFxbHJlOW8zOVNnQlJMSzJGczZ0azVONnJNMHYyb0R4ZVFqMEFlTVhVX3o3YWtuQ2hhVUVPT1N5Y1dFUlktVXoxRWd1eVJUWjI0NU1rZ29IeXNo?oc=5
 
