@@ -1,17 +1,45 @@
-# Rechtslage 21.10.2026 10:07
+# Rechtslage 22.10.2026 10:10
 
-126 Meldungen aus 18 Quellen, Zeitraum der letzten 96 Stunden.
+130 Meldungen aus 18 Quellen, Zeitraum der letzten 96 Stunden.
 
 ---
 
 ## Gesetzgebung Bund
 
-### Regierung setzt höhere Steuer aus Versehen in Kraft – was das jetzt für Raucher bedeutet - Merkur
+### Bürgergeld-Reform spart bislang offenbar kaum Geld - STERN.de
+*GN Novelle Reform - 22.10. 10:04*
+
+Bürgergeld-Reform spart bislang offenbar kaum Geld STERN.de
+
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOHlMNTRxQzY5UWFfQ1dmSjdKNndQM2N5LWtrbXBBSzRCNXVRYldabDExN183eVJxc2RaVWdIeXRFNUQ2c201eDRzM1U4MF9FbTdHZmxmbkpTbTFfSWdBQ01OTnhWN1gwVEdrMzZsSWs1bWNvcldaQTJoMUsyazhsa19Bc0FDcWJfSk1obThmMXNGdFItWFFlRDhKZVBoZ0k5aEtuVkU4Ml9aZw?oc=5
+
+### BFH: Alle am 22.10.2026 veröffentlichten Entscheidungen | Steuern - Haufe. Intelligenz, die bewegt.
+*GN Recht Fachpresse - 22.10. 08:03*
+
+BFH: Alle am 22.10.2026 veröffentlichten Entscheidungen | Steuern Haufe. Intelligenz, die bewegt.
+
+https://news.google.com/rss/articles/CBMiswFBVV95cUxPTWNvY0FYcVU0dUlKZHVrU09KYnlaZU81bWxBRWo4TkxlQ0xubm01M2cyNk1qa3p2MVhBcTMwcjZaVjd1UmNmeXgzcUl3TjdCclhrTXVmNl9IbVA3V0dnT0tHTmtqRTludlJ0U1l5ejNQd2dEc0hjNGdrZGJsVThMVWV3dkV5Z28xcV9SMVBXeENwNDZycDExcktxZjczQ3BKZXNVSXAyLURXT19hVDBGQ1J4UQ?oc=5
+
+### Steuerreform 2027: Kabinett beschließt Entwurf mit höheren Freibeträgen - AD HOC NEWS
+*GN Novelle Reform - 22.10. 01:00*
+
+Steuerreform 2027: Kabinett beschließt Entwurf mit höheren Freibeträgen AD HOC NEWS
+
+https://news.google.com/rss/articles/CBMivwFBVV95cUxNak8waGpLcW5CQTJuMXQxcUJXNjRPQWdCdXF0Q2pISmdOSW5vaEtEREtfZHpPaFlfblJfS3FhQTVlaFRSVHhMeWlDUFRjeGtkcXNoTDM1QmtxSUV0RTdTbG93SHpHZ1czbHpvMjg4WkJ2RjFLdmlZM1BIWlNhaDZMYXF6U2lxeUc4VEI0ZW5TLW1FVl93cW5WOFVIY2FScGQ4ZWdqNkdzc0ZYYzJtdUxyb2ltRjVpUlM2WFdVOHBSOA?oc=5
+
+### Gesetz zur Änderung des Preisangabenrechts zur Sanktionierung von Verstößen gegen nationale und europäische Regelungen über Preisangaben
+*BGBl Teil I und II - 22.10. 00:00*
+
+Typ: Gesetz | Initiant: Bundesministerium für Wirtschaft und Energie | Fundstelle: BGBl. 2026 I Nr. 314 vom 22.10.2026 | Sachgebiet: Einzelne strafrechtliche Nebengesetze; Allgemeine Preisvorschriften und Grundlagen des Preisrechts
+
+https://www.recht.bund.de/eli/bund/bgbl-1/2026/314
+
+### Regierung setzt höhere Steuer aus Versehen in Kraft – was das jetzt für Raucher bedeutet - Frankfurter Rundschau
 *GN Bundesgesetzblatt - 21.10. 08:08*
 
-Regierung setzt höhere Steuer aus Versehen in Kraft – was das jetzt für Raucher bedeutet Merkur
+Regierung setzt höhere Steuer aus Versehen in Kraft – was das jetzt für Raucher bedeutet Frankfurter Rundschau
 
-https://news.google.com/rss/articles/CBMirwFBVV95cUxQdHZFclE0Y1VGQmRjVzdpQS1LMFktZkV1dlBKckQ5UWFOQk9RN3hZSExrWkJqNENfREFOdW52N1QtZm44WDJmYWQwa0ZZQVhuM3BIM0Z1blBCMnhGdjlrWjh6MGJ6cjk3ZjBTMUhRbFpTWFVNRE9SU2JhZGZlNzVIUlB0UGtuRnNTLWZFM2tHY0RxdnVqTjhlNEVVcEh0d2RSWnlGY1kzTFFwVnk5Qk93?oc=5
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbkpTR1NqbG1KSUZIU2NaMnYxM1htTlVDTVAxTVhDQmNoSHJiNmM3TmhxYzdqTjRFMEFpd2xBV2N2b0xQSlQwdGNsSHBwWTctaVlvTmRUU1B1Rmd3NWlpT1V2Zl9oeHE2OTRhU0U1Qm9GSGxaTWxidm1RTVkzaElCdFBJemJOM0huOHdkd1F2bV9EdnZrLWtaR3doUUp3RFZNWlg0ZFZPbjBUZw?oc=5
 
 ### Klingbeil-Entwurf im Bundestag: Warum bei der Steuerreform 2027 kaum mehr Netto auf dem Konto landet - Merkur
 *GN Bundestag Gesetz - 21.10. 08:00*
@@ -27,26 +55,12 @@ AUTOHAUS SteuerLuchs: Regierungsentwurf zur Einführung einer Kassenpflicht auto
 
 https://news.google.com/rss/articles/CBMizAFBVV95cUxPd3czZFNaRlhBNTFZcGZudl9CT1VwcDRPckNkajIyM09NckJTOUtDUFVyQUFtbk5TRkJHcHlYSUdrbHVSNGNpclhCRmlhZkNqbGN0X2pjMkJQWEVEYnRzNmxFNlpuZWlUZm5NNE5odTBWMjA0QTNkMjFZb0I4SXJCQXVFaDBDdVFxd2pGLXl3NWdoSzU4OXAyRFNvV2k0Q0NzY0tObENBUE13TjRoS1NHSFhtWWg3bUZ1U1lINDBQNEdua1RZelZNdERtOWg?oc=5
 
-### Tabaksteuer: Fehler im Gesetz sorgt für vorzeitige Steuererhöhung auf dem Papier - Spiegel
-*GN Bundesgesetzblatt - 21.10. 05:15*
-
-Tabaksteuer: Fehler im Gesetz sorgt für vorzeitige Steuererhöhung auf dem Papier Spiegel
-
-https://news.google.com/rss/articles/CBMi9AFBVV95cUxQM3VQOWFuS0czdTR6OWROSVU3SS03Sm9PblloRmtEc1FqUmNoYm5CTXBRd1F1VkFyYkRManEyVlVrVmpuMEVBOWZnWXVpU05QTngyNUtwWHZMS0pJeS16M1ZRR2xuOFhKbXphZ1VYZEV4TmJ4WEFIeWg5eDM2dFRqWWpsVWc3eWlTQmIyd3NacW8wTWRVQVFfZ3hPNW1wSFd4TUR6LUVpRXZIMzl5S1E5SXZzZ3ZzVk0yR1c3bGdQTk1SVWdLa0lRZzBnd1NRWUtaY1A3Z3pRVlMxaFNIQmxPYWNRREZ0dmpxY05qWWRjN09yQXhk?oc=5
-
 ### Krypto-Steuer 2027 in Deutschland: Was der Referentenentwurf zur Haltefrist vorschlägt - Ledger
 *GN Steuer und Arbeit - 20.10. 18:06*
 
 Krypto-Steuer 2027 in Deutschland: Was der Referentenentwurf zur Haltefrist vorschlägt Ledger
 
 https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MSVkyeUF1c294V1duaUtlN3dnaDMtdGIxMVRmcFJ3cDI3NlZILUZSajhicG43Z0hwdmZZWm5EX2VGT0tmaENDd3ZaNldlVW1Gb2VWYWNrcVV5OFk0?oc=5
-
-### Terminmeldepflicht: Bundestag verpflichtet Arztpraxen zur Meldung freier Termine - AD HOC NEWS
-*GN Bundestag Gesetz - 20.10. 11:39*
-
-Terminmeldepflicht: Bundestag verpflichtet Arztpraxen zur Meldung freier Termine AD HOC NEWS
-
-https://news.google.com/rss/articles/CBMixAFBVV95cUxQbnY4dlNMSjBMTFlIM3kzanh3OGNlaktmZTdWMW9DY21nSVNNd2lwS09nVHhrX0JSOE5zZTJrcnZpeG1Xcy1yTDJELTE4cE8yOXRpRVpRcnlyUlZvUTdrMHVLRTduLUFseFFfZmY1TlpfVXJuSjZuUnQ0QWE5MmJhU3BhV0dvTDlSQ09mZHNPeFBNYXVlZ3IyZjBlb05wMEVzbTQ4RkJNNHd4a1ZHLW5QVVE5ZjBLNzlEZzEtRlV2UURCb2R4?oc=5
 
 ### Gesetz zur Regelung der Förderung des Spitzensports und weiterer Maßnahmen gesamtstaatlicher Bedeutung im Sport sowie zur Errichtung der Spitzensport-Agentur
 *BGBl Teil I und II - 20.10. 00:00*
@@ -97,26 +111,6 @@ Bundesrat sieht Nachbesserungsbedarf bei Steuerreform openPR.de
 
 https://news.google.com/rss/articles/CBMimAFBVV95cUxOSnZRUE80djExM0VuTV9PTzFHbjFoRWhZSWZZRE1CWlV2dkZwQnp0SkEwekhLUjRWUUFiUTgxbXNicmRWTnhod3RwVFRhR1M2SUx1bzRHTVVoMFcwZ05UdV8xMDE1dktnYjEwSktKZWtPeUtmMXdENHlReEx5dkw4RVZBdGcwUVBaOThPSVFGdE9QaTY1emNmag?oc=5
 
-### 21/8679: Beschlussempfehlung und Bericht zu dem Antrag der Abgeordneten Bernd Schuhmann, Stephan Protschka, Peter Felser, weiterer Abgeordneter und der Fraktion der AfD - Drucksache 21/8134 - Landwirtschaftliche Innovation fördern - Den Einsatz von Agrardrohnen entbürokratisieren (PDF)
-*BT Drucksachen - 19.10. 10:00*
-
-https://dserver.bundestag.de/btd/21/086/2108679.pdf
-
-### 21/8686: Unterrichtung Entwurf eines Gesetzes zu dem Abkommen vom 19. Mai 2026 zwischen der Bundesrepublik Deutschland und der Ukraine zur Beseitigung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen sowie zur Verhinderung der Steuerverkürzung und -umgehung - Drucksache 21/8245 - Stellungnahme des Bundesrates (PDF)
-*BT Drucksachen - 19.10. 10:00*
-
-https://dserver.bundestag.de/btd/21/086/2108686.pdf
-
-### 21/8685: Unterrichtung Entwurf eines Gesetzes zu dem Protokoll vom 9. Juni 2026 zur Änderung des Abkommens vom 6. April 2010 zwischen der Bundesrepublik Deutschland und der Republik Albanien zur Vermeidung der Doppelbesteuerung und der Steuerverkürzung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen Drucksache 21/8244 - Stellungnahme des Bundesrates (PDF)
-*BT Drucksachen - 19.10. 10:00*
-
-https://dserver.bundestag.de/btd/21/086/2108685.pdf
-
-### 21/8665: Beschlussempfehlung und Bericht a) zu dem Gesetzentwurf der Bundesregierung - Drucksache 21/8245 - Entwurf eines Gesetzes zu dem Abkommen vom 19. Mai 2026 zwischen der Bundesrepublik Deutschland und der Ukraine zur Beseitigung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen sowie zur Verhinderung der Steuerverkürzung und -umgehung b) zu dem Gesetzentwurf der Bundesregierung - Drucksache 21/8244 - Entwurf eines Gesetzes zu dem Protokoll vom 9. Juni 2026 zur Änderung des Abkommens vom 6. April 2010 zwischen der Bundesrepublik Deutschland und der Republik Albanien zur Vermeidung der Doppelbesteuerung und der Steuerverkürzung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen (PDF)
-*BT Drucksachen - 19.10. 10:00*
-
-https://dserver.bundestag.de/btd/21/086/2108665.pdf
-
 ### Gesetz zur Umsetzung der Richtlinie (EU) 2024/1785 zur Änderung der Richtlinie 2010/75/EU über Industrieemissionen
 *BGBl Teil I und II - 19.10. 00:00*
 
@@ -131,12 +125,131 @@ European Commission Pressemitteilung Brussels, 21 Oct 2026 Die Europäische Komm
 
 https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2223
 
-### Panne bei der Tabaksteuer: Gesetz tritt aus Versehen schon in Kraft - Politik - SZ.de - SZ.de
-*GN Bundestag Gesetz - 21.10. 09:11*
+### Pflegereform im Bundestag: SPD will nachbessern – Mehrkosten für Kinderlose ab 2027 geplant - Frankfurter Rundschau
+*GN Bundestag Gesetz - 22.10. 07:29*
 
-Panne bei der Tabaksteuer: Gesetz tritt aus Versehen schon in Kraft - Politik - SZ.de SZ.de
+Pflegereform im Bundestag: SPD will nachbessern – Mehrkosten für Kinderlose ab 2027 geplant Frankfurter Rundschau
 
-https://news.google.com/rss/articles/CBMipgFBVV95cUxOTE5iS2xucFM2U044alNuVExhaVk0Mmh4MFVhYkNrU1VjUjc5bXlFVkxuOThmdW1KaDJlY29Xd3h6MThDS2I4Z3R3Sm02azk1Y0xaLWtDdjk1UWphdF8yR1JLZm1maC1mRDhDcWw3U1ZPbzhkUjJzWHNoczZlZlBPY1hRN0k1RzVjanNnMDVVdWVIbkN5b0hLd2xEZVIybGxKVGpKSUN3?oc=5
+https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUUs2cldybkl5b0NHQW4zZjlXcDZyR3l4MDU2V3JJaE1CWjNrLXRyaU4xbkhhRFBYWEZzdDFOWUJRdUZpOVhXZXhRb1ZiVHRPYlQ2T3g1M2JqSGlYNjBrY3hFNjFaaUZSSmNrbGNmay14TnMwT3BjOV9JVWZ5VlJSTzhfX1RtNTZKbl9faHR4aWJVRDUxbXg5cW8tcC1KNzQwVkdvVnpoWjk?oc=5
+
+### Pflegereform: SPD kündigt Änderungen im Bundestag an - kma Online
+*GN Novelle Reform - 22.10. 07:01*
+
+Pflegereform: SPD kündigt Änderungen im Bundestag an kma Online
+
+https://news.google.com/rss/articles/CBMirgFBVV95cUxPdXg3SWJFS24zc05LUnZiNl9lU1hkb0F3TDA0cDdsQWNKRU5zXzlOeGlveUFMVWJrS21rdkxzVUp2STViaFdRSVRoaEZtQ3lVQ2tlcnd5TndsUHVBNEZVVkt0Wm8zemtRTDJBM0NNZzRZNDFKY1M3ZTZTSjBUeGpmajBLQlItSGZwajcwMzNlVndEZFItQ0xPSXRNNFpNekhYSlppc0o1eGYyWlI1RGc?oc=5
+
+### Pflegereform 2027: Welche Termine jetzt wichtig sind und wann die nächste Reform kommt - Allgäuer Zeitung
+*GN Novelle Reform - 22.10. 03:26*
+
+Pflegereform 2027: Welche Termine jetzt wichtig sind und wann die nächste Reform kommt Allgäuer Zeitung
+
+https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTkJNVnhDS3lla0c4WWFrT2cySjgyMTZVUzZWNXBuWG5zbERXQWs2RWZ6ckhyY1BZNlphTkVJM3NhZk92QWloc25zZGNLcWdEMy1XRGU0b2Yzbnk4Rl9MdGllVTVjUjdfcW4zUmR2ZnlYY040bGNYbFhRV0pWRnlZaFk2cG1KRUNDazluZUY2dXZCTGhJcE5DUzE3b1EwODlTNTNhR3RDT19GWXoxV3BhTDdlTFJDc3VGcDRLTkVvWGg?oc=5
+
+### Cannabis-Legalisierung - Seite 4081 - Aktuelles aus Recht, Gesetz und Justiz - Legal Tribune Online
+*GN Recht Fachpresse - 22.10. 02:12*
+
+Cannabis-Legalisierung - Seite 4081 - Aktuelles aus Recht, Gesetz und Justiz Legal Tribune Online
+
+https://news.google.com/rss/articles/CBMifEFVX3lxTE15VVdjMndYSk82Z0M1N2laWUYzZlNKeU9ObWRia1dGRTUtWXgwV1piMGpOemRyS29oRXpDNkpLY1N5TTlNbGFkdEtYSm5qc056YnVQVmJYYWIxeEVKYnVxUVFJbzVoMnRXcVBRcnNwSDYxYm5UUERKeG9vQnQ?oc=5
+
+### Bezahlbare Pflege: SPD will Pflegereform im Bundestag nachbessern - RP Online
+*GN Novelle Reform - 22.10. 00:38*
+
+Bezahlbare Pflege: SPD will Pflegereform im Bundestag nachbessern RP Online
+
+https://news.google.com/rss/articles/CBMiuAFBVV95cUxQakxlWkQwaXRQRWF5ekJrUWxEZDN5bnhfRG8zckN2cHdYY0drbUYxTzNub1lVSXRfVFplYm5aaHVYeXZpejcxQmxSbVF6Ylh1Qzhmc1JsT2cwc3VoVVlSa1pGeWM1V2tkUHFhOVFLTE0yZ05KMjFIUkQtbWcyY0F2Z3BfMlBxWUNVdHBFSXRPMFRGb0UzVlJENkZoWGt5OTI4cVBsRXRocG1JRkJYY2dickxuZDUyRXRC?oc=5
+
+### Bekanntmachung über das Inkrafttreten der Artikel 2, 4 und 7 des Fünften Gesetzes zur Änderung des Straßenverkehrsgesetzes und anderer straßenverkehrsrechtlicher Vorschriften
+*BGBl Teil I und II - 22.10. 00:00*
+
+Typ: Sonstiges | Initiant: Bundesministerium für Verkehr | Fundstelle: BGBl. 2026 I Nr. 316 vom 22.10.2026 | Sachgebiet: Straßenverkehrsverwaltung; Allgemeines Straßenverkehrsrecht
+
+https://www.recht.bund.de/eli/bund/bgbl-1/2026/316
+
+### Frühstartrente beschlossen! So viel Geld bedeutet das für dein Kind - DerWesten
+*GN Bundestag Gesetz - 21.10. 23:35*
+
+Frühstartrente beschlossen! So viel Geld bedeutet das für dein Kind DerWesten
+
+https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ3dIcHRkcC1jUnItdk1iSEQ4Z19FZkFIakFjWTRfUDk0RGd1MWszYzZZNUxqLUd4ckhHTDNwMXMxQ2VIUmpVV0lCUXgxWGdZM2lpeGtXSGpJcXdnV0FSTXVSVTM1QV9wUHVDSGNvMHltWmpRYW5veDJBTGt4R0F0TkVNaFlJeVhyMFNEMGVNa3E4MDZlV0htMUFmXzQ0emZmczNUdFlSeDQ?oc=5
+
+### SPD will Pflegereform im Bundestag nachbessern - Deutsche Apotheker Zeitung, DAZ
+*GN Bundestag Gesetz - 21.10. 23:00*
+
+SPD will Pflegereform im Bundestag nachbessern Deutsche Apotheker Zeitung, DAZ
+
+https://news.google.com/rss/articles/CBMisgFBVV95cUxPQmE3aXBqbmlUNnRoMWVZWkZUQU14WnJoakpNX05hSVNfZ1I5Qk12U3ZmbTBWLTJ6MVA2cFF3R0szWDYtbHdqUUdVbFYxTzJURlZoWTk4TFlPWmtIRkxMWmpqVEZ4N0JPVktxTEhTYjdwd2E1WlV5TUxQUlZTdjJDQUQ3Mzhhc3dNTzB4dU1GbjFBckpnU0pVWmkzd0N3SnNQOTRrMHhTRGVjcGg1OWFiMHB3?oc=5
+
+### Fehler des Ministeriums - Neues Tabaksteuer-Gesetz tritt aus Versehen bereits in Kraft - Deutschlandfunk
+*GN Bundestag Gesetz - 21.10. 21:39*
+
+Fehler des Ministeriums - Neues Tabaksteuer-Gesetz tritt aus Versehen bereits in Kraft Deutschlandfunk
+
+https://news.google.com/rss/articles/CBMiogFBVV95cUxOTDE2S29WNmlVWGlXdjRJei1jUThzd1V4QndSUHRNMGFRRzVwYkRuVWJJeUhOcDBNTmxUWnNvcW1aNGpCSVRKcklhaFR0aFFXQ21NZ0hRb1BRTW9nS2x5TTBXOFBHSVI1Unp0NG05Y0FZQldPYkZORmpNM243Z0trQWpjV2dJbXFTT3Z2VGVnckE4d3poUTBfemFTczdKRWxIQnc?oc=5
+
+### Peinliche Panne: Finanzministerium will Fehler im Tabaksteuer-Gesetz „berichtigen“ - Stuttgarter Nachrichten
+*GN Bundestag Gesetz - 21.10. 15:57*
+
+Peinliche Panne: Finanzministerium will Fehler im Tabaksteuer-Gesetz „berichtigen“ Stuttgarter Nachrichten
+
+https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWVpXWG1wekN6VDJfOXhiVzFCUlkwbHJoRGxKd2VvZXNZOEJFQzA3a2FHUEk5b01fTXUzOHpPOHBQd3pSdFdRVTRGcVFGUVNFZHotbUhLNkcxaVJVREtYcjRydEt2SWQ5V3VnczNZaFgydGIxYlhST3FXZVhOc0ZQQlVxTnVDVHY1YjN0S0JZbFJIVzluTzczeW5NT0pOeGFnVG9yeXJwS0FrWWxMR0RCclJKa3ZScG5BRGZvZV9zalhqb3FLbG1IVDFVQjRRZ1M0NnAyUFVWTQ?oc=5
+
+### Verkehr: Länder fordern Reform der Schienenmaut - Warnung vor Einschnitten - News.de
+*GN Novelle Reform - 21.10. 15:49*
+
+Verkehr: Länder fordern Reform der Schienenmaut - Warnung vor Einschnitten News.de
+
+https://news.google.com/rss/articles/CBMijgJBVV95cUxOUmNoSGtxMUVVY2d2M0RzTVZfd3V3T0N5dTJHV0JvTVFqbGZEdVNSd1dQOG9RclB4aE16dnNBV19IVHJiSFhtbm1LZ0xwTDVfLWJBWXJvd2lhMGIxbk4teS05NkVJWGV3anQ2Vkl6VzhVQkdfQ1hza1JuRUN5Wm1OR0VXb25ndTBFNlQxb2tvVHlEb2NrQ2pSUHBmSmJ0OXhhbHBnMmtnWlBDdlBUWGZNbGJlT2N0NWJ0alZnTHhFb0FiZ3hsNmMyd0YzdXJ5YnNVTXd3UGlaNndtWU5tWGFmaU1nY0lEVG02bHZ0bDNKb3RYcXFlc2EtMmpMTjFKeWJyQjFlYzU4aTZ2aUM3c1E?oc=5
+
+### Kuriose Panne: Tabaksteuergesetz tritt zu früh in Kraft - Legal Tribune Online
+*GN Bundesgesetzblatt - 21.10. 13:43*
+
+Kuriose Panne: Tabaksteuergesetz tritt zu früh in Kraft Legal Tribune Online
+
+https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUnVqNTgwaDRqOXNWTlZydGEwdTZlT1FSUktCcFhhdmxLcjVrdnc4ZDBQcUNBZzBZdnFkZmdpZk1vQktraWJIeFRHV21qZ0FEN3pyN3hYU2hHTWRIR3gybC04RldWc21yRXFKQjM1emxRMDJLTVJLdzhUelhSZURNb3VLaERDcGpzcXZZWFRlbThHb2pkamszV2tObkZEMEh5WEZWbHZYTkg?oc=5
+
+### Tabaksteuer: Erhöhung tritt wegen Fehler schon Mittwoch in Kraft - „Dilettantismus, der fassungslos macht“ - WELT
+*GN Bundesgesetzblatt - 21.10. 12:17*
+
+Tabaksteuer: Erhöhung tritt wegen Fehler schon Mittwoch in Kraft - „Dilettantismus, der fassungslos macht“ WELT
+
+https://news.google.com/rss/articles/CBMiigJBVV95cUxONUlxdkwwYXFWdGtUaWFzQXhjNEJHaUJ1QV80RFdzc0pMYWNQNnZmcjZIQVpWZE8yVjE3ZjdaU2V5NWZISVRIZGpxRnBHcm9QRVZQd1FyNmFLcVRDOVJHRHZMQ2E5cHU0dDRick9NYTlnSEFkUnQ3bkF2WXh4Rnl1bEhVX01wV184d2pfMC0wNks5dnR4d1NXZG1BWGU5UzByYjNNTU9LVVhtM3phWWJXN1lOT09lX1M1dkhxRmo4UTMtOU1TZC1CY2QyQTY3S3VJQkkxVGlkM285U0M3cnZnbmdwSzRmZFlEWlRWRkhCcklPSXhETk52MnR5b1ZIaGRNTmtMZFdMWTJVdw?oc=5
+
+### Chaos um Tabaksteuer: Bricht Klingbeil jetzt selbst das Gesetz? - BILD
+*GN Bundestag Gesetz - 21.10. 12:16*
+
+Chaos um Tabaksteuer: Bricht Klingbeil jetzt selbst das Gesetz? BILD
+
+https://news.google.com/rss/articles/CBMivgFBVV95cUxPWGh0MTFCR1I2RVNmT0otY2hyYWtLT2RqMzBKNU1kWDU0dU9QYXBXc2hpanltQnFaMkdyeGVMZEpOWjhBcGJnYzdjbnFpYXdQWTVqUU51R2E1YUFsaXQ5cnlHbGEtNnhHZ29COHpOb1U1Ui15THdQTVBrM28tNGExN2ZvSDNOQVg4LTFCSml4aHJpWkM4djJReW9yVHpmTERNbmtBeExncTlsWFo0ZEQ1R1RCLXNqbTItaFQzQllB?oc=5
+
+### Bundestagsabgeordneter Harald Orthey äußert sich zur Reform der Notfallversorgung - WW-Kurier
+*GN Bundestag Gesetz - 21.10. 11:03*
+
+Bundestagsabgeordneter Harald Orthey äußert sich zur Reform der Notfallversorgung WW-Kurier
+
+https://news.google.com/rss/articles/CBMirgFBVV95cUxQOGJfRGxrUElIa2lPUW1LZk5feHFWSWtBR2hoN1NIaWhvNVF0bWd6elVuNzdVUktodUZLUnBVeXVoRXIydnZxVU9sc0QwcExsbU4yQ0tiTHhRdDVEOThJeVRCNzctcXBPWGprMjJ6cm9fYWVjdU92NW0yOE5ra01UMlNmWnJJZ3RSUWJIMml0Q1lyRHoxTm8tX000UG1fU0V0VGJCRHJVUkd6NVNkRGc?oc=5
+
+### Bundestag beschließt umfassende Neuausrichtung der Notfallversorgung - Radio Westerwald
+*GN Bundestag Gesetz - 21.10. 10:07*
+
+Bundestag beschließt umfassende Neuausrichtung der Notfallversorgung Radio Westerwald
+
+https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdHdQTDRkRTB4eWVFeWtDc1pVTVdnYS1sWFlkSmdrQXJ6TENOeXE5RkFDQlBzQzBzcWdYZTB5Z2tXMnRQc253dklLMVo4MndpUzFZcmJYdkVFeE83RGY0TUl4NmVYNlExeUJrZUZTNzkzSmt2N3FtTmxWejJTQkV0OV9SMWx4X2hNaEhMMUpKLUhkbnN4cjFiRExtdkpBX0RDV1c3TW55NkZUYzI5Z3pUUGVBVHpyZGU1ZXhPLUEyNXlObDhfUFM3YXBYQ1VZNzQ0YTRiMi13?oc=5
+
+### Tägliche Nachrichten 21 / 10 / 2026
+*EU-Kommission - 21.10. 09:23*
+
+European Commission Nachrichten des Tages Brussels, 21 Oct 2026 Kommission untersucht, wie Booking.com Betrügereien und Betrug im Rahmen des Gesetzes über digitale Dienste bekämpft Die Europäische Kommission hat heute ein fö...
+
+https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2225
+
+### Bundesfinanzministerium setzt Tabaksteuer-Gesetz versehentlich zu früh in Kraft - RND.de
+*GN Bundestag Gesetz - 21.10. 08:23*
+
+Bundesfinanzministerium setzt Tabaksteuer-Gesetz versehentlich zu früh in Kraft RND.de
+
+https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRXdLSm5fOVhzTk9iUk1pOHMxQkNRNEFib1VjLVZxaGZicFJMenpOLXYxdG0wUEE3N3RNdWdhNTMxemMyMUs4ckdPUHF6S0tFbHlJWGp4MElsWlA0a2JRUlYyeHRnRjYzb2otYkxUZ01ZbjlyS1BuVV9UVEY4WDE3UnJfaWlfNGcwblEtWkhYeXhGWlhXV2FHSTMyT1prSGdzYXVDOVJSeWtYMU9SOHpwbFFKU0VDajNQNUNnXzg1NWpNRFg0QWRTNFNJTVNWM0l0TFB4WlN3?oc=5
 
 ### Tabaksteuer-Gesetz: Aus Versehen zu früh in Kraft - Apotheke Adhoc
 *GN Bundesgesetzblatt - 21.10. 07:59*
@@ -222,48 +335,6 @@ Tabaksteuer: Gesetzespanne setzt Erhöhung schon am 21. Oktober in Kraft AD HOC 
 
 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU1hReTFpeXFxRFo0ZnAxRlRidGV6eUxSNUZhYjcybC1IVXh3SC1oOTMydk90cjAtR2ZobjdXU0tBdVE5ZFFwaEp1cVpkWDF6b2pUVFpwUENfNXByUVBMMzdRWlBSNjFwYUxwWGNwamRDMUtyRXJTanVENjl3UzdCdlA0c0Q2bHc5N0paeTVVSXAwUHdOMU9qaWNLeDVzYkFLNXFrY2pjbDRJOHhVM3Z6THAyYVFWcmgt?oc=5
 
-### Finanzministerium unterläuft Fehler beim Tabaksteuergesetz – Erhöhung tritt schon Mittwoch in Kraft - WELT
-*GN Bundesgesetzblatt - 20.10. 16:55*
-
-Finanzministerium unterläuft Fehler beim Tabaksteuergesetz – Erhöhung tritt schon Mittwoch in Kraft WELT
-
-https://news.google.com/rss/articles/CBMihwJBVV95cUxPbFRicThNbU5HcE9wLXFfd3FBQmhtN0xzYVViNXhUQlI1RHI2QThVeGFpc2ktRENnUTVBbmRmUnlsQmhFOUs5a0dVV1pVUkJHejl6emlqMlVRLTRseWs5QlQ5VkJGVkIwQ2EzMVJoMm15X3A5WjZsMUgycjNNb2l6VjVJVi04X1RlSW8zR3ZRNTVOQnFwYngzYjdNYVgtU3hoY1k4OVN6NmJrc1VfbTFZVjEybHhsY1RNZXJkdHBRakg1R1N3ZGtrOFlhdmNrWnFCcExOWkNzWlI5MlRYMHFRSnZlSmlXUTloanJNcGVFRnhkRXR6ay1paEJwM2Qza0MyTjI5cThlTQ?oc=5
-
-### Linke fordert Reform des Deutschen Richtergesetzes
-*BT heute im bundestag - 20.10. 13:42*
-
-Recht und Verbraucherschutz/Antrag Die Fraktion Die Linke fordert in einem Antrag eine Reform des Deutschen Richtergesetzes, um den Rechtsstaat resilienter gegen rechts aufzustellen.
-
-https://www.bundestag.de/presse/hib/kurzmeldungen-1225800
-
-### Bundestag erleichtert Ausweisregelung für Hochbetagte - SuaraGarut.ID
-*GN Novelle Reform - 20.10. 13:07*
-
-Bundestag erleichtert Ausweisregelung für Hochbetagte SuaraGarut.ID
-
-https://news.google.com/rss/articles/CBMib0FVX3lxTE8yY1Y4LWJ2aml3aUVsMjdYQzRkZ3dSNHJYS3poSkhQbjBvODljX1VxaU5idGt6TWZuVXYxSFpabVg1ZVVORGhuZndVNllxN0tvajk0SFA3QTk0QnVaQ0pidDlHQVJuRDlKemdybk1LZw?oc=5
-
-### Hilfsmittel: Ausschreibungen sollen in den Vermittlungsausschuss - Pharmazeutische Zeitung
-*GN Bundestag Gesetz - 20.10. 10:20*
-
-Hilfsmittel: Ausschreibungen sollen in den Vermittlungsausschuss Pharmazeutische Zeitung
-
-https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGk5QXF5ejRvZXZkR29GRXI2M0VQNVR6aURDbE5LWkF4OF93RmpKUmNRVDVwdGJYY0JoME9fc0I1bnNSN29LY091YlhXaTR2eGNXdTY4UzAzaWNoOVU3M09DZ0FrdmJmdWlPNDFoTkFmRUNPajlic3VwMnB2OUVMWG5Nd0NOYlJwMDVNblJjSDBMYUlFa0xEdDNJdXExYms?oc=5
-
-### Bundestag beschließt Neuerungen für Personalausweis und Pass - WELT
-*GN Bundestag Gesetz - 20.10. 09:32*
-
-Bundestag beschließt Neuerungen für Personalausweis und Pass WELT
-
-https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNGRpdWFpekZiM0xYeWc1cnUxRktFcWZ1ejgzWngtcWxJSlJPby10QjlkamtyUHNZRDVRd1ZtNVZwanlxZFNjVGVJTTJNM3BCVFhneE5IY0xBSGpDcGZidTNOdHFDN1RNbzhtT0ZuSDU1WGh2T20yWnFUWmUxU2pGQTU1TU5MdVhZbkhTVTIwY0tNdzVDeVhPNEs5TlA2MExlYnFRbzRKRi1KQXhscVkydGFyclVhXzlEOVh6X0xmbTRpZGxrZ1ZwNTRQQnR6czQ4WkZaaThvT1FtMUloQU44TmxUdw?oc=5
-
-### Pflege 2027: Mehr Pflegegeld, weniger Hilfen – das hat das Kabinett nun beschlossen - Gegen Hartz IV
-*GN Novelle Reform - 20.10. 08:19*
-
-Pflege 2027: Mehr Pflegegeld, weniger Hilfen – das hat das Kabinett nun beschlossen Gegen Hartz IV
-
-https://news.google.com/rss/articles/CBMisAFBVV95cUxQRVBfMWNZeER2empmTGl6R0dZaGY5T3V1YUFock50V3RSSm9Eb3RkNzNUSUNLVEdLZ0dTVS1ZQVVtVGxCUGVRUlFQamZ1Z3pfQlJjdFhVbjZzWnVETGZETWl4Qi1oUGVWSGU3d2tWZ3p3Z1lIM2dxYTdZRUdTU0R3alVOT013NGQ3a0V5dzEzSkNLVHhfbkxDOWpmakluY0hGbkpxVGVJVW9fZTNUSWVZaQ?oc=5
-
 ### Generalbundesanwalt - Seite 4079 - Aktuelles aus Recht, Gesetz und Justiz - Legal Tribune Online
 *GN Recht Fachpresse - 20.10. 06:15*
 
@@ -277,13 +348,6 @@ https://news.google.com/rss/articles/CBMieEFVX3lxTE1kRmRKYVc4YVR6TWpkQ3Z2WjdvVWc
 Arzttermine: Kassenärzte warnen vor längeren Wartezeiten durch Reform Spiegel
 
 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZHA2VFU4N1JUUU9jMk4xeHZGY1FpY0VnWHhWRDNmSHUtcVYzX05CQm5pSFQxdHpzSTREamhsSWc5ZENkNnlrZGd3NVJCOTNuYmNfTy03cGxramRVRUlZVFFxaWF0V1M2N2dlVlB1eTg0VS1uek5aZVB4UVZFeW1UT0I2N3VTS1dOQlRtLWY4UTRKNXJiWE9MdVZoZTZFRkM0MVdxMHRlVEFJaGRvdGFpOTZDbklvblpiNGpaUDlHOHJjaEJLVU1Lb2UzVTZKWGFRZjY5YXZ3UWROXzhPRlZUWUdRQy1ZVjA?oc=5
-
-### Pflegereform 2027: Welche Termine jetzt wichtig sind und wann die nächste Reform kommt - Allgäuer Zeitung
-*GN Novelle Reform - 20.10. 03:52*
-
-Pflegereform 2027: Welche Termine jetzt wichtig sind und wann die nächste Reform kommt Allgäuer Zeitung
-
-https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV2VJLWJfeU9Vc0JJQjBVQjNBNXZfNWJtTk82cDhjRG5SbDg4UF9obGFjYlRWbkVYendrQzJlcDQ3ai1MQXhxdTQ2Q2k1cHdKR0Y2SzBWUWcyTVd3Z005bTNxMGMwaVdValZWZnJpNnl4NU9xWFJ2TzkxU1Y2cmJGNl9VamlySDdNYkhlOWRFaE1DRnVhX0lFdDdVcTVGNlZpYzdSU2FKMFdFNXY0OEgyUklONHBCaWR6dFRUYjlkbGg?oc=5
 
 ### Gesetz zur Änderung des Tabaksteuergesetzes
 *BGBl Teil I und II - 20.10. 00:00*
@@ -320,13 +384,6 @@ Reform beschlossen: Darf ich künftig noch direkt in die Notaufnahme gehen? Neue
 
 https://news.google.com/rss/articles/CBMixwFBVV95cUxPM1hMSThzT2U2RjNMTjVodmJxalp6RHZRWjRRYjNtYTBsRXN4d2stcUZhRF9vNl9QZDE0amJKWU9yVk5UeTlTaDhwUG5pdDdQeDI4Mi1taGtDd1k4ZkI1clZOWkpVMGdEZjFLeVdrbU9KVHFSenpMWUdwZm1ZN3Z3aFpwQU1wdTByS1hwd3FjVmRZdzFYcEI3T2M2MVM5VXllMFV2bjlhOUpFZWkxZzBpT1R0bkVyRXh2VnJOd2FYNGNybmYzSE5J?oc=5
 
-### Kurz vor dem Black Friday: Neues Gesetz ändert die Regeln für Ratenkauf - futurezone.de
-*GN Bundestag Gesetz - 19.10. 16:21*
-
-Kurz vor dem Black Friday: Neues Gesetz ändert die Regeln für Ratenkauf futurezone.de
-
-https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRHRNc3RlYm56Si03ZkFiYWZ3d29UYUVoQ0R5d1JhU2VwU3hwQVBqTko0elBGZkg1Rmlpd1ZTSFlvQkFXX1ExZXYwRXAxeUVtTExNdkU2ZDNsTDZwbVhVQWJVaFJiYW56anNQWU5pSTcxV2FTNXBBbHJCZ01HRUhuaDVUWWpTUzUtZUxrbGExR3REcnUzcVNTbC1yRE1YaWRWR0NOZGFoTnAtVGtfLUloNkZlSmo2ZUlYWmJvQzVDT2YzY1huYmdjM0lhenh1Q084NjhSUmZ2ckdnQQ?oc=5
-
 ### Bundestag beschließt Ausschreibungen bei Hilfsmitteln: Selbsthilfe und Initiative ... - Presseportal
 *GN Bundestag Gesetz - 19.10. 15:31*
 
@@ -347,68 +404,6 @@ https://news.google.com/rss/articles/CBMilgFBVV95cUxQNGFQellxRENidkJ0YjZremh6NUV
 Ihre E-Mail an den Bundestag: Klimazerstörung durch KI-Wahn verhindern! AlgorithmWatch
 
 https://news.google.com/rss/articles/CBMickFVX3lxTE5vU2tHMkdqMUh0cHhDcjFkWXMtbThiQUptdjF0cXBxOHNrMk1heE1kQ08zX2J4WXJMUm9KN1dCdVFtVllJWHEwYVBNWjBRanVrZllYTkdDNm85QUMta3Y5VmVxcHpOY2xTa3ZwbDI5enVfdw?oc=5
-
-### 21/8684: Beschlussempfehlung und Bericht zu dem Antrag der Abgeordneten Bernd Schattner, Stephan Protschka, Peter Felser, weiterer Abgeordneter und der Fraktion der AfD - Drucksache 21/8133 - Deutsche Landwirtschaft nach den Ernteausfällen unterstützen - Krisenbeihilfen nutzen (PDF)
-*BT Drucksachen - 19.10. 10:00*
-
-https://dserver.bundestag.de/btd/21/086/2108684.pdf
-
-### 21/8678: Beschlussempfehlung und Bericht zu dem Antrag der Abgeordneten Dr. Ophelia Nick, Dr. Zoe Mayer, Karl Bär, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN - Drucksache 21/6015 - Marktkonzentration in der Lebensmittelkette stoppen - Gerechte Marktstrukturen für Erzeuger und Verbraucher (PDF)
-*BT Drucksachen - 19.10. 10:00*
-
-https://dserver.bundestag.de/btd/21/086/2108678.pdf
-
-### 21/8677: Beschlussempfehlung und Bericht zu dem Antrag der Abgeordneten Julian Schmidt, Stephan Protschka, Peter Felser, weiterer Abgeordneter und der Fraktion der AfD - Drucksache 21/8130 - Liquidität landwirtschaftlicher Betriebe sichern - Direktzahlungen für das Jahr 2026 bereits im Oktober auszahlen (PDF)
-*BT Drucksachen - 19.10. 10:00*
-
-https://dserver.bundestag.de/btd/21/086/2108677.pdf
-
-### 21/8666: Beschlussempfehlung und Bericht zu dem Antrag der Abgeordneten Bastian Treuheit, Marc Bernhard, Carolin Bachmann, weiterer Abgeordneter und der Fraktion der AfD - Drucksache 21/8383 - Gewachsene Heimat erhalten - Lokales Bauland an Einheimische vergeben (PDF)
-*BT Drucksachen - 19.10. 10:00*
-
-https://dserver.bundestag.de/btd/21/086/2108666.pdf
-
-### Reform der Notfall-Versorgung: Wer wird in OWL künftig noch direkt in der Klinik behandelt? - Neue Westfälische
-*GN Novelle Reform - 19.10. 09:57*
-
-Reform der Notfall-Versorgung: Wer wird in OWL künftig noch direkt in der Klinik behandelt? Neue Westfälische
-
-https://news.google.com/rss/articles/CBMi8AFBVV95cUxOU0pVbkdVeXpFckJOei16UGVFb1M1RVF6dkdJeDhURFgtRUxQUksySGkxY0JEdGQwbTR5YkM1QTRMbk8tSTN3WGNSMFpNdmY5c0gwTm5UTGYxMTBBcDdYZllUZVdxdk9lbzJnakpoamFfeS1rNm04LU0zMVItenMzaWo1VWNnU20xZTF1WTJrdFFOaTBfM3NkUll1NmNtNkVidW9QY21wN2M0Ni03ODdVdm1hdl9OU29uMnJnSFFnNFdVLWZnc1FPdVpocUVuZHhORnB4ZEhxR2lGQmduX1dmdUtwVDFVZnlXS204bFExb2o?oc=5
-
-### Kommunale Themen im Bundesrat - die:gemeinde
-*GN Bundestag Gesetz - 19.10. 09:53*
-
-Kommunale Themen im Bundesrat die:gemeinde
-
-https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50QVhBbERMalVEOXJrbGQ5Mk5zRUFvb3JCUGVENWhqT1ItLW92N3Vqa0ZmVk9mWUJyMk1NNVRoVndEbXpMdjJzV25WZ2dBZ1NtV1dleFNmUkZiS2ZFWW5pMC1aTEF3aG8?oc=5
-
-### Bundestag beschließt Frühstartrente - Versicherungsbote
-*GN Bundestag Gesetz - 19.10. 08:54*
-
-Bundestag beschließt Frühstartrente Versicherungsbote
-
-https://news.google.com/rss/articles/CBMiigFBVV95cUxOTkhwbVdVUlpPU1UtRTdPT3J6UDVVN2taWnBPYm5YUHotZld4MDVoa3ZqeUktMTJvcGY4V29SV3dkd0tONXlPczFzcWZuWUtXZXl4QVRaWkFId2V6elpadHVRSDB3WlJFVE1YamxNU3R1YTdfV3ZtamNmTkJvN09wMlJ3OUNhbmZxb3c?oc=5
-
-### Bundesrat kritisiert Details bei geplanter Einkommensteuerreform - Der Betrieb
-*GN Bundestag Gesetz - 19.10. 07:39*
-
-Bundesrat kritisiert Details bei geplanter Einkommensteuerreform Der Betrieb
-
-https://news.google.com/rss/articles/CBMipAFBVV95cUxPdFRpbXk5Ti1nTXBWVVdZX0Z0YjdkXzMwSmk5NkZwcU9BSjBtV2JUdjdiVUJCS2pacF9ZamMySVpsazZzdEVTcHo2TE9NOVVnTi1WclZLQ296RXhMc2J5ZlpQNnVDRjFqYmoxb0lvZkl0Y3VIdGh5WS10dGxxQnlBMWJkSDZ2UmViSkZYSFpjNUM2dG9QNVBYcVVtWkhpUjdvdkcxcA?oc=5
-
-### Bundesrat nimmt Stellung zum Einkommensteuerreformgesetz 2027 - Haufe. Intelligenz, die bewegt.
-*GN Bundestag Gesetz - 19.10. 06:21*
-
-Bundesrat nimmt Stellung zum Einkommensteuerreformgesetz 2027 Haufe. Intelligenz, die bewegt.
-
-https://news.google.com/rss/articles/CBMixgFBVV95cUxQTkZXLTJnV3RHTElYWDFnNXBXOVh5Yi05S2QyRVNLRncyZ1hQWHdfakhFUkNzYURYWnN0VGJKUTVtdUdpaGNNNjdQOUJscjVYdVpnNTRKYzVwSXFtZ2V4elh6OXZSQlBtLXZ4M3o5b1pENzFZZEgxX0NIVmZOemtwM0pxcjhWR3ZPbWlGQkVZZTBILXdKYm0xZWQ0N2VPVGlMQzd6SFhudThtR1BmVGNXeTdHOWlOUEdWakEzYy1xZzYtbnhRelE?oc=5
-
-### SCQEG: Bundesrat fordert mindestens 2 Milliarden Euro jährlich vom Bund - ad-hoc-news.de
-*GN Bundestag Gesetz - 19.10. 04:30*
-
-SCQEG: Bundesrat fordert mindestens 2 Milliarden Euro jährlich vom Bund ad-hoc-news.de
-
-https://news.google.com/rss/articles/CBMiugFBVV95cUxNTkl6WlY3dG9RME12c3czWEotOGh0NTdQVVJHaGFadW44MmxSN3UyQlo5Nm8zT1MxX2g4NDI2aEI2R1hDaVU0bmQzZ04zcnNFbk5wMVZvMkNZZEF0cF9uWlNNZF9rakdnamtncVJOdFFtZ0xDSjg2R1AxZnJlRGFlZVpjbi1nWnN1emV1UTkwX1BZdmNneS12WFE4aXVlQTlYLU94cUFoY2ctaktXU3V3YldIbGNKeTRvOXc?oc=5
 
 ### Bundestag berät über Neuordnung der Pflegeversicherung
 *BT Aktuelle Themen - 19.10. 00:59*
@@ -445,20 +440,6 @@ Kurztitel: Einkommensteuerschlüsselzahlenermittlungsverordnung | Typ: Verordnun
 
 https://www.recht.bund.de/eli/bund/bgbl-1/2026/301
 
-### Krypto-Datenaustausch mit Drittstaaten: Bundestag stimmt zu - CryptoTicker
-*GN Bundestag Gesetz - 18.10. 15:54*
-
-Krypto-Datenaustausch mit Drittstaaten: Bundestag stimmt zu CryptoTicker
-
-https://news.google.com/rss/articles/CBMiekFVX3lxTE4wbVBkYWNxU3Nsd3BERlZLSGEydmxyMEEzSFpDOVNtdjJrQjZzWG42LXhvSjVFYXZmbE1DclhKaGNRLTVtNGRxU0VMNlNlcVZhYnByNzhOcHhIMU1TSnNSOGRTM3RQTktVZTYxMUlnNkZaeFNWTWo2bTV3?oc=5
-
-### Nicht allein vor Gericht: Psychosoziale Prozessbegleitung – und was der Bundestag jetzt für Opfer beschlossen hat - Anwalt.de
-*GN Bundestag Gesetz - 18.10. 14:47*
-
-Nicht allein vor Gericht: Psychosoziale Prozessbegleitung – und was der Bundestag jetzt für Opfer beschlossen hat Anwalt.de
-
-https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMjZ2Z3lINWpZX3g2clhfTUZhamlYajV2LXJGOEtRSE9YZlhNU3lhQnFPXzg1UF9wa1ZpRkhnQkhkRE03dnRMaVBmLVFlZndhVDhJaUFDS3JteDhOdDhTMkRpLTRETzh5VmFnZDY3cDA3NndZVHF3b0xGcmZXeUt0eFRwcm1CdlJkd192bi1vY3pnb3ljRGJwZy1vVV92NWs3SllNY0x2OEN2dzhDZEVNb1ZVNGFUYlJUb3hKbDZJUlQ1RG9JbHdmV1IyWERuYnZtUnRLUUpUNzdWOGhMUEI1d3d3RU91YXF1RE9TZWtn?oc=5
-
 ### Abschließende Beratungen ohne Aussprache
 *BT Aktuelle Themen - 19.10. 00:51*
 
@@ -466,12 +447,12 @@ Ohne Aussprache stimmt der Bundestag am Donnerstag, 5. November 2026, über mehr
 
 https://www.bundestag.de/dokumente/textarchiv/2026/kw45-de-abschliessende-beratungen-1154774
 
-### Folgen von Infrastrukturmaßnahmen für die Landwirtschaft
-*BT heute im bundestag - 21.10. 09:24*
+### Regelungen zum Entschädigungsrecht angemessen
+*BT heute im bundestag - 22.10. 09:54*
 
-Landwirtschaft, Ernährung und Heimat/Antwort Der Infrastrukturausbau soll durch zwei Gesetze vorangetrieben werden. Wie viele land- und forstwirtschaftliche Betriebe davon betroffen sind, kann die Bundesregierung kann nicht beziffern.
+Gesundheit/Antwort Die gesetzlichen Regelungen zum Entschädigungsrecht im Zusammenhang mit Schutzimpfungen sind nach Ansicht der Bundesregierung angemessen.
 
-https://www.bundestag.de/presse/hib/kurzmeldungen-1225942
+https://www.bundestag.de/presse/hib/kurzmeldungen-1229424
 
 ### Fortsetzung des Bundes­wehreinsatzes zur Überwa­chung des Libyen-Embargos
 *BT Aktuelle Themen - 19.10. 01:55*
@@ -518,6 +499,96 @@ https://www.bundestag.de/dokumente/textarchiv/2026/kw45-de-diesel-abkommen-12250
 
 ## EU-Recht
 
+### CELEX:32026R2341: Commission Implementing Regulation (EU) 2026/2341 of 14 October 2026 on the registration of the geographical indication Oliva Alta Daunia (PDO) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council
+*EUR-Lex Amtsblatt L - 21.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2341
+
+### CELEX:32026R1770: Commission Delegated Regulation (EU) 2026/1770 of 14 July 2026 on supplementing Regulation (EU) 2023/1542 of the European Parliament and of the Council as regards derogations for the removability and replaceability of portable batteries
+*EUR-Lex Amtsblatt L - 21.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1770
+
+### CELEX:32026R0131R(04)
+*EUR-Lex Amtsblatt L - 21.10. 22:00*
+
+The corrigendum does not concern the English version.
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R0131R(04)
+
+### CELEX:32020R0688R(10)
+*EUR-Lex Amtsblatt L - 21.10. 22:00*
+
+The corrigendum does not concern the English version.
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32020R0688R(10)
+
+### CELEX:32026R2102R(01)
+*EUR-Lex Amtsblatt L - 21.10. 22:00*
+
+The corrigendum does not concern the English version.
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2102R(01)
+
+### CELEX:32021R2117R(12): Corrigendum to Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union (OJ L 435, 6.12.2021)
+*EUR-Lex Amtsblatt L - 21.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32021R2117R(12)
+
+### CELEX:32026R2354: Commission Implementing Regulation (EU) 2026/2354 of 16 October 2026 on formats for submitting beneficial ownership information
+*EUR-Lex Amtsblatt L - 21.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2354
+
+### CELEX:32026H2335: Commission Recommendation (EU) 2026/2335 of 21 October 2026 on monitoring the presence of chlorinated paraffins in food
+*EUR-Lex Amtsblatt L - 21.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026H2335
+
+### CELEX:32026R2384: Commission Implementing Regulation (EU) 2026/2384 of 21 October 2026 amending for the 363rd time Council Regulation (EC) No 881/2002 imposing certain specific restrictive measures directed against certain persons and entities associated with the ISIL (Da'esh) and Al-Qaida organisations
+*EUR-Lex Amtsblatt L - 21.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2384
+
+### CELEX:32026R2027R(01)
+*EUR-Lex Amtsblatt L - 21.10. 22:00*
+
+The corrigendum does not concern the English version.
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2027R(01)
+
+### CELEX:32026R2152: Commission Delegated Regulation (EU) 2026/2152 of 21 September 2026 supplementing Regulation (EU) 2026/2108 of the European Parliament and of the Council by establishing the amount of the Union handling fee
+*EUR-Lex Amtsblatt L - 21.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2152
+
+### CELEX:22026A02350: Agreement between the European Union and Iceland laying down the rules for participation of Iceland in the GOVSATCOM component of the Union Space Programme and in the Union Secure Connectivity Programme, and for access to GOVSATCOM services and to the governmental services of the Union Secure Connectivity Programme
+*EUR-Lex Amtsblatt L - 21.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026A02350
+
+### CELEX:32026D2351: Council Decision (EU) 2026/2351 of 9 October 2026 on the conclusion of the Agreement between the European Union and Iceland laying down the rules for participation of Iceland in the GOVSATCOM component of the Union Space Programme and in the Union Secure Connectivity Programme, and for access to GOVSATCOM services and to the governmental services of the Union Secure Connectivity Programme
+*EUR-Lex Amtsblatt L - 21.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2351
+
+### CELEX:32026D2349: Commission Decision (EU) 2026/2349 of 9 October 2026 recognising certain critical raw material projects as Strategic Projects under Regulation (EU) 2024/1252 of the European Parliament and of the Council (notified under document C(2026) 8051)
+*EUR-Lex Amtsblatt L - 21.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2349
+
+### CELEX:32026R2327: Commission Implementing Regulation (EU) 2026/2327 of 21 October 2026 imposing a definitive anti-dumping duty on imports of certain prepared or preserved citrus fruits (namely mandarins, etc.) originating in the People’s Republic of China following an expiry review pursuant to Article 11(2) of Regulation (EU) 2016/1036 of the European Parliament and of the Council
+*EUR-Lex Amtsblatt L - 21.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2327
+
+### Opening remarks by Commissioner Serafin during the European Parliament debate Cutting costs and unnecessary reporting obligations now – concrete next steps to deliver swift relief for EU's entrepreneurs
+*EU-Kommission - 21.10. 15:10*
+
+European Commission Speech Strasbourg, 21 Oct 2026 Honourable Members, dear Minister, The debate today is about a very simple question: is Europe doing enough to make life easier for those who create jobs, inves...
+
+https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2233
+
 ### Rede von Präsidentin von der Leyen bei der Plenardebatte des Europäischen Parlaments zu den Schlussfolgerungen der Tagung des Europäischen Rates am 15./16. Oktober 2026
 *EU-Kommission - 21.10. 06:04*
 
@@ -525,146 +596,107 @@ European Commission Rede Strasbourg, 21 Oct 2026 Frau Präsidentin Metsola, lieb
 
 https://ec.europa.eu/commission/presscorner/detail/de/speech_26_2222
 
-### OJ:L_202602339: Commission Implementing Regulation (EU) 2026/2339 of 14 October 2026 on the registration of the geographical indication Kopi Arabika Flores Manggarai (PGI) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council
+### CELEX:32026R2202R(01)
 *EUR-Lex Amtsblatt L - 20.10. 22:00*
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202602339
+The corrigendum does not concern the English version.
 
-### OJ:L_202602336: Commission Implementing Regulation (EU) 2026/2336 of 14 October 2026 on the registration of the geographical indication Flores Bajawa (PGI) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2202R(01)
+
+### CELEX:32026D2355: Council Decision (EU) 2026/2355 of 13 October 2026 on the signing of the Additional Protocol to the Council of Europe Convention on Laundering, Search, Seizure and Confiscation of the Proceeds from Crime and on the Financing of Terrorism with regard to judicial cooperation in criminal matters and police cooperation
 *EUR-Lex Amtsblatt L - 20.10. 22:00*
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202602336
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2355
 
-### OJ:L_202602314: Commission Implementing Regulation (EU) 2026/2314 of 19 October 2026 repealing definitive anti-dumping duty on imports of solar glass originating in the People’s Republic of China following an expiry review pursuant to Article 11(2) of Regulation (EU) 2016/1036 of the European Parliament and the Council
+### CELEX:32026R2339: Commission Implementing Regulation (EU) 2026/2339 of 14 October 2026 on the registration of the geographical indication Kopi Arabika Flores Manggarai (PGI) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council
 *EUR-Lex Amtsblatt L - 20.10. 22:00*
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202602314
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2339
 
-### OJ:L_202602343: Commission Delegated Regulation (EU) 2026/2343 of 14 July 2026 amending the regulatory technical standards laid down in Delegated Regulation (EU) No 149/2013 as regards the clearing thresholds and the mechanisms triggering their review
+### CELEX:32023R0823R(01)
 *EUR-Lex Amtsblatt L - 20.10. 22:00*
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202602343
+The corrigendum does not concern the English version.
 
-### OJ:L_202602310: Commission Implementing Regulation (EU) 2026/2310 of 19 October 2026 repealing definitive countervailing duties on imports of solar glass originating in the People’s Republic of China following an expiry review pursuant to Article 18 of Regulation (EU) 2016/1037 of the European Parliament and of the Council
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32023R0823R(01)
+
+### CELEX:32026R2336: Commission Implementing Regulation (EU) 2026/2336 of 14 October 2026 on the registration of the geographical indication Flores Bajawa (PGI) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council
 *EUR-Lex Amtsblatt L - 20.10. 22:00*
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202602310
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2336
 
-### Remarks by Commissioner Šefčovič at the European Parliament Plenary debate on the EU-UK Summit: renewed ambition for a closer partnership
-*EU-Kommission - 20.10. 09:02*
+### CELEX:32026D2357: Council Decision (EU) 2026/2357 of 13 October 2026 on the position to be taken on behalf of the European Union within the European Committee for drawing up standards in the field of inland navigation and within the Central Commission for the Navigation of the Rhine concerning the adoption of the European Standard laying down Technical Requirements for Inland Navigation vessels, the European Standard for River Information Services and a draft amendment to the Rhine Vessel Inspection Regulations
+*EUR-Lex Amtsblatt L - 20.10. 22:00*
 
-European Commission Speech Strasbourg, 20 Oct 2026 Madam President, Honourable members. We have been working intensively with our UK partners to prepare our upcoming Summit on 20 November. This will be the se...
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2357
 
-https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2207
+### CELEX:32026D2356: Council Decision (EU) 2026/2356 of 13 October 2026 on the signing of the Additional Protocol to the Council of Europe Convention on Laundering, Search, Seizure and Confiscation of the Proceeds from Crime and on the Financing of Terrorism with regard to anti-money laundering measures
+*EUR-Lex Amtsblatt L - 20.10. 22:00*
 
-### CELEX:22026A02323: Agreement between the European Union and the Kingdom of Norway laying down the rules for participation of the Kingdom of Norway in the GOVSATCOM component of the Union Space Programme and in the Union Secure Connectivity Programme, and for access to GOVSATCOM services and to the governmental services of the Union Secure Connectivity Programme
-*EUR-Lex Amtsblatt L - 19.10. 22:00*
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2356
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026A02323
+### CELEX:32026D2306: Commission Implementing Decision (EU) 2026/2306 of 16 October 2026 amending Implementing Decision (EU, Euratom) 2018/194 as regards the models for statements of accounts for entitlements to traditional own resources and the form for reports on irrecoverable amounts
+*EUR-Lex Amtsblatt L - 20.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2306
+
+### CELEX:32026R2343: Commission Delegated Regulation (EU) 2026/2343 of 14 July 2026 amending the regulatory technical standards laid down in Delegated Regulation (EU) No 149/2013 as regards the clearing thresholds and the mechanisms triggering their review
+*EUR-Lex Amtsblatt L - 20.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2343
+
+### CELEX:32026R2314: Commission Implementing Regulation (EU) 2026/2314 of 19 October 2026 repealing definitive anti-dumping duty on imports of solar glass originating in the People’s Republic of China following an expiry review pursuant to Article 11(2) of Regulation (EU) 2016/1036 of the European Parliament and the Council
+*EUR-Lex Amtsblatt L - 20.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2314
+
+### CELEX:32026R2210R(01)
+*EUR-Lex Amtsblatt L - 20.10. 22:00*
+
+The corrigendum does not concern the English version.
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2210R(01)
+
+### CELEX:32026R2310: Commission Implementing Regulation (EU) 2026/2310 of 19 October 2026 repealing definitive countervailing duties on imports of solar glass originating in the People’s Republic of China following an expiry review pursuant to Article 18 of Regulation (EU) 2016/1037 of the European Parliament and of the Council
+*EUR-Lex Amtsblatt L - 20.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2310
+
+### CELEX:32026D2324: Council Implementing Decision (EU) 2026/2324 of 13 October 2026 lifting measures for the protection of the Union budget against breaches of the principles of the rule of law in Hungary and repealing Implementing Decision (EU) 2022/2506
+*EUR-Lex Amtsblatt L - 20.10. 22:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2324
 
 ### CELEX:32026H2353: Commission Recommendation (EU) 2026/2353 of 16 October 2026 on monitoring the presence of quinolizidine alkaloids in lupins and lupin-derived feed
 *EUR-Lex Amtsblatt L - 19.10. 22:00*
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026H2353
 
-### CELEX:32026D2267: Commission Implementing Decision (EU) 2026/2267 of 13 October 2026 establishing the format and frequency of data and the list of relevant raw materials to be reported by the Member States for the purposes of reporting on environmental data on industrial installations under Regulation (EU) 2024/1244 of the European Parliament and of the Council and repealing Commission Implementing Decision (EU) 2019/1741 (notified under document C(2026) 7610)
+### CELEX:22026A02323: Agreement between the European Union and the Kingdom of Norway laying down the rules for participation of the Kingdom of Norway in the GOVSATCOM component of the Union Space Programme and in the Union Secure Connectivity Programme, and for access to GOVSATCOM services and to the governmental services of the Union Secure Connectivity Programme
 *EUR-Lex Amtsblatt L - 19.10. 22:00*
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2267
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026A02323
 
-### CELEX:32026R2319: Commission Implementing Regulation (EU) 2026/2319 of 19 October 2026 amending Implementing Regulation (EU) 2023/265 imposing a definitive anti-dumping duty on imports of ceramic tiles originating in India and Türkiye
-*EUR-Lex Amtsblatt L - 19.10. 22:00*
+### Commission welcomes commitments of Coca-Cola, Nestlé, and Danone to modify recycling claims on plastic bottles
+*EU-Kommission - 22.10. 09:10*
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2319
+European Commission Press release Brussels, 22 Oct 2026 Following a dialogue with the European Commission and the Consumer Protection Cooperation (CPC) network, Coca-Cola, Nestlé, and Danone have committed to change recycling claims advertised on their plastic bottles.
 
-### CELEX:32026D2326: Commission Implementing Decision (EU) 2026/2326 of 13 October 2026 amending Implementing Decision (EU) 2018/1135 as regards simplification and update of the reporting requirements (notified under document C(2026) 7611)
-*EUR-Lex Amtsblatt L - 19.10. 22:00*
+https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2238
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2326
+### Online speech by Commissioner Albuquerque at the Nordic Financial Unions Conference: Resilience in an era of uncertainty and change
+*EU-Kommission - 22.10. 09:00*
 
-### CELEX:32026D2334: Council Decision (CFSP) 2026/2334 of 19 October 2026 on an assistance measure under the European Peace Facility to support the Armed Forces of Nigeria
-*EUR-Lex Amtsblatt L - 19.10. 22:00*
+European Commission Speech Online, 22 Oct 2026 Good morning, ladies and gentlemen, I very much wish I could be with you in beautiful Reykjavík this morning. Hopefully we will be able to make that happen in t...
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2334
+https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2237
 
-### CELEX:32026R2311: Commission Implementing Regulation (EU) 2026/2311 of 19 October 2026 imposing a definitive anti-dumping duty on imports of certain heavyweight thermal paper originating in the Republic of Korea following an expiry review pursuant to Article 11(2) of Regulation (EU) 2016/1036 of the European Parliament and of the Council
-*EUR-Lex Amtsblatt L - 19.10. 22:00*
+### Keynote speech by Commissioner Kubilius at Future Forces Forum 2026
+*EU-Kommission - 21.10. 11:53*
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2311
+European Commission Speech Prague, 21 Oct 2026 Good afternoon, It is my great pleasure to be here at this prominent Future Forces Forum. It's great to be part of this discussion on the Future of Civilian Sec...
 
-### CELEX:32026H2297: Commission Recommendation (EU) 2026/2297 of 16 October 2026 on the monitoring of nitrate and nitrite in feed and the prevention of nitrate and nitrite in certain feed materials
-*EUR-Lex Amtsblatt L - 19.10. 22:00*
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026H2297
-
-### CELEX:32026D2322: Council Decision (EU) 2026/2322 of 9 October 2026 on the conclusion of the Agreement between the European Union and the Kingdom of Norway laying down the rules for participation of the Kingdom of Norway in the GOVSATCOM component of the Union Space Programme and in the Union Secure Connectivity Programme, and for access to GOVSATCOM services and to the governmental services of the Union Secure Connectivity Programme
-*EUR-Lex Amtsblatt L - 19.10. 22:00*
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2322
-
-### CELEX:32026R0338R(03)
-*EUR-Lex Amtsblatt L - 19.10. 22:00*
-
-The corrigendum does not concern the English version.
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R0338R(03)
-
-### CELEX:32026D1347R(02): Berichtigung des Beschlusses (EU) 2026/1347 des Rates vom 4. Juni 2026 über den Abschluss — im Namen der Europäischen Union — des Übereinkommens der Vereinten Nationen gegen Cyberkriminalität; Stärkung der internationalen Zusammenarbeit bei der Bekämpfung bestimmter mithilfe von Informations- und Kommunikationstechnologiesystemen begangener Straftaten und bei der Weitergabe von Beweismitteln in elektronischer Form für schwere Straftaten (ABl. L, 2026/1347, 19.6.2026)
-*EUR-Lex Amtsblatt L - 19.10. 22:00*
-
-The corrigendum does not concern the English version.
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1347R(02)
-
-### CELEX:32026D2352: Council Decision (CFSP) 2026/2352 of 19 October 2026 appointing the European Union Special Representative for Human Rights
-*EUR-Lex Amtsblatt L - 19.10. 22:00*
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2352
-
-### CELEX:32025L2450R(01): Corrigendum to Directive (EU) 2025/2450 of the European Parliament and of the Council of 26 November 2025 amending Directive 2009/38/EC as regards the establishment and operation of European Works Councils and the effective enforcement of transnational information and consultation rights (OJ L, 2025/2450, 11.12.2025)
-*EUR-Lex Amtsblatt L - 18.10. 22:00*
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32025L2450R(01)
-
-### CELEX:32020R0784R(03)
-*EUR-Lex Amtsblatt L - 18.10. 22:00*
-
-The corrigendum does not concern the English version.
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32020R0784R(03)
-
-### CELEX:32006L0112R(24)
-*EUR-Lex Amtsblatt L - 18.10. 22:00*
-
-The corrigendum does not concern the English version.
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32006L0112R(24)
-
-### CELEX:42026X0139R(01): Berichtigung der UN-Regelung Nr. 107 — Einheitliche Bestimmungen für die Genehmigung von Fahrzeugen der Klassen M2 oder M3 hinsichtlich ihrer allgemeinen Konstruktionsmerkmale [2026/139] (ABl. L, 2026/139, 29.1.2026)
-*EUR-Lex Amtsblatt L - 18.10. 22:00*
-
-The corrigendum does not concern the English version.
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:42026X0139R(01)
-
-### CELEX:32026L2325: Commission Delegated Directive (EU) 2026/2325 of 10 July 2026 amending Directive 2009/43/EC of the European Parliament and of the Council as regards the updating of the list of defence-related products in line with the updated Common Military List of the European Union of 23 February 2026
-*EUR-Lex Amtsblatt L - 18.10. 22:00*
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026L2325
-
-### CELEX:32023R1542R(15)
-*EUR-Lex Amtsblatt L - 18.10. 22:00*
-
-The corrigendum does not concern the English version.
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32023R1542R(15)
-
-### Daily News 21 / 10 / 2026
-*EU-Kommission - 21.10. 09:23*
-
-European Commission Daily news Brussels, 21 Oct 2026 Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act Today, the European Commission has opened formal proceedings t...
-
-https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2225
+https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2229
 
 ### Kommission gibt grünes Licht für Abschlusszahlungsantrag Deutschlands in Höhe von 6 Mrd. EUR im Rahmen von NextGenerationEU
 *EU-Kommission - 21.10. 08:09*
@@ -673,6 +705,13 @@ European Commission Pressemitteilung Brussels, 21 Oct 2026 Die Europäische Komm
 
 https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2224
 
+### Kommission begrüßt politische Einigung über Vorschriften zur Stärkung der Stabilität und langfristigen Widerstandsfähigkeit des CO2-Markts der EU
+*EU-Kommission - 20.10. 22:00*
+
+European Commission Pressemitteilung Brussels, 21 Oct 2026 Die Europäische Kommission begrüßt die vorläufige politische Einigung des Europäischen Parlaments und des Rates über eine gezielte Änderung zur Stärkung der Marktstabilitätsreserve des EU-Emissionshandelssystems (EU-EHS).
+
+https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2206
+
 ### Joint statement by Presidents von der Leyen and Costa
 *EU-Kommission - 20.10. 17:36*
 
@@ -680,50 +719,55 @@ European Commission Statement Brussels, 20 Oct 2026 We deeply regret the ratific
 
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2221
 
-### Press remarks by Executive Vice-President Fitto and Commissioner Kadis on Vision 2040 for a thriving fisheries and aquaculture sector
-*EU-Kommission - 20.10. 14:43*
-
-European Commission Speech Brussels, 20 Oct 2026 Executive Vice-President Fitto Good afternoon everyone, Today, the Commission approved the Vision 2040 for Fisheries and Aquaculture, including the EU Strategy ...
-
-https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2219
-
-### Ausführungen des Hohen Vertreters Kallas und des Kommissionsmitglieds Síkela zur nördlichen Nachbarschaft Europas: Eine neue Strategie für die Arktis
-*EU-Kommission - 20.10. 12:24*
-
-European Commission Rede Strasbourg, 20 Oct 2026 Hoher Vertreter Kallas Guten Tag alle, Das Kollegium hat heute eine Gemeinsame Mitteilung mit dem Titel „Die nördliche Nachbarschaft Europas: Eine neue Strategi...
-
-https://ec.europa.eu/commission/presscorner/detail/de/speech_26_2212
-
-### Kommission begrüßt politische Einigung über künftiges Bio-Regelwerk
-*EU-Kommission - 20.10. 10:42*
-
-European Commission Pressemitteilung Brussels, 20 Oct 2026 Die Europäische Kommission begrüßt die heutige Vereinbarung zwischen dem Europäischen Parlament und dem Rat zur Änderung bestimmter Produktions-, Kennzeichnungs- und Zertifizierungsvorschriften sowie der Vorschriften für den Handel mit Drittländern im ökologischen/biologischen Sektor.
-
-https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2210
-
-### Daily News 20 / 10 / 2026
-*EU-Kommission - 20.10. 09:45*
-
-European Commission Daily news Brussels, 20 Oct 2026 Commission data shows continued growth in sustainable investments across the EU Over €1.2 trillion has been invested in sustainable activities in the EU since 2...
-
-https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2208
-
 
 ## Steuern und Abgaben
 
-### Rentenbesteuerung: Diese Jahrgänge zahlen weniger Steuer - Wirtschaftsjournal
-*GN Steuer und Arbeit - 21.10. 08:47*
+### 21/8743: Kleine Anfrage Förderung von Elektrofahrzeugen durch die E-Auto-Prämie und Kfz-Steuerbefreiung - Fördervolumen, Ausnutzung, durchschnittliche Förderhöhe, Automarken sowie Klimawirkung (PDF)
+*BT Drucksachen - 21.10. 10:00*
 
-Rentenbesteuerung: Diese Jahrgänge zahlen weniger Steuer Wirtschaftsjournal
+https://dserver.bundestag.de/btd/21/087/2108743.pdf
 
-https://news.google.com/rss/articles/CBMisAFBVV95cUxPVjhYZlpDNUh6X3kxdUVVWmVaMUczWTV5ajJRTmdKSGY1WWtWU05KOGNtOV93NmJwY2h4dE9oSFFtTW5QSk5GYkRQRFFKbTR4a3BYUG14bHdvTktid0ozbE9Mb01JSVR4RGRkNm0zTzU2bGg3d2Rad2dqcFo2UzhEdzdZQUZBTlQ5TnZBc1FFRDFnc3VuTDV3cV9PZkZnUjVxVXUzSlBwc2swWmhUQUg0Zg?oc=5
+### Erst heftige Kritik, dann keine Abstimmung: Hier wird über die Steuer auf Pferde diskutiert - SWR
+*GN Steuer und Arbeit - 22.10. 03:09*
 
-### Rentenreform: Diese vier Punkte sind in der Koalition noch strittig - Vorwärts
-*GN Novelle Reform - 21.10. 08:19*
+Erst heftige Kritik, dann keine Abstimmung: Hier wird über die Steuer auf Pferde diskutiert SWR
 
-Rentenreform: Diese vier Punkte sind in der Koalition noch strittig Vorwärts
+https://news.google.com/rss/articles/CBMitAFBVV95cUxQNFBPenhWYVhSSU45cjlrR09pX2EtTEh4N0pBMWJTU0FYbGNCcDN3d1NYRXpTbnduLTZUR2trdDVtV3V0R0VuM3B6TjRiXzFES1BtNXRHZDN5VFEza0JTeHo1aWV0NXZ0TWpjV0ZyOTlnaG9zd2xSdHZKVDlEMkRWSjg5bzBvUDkxZVNQODBwQ3UzanB2b1d5SHdGbGRvVGJ2MW5PR2RSdE9xaGZ3YWY3YVdHNFE?oc=5
 
-https://news.google.com/rss/articles/CBMimwFBVV95cUxNRjBYbkFNR3Q2MVlacE1XWW5aVWxtcHhZWlp4bnRKLUdETVB4Y1JzZWN1eF9nRGJlRU5WR0t2a01fVVpGWnlFdy1aOXZTYnpIaHhxZ09HOGFHLXpTMGpPMUhscDJwMDNOSS1YZ2ZhR0I0YUx2cmw4SmxkS0p1eWtfT2x4SHFLMDcxRnhLRTZGeHNScm01WmpfMldvQQ?oc=5
+### Bekanntmachung zu dem Übereinkommen über die gegenseitige Amtshilfe in Steuersachen in seiner geänderten Fassung
+*BGBl Teil I und II - 22.10. 00:00*
+
+Typ: Sonstiges | Initiant: Auswärtiges Amt | Fundstelle: BGBl. 2026 II Nr. 235 vom 22.10.2026
+
+https://www.recht.bund.de/eli/bund/bgbl-2/2026/235
+
+### Wohngeld wird gekürzt: Rentner sollten diesen Antrag bis 31. Dezember stellen - Berliner Zeitung
+*GN Bundestag Gesetz - 21.10. 17:50*
+
+Wohngeld wird gekürzt: Rentner sollten diesen Antrag bis 31. Dezember stellen Berliner Zeitung
+
+https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNTBKMHJPT0VyTGFSclRsTUlVZEU0UE03WDVDRFk1S3k5VElTMkJKNzFGVE8wQlVVSTBlVjFsU252S0ZfLXFVb2UwVVptcmpKZXAtTG1rc3FJX1RLMmFZeS1ZM0M0ZVo3a0l1MVdaOXJLcnNXQWdNcjNHSjd0SXR4cU9tWDlkaDFYcnhaUWhYV0lCcXV3dWNadkpFZjV4YTk0TXlNcWVvOG9lNEJ5aWtYRGZPLWt3eFVJek5wYmRIcWtFcU0?oc=5
+
+### Grüne thematisieren "globale Steuergerechtigkeit"
+*BT heute im bundestag - 21.10. 12:06*
+
+Finanzen/KleineAnfrage Die Fraktion Bündnis 90/Die Grünen thematisiert in einer Kleinen Anfrage die "globale Steuergerechtigkeit".
+
+https://www.bundestag.de/presse/hib/kurzmeldungen-1229320
+
+### Bundesregierung zum Kampf gegen Desinformation
+*BT heute im bundestag - 21.10. 12:06*
+
+Auswärtiges/AntwortAufGroßeAnfrage Die Regierung weist in einer Antwort auf AfD-Anfrage den Vorwurf zurück, mit der Förderung von Projekten zur Bekämpfung von Desinformation öffentliche Debatten zu steuern oder Zensur auszuüben.
+
+https://www.bundestag.de/presse/hib/kurzmeldungen-1229316
+
+### Steuer-Chaos bei Klingbeil: Regierung muss nach Panne eingreifen – Folgen für Raucher - Merkur
+*GN Novelle Reform - 21.10. 11:09*
+
+Steuer-Chaos bei Klingbeil: Regierung muss nach Panne eingreifen – Folgen für Raucher Merkur
+
+https://news.google.com/rss/articles/CBMirwFBVV95cUxQdHZFclE0Y1VGQmRjVzdpQS1LMFktZkV1dlBKckQ5UWFOQk9RN3hZSExrWkJqNENfREFOdW52N1QtZm44WDJmYWQwa0ZZQVhuM3BIM0Z1blBCMnhGdjlrWjh6MGJ6cjk3ZjBTMUhRbFpTWFVNRE9SU2JhZGZlNzVIUlB0UGtuRnNTLWZFM2tHY0RxdnVqTjhlNEVVcEh0d2RSWnlGY1kzTFFwVnk5Qk93?oc=5
 
 ### Merz-Regierung plant neue Steuer für Anleger – sie soll ab dem Jahreswechsel zuschlagen - DerWesten
 *GN Steuer und Arbeit - 21.10. 06:41*
@@ -746,13 +790,6 @@ Steuerzinsen 2027: Was der Entwurf vorsieht Anwalt.de
 
 https://news.google.com/rss/articles/CBMikgFBVV95cUxQeXhpdVR5bFVCRUtqVXZfX3dac2pHQ01MRk9FZnp6cTRDUVVSV1JzOHFhTVhmX05BcnpWcTh6OE80Qy1EWmNjc2ZkYlNiVnlibksxV3ltLV9PNm9xNUZaSHBTSGRpSWdSc1d5SG9oX0JkdDZKTWNrNDZvTEhkSHZwb2tNMldhS3R6cVFZNFR2M3J0UQ?oc=5
 
-### Einführung von Steuerbefreiungen, Steuerermäßigungen und Steuerverlängerungen zur Unterstützung der Wirtschaft. - Vietnam.vn
-*GN Steuer und Arbeit - 21.10. 02:12*
-
-Einführung von Steuerbefreiungen, Steuerermäßigungen und Steuerverlängerungen zur Unterstützung der Wirtschaft. Vietnam.vn
-
-https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY0w2TXNUWW83bWoxcG1PM0Jxb2JicXhyTzgtMjYtUnA3OEZwTVhHOUhnczBEOEpXenEwNU9pNFh5aXlSLS1xOVNyM0VEZHJiRUtPYlBRZlJFNWJfUHFoVnFVcm5HSlpkcGtXM1NlaFJydURPalViUzFKTE5mc0s2eHhnTlZfMDBs?oc=5
-
 ### Minijob neben der Rente: Bundeskabinett beschließt nun schon die nächste Änderung - Gegen Hartz IV
 *GN Steuer und Arbeit - 20.10. 15:42*
 
@@ -760,22 +797,8 @@ Minijob neben der Rente: Bundeskabinett beschließt nun schon die nächste Ände
 
 https://news.google.com/rss/articles/CBMirgFBVV95cUxNYklZckFMVUhYU3FQZ0lTR1dES1d2NnN1WGVlalJOUHZPcllwUVhVWUs5eVZLcHVCZmdNLUVsVlBCVkFhZlhUSUFOYmhBNENzQTlXbG05eHFuTFZPcml3MDAxRHJTbnM1QzFVVVo4bWNtUk8zdl9zQkdnRXQtRnZVa2xiSGszYzZlc0tBYW53dEkyX2lvWWg1M1M3ZVVhNG84YWVSVUpqR1JFX3U5Y2c?oc=5
 
-### Weltklimagipgfel: Grüne fordern Abgabe auf fossile Profite
-*BT heute im bundestag - 20.10. 13:42*
-
-Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit/Antrag Vor der Weltklimakonferenz im November sprechen sich die Grünen für eine europäische Klimaresilienzabgabe auf Profite von Öl- und Gaskonzernen aus.
-
-https://www.bundestag.de/presse/hib/kurzmeldungen-1225798
-
-### „Machen Sie mit“: Wie Reformkanzler Merz uns den Umbau bei Rente und Gesundheit verkauft - Frankfurter Rundschau
-*GN Novelle Reform - 20.10. 11:31*
-
-„Machen Sie mit“: Wie Reformkanzler Merz uns den Umbau bei Rente und Gesundheit verkauft Frankfurter Rundschau
-
-https://news.google.com/rss/articles/CBMi1gFBVV95cUxObEw2dEE1QU1RYm1BVi1SNzJkYUVxWWFEalZFNWhnczFnZ0p0MVUxRGExRWE4ZGdVOFNLR3JWT1BkMkcxSkVNaU5EYmdMWEdVT1RpXy1iX0QyTVFVTGFqcWVDd2cxTXpvenBBRlNLQnRDZE5UUVM4dXQtaDl6TFAxOG16X0RnbFZORjNhcEQ3eEZBa280aEVaQXhaNlZadDdvUXFPQmhKVEhFM0hHWTF0SkRkQmFVWVFLd2MtR1oxMlpWRTQyZFN1SHBVRkExcUNVZ1NtRHlR?oc=5
-
 ### Mehr Geld ab 2027? Steueränderungen entlasten Millionen Arbeitnehmer - techbook
-*GN Novelle Reform - 20.10. 10:18*
+*GN Steuer und Arbeit - 20.10. 10:18*
 
 Mehr Geld ab 2027? Steueränderungen entlasten Millionen Arbeitnehmer techbook
 
@@ -788,26 +811,12 @@ Regel zum Minijob: Diese Abgabe muss nun doch nicht vom Gehalt gezahlt werden Ma
 
 https://news.google.com/rss/articles/CBMizgFBVV95cUxPNEpvWlp5bTF1VThrRGZ5b0NKY3VRUlBFOFdZZ2hXNU5mcHl1eG1HX29vZXZaWElqOHlQbDNLMDMyM3BqRTBzYk5JQWVCX29xbUpROEhoRGhEVktMa1RlNW9Wb1F0NnZIOWNUa21lakdiZ3MyanJKRzlPQWQxX1UtQXlMcjN0ajRwS3BhU0FMdkR2Wmdxc2MwNG9rem9GQWJIY0ljUmpWSjE2eDVXWm1mb1lNYi1TMUlCSjFZQkxNSWc4Ymw2bUV0VW5IVkd6QQ?oc=5
 
-### Stadt kritisiert geplante Änderungen beim Wohngeld - muenchen.de
-*GN Novelle Reform - 19.10. 10:44*
+### China baut Steuerbehörden massiv aus: Was steckt dahinter? - FAZ
+*GN Steuer und Arbeit - 19.10. 13:10*
 
-Stadt kritisiert geplante Änderungen beim Wohngeld muenchen.de
+China baut Steuerbehörden massiv aus: Was steckt dahinter? FAZ
 
-https://news.google.com/rss/articles/CBMilAFBVV95cUxOb0dVdUpfclp5aG1IUjdsNTI4WXR4RmNoT0RJblp5Q1dCUjVXV2twakJ5emdEN04yMmV5OVhxaHVDYnRoV19kZjkydjd3djFWT0w0NDdfQ05fRVJMZ2pqVXdWSms0SWx6U2NhbjVtZmQ1NG9vWDlQM19BMHUzbUVqajQ5bGVmV1NodWJtMEpsUVJmaHRw?oc=5
-
-### Wohngeld-Kürzung: Diese drei Änderungen betreffen Mieter direkt - Gegen Hartz IV
-*GN Novelle Reform - 18.10. 15:16*
-
-Wohngeld-Kürzung: Diese drei Änderungen betreffen Mieter direkt Gegen Hartz IV
-
-https://news.google.com/rss/articles/CBMilwFBVV95cUxNeHdFZWNvQTRsNTVUYjdxSGlMUFVwX0EyTkYyUkdLTkJfZ2RIRElKSW9UbGlCRVM3T2Z1bWNHUFFYNndZUWxnbVp2YnFjd2xrR1JMTHkxUXlRS2p0bFByMkpIaEJ6NloyVlBZM3Uyd2V4SE11WmxfQ1U1QzFiQmtmM0U1Z2Y5VlVPcGxrSWJEa0xlZU1hdFg0?oc=5
-
-### BKU-Vorsitzender wirft Merz Wortbruch wegen Steuererhöhungen vor - domradio.de
-*GN Steuer und Arbeit - 18.10. 11:44*
-
-BKU-Vorsitzender wirft Merz Wortbruch wegen Steuererhöhungen vor domradio.de
-
-https://news.google.com/rss/articles/CBMingFBVV95cUxQaEZfaFRXQWV2eF9DRVo0OFZSTm0wZE1hdFpxQUM2M19USU43YXRMMi1HQjFoYk9td1dDZ1AyYkZNWXVEMHdLZUJBdlVxODNZcTZ6RXdQUlotYl9xTWxlbGY0YldVLXBVcEdzZENOYlhmVUhaLXRrSXRVaTJpZmhkclg1anJlNV9CdjJyQjV0cFNFMDR6TGNkVW1xSUpPdw?oc=5
+https://news.google.com/rss/articles/CBMitwFBVV95cUxQaEI1ZVZjaC16YW1BTm5Gc2tFWWtYVmtFRmtXVmZNQWNfN1pUTXhaQklZOUxzSnZWU0F1dmFnX3VlVzBpVExQMFVSTkh6dW1HY0hfT0dkXzR5QWxna05KU3JkNnhCQmNQaFhNLWZNcEgwWk1nV1VjTk5sN1JucnA4XzRRVlc1MWxzN1k5TXltQnQwMG5FUmFDRWwyeVBVUWdTSFlET2hjV1hzOWdxYVBEekIwVnZ0Wlk?oc=5
 
 ### Bauausschuss informiert sich in Wien
 *BT Pressemitteilungen - 19.10. 08:20*
@@ -815,6 +824,35 @@ https://news.google.com/rss/articles/CBMingFBVV95cUxQaEZfaFRXQWV2eF9DRVo0OFZSTm0
 Eine Delegation des Ausschusses für Wohnen, Stadtentwicklung, Bauwesen und Kommunen reist vom 19. bis 23. Oktober nach Wien, um der Frage nachzugehen, wie die Stadt bezahlbaren Wohnraum, Stadtentwicklung und langfristige kommunale Steuerung miteinander verbindet. Der Ausschuss verfolgt das Ziel, Erfahrungen aus dem Wiener Modell für die wohnungs- und stadtentwicklungspolitische Arbeit des Deutschen Bundestages auszuwerten. Das Programm folgt dabei einem breiten fachlichen Ansatz: von der Entwicklung neuer Stadtquartiere über den kommunalen und gemeinnützigen Wohnungsbau bis hin zu Fragen der B
 
 https://www.bundestag.de/presse/pressemitteilungen/2026/pm-261019-reise-wien-1225446
+
+
+## Foerderung
+
+### Fördermöglichkeiten für Hitzeschutz in Krankenhäusern
+*BT heute im bundestag - 22.10. 09:54*
+
+Gesundheit/Antwort Hitzeschutzplanungen für Krankenhäuser fallen in die Zuständigkeit der Länder, es gibt aber Fördermöglichkeiten.
+
+https://www.bundestag.de/presse/hib/kurzmeldungen-1229422
+
+### 21/8751: Kleine Anfrage Umgang von Bundesregierung und Stiftung Humboldt Forum mit Spendenpraxis des Fördervereins Berliner Schloss e.V. (PDF)
+*BT Drucksachen - 21.10. 10:00*
+
+https://dserver.bundestag.de/btd/21/087/2108751.pdf
+
+### Zwölf Integrationszentren vor dem Aus: Diakonie und Co. verlieren Förderung - Hamburger Abendblatt
+*GN Steuer und Arbeit - 20.10. 16:00*
+
+Zwölf Integrationszentren vor dem Aus: Diakonie und Co. verlieren Förderung Hamburger Abendblatt
+
+https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcFF1QjlPNjlFRzlPOHo5OWhqOE1lN1dqMEo5cEpDYnBSVXgwWjNQUkFhVlVNQkpQbDJGR3V3dVB0Rmt5S1p3c1hadjFGaUozNkExUmI5YjJRV1dlallfZGt1ZGF2REdPbENHQ25NUndRUmhuS1ZPMlFmWVlVYTRacGhKSDBmUUtYWE5RX1VaNWdXcjUxV3F0MHF3bG0yaDBfQ0g4M3V2aUpxMGc5MlZtQllqSmVJS3g0MkY2TlVvMmpJNXMwN3pwcEJ1Zk1FM3Qwd2pDWDFsTno?oc=5
+
+### Was macht die Bundesregierung für mehr Investitionen in Deutschland?
+*BReg Artikel - 19.10. 12:01*
+
+Bürokratierückbau, digitale Agenda, private Investitionen: Die Bundesregierung will Deutschland als Wirtschaftsstandort stärken und noch wettbewerbsfähiger machen. Welche Maßnahmen sie dafür auf den Weg bringt und wie sie Investitionen fördern will, lesen Sie hier.
+
+https://www.bundesregierung.de/breg-de/aktuelles/mehr-investitionen-in-deutschland-2457592
 
 
 ## Pflichten und Fristen
@@ -826,12 +864,10 @@ https://www.bundestag.de/presse/pressemitteilungen/2026/pm-261019-reise-wien-122
 
 https://www.bundestag.de/dokumente/textarchiv/2026/kw45-de-voelkerstrafrecht-1225078
 
-### 55 Gesellschaft mit beschränkter Haftung (GmbH) / aa) Beschluss ohne bestimmten Geldwert - Haufe. Intelligenz, die bewegt.
-*GN Recht Fachpresse - 21.10. 03:43*
+### 21/8725: Kleine Anfrage Aufsicht, Governance und Verfahren im Fall CISPA - Rolle des Bundes als Gesellschafter des CISPA Helmholtz-Zentrums für Informationssicherheit (PDF)
+*BT Drucksachen - 20.10. 10:00*
 
-55 Gesellschaft mit beschränkter Haftung (GmbH) / aa) Beschluss ohne bestimmten Geldwert Haufe. Intelligenz, die bewegt.
-
-https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDY5UkljUER5WlpDeHpQVVhaVXE1Q2ZqWnpDZ0R2eEtNN3NyYXk5dWtoVkl2V2V4NnRLNS1RQTEzdzlIMzF0NTlZc0N3LTRETUZoMHowRUtUZF9FQzBQUEhSRlBYbVE2Zzk5bDE1OHVMYzU3dFp6b3UxX28zVGJQVVZuQjU1M2ZIdExDUTkwcy1SUWtTSXo1Nk93dDBESFM2blQ4ZW1hLVNDVUNwT3k0eWVPcWVPVkNHWjEzWldUcDJJWF9pOEZlcG5ybDg?oc=5
+https://dserver.bundestag.de/btd/21/087/2108725.pdf
 
 
 ## Arbeit und Unternehmen
@@ -842,14 +878,4 @@ https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDY5UkljUER5WlpDeHpQVVhaVXE
 Arbeitsrecht: Rahmenvertrag für Freelancer: Worauf sollte ich achten? Handelsblatt
 
 https://news.google.com/rss/articles/CBMizwFBVV95cUxOdjFtNXg1Q3BfODk5VVRHUXBkOTNtdmJOTWszNUItNlRmRDh3N0gtdG9EcG1GUEVsUmVNMDNFeEpNN3k4b0FyN0FZdHFmcDJKUWVpQUM1bWpqWkN6RHdRLTIzdlFxNVNnMmM5RW95WkltdUJxeGlWSzVYNGVhSEd6TVJaNEd5Q1NlZ3BSVUMyY0pMMG56RjN3U2xDXy16bEhZejhPNjc5aE1rVVpYSlVwV3NaZE91NHhFQ2lZSGFxUk93elUxODYxRnJ5aGEwSkE?oc=5
-
-
-## Foerderung
-
-### Zwölf Integrationszentren vor dem Aus: Diakonie und Co. verlieren Förderung - Hamburger Abendblatt
-*GN Steuer und Arbeit - 20.10. 16:00*
-
-Zwölf Integrationszentren vor dem Aus: Diakonie und Co. verlieren Förderung Hamburger Abendblatt
-
-https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcFF1QjlPNjlFRzlPOHo5OWhqOE1lN1dqMEo5cEpDYnBSVXgwWjNQUkFhVlVNQkpQbDJGR3V3dVB0Rmt5S1p3c1hadjFGaUozNkExUmI5YjJRV1dlallfZGt1ZGF2REdPbENHQ25NUndRUmhuS1ZPMlFmWVlVYTRacGhKSDBmUUtYWE5RX1VaNWdXcjUxV3F0MHF3bG0yaDBfQ0g4M3V2aUpxMGc5MlZtQllqSmVJS3g0MkY2TlVvMmpJNXMwN3pwcEJ1Zk1FM3Qwd2pDWDFsTno?oc=5
 
