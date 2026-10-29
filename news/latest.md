@@ -1,24 +1,52 @@
-# Nachrichtenlage 28.10.2026 11:20
+# Nachrichtenlage 29.10.2026 11:30
 
-275 Meldungen aus 32 Quellen, Zeitraum der letzten 36 Stunden.
+283 Meldungen aus 32 Quellen, Zeitraum der letzten 36 Stunden.
 
 ---
 
 ## KI
 
-### Google to preview crypto custody security system as AI threats grow
-*CoinDesk - 28.10. 11:00*
+### Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump
+*CoinDesk - 29.10. 11:11*
 
-Google Multi-Party Compute is in private preview, with several major financial institutions testing the technology and parent company Alphabet using it to secure its own digital assets on Ethereum and Solana.
+Bitcoin fell 1.4% since midnight UTC to around $80,100 as disappointing reports from Samsung and Alphabet weighed on tech stocks. The Fed’s preferred inflation gauge is due later today.
 
-https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow
+https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump
 
-### S-1: Anthropic had $112.4B in cash and $19.3B in short-term investments on June 30, surpassing every non-bank US company except Berkshire Hathaway and Alphabet (Leslie Picker/CNBC)
-*Techmeme - 28.10. 09:55*
+### Sparziel 2 Milliarden Euro: SAP ersetzt hochpreisige KI-Modelle
+*golem.de - 28.10. 16:37*
 
-Leslie Picker / CNBC : S-1: Anthropic had $112.4B in cash and $19.3B in short-term investments on June 30, surpassing every non-bank US company except Berkshire Hathaway and Alphabet — Anthropic has more cash than almost every company in America. — The nearly 6-year-old artificial intelligence lab disclosed …
+Durch die Auswahl des jeweils günstigsten Modells will SAP in den kommenden zwei Jahren zwei Milliarden Euro einsparen. ( SAP , Studien )
 
-https://www.techmeme.com/261028/p11#a261028p11
+https://www.golem.de/news/sparziel-2-milliarden-euro-sap-ersetzt-hochpreisige-ki-modelle-2610-214611.html
+
+### Alphabet earnings miss reflects first real sign that AI is taking a bite out of search
+*CNBC Technology - 29.10. 11:00*
+
+Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business.
+
+https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html
+
+### Milliarden für KI, enttäuschende Umsätze: Alphabet gerät unter Druck
+*t3n - 29.10. 10:30*
+
+Während Milliarden in den Ausbau künstlicher Intelligenz fließen, bleiben die erhofften Erträge bislang aus. Unter Anlegern wachsen die Zweifel, ob sich diese hohen KI-Investitionen wirklich auszahlen. weiterlesen auf t3n.de
+
+https://t3n.de/news/milliarden-fuer-ki-enttaeuschende-umsaetze-alphabet-geraet-unter-druck-1770561/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
+
+### Google says its investments in AI are driving more searches
+*The Verge - 28.10. 21:50*
+
+Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. "Our AI investments are driving overall Search query growth, including commercial queries," CEO Sundar Pichai says in a statement. "In fact, our year-over-year query growth rate is the highest […]
+
+https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026
+
+### Microsoft recorded $10 billion in revenue from OpenAI
+*TechCrunch AI - 28.10. 21:34*
+
+Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.
+
+https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/
 
 ### VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more
 *TechCrunch AI - 28.10. 01:15*
@@ -27,89 +55,117 @@ Massive note conversions reveal the true extent of Amazon's ownership in Anthrop
 
 https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/
 
-### Anthropic: Banken finanzieren Broadcom-KI-Hardware mit 63 Milliarden Dollar - ad-hoc-news.de
-*GN AI Act - 26.10. 23:25*
+### GitHub says massive influx of AI-generated code required extra 4 million CPU cores and 160 petabytes of storage to manage — a sixfold increase to 7.4 billion monthly commits in one year
+*Tom's Hardware - 29.10. 10:30*
 
-Anthropic: Banken finanzieren Broadcom-KI-Hardware mit 63 Milliarden Dollar ad-hoc-news.de
+Agentic AI led to a sixfold year-on-year influx of new code at GitHub, leading the company to add 4 million CPU cores and 160PB of storage to its datacenters
 
-https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWmR0RVFCWURtOFdIM1U2LWVvN1hKMWZPNXE3d2d6SWtMQzF2eS1SWHZXcmUwdWRFalphb2c3RDhZUnJJWnBSeHZqOUhOYnI3Rl84NDBmT0tPbFJQZ0JhemNXcHA2b1dxMVNtNkxWYlBsVzlfU1hVeDROZzdodTRnclJtX25mMkdpWEM0MzF6N0pKY2xZdlhnRUFEdEM2OWhWbU5nVzNxOE9GenZqZWNpU3FzS1JQQ2t2Sl9PaEo5YjY?oc=5
+https://www.tomshardware.com/software/github-report-highlights-massive-influx-of-ai-generated-code-sixfold-increase-in-activity-over-one-year-required-extra-4-million-cpu-cores-and-160pb-of-storage
 
-### Big Red gets cozy with Google to offer TPUs to AI customers
-*The Register - 27.10. 20:20*
+### Kurswechsel: Millionenschweres KI-Projekt für geschlossenes Playmobil-Werk
+*golem.de - 29.10. 07:21*
 
-Oracle plans to add those chips alongside new Nvidia hardware and OpenAI services as businesses await AI payoffs
+Auf dem früheren Playmobil-Gelände in Dietenhofen sollen Rechenzentren entstehen. Sie sind vor allem für KI-Anwendungen vorgesehen. ( Rechenzentrum , KI )
 
-https://www.theregister.com/ai-and-ml/2026/10/27/big-red-gets-cozy-with-google-to-offer-tpus-to-ai-customers/5305846
+https://www.golem.de/news/kurswechsel-millionenschweres-ki-projekt-fuer-geschlossenes-playmobil-werk-2610-214619.html
 
-### 60,000 Microsoft employees offered voluntary buyouts as AI buildout costs bite
-*Tom's Hardware - 27.10. 10:30*
+### Google's Gemini 4 Carbon looks like a diamond in the rough
+*The Register - 29.10. 05:29*
 
-Microsoft is offering buyouts to around 60,000 members of its workforce as it looks to balance the books amid a ramp-up in AI data center spending.
+Undercutting Claude on price ahead of Anthropic's IPO
 
-https://www.tomshardware.com/tech-industry/big-tech/60-000-microsoft-employees-offered-voluntary-buyouts-as-ai-buildout-costs-bite-program-covers-roughly-27-percent-of-workforce-across-us-canada-india-and-the-uk
+https://www.theregister.com/ai-and-ml/2026/10/29/googles-gemini-4-carbon-looks-like-a-diamond-in-the-rough/5306149
 
-### Autumn Budget 2026: Healey sets out AI funding
-*Computer Weekly - 27.10. 08:20*
+### Google struggling to make AI Mode searches pay
+*The Register - 29.10. 01:12*
 
-The chancellor wants to boost UK tech sovereignty and has unveiled plans to support chip development, AI defence and biosecurity
+That’s a problem, cos it just spent $51 billion on infrastructure and still needs to rent compute from others to run its cloud
 
-https://www.computerweekly.com/news/366652587/Autumn-Budget-2026-Healey-sets-out-AI-funding
+https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181
 
-### Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC
-*CoinDesk - 28.10. 05:28*
+### Google expands AI Search ads globally as core ad growth slows
+*TechCrunch AI - 28.10. 21:48*
 
-The company said the accounting correction will cut reported assets by $92.2 million at the end of 2025 after bitcoin held on Biconomy could not be withdrawn.
+The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.
 
-https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc
+https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/
 
-### Walmart says AI training is boosting confidence with the technology among its 2.1 million associates
-*CNBC Technology - 27.10. 21:15*
+### AI found a way to crash bitcoin nodes on Windows and Macs. It's now public
+*CoinDesk - 29.10. 05:54*
 
-Walmart says training from OpenAI and Google is helping its 2.1 million associates feel more confident using AI and digital tools.
+Three flaws a language-model scan dug up are the first disclosed under Core’s new rules for bugs that are easy to find.
 
-https://www.cnbc.com/2026/10/27/walmart-ai-training-workers.html
+https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public
 
-### Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace
-*TechCrunch AI - 27.10. 14:59*
+### #heiseshow: Apple-Experience, KI-Profit bleibt aus, Cookie-Banner
+*heise online - 29.10. 05:15*
 
-Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.
+In der #heiseshow: Apple-Experience zeigt neue Macs, nur große Tech-Unternehmen profitieren von KI und EU möchte keine technische Lösung für Cookie-Banner.
 
-https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/
+https://www.heise.de/news/heiseshow-Apple-Experience-KI-Profit-bleibt-aus-Cookie-Banner-11503402.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
 
-### Bitcoin miners' move into AI is creating a new market for trading computing power
-*CoinDesk - 27.10. 13:13*
+### Anthropic’s public benefit structure creates unusual risks for IPO investors
+*CNBC Technology - 28.10. 21:48*
 
-Luxor raised $16 million to expand into AI hardware and trading, betting that computing power will become a market where companies can hedge costs and prices.
+Anthropic’s PBC structure could put its AI mission ahead of shareholder returns
 
-https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power
+https://www.cnbc.com/2026/10/28/anthropic-pbc-what-its-structure-means-for-investors-.html
 
-### Silicon Valley AI political groups turn on each other in the 2026 election
-*CNBC Technology - 27.10. 10:00*
+### Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity
+*The Verge - 28.10. 20:03*
 
-AI political groups are spending millions in the 2026 election as Silicon Valley factions battle over regulation, safeguards and state authority.
+Google has released its latest frontier model, Gemini 4 Carbon, offering "significant gains" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over […]
 
-https://www.cnbc.com/2026/10/27/ai-political-spending-silicon-valley-election.html
+https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier
 
-### Kospi surges 7% as SK Hynix earnings fuel AI stock rebound
-*CoinDesk - 28.10. 09:59*
+### Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use
+*Ars Technica - 28.10. 18:47*
 
-South Korean chipmakers led a broader AI recovery after SK Hynix reported a sevenfold profit surge and announced another $45 billion in shareholder returns.
+Gemini 4 Carbon is essentially a slightly better version of Argon.
 
-https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound
+https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/
 
-### heise+ | Vibe-Coding statt Abo-Falle: Wie KI Adobe & Microsoft Konkurrenz macht
-*heise online - 28.10. 09:30*
+### Google AI gets cagey when asked who won the 2020 elections
+*Ars Technica - 28.10. 17:46*
 
-Mithilfe von KI schießen Klone großer Software aus dem Boden, Chatbots übernehmen deren Aufgaben direkt selbst. Doch ist das überhaupt sinnvoll? Eine Analyse.
+But the AI responses get more forthright when asked outside the US.
 
-https://www.heise.de/hintergrund/Vibe-Coding-statt-Abo-Falle-Wie-KI-Adobe-Microsoft-Konkurrenz-macht-11497499.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus
+https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/
 
-### Google Genie 4: KI-Simulator für interaktive 3D-Umgebungen wird realistischer
-*heise online - 28.10. 09:03*
+### As AI agents reshape the web, Google opens Gemini and Search to more apps
+*TechCrunch AI - 28.10. 17:00*
 
-Googles Genie 4 erzeugt interaktive KI-Welten mit Ton und Sprache. Gemini verbessert die Simulation, doch die Technologie bleibt experimentell.
+A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.
 
-https://www.heise.de/news/Google-Genie-4-KI-Simulator-fuer-interaktive-3D-Umgebungen-wird-realistischer-11502733.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
+https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/
+
+### Amazon tells tokenmaxxing devs to slow their AI roll
+*The Register - 28.10. 16:49*
+
+Focus more on what matters, please, like creating useful software and accomplishing company goals
+
+https://www.theregister.com/ai-and-ml/2026/10/28/amazon-tells-tokenmaxxing-devs-to-slow-their-ai-roll/5306090
+
+### Crypto Long & Short: What happens when an AI agent pays for the wrong thing
+*CoinDesk - 28.10. 16:01*
+
+The largest card networks now sit in the top governance tier of x402, the standard that AI agents use to pay for things online. Albert Castellana of GenLayer Labs explains why that standard has no way to dispute a charge, and what happens when the payment settles but the agent receives something wrong or useless.
+
+https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing
+
+### If You're In the UK or EU, Here's How to Object to Meta's AI Training - 404 Media
+*GN AI regulation EU - 28.10. 14:19*
+
+If You're In the UK or EU, Here's How to Object to Meta's AI Training 404 Media
+
+https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tWHFJYjdwcm92Mm5wRHY3NEFwU2dVRWxmZUVRS3JiUjlkT204MU5wVzB5akppU1BXUUp6X2t0cmVMejBwNHZqQkM1bHFTSm00emJEaW9XYUV4Q28?oc=5
+
+### Visual Studio Code 1.143: Microsoft macht Copilot-Harness zum Standard - ad-hoc-news.de
+*GN AI Act - 28.10. 11:52*
+
+Visual Studio Code 1.143: Microsoft macht Copilot-Harness zum Standard ad-hoc-news.de
+
+https://news.google.com/rss/articles/CBMiugFBVV95cUxNQnZLeklydU9nNm41M1c4TVh4OFBNdXJBVnhLT3JiQVhXSXJkb2lqa0YxLVBuelNobVpVaWd2ekUyZ3pPaklTOXhLaldKTnVmSXFrOFpfakxuRk5NOGJXTlRMNGxKS1RFR1BNV29nU2x0eGxhT2JwNzlCREJheDlLNjY2WHRYcnplaThNY1RLTDFFcnFYODJsN0pneDI2cGMwTUdaS3BWek92SmMxbFhSbjdFYmFJSUl2WkE?oc=5
 
 ### Anthropic's IPO is risky business
 *CNBC Technology - 28.10. 00:43*
@@ -118,103 +174,33 @@ Anthropic's much-anticipated IPO is giving potential investors some perspective 
 
 https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html
 
-### Chart: Anthropic's cash pile towers over nearly every U.S. company
-*CNBC Technology - 27.10. 23:03*
+### Creating AI value with enterprise context
+*MIT Technology Rev. - 28.10. 20:32*
 
-Anthropic's cash pile of $131.7 billion is more than every non-bank U.S. company except for Berkshire Hathaway and Alphabet.
+Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a…
 
-https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html
+https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/
 
-### Who’s really in charge at Anthropic after the IPO?
-*TechCrunch AI - 27.10. 21:38*
+### DCD Studio: Can Europe keep up in the AI infrastructure race? With Jeremie Eliahou Ontiveros, SemiAnalysis
+*Data Center Dynamics - 28.10. 18:03*
 
-Here's a clear explanation of Anthropic's incredibly complex governance structure.
+Kat Sullivan speaks with Jeremie Eliahou Ontiveros of SemiAnalysis about European versus US AI data center expansion, tackling energy challenges, permitting obstacles, and necessary construction innovations.
 
-https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/
+https://www.datacenterdynamics.com/en/videos/dcd-studio-can-europe-keep-up-in-the-ai-infrastructure-race-with-jeremie-eliahou-ontiveros-semianalysis/
 
-### Anthropic IPO warns its AI could blackmail people, become sentient, end humanity
-*Ars Technica - 27.10. 21:31*
+### AI component hikes force the world's largest PC makers to return manufacturing capacity to China
+*Tom's Hardware - 28.10. 15:24*
 
-Seven potential AI nightmares pulled from Anthropic's 93-page "Risk Factor" tome.
+PC manufacturing in China tends to be cheaper because of an established supply chain and workforce. Smaller Chinese suppliers are also winning orders by offering easier access to domestic chip manufacturers like CXMT.
 
-https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/
+https://www.tomshardware.com/tech-industry/manufacturing/ai-component-hikes-force-the-worlds-largest-pc-makers-to-return-manufacturing-capacity-to-china-brands-to-seek-lower-production-costs-and-efficiency-in-established-supply-chain
 
-### Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI
-*CNBC Technology - 27.10. 18:57*
+### Beyond power: How to avoid water as a constraint on AI growth
+*Computer Weekly - 28.10. 08:41*
 
-Amazon has rapidly integrated AI across the e-commerce giant's sprawling business operations under CEO Andy Jassy.
+As 100kW-plus racks push AI facilities toward gigawatt scale, Johnson Controls’ John Keane explains why zero-water thermal architectures are vital to securing site viability
 
-https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html
-
-### M6-iMac: Apple holt die KI auf den Schreibtisch
-*golem.de - 27.10. 18:12*
-
-Mehr Leistung, schnellere KI direkt auf dem Gerät und sieben Farben: Apples neuer iMac setzt vor allem auf lokale KI-Verarbeitung. ( iMac , Apple )
-
-https://www.golem.de/news/all-in-one-m6-imac-apple-holt-die-ki-auf-den-schreibtisch-2610-214572.html
-
-### The Download: Anthropic’s IPO, smarter power grids, and exercise pills
-*MIT Technology Rev. - 27.10. 12:10*
-
-This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out…
-
-https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/
-
-### Investor who called for AI pivot in 2023 says bitcoin is going to $57,000
-*CoinDesk - 27.10. 10:57*
-
-Jason Calacanis wants investors to sell bitcoin and back artificial intelligence. He is also holding TAO, the cryptocurrency behind AI network Bittensor.
-
-https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000
-
-### Anthropic prepares for potential $2 trillion IPO valuation after reporting billions in revenue
-*Tom's Hardware - 27.10. 10:00*
-
-Anthropic has filed to go public as it pursues a potential multitrillion-dollar valuation, reporting $16.3 billion in revenue for the first half of 2026. The company’s filing also warns that its AI safety measures may not prevent catastrophic risks. OpenAI and AI chipmaker Cerebras have also pursued public-market listings
-
-https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-prepares-for-potential-usd2-trillion-ipo-valuation-after-reporting-billions-in-revenue-company-warns-ai-could-pose-catastrophic-existential-risks-to-humanity
-
-### AI World: AI vulnerability surge brings change for Oracle’s cyber practice
-*Computer Weekly - 27.10. 06:45*
-
-With CVE volumes spiking amid AI-assisted vulnerability discovery, Oracle is responding with cyber initiatives and practices for its customers
-
-https://www.computerweekly.com/news/366652684/AI-World-AI-vulnerability-surge-brings-change-for-Oracles-cyber-practice
-
-### AI World: Oracle sets agents loose on Fusion Cloud apps
-*Computer Weekly - 27.10. 06:42*
-
-On the opening day of its annual AI World conference, Oracle brought a wide range of agentic innovations to bear on its Fusion Cloud application suite
-
-https://www.computerweekly.com/news/366652561/AI-World-Oracle-sets-agents-loose-on-Fusion-Cloud-apps
-
-### IBM admits mainframes need to be modernized and will use AI to do the job
-*The Register - 27.10. 04:07*
-
-Promises to build ‘IBM Z Atlas’ tool that will tidy up messy big iron and enable AIOps
-
-https://www.theregister.com/systems/2026/10/27/ibm-admits-mainframes-need-to-be-modernized-and-will-use-ai-to-do-the-job/5305618
-
-### Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push
-*CNBC Technology - 27.10. 01:05*
-
-Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.
-
-https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html
-
-### Anthropic's IPO plans: 900% revenue retention, but $80 billion in first-half losses
-*CNBC Technology - 27.10. 00:27*
-
-All the details from Anthropic's IPO prospectus with the Securities and Exchange Commission.
-
-https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html
-
-### Probefahrt: So gut fährt Nvidias KI Alpamayo in Berlin
-*golem.de - 28.10. 08:00*
-
-Nvidias Fahr-KI Alpamayo kommt mit dem Berliner Verkehr erstaunlich gut klar. Bei unserer Testfahrt zeigten sich aber auch die Grenzen des Systems. Ein Bericht von Johannes Hiltscher ( Autonomes Fahren , Nvidia )
-
-https://www.golem.de/news/probefahrt-so-gut-faehrt-nvidias-ki-alpamayo-in-berlin-2610-214560.html
+https://www.computerweekly.com/opinion/Beyond-power-How-to-avoid-water-as-a-constraint-on-AI-growth
 
 ### AI slows growth for Infosys and keeps it afloat at the same time
 *The Register - 28.10. 02:18*
@@ -223,82 +209,54 @@ Predicts slower growth as savings from automation hit price of extended deals
 
 https://www.theregister.com/channel/2026/10/28/ai-slows-growth-for-infosys-and-keeps-it-afloat-at-the-same-time/5305879
 
-### Jim Cramer warns investors not to get fooled by the latest AI stock rally
-*CNBC Technology - 27.10. 22:24*
+### PHP2Shell: Wie KI-Modelle Sicherheitslücken in Sekunden finden
+*t3n - 29.10. 04:55*
 
-CNBC’s Jim Cramer warned that the latest rally in AI stocks doesn't mean the data center trade is out of the woods.
+Über ein Jahrzehnt hinweg blieb ein Fehler im Fundament vieler Websites folgenlos, weil seine praktische Ausnutzung für Menschen kaum zu bewältigen war. Nun ist diese technische Hürde durch neue Werkzeuge innerhalb weniger Stunden gefallen. weiterlesen auf t3n.de
 
-https://www.cnbc.com/2026/10/27/jim-cramer-ai-trade-financing-risks.html
+https://t3n.de/news/php2shell-sicherheitsluecke-bsi-warnung-server-schutz-1769356/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
 
-### Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks
-*Wired Business - 27.10. 18:20*
+### Neues LLM: Gemini 4 Carbon ist Exploit-Experte
+*heise online - 28.10. 20:54*
 
-The data center buildout could cause a massive increase in gas prices as companies scramble for limited supplies and infrastructure fails to meet demand.
+Erst vor 4 Wochen hat Google sein Sprachmodell Gemini Argon freigegeben, da lässt es schon das nächste Spitzenmodell vom Stapel laufen. Es heißt Carbon.
 
-https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/
+https://www.heise.de/news/Gemini-Argon-war-gestern-jetzt-kommt-Carbon-11503849.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
 
-### VisionQuest is what happens when AI really goes rogue
-*The Verge - 27.10. 17:31*
+### Anthropic just launched tools to show companies what their AI spending is buying
+*TechCrunch AI - 28.10. 19:19*
 
-In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial […]
+The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.
 
-https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai
+https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/
 
-### Humanity can't afford not to spend $800B on AI, Anthropic insists
-*The Register - 26.10. 23:39*
+### ISO 42001 jetzt auf Deutsch: KI-Governance in der Praxis - Dr. Datenschutz
+*GN AI Act - 28.10. 17:24*
 
-It's more important than chips, 'leccy and the net, after all
+ISO 42001 jetzt auf Deutsch: KI-Governance in der Praxis Dr. Datenschutz
 
-https://www.theregister.com/ai-and-ml/2026/10/26/humanity-cant-afford-not-to-spend-800b-on-ai-anthropic-insists/5305580
+https://news.google.com/rss/articles/CBMijwFBVV95cUxNSWcwejR6SXdLd0FBOVdnd2VSWW5KcEZNTXM3aS12cnp6QURFeUdfYkxWU1AxVFFJejR5WDRsb1lzcHU1ZElQYmZLQndNVjdwWE9RWkNSM3NVWHVBX1NNMWpfWFRybzBHU2pISzlqNFdUWW5uVmNHUVlIeG11Y3gwRXNLWXdvU1U3azFqZEl3WQ?oc=5
 
-### Anthropic Says It Will Revolutionize Biology—Some Day
-*Wired Business - 27.10. 19:39*
+### Gemini 4 Carbon
+*Hacker News - 28.10. 17:01*
 
-In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.
+Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ Comments URL: https://news.ycombinator.com/item?id=50276792 Points: 950 # Comments: 761
 
-https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/
+https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/
 
-### Anthropic’s elaborate plan to keep Wall Street at bay
-*The Verge - 27.10. 17:04*
+### The Download: dead startups fueling AI and interspecies communication
+*MIT Technology Rev. - 28.10. 12:10*
 
-Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […]
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much. But he’s…
 
-https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety
+https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/
 
-### (g+) KI: "Gewagt, aber vernünftig" - was Anthropics Börsenprospekt verrät
-*golem.de - 27.10. 17:00*
+### 123 Reg discloses 'AI cyberattack' on customer data, suspects China nexus
+*The Register - 28.10. 11:45*
 
-240.000 Wörter, über 300 Seiten: Die Financial Times hat den Börsenprospekt analysiert. Er zeigt Milliardenverpflichtungen, ungewöhnliche Machtverhältnisse und existenzielle KI-Risiken. Von George Hammond ( Anthropic , Börse )
+Company chiefs believe the attackers could be the same as those who used ARTEX to breach South Korea’s financial giants
 
-https://www.golem.de/news/ki-gewagt-aber-vernuenftig-was-anthropics-boersenprospekt-verraet-2610-214563.html
-
-### Der EU-Rat bestätigt KI-Training mit personenbezogenen Daten nach der DSGVO - Pasquale Pillitteri
-*GN EU-Parlament KI - 27.10. 15:45*
-
-Der EU-Rat bestätigt KI-Training mit personenbezogenen Daten nach der DSGVO Pasquale Pillitteri
-
-https://news.google.com/rss/articles/CBMilgFBVV95cUxPdjI2TWNtRUVpelhjc1BpMTA1XzFpbHBmV1d0SEVrSnR4MzFKUmhKOHNtZVpjZzktdkZ3dTdtOWxBeG16dzczdVBQXzhsaWhJM1hNajNoY3JUbkFuczVqM1VObGNZS1g5SEdNcjVmekNaWWt0TklPQ0ROLVRuNWZHOW9pdlNISFBscWk2VEYzZGtFTkRVSEE?oc=5
-
-### OpenAI’s Altman: Only way out of patch apocalypse is through
-*Computer Weekly - 27.10. 14:00*
-
-OpenAI CEO Sam Altman took to the keynote stage at Oracle AI World, calling for the security community to keep focus in the face of AI-enabled vulnerability discovery
-
-https://www.computerweekly.com/news/366652912/OpenAIs-Altman-Only-way-out-of-patch-apocalypse-is-through
-
-### MWC Doha aims to position Middle East as global hub for AI and digital infrastructure
-*Computer Weekly - 27.10. 12:40*
-
-GSMA’s Jawad Abbassi says the event will bring together telecoms operators, policymakers and technology leaders as Gulf countries accelerate investment in 5G, AI and datacentres
-
-https://www.computerweekly.com/news/366652737/MWC-Doha-aims-to-position-Middle-East-as-global-hub-for-AI-and-digital-infrastructure
-
-### Proving the benefits of AI
-*Computer Weekly - 27.10. 05:00*
-
-In this week’s Computer Weekly, we hear from multinational companies adopting AI to find out how they are proving the value of the technology, beyond the hype that surrounds it. Retailers are embracing AI and some are introducing a new role – chief AI officer. We examine why and what the job entails. And AWS’s security chief discusses the challenges of cyber security since the Mythos model has shown how it can hack IT systems. Read the issue now.
-
-https://www.computerweekly.com/ezine/Computer-Weekly/Proving-the-benefits-of-AI
+https://www.theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936
 
 ### Investors brace for a hawkish hold and tech on tap
 *CNBC Technology - 28.10. 10:54*
@@ -307,40 +265,311 @@ Earnings from Alphabet and Microsoft will give another pulse check on AI
 
 https://www.cnbc.com/2026/10/28/investors-brace-for-a-hawkish-hold-and-tech-on-tap.html
 
-### heise-Angebot: Rust trifft auf Agentic AI: Noch Frühbucherticket für betterCode() Rust sichern
-*heise online - 28.10. 11:00*
+### LibreOffice's 'no AI' stance meets LLM-assisted code
+*The Register - 29.10. 11:29*
 
-Die Online-Konferenz zeigt, warum sich Rust besonders gut für agentische Softwareentwicklung eignet. Frühbuchertickets gibt es noch bis zum 5. November.
+Core developers avoid AI coding assistants, while community contributors face disclosure and review rules
 
-https://www.heise.de/news/Rust-trifft-auf-Agentic-AI-Noch-Fruehbucherticket-fuer-betterCode-Rust-sichern-11501139.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
+https://www.theregister.com/ai-and-ml/2026/10/29/libreoffices-no-ai-stance-meets-llm-assisted-code/5306084
 
-### DCD Studio: Hiring in the age of AI with Taylor Stockton, US Department of Labor
-*Data Center Dynamics - 28.10. 10:54*
+### heise-Angebot: KI-Agents für komplexe Aufgaben im Unternehmen in fünf Sessions entwickeln
+*heise online - 29.10. 11:00*
 
-Zachary Skidmore speaks with Taylor Stockton of the US Department of Labor about preparing American workers for the AI age through AI literacy, skills development, registered apprenticeships, and on-the-job learning
+Lernen Sie KI-Agents selbst zu entwickeln, optimal auf Ihre Bedürfnisse anzupassen und produktiv einzusetzen.
 
-https://www.datacenterdynamics.com/en/videos/dcd-studio-hiring-in-the-age-of-ai-with-taylor-stockton-us-department-of-labor/
+https://www.heise.de/news/KI-Agents-fuer-komplexe-Aufgaben-im-Unternehmen-in-fuenf-Sessions-entwickeln-11433886.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
 
-### Research: professional analysts followed AI agents' randomly assigned "leans" on subjective analytical decisions 86% of the time; 77% used the agents' arguments (Anthropic)
-*Techmeme - 28.10. 10:20*
+### Man granted first-of-its-kind religious exemption against mandatory AI use at work — Humanist argues that offloading his thinking to LLMs violates his beliefs, Title VII accommodation protects employee
+*Tom's Hardware - 29.10. 11:00*
 
-Anthropic : Research: professional analysts followed AI agents' randomly assigned “leans” on subjective analytical decisions 86% of the time; 77% used the agents' arguments — Amaç Herdağdelen, Hailey Joren, Alex Tamkin — When experts hand their work to an AI agent …
+A research administrator at the University of Kentucky was granted a Title VII exemption, allowing them to not use AI tools as it goes against their moral beliefs.
 
-https://www.techmeme.com/261028/p13#a261028p13
+https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind
 
-### Lawsuit: the parents of a 31-year-old say OpenAI's GPT-4o guided her through an aggressive tapering plan off epilepsy meds, leading to her death in February (Teddy Rosenbluth/New York Times)
-*Techmeme - 28.10. 10:05*
+### Sources: DeepSeek and Moonshot AI heavily relied on GPT-6 Astra distillation to train models like Kimi K3.1 Pro and V4.1-Flash 1017, after Anthropic's crackdown (The Information)
+*Techmeme - 29.10. 10:46*
 
-Teddy Rosenbluth / New York Times : Lawsuit: the parents of a 31-year-old say OpenAI's GPT-4o guided her through an aggressive tapering plan off epilepsy meds, leading to her death in February — The chatbot helped a woman taper off a lifesaving drug and hide the plan from her doctors. — 1.3k
+The Information : Sources: DeepSeek and Moonshot AI heavily relied on GPT-6 Astra distillation to train models like Kimi K3.1 Pro and V4.1-Flash 1017, after Anthropic's crackdown — OpenAI's GPT-6 Astra, the most powerful model the company has released, has met with strong demand since its release in early September.
 
-https://www.techmeme.com/261028/p12#a261028p12
+https://www.techmeme.com/261029/p19#a261029p19
 
-### Reicht schon ein Macbook mit M1? Diese Hardware brauchst du für lokale KI
-*t3n - 28.10. 10:00*
+### Auch für einige ältere Smartwatches: Samsung bringt neue KI-Gesundheitsfunktion
+*t3n - 29.10. 10:45*
 
-KI-Modelle lokal auf dem Computer zu betreiben, bringt einen entscheidenden Vorteil: Eure Daten bleiben bei euch. Doch nicht jedes Modell läuft auf jedem Endger weiterlesen auf t3n.de
+Samsung erweitert seine Funktion zur Erkennung von Schlafapnoe um KI-Algorithmen. Künftig sollen Galaxy Ring und Watch drei Schweregrade der nächtlichen Atemaussetzer erkennen. Die KI-Funktion kommt auch auf ältere Smartwatches – zumindest einige. weiterlesen auf t3n.de
 
-https://t3n.de/news/lokale-ki-modelle-mac-pc-grafikkarte-hardware-voraussetzungen-1760193/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
+https://t3n.de/news/smartwatches-samsung-ki-gesundheitsfunktion-1770547/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
+
+### Epic Games says it is using AI tools to "develop code and features" for Unreal Engine, including core engine components like the D3D12 rendering layer (Jamie Hore/This Week in Videogames)
+*Techmeme - 29.10. 10:35*
+
+Jamie Hore / This Week in Videogames : Epic Games says it is using AI tools to “develop code and features” for Unreal Engine, including core engine components like the D3D12 rendering layer — In Brief: Following CEO Tim Sweeney's announcement of a “huge pivot” towards AI tools, Epic Games has confirmed that AI tools …
+
+https://www.techmeme.com/261029/p18#a261029p18
+
+### We urgently need to monitor AI agents’ actions in real time
+*MIT Technology Rev. - 29.10. 10:11*
+
+This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem…
+
+https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/
+
+### PingThings to expand use of AI platform across Dominion Energy Virginia's grid data
+*Data Center Dynamics - 29.10. 10:09*
+
+Builds on seven years of collaboration
+
+https://www.datacenterdynamics.com/en/news/pingthings-to-expand-use-of-ai-platform-across-dominion-energy-virginias-grid-data/
+
+### AI has come for Arizona’s water
+*The Verge - 29.10. 10:08*
+
+A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one […]
+
+https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc
+
+### Wenn Werbung schützt: So nutzen Non-Profits KI als ethisches Werkzeug
+*t3n - 29.10. 10:00*
+
+Künstliche Intelligenz soll Marketing vor allem schneller, günstiger und effizienter machen. Doch vor allem für Non-Profit-Organisationen eröffnet KI eine weite weiterlesen auf t3n.de
+
+https://t3n.de/news/werbung-non-profit-ki-ethik-1770529/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
+
+### Flock ignores Minnesota city’s orders not to reinstall AI surveillance cameras — citizens complain after spotting two cameras despite the city canceling its contract
+*Tom's Hardware - 29.10. 10:00*
+
+Dayton, MN's city council removed Flock cameras and canceled its contract in August, but Flock reinstalled cameras anyway, almost a month after the program's suspension.
+
+https://www.tomshardware.com/tech-industry/big-tech/flock-ignores-minnesota-citys-orders-not-to-reinstall-ai-surveillance-cameras-citizens-complain-after-spotting-two-cameras-despite-the-city-canceling-its-contract
+
+### heise-Angebot: iX-Workshop: Mehr Tempo beim Coding – mit KI-Assistenten effizient programmieren
+*heise online - 29.10. 09:00*
+
+Erfahren Sie, wie Sie produktiv mit KI-Assistenten programmieren und lernen Sie die Stärken und Schwächen der Tools für den Einsatz in eigenen Projekten kennen.
+
+https://www.heise.de/news/iX-Workshop-Mehr-Tempo-beim-Coding-mit-KI-Assistenten-effizient-programmieren-11480226.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
+
+### HPE puts storage to work on AI’s expensive memory problem
+*The Register - 29.10. 09:00*
+
+PARTNER CONTENT: HPE Alletra MP X10000 cache offload delivers up to 20× faster time to first token in testing validated by Kamiwaza. Apparently, remembering things beats calculating them again.
+
+https://www.theregister.com/storage/2026/10/29/partner-content-hpe-puts-storage-to-work-on-ais-expensive-memory-problem/5305793
+
+### Justiz: Englands oberster Zivilrichter wirbt für KI-Urteile
+*golem.de - 29.10. 08:23*
+
+Geoffrey Vos, Englands ranghöchster Zivilrichter, entfacht eine Debatte über KI-Urteile bei einfachen Fällen. Er hat bereits Erfahrung gesammelt. ( KI , Politik )
+
+https://www.golem.de/news/justiz-englands-oberster-zivilrichter-plaediert-fuer-mehr-ki-vor-gericht-2610-214622.html
+
+### Valve zu KI-Klonen: Community und Updates sollen Indie-Spiele schützen
+*heise online - 29.10. 08:15*
+
+Indie-Entwickler fürchten KI-Klone ihrer Spiele und Schrott-Demos beim Next Fest. Valve will KI auf Steam aber nicht verbieten.
+
+https://www.heise.de/news/Valve-zu-KI-Klonen-Community-und-Updates-sollen-Indie-Spiele-schuetzen-11504029.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
+
+### heise+ | OpenCode 2.1: So funktioniert der Coding-Agent nach Baukastenprinzip
+*heise online - 29.10. 08:00*
+
+Mit Version 2 hat Anomaly den quelloffenen Coding-Agenten zur Plattform mit neuen Funktionen umgebaut. Dafür funktionieren alte Plug-ins nicht mehr.
+
+https://www.heise.de/tests/OpenCode-2-1-So-funktioniert-der-Coding-Agent-nach-Baukastenprinzip-11498618.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus
+
+### Wenn KI dir nach dem Mund redet: Mit diesem Prompt prüfst du alte Chats
+*t3n - 29.10. 07:30*
+
+ChatGPT, Claude und Gemini stimmen mitunter zu, obwohl deine Ideen zu wenig durchdacht sind. Ein Prompt hilft dir, frühere Gespräche auf falsches Lob zu prüfen. weiterlesen auf t3n.de
+
+https://t3n.de/news/falsche-zustimmung-ki-mit-diesem-prompt-alte-chats-pruefen-1770431/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
+
+### Samsung erzielt Rekordgewinn dank KI-Boom
+*heise online - 29.10. 07:08*
+
+Südkoreas größtes Unternehmen Samsung Electronics hat seinen Betriebsgewinn fast verneunfacht. Die Anleger reagieren dennoch enttäuscht.
+
+https://www.heise.de/news/Samsung-erzielt-Rekordgewinn-dank-KI-Boom-11503953.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
+
+### KI vs. Klimapolitik + EU-Rahmen für Klimaresilienz + Grimm klagt erfolgreich - Table.Briefings
+*GN EU-Parlament KI - 29.10. 06:59*
+
+KI vs. Klimapolitik + EU-Rahmen für Klimaresilienz + Grimm klagt erfolgreich Table.Briefings
+
+https://news.google.com/rss/articles/CBMixAFBVV95cUxPX3ZRYUpVN1FPRGpsVHdLVWY2Q2pSLTVndjBOVUJJU1BOb0JxZVdob3ZVempjZlYzbGRkTF90V0gyaG5kQXlEYXloZjVrSFFyNWRmVkR1MWt1M215THJoWlkyU2dISFZsVU1NLXU0TGVhVllCa2oxTFRGeEwwUndDUVNyMTVQSzg5TGllU3hzUXNGMzlQZ3IwZHZUZjFxbDRvbWlqbnYtNEJrUGVsTmlYNWNmdnpITFVGejV3Q1kzNlBGWUly?oc=5
+
+### A profile of Tencent Cloud CEO Dowson Tong, who is shifting Tencent's AI focus toward businesses and betting on its Claude Cowork-style assistant WorkBuddy (Bloomberg)
+*Techmeme - 29.10. 06:15*
+
+Bloomberg : A profile of Tencent Cloud CEO Dowson Tong, who is shifting Tencent's AI focus toward businesses and betting on its Claude Cowork-style assistant WorkBuddy — When Pony Ma called Tencent Holdings Ltd.'s AI endeavor “a leaky ship” this summer, the billionaire founder sent ripples through …
+
+https://www.techmeme.com/261029/p9#a261029p9
+
+### National Student Clearinghouse: US computer science enrollment fell 12%+ for undergrads and 10%+ for grad students this fall, as AI reduces coding jobs (Elizabeth Rembert/Bloomberg)
+*Techmeme - 29.10. 06:02*
+
+Elizabeth Rembert / Bloomberg : National Student Clearinghouse: US computer science enrollment fell 12%+ for undergrads and 10%+ for grad students this fall, as AI reduces coding jobs — Computer and information science departments at US colleges saw an exodus of students this fall, with enrollment declining more than 12% …
+
+https://www.techmeme.com/261029/p7#a261029p7
+
+### GPT-6 Astra: DeepSeek und Moonshot AI nutzten OpenAI-Daten fürs Training - ad-hoc-news.de
+*GN AI Act - 29.10. 04:25*
+
+GPT-6 Astra: DeepSeek und Moonshot AI nutzten OpenAI-Daten fürs Training ad-hoc-news.de
+
+https://news.google.com/rss/articles/CBMivgFBVV95cUxPekJEMFNSVDUwZU5hZDF6YWFGbzVBcHVyVHExd1hnX0p6b1c2THBwV2ZaTUl2d21oa1JvbWtaMmJEcEVCWkI5N29HdWdEem91djNFT05IckFfUXpQN0g4Y0pPTDVIdll4S2MzSkVoWERZeXRDMVc1LUpRWEt4RDgwSVMwcXlsV2p4anhVOXVhaG9NVGhjUmlCZk5WZDl1dmlLamRFV21XMm4tUVRlSU8tbk5RR3N1UkhhSktxRnN3?oc=5
+
+### Claude Code regularly sends each background agent’s transcript to its model
+*Hacker News - 29.10. 03:33*
+
+Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 413 # Comments: 153
+
+https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce
+
+### KI an Schulen: Kultusministerkonferenz erkennt sie als Kernkompetenz an - ad-hoc-news.de
+*GN AI Act - 29.10. 03:02*
+
+KI an Schulen: Kultusministerkonferenz erkennt sie als Kernkompetenz an ad-hoc-news.de
+
+https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSXFkVnVKT0x6bVhfZ1pHSVlQMXVfcm95YjJ0dTRtRXdKZmVsWkN1bjhZbHZHQk5peWpaY1d3TEI2Z280ZjBld1dWX0JqZGF5TjhkMUREdm9sOVR6cEVsLU5hS0R6UGxoWTNRT1VTeXZSMWhoWnMwd011NjNkTHplanZtblRjUGpwSnBLb09nVWxxeDJ1N2ZxajB1VVNQU1JrWVVQMXZyYTVPTHJ1UnREeENoTDJpMkMtdVRF?oc=5
+
+### Arbeitsklagen mit KI: 4.138 Euro Gerichtsgebühr bei 500.000 Euro Streitwert - ad-hoc-news.de
+*GN AI Act - 29.10. 01:01*
+
+Arbeitsklagen mit KI: 4.138 Euro Gerichtsgebühr bei 500.000 Euro Streitwert ad-hoc-news.de
+
+https://news.google.com/rss/articles/CBMivwFBVV95cUxOTHFNR1ZoOTg0eHFMOXBKcFF6dmN0M0VVbGFNandDMEtEZHpYcnI3QXZMNi1LQWlCZlg3d1Z1NG0yeXY1NjBGUU1nd2NOWjd3clg0SmxGdGlFTy1QcGtodUZObWlOYXktcjVCLWFIbkZseUpINkkycDR4UXpaaWtBR01GcjdKTGRtYTJJRFhFaVNyRTBreGU4WDF0c1ZWRUI2aC1EaVhlZ1NidXNQM0dOdWRFYklQcDFtMHpYZVVRaw?oc=5
+
+### Anthropic erweitert AI for Science: 20 Forschungspartner erhalten Rechenzugang - ad-hoc-news.de
+*GN AI Act - 28.10. 23:22*
+
+Anthropic erweitert AI for Science: 20 Forschungspartner erhalten Rechenzugang ad-hoc-news.de
+
+https://news.google.com/rss/articles/CBMiswFBVV95cUxOOW9mZkltRzh5bXB0dE1GNmNoRTFWR2l1SVdHc1ExUE9hbnVydERuY1p6SlpTWTRUMDFqaElZbzdhNXlmREZaWDlsbi1xQ1F2NUI5cnNIbHFPUTk3UjJXdUZvN0c2M0NXVGszbkF4SmFkQXRZcWxWemVTZlZzcUVlRDg0aEptbVNrTjU2N2RJSm1YcFhnWWFHU25oNldKSFBxVVYyLTBOb2w0cGJhbm1RajlVMA?oc=5
+
+### Adam Mosseri says negativity around AI is ‘going to get worse’
+*The Verge - 28.10. 23:05*
+
+Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and […]
+
+https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity
+
+### Texas verklagt OpenAI: ChatGPT-Sperre für Minderjährige und Modellprüfungen gefordert - ad-hoc-news.de
+*GN AI Act - 28.10. 22:43*
+
+Texas verklagt OpenAI: ChatGPT-Sperre für Minderjährige und Modellprüfungen gefordert ad-hoc-news.de
+
+https://news.google.com/rss/articles/CBMirgFBVV95cUxPdERjVXVHX1FZWlRIOUZHTTlwUmkycFhuTWJINmJFYjJuNnVtSnZrX1FjeWxSajJQZllfcEp4YXRpWFBERkZNTGJqZVppSnBMakx0MERCTHJUeGR2N1VuWS1CNFM1UlcyRlRidmR1U0hqVm56SkRTQnpNcFVlaVZYZ0NuUHB5VXByYm5Sci1ROWhNZmpobHNQSGU1T1dHY1hIY245bk44WVI1dy14V1E?oc=5
+
+### CNBC TEC Summit takeaways: How technology executives are navigating enterprise AI adoption, costs and risks
+*CNBC Technology - 28.10. 22:33*
+
+Recapping CNBC's 2026 Technology Executive Council Summit and discussions around AI agents, cybersecurity, AI costs and business implications
+
+https://www.cnbc.com/2026/10/28/cnbc-technology-summit-live-updates.html
+
+### Smaller AI models help Bank of America, Capital One manage costs
+*CIO Dive - 28.10. 20:24*
+
+Limiting excessive frontier model use makes financial sense, executives at the Evident AI Symposium said.
+
+https://www.ciodive.com/news/bank-of-america-capital-one-manage-ai-costs/873112/
+
+### Anthropic engineer declares the coding interview dead
+*The Register - 28.10. 20:22*
+
+Why give people tests that AI aces?
+
+https://www.theregister.com/ai-and-ml/2026/10/28/anthropic-engineer-declares-the-coding-interview-dead/5306115
+
+### „Copilot Access“: GitHub macht Copilot für Enterprise-Kunden verfügbar
+*heise online - 28.10. 19:58*
+
+GitHub vereinfacht den Zugang zum Large Language Model Copilot für Enterprise-Kunden. Außerdem soll besseres Modell-Routing helfen, Token zu sparen.
+
+https://www.heise.de/news/Copilot-Access-GitHub-macht-Copilot-fuer-Enterprise-Kunden-verfuegbar-11503777.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
+
+### Löst Trumps Wahlschlappe den KI-Crash aus? - Wallstreet Online
+*GN Rechenzentren - 28.10. 19:03*
+
+Löst Trumps Wahlschlappe den KI-Crash aus? Wallstreet Online
+
+https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRk1XWTVYZ2xpQTFUc0hCTWlYdzRQNkxONUJ0V2ZiUmJvbm5vSEFBRExzS1lOT3pCZkxjMHgzOVF0TzRYZDg0Z3dqWWdCWGJmeUo2UXA5ZkY0MHBqS3I0R3lRWG1BVnd2OW1mTnpia2hwa0ZSOGQydGs0WEppSUJlOFdhUlJHVDI1YUEtajFTRDlraUMyWHFOaExOMVdPbVJaZzJNalBYWmpSeThZdXZnTEp4dHllTlZqQnhF?oc=5
+
+### CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'
+*CoinDesk - 28.10. 19:01*
+
+The U.S. Commodity Futures Trading Commission held a forum in which the chairman, Mike Selig, suggested AI agents may usher in a financial revolution.
+
+https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading
+
+### I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet
+*Wired Business - 28.10. 18:30*
+
+To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.
+
+https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/
+
+### Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms
+*TechCrunch AI - 28.10. 17:00*
+
+The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.
+
+https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/
+
+### UNO-KI-Zentrum in Wien: Österreich wirbt um internationalen Standort - Börse Express
+*GN AI Act - 28.10. 16:43*
+
+UNO-KI-Zentrum in Wien: Österreich wirbt um internationalen Standort Börse Express
+
+https://news.google.com/rss/articles/CBMivAFBVV95cUxOUS1sOTRUaUw1dmVoY3l2ckNjUEVkdVRFYmNfbXdYQzJ1U2N0X3I3WG9HQ0VNUHNJZlFRTVN2TmwzVFRxa203OV91Y1A0N3kweTJ0ZmlYSlU3c0hHVUlFTWNoNVYzazJaY294V1ZDaE5TWEM4cG1RNE5WWXE3VmNGaWExT3FXOFpnZlc2SFNkN3l5MW1zaEgwbG9uaW1uOEI5Q2xNNXhnUk1NNHVBYlFxQ1plMHd0SWRTY1FuQg?oc=5
+
+### AI execs may be too out of touch to build for the general public
+*TechCrunch AI - 28.10. 15:53*
+
+Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.
+
+https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/
+
+### KI im Studium: Warum dieser Professor keine Mathe-Hausaufgaben mehr benoten will
+*t3n - 28.10. 14:55*
+
+Zu Beginn des KI-Booms galt Mathematik als eine gute Studienwahl – das hat sich geändert. Jetzt zweifeln selbst Lehrkräfte an Universitäten daran, ob sie jungen Menschen raten sollen, das Fach zu studieren. weiterlesen auf t3n.de
+
+https://t3n.de/news/ki-studium-mathe-benotung-sinnlos-1769844/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
+
+### Anything LLM im Praxistest: So baust du dir deinen eigenen ChatGPT-Ersatz – komplett offline
+*t3n - 28.10. 13:55*
+
+Agentische Fähigkeiten, Websuche und integrierter Wissensspeicher: Anything LLM ist ein Allrounder für den lokalen KI‑Einsatz. Wir haben uns angeschaut, wie sic weiterlesen auf t3n.de
+
+https://t3n.de/news/anything-llm-im-praxistest-1768974/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
+
+### Verband gegen KI: Über 1.000 Mathematiker verpflichten sich zum kompletten Verzicht
+*t3n - 28.10. 12:55*
+
+Die neu gegründete Association for Human Mathematics setzt sich gegen KI-Unternehmen wie OpenAI zur Wehr. Die zentrale Kritik: Die Technologie untergrabe die intellektuellen Grundlagen des Fachgebiets. weiterlesen auf t3n.de
+
+https://t3n.de/news/1000-mathematiker-verband-gegen-ki-1769673/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
+
+### Pairing industrial AI autonomy and human control
+*MIT Technology Rev. - 28.10. 12:00*
+
+https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/
+
+### Cisco open sources tool for detecting AI agents on hacking sprees
+*The Register - 28.10. 12:00*
+
+Project Quarry aims to provide a 'shared language' for evaluating agent behavior
+
+https://www.theregister.com/security/2026/10/28/cisco-open-sources-tool-for-detecting-ai-agents-on-hacking-sprees/5305867
+
+### Die Sieben-Billionen-Dollar-Wette: Experten warnen vor der KI-Spekulation - RND.de
+*GN Rechenzentren - 28.10. 11:22*
+
+Die Sieben-Billionen-Dollar-Wette: Experten warnen vor der KI-Spekulation RND.de
+
+https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOVN4eDQyUW1aR1ZGZ24zMVV3Q3NLTGpwdnBxeGh0Y0Z0aGNTQ2M5QWJ6Wng1YjZ5WElqdy1BQ29Pd2dEVFVSUVpSUmJhOWVJZmdhVE95RXI0b0NDbVAxNjRPcVdhTEVpZmpIVFIyS0FCeTZqNE1jenR1bEpNT2RKQW56S3F5TXlTeTlUa0NyemxWeV94MHIxUW9DNjdVT1JvaUtMb3FjNjZ3UmJXSFlyY09YNzY1WG1INVloVmRta20?oc=5
 
 ### Neocloud thinks AI agents - not meatbags - will be its main customers
 *The Register - 28.10. 09:30*
@@ -349,13 +578,6 @@ Quake AI is developing APIs to let autonomous agents access its services more ef
 
 https://www.theregister.com/ai-and-ml/2026/10/28/neocloud-thinks-ai-agents-not-meatbags-will-be-its-main-customers/5305496
 
-### KI-Boom: Fujifilm investiert massiv in Magnetbandproduktion
-*golem.de - 28.10. 08:50*
-
-Fujifilm will seine Produktionskapazitäten von Magnetspeicher stark ausbauen - Grund ist eine KI-getriebene hohe Nachfrage. ( Fujifilm , KI )
-
-https://www.golem.de/news/ki-boom-fujifilm-investiert-massiv-in-magnetbandproduktion-2610-214580.html
-
 ### it-sa: KI-Agenten handeln über ihren Auftrag hinaus
 *silicon.de - 28.10. 08:27*
 
@@ -363,40 +585,12 @@ BeyondTrust-Lösung „AI Agent Security“ stoppt unerwünschte Aktivitäten K�
 
 https://www.silicon.de/41724245/it-sa-ki-agenten-handeln-ueber-ihren-auftrag-hinaus
 
-### heise+ | Alltagshilfe durch KI: Wie smarte Brillen blinde Menschen unterstützen
-*heise online - 28.10. 08:00*
+### Aera addresses decision-making using enterprise AI
+*Computer Weekly - 28.10. 07:30*
 
-KI-Brillen helfen blinden Menschen im Alltag, ein Verbot träfe diese hart. Die Sehhilfen erkennen Farben, beschreiben die Umgebung und rufen Freunde an.
+Aera Technology has been looking at how agentic AI should handle the complexity and trade-offs of enterprise decision-making
 
-https://www.heise.de/hintergrund/Alltagshilfe-durch-KI-Wie-smarte-Brillen-blinde-Menschen-unterstuetzen-11434933.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus
-
-### Kommentar: Photoshop per KI nachgebaut – Kopieren ist billig, Entscheiden nicht
-*heise online - 28.10. 07:04*
-
-Ein Entwickler baut Photoshop mit KI nach und erklärt die Softwareentwicklung für beendet. Das ist falsch, meint Golo Roden.
-
-https://www.heise.de/blog/Kommentar-Photoshop-per-KI-nachgebaut-Kopieren-ist-billig-Entscheiden-nicht-11495511.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
-
-### Proton-Angestellte sollen wegen KI-Nutzung erneut ins Bewerbungsgespräch
-*heise online - 28.10. 07:00*
-
-Beim Schweizer IT-Unternehmen Proton möchte man die KI-Nutzung vorantreiben. Dazu sollen die Angestellten jetzt in neuen Bewerbungsgesprächen befragt werden.
-
-https://www.heise.de/news/Proton-Angestellte-sollen-wegen-KI-Nutzung-erneut-ins-Bewerbungsgespraech-11502535.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
-
-### Profil von LS Eco Energy: Der südkoreanische Kabelriese und sein Einstieg in den KI-Markt in Vietnam. - Vietnam.vn
-*GN Rechenzentren - 28.10. 06:10*
-
-Profil von LS Eco Energy: Der südkoreanische Kabelriese und sein Einstieg in den KI-Markt in Vietnam. Vietnam.vn
-
-https://news.google.com/rss/articles/CBMingFBVV95cUxNNlFGa3ZlRl9KM3RIa2NLM08xNjBTV2xRdUQ3eTBUN3lsYmQ4YnAtLWpOaVRWZjZNQ0RoQUFCMTByaTVERjFhRTdtMWIxeUZXZVhYLXlRUXcxTHBqVzVrbjgzUkRRZHlXZ3NjQmxFcTFKZ29ZM1MxNWoxd2xONmg2ZE5YZFFpSFB5VUJXNF9TUUNEYXJlWmthUWQ0d1Vxdw?oc=5
-
-### HPE vereint Netzwerk- und Sicherheitsmanagement mit KI
-*heise online - 28.10. 06:01*
-
-HPE führt Netzwerk- und Sicherheitsdaten aus LAN, WLAN und SASE in Mist und Aruba Central zusammen. Der KI-Agent Marvis soll die Fehleranalyse beschleunigen.
-
-https://www.heise.de/news/HPE-vereint-Netzwerk-und-Sicherheitsmanagement-mit-KI-11502351.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
+https://www.computerweekly.com/news/366652818/Aera-addresses-decision-making-using-enterprise-AI
 
 ### Should AI Decide Your Court Case? This Judge Says Yes
 *Wired Business - 28.10. 06:00*
@@ -419,20 +613,6 @@ Deutsches KI-Sicherheitsinstitut: Bundesregierung plant stufenweisen Ausbau Born
 
 https://news.google.com/rss/articles/CBMiowFBVV95cUxPLVpSeTJNazV4Vm5UT3AwM0RsWllVc1RfT3piMjAzSHF4bE1PMl9rS3VWS1QzTGNRYWsxd01GMjJpLUNZTmJkbTFYZlBrNTBPOXlCdTZFRkxnOGk1UmxwSGVmZFczeU5qanhzTHNDckRicmVyRmRBNnRwdzRzZy1VaXpJLXM4b3NQa0pXN3ZTcmdIQkV1UndDZFBLaExuN1M2V1pZ?oc=5
 
-### Sources: Fujifilm plans to increase magnetic tape production capacity fivefold to meet AI-driven storage demand, its biggest production expansion in ~20 years (Nikkei Asia)
-*Techmeme - 28.10. 04:40*
-
-Nikkei Asia : Sources: Fujifilm plans to increase magnetic tape production capacity fivefold to meet AI-driven storage demand, its biggest production expansion in ~20 years — TOKYO — Fujifilm will raise production capacity for magnetic tape fivefold to meet artificial-intelligence-driven demand …
-
-https://www.techmeme.com/261028/p3#a261028p3
-
-### Anthropic Delivers Massive News to Stock Market Investors - The Globe and Mail
-*GN AI regulation EU - 28.10. 04:03*
-
-Anthropic Delivers Massive News to Stock Market Investors The Globe and Mail
-
-https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSW1BUnZMaFQzNlUwZ3hUcFI5Zy15UGdYVGUzcnBudTc3NjBqMkNXZ3lCcWM4MmRXcnI2YjRVVDgzcGJiOTZ5aXdpQWotNDFSbzBPdVdMX3RQTjEzeUNoQ3gyNWhIOFpjWjgxbGNIUlF1dmZ2TTRIUlFacmZNT0I4TlNQaDVDY2JSbWNQb3dPNVZCR04zWTk3R21JQ3pCOXpHYTJUYmlWZDJIenhCZG1SekZJVlpvUXUzbmZSQzRELWVIMERUQUJ2alB0bnNiTHNtdkE?oc=5
-
 ### Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication
 *TechCrunch AI - 27.10. 23:34*
 
@@ -440,365 +620,148 @@ A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper
 
 https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/
 
-### KI-Dialog in Tokio: Deutschland und Japan wollen Forschung und Sicherheit stärken - ad-hoc-news.de
-*GN AI Act - 27.10. 23:05*
+### Teure „Power einer neuen Ära“: Apples 33.329-Euro-Mac-Studio ist da
+*heise online - 29.10. 10:32*
 
-KI-Dialog in Tokio: Deutschland und Japan wollen Forschung und Sicherheit stärken ad-hoc-news.de
+Wie von Apple angekündigt kann man nun den wohl teuersten Mac aller Zeiten erwerben. Hauptzielgruppe: Anwender lokaler KI.
 
-https://news.google.com/rss/articles/CBMiygFBVV95cUxNbDVnbjE2YnpSblREU1dTQjBJNDlzOW8xR1k3aVNaS2YtTTYxYU5scVpZcFZha3JyLWIzZzRzenNwUF9weGNwNElVcXpPZ1V2RURGZHhMekRnMWtOdTZkREs2YUozLWxFNFJfMVRhMzNONE1fdktSNURLbkszVlFtRFlLdHJuYTFRLUtQUmhWYXcyX0VrMWptRDVjcE41UjRoUzE1dXJTTFk2Z1NXUFdrMGkxT3BuR2R4OFQ2dUpZcnFZQUltTC0wR2N3?oc=5
+https://www.heise.de/news/Teure-Power-einer-neuen-Aera-Apples-33-329-Euro-Mac-Studio-ist-da-11504379.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
 
-### Europe Presses Pause on Its AI Rules, but Nobody Gets a Free Pass - OTS News - Southport
-*GN AI regulation EU - 27.10. 21:50*
+### Donnerstag: Abgas-Skandal mit längerer Verjährung, MacBooks auch mit Touchscreen
+*heise online - 29.10. 05:15*
 
-Europe Presses Pause on Its AI Rules, but Nobody Gets a Free Pass OTS News - Southport
+Dieselskandal-Verjährungsfrist in Österreich + Apples neue High-End-MacBooks + Microsoft-Wachstum dank KI-Cloud + Google-KI als Exploit-Experte + #heiseshow
 
-https://news.google.com/rss/articles/CBMilgFBVV95cUxNR0ZUY3pDRDNtZ2ZDX3JiWEdvaXE1UmxLZ2M0TVE4OUVGTDVQbHZNT3FGWk4wR2E0TFZWcVhTdmNYSXVNRUtUdHl2SUJNZmVjUXEwNXZObTVIaW9Cd3JwMDVMQjVlc1ZvVlBNX2NpM2lZeG11SjM2OEJaWmdfZGhtT0pUM2k5anF5U0czWlpQY3lZTEU3eWc?oc=5
+https://www.heise.de/news/Donnerstag-Abgas-Skandal-mit-laengerer-Verjaehrung-MacBooks-auch-mit-Touchscreen-11503921.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
 
-### "No human at the helm": Delaware plan would let AI agents run entire businesses
-*Ars Technica - 27.10. 21:50*
+### Jim Cramer sees major implications from SK Hynix's home-run quarter
+*CNBC Technology - 28.10. 23:00*
 
-Owners of AI-run firms would evade liability for "reckless" AI, US Rep. Comer says.
+CNBC’s Jim Cramer said SK Hynix’s blockbuster earnings showed that AI stocks can still rally.
 
-https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/
+https://www.cnbc.com/2026/10/28/cramer-sk-hynix-ai-chip-stocks.html
 
-### Bank of America kindly asks that you don’t share your banking password with your AI assistant
-*TechCrunch AI - 27.10. 21:44*
+### South Korea’s financial industry hit by fresh wave of cyberattacks
+*TechCrunch AI - 28.10. 15:41*
 
-The banking giant reminds customers that "you're responsible for activity" resulting from your AI agents' access.
+South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.
 
-https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/
+https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/
 
-### Researchers are getting tired of OpenAI gatekeeping its breakthroughs
-*The Verge - 27.10. 20:51*
+### Autumn Budget 2026: Chancellor sets aside funds for UK tech
+*Computer Weekly - 28.10. 10:45*
 
-On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI […]
+In his Autumn Budget, chancellor John Healey announced more funding for sovereign tech and AI safety
 
-https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics
+https://www.computerweekly.com/news/366652895/Autumn-Budget-2026-Chancellor-sets-aside-funds-for-UK-tech
 
-### Early progress on accelerating drug development with Claude
-*Hacker News - 27.10. 20:50*
+### Diktiergerät Comu Action Pro im Test: Mitschreiben kann es, Buchstabensalat auch
+*golem.de - 29.10. 11:18*
 
-Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609 Points: 238 # Comments: 231
+Das Comu Action Pro ist ein Aufnahmegerät, das auch Telefonate mitschneiden kann. Die KI-Aufbereitung der Aufnahmen ist interessant, aber nicht perfekt. Ein Test von Tobias Költzsch ( KI , Test )
 
-https://www.anthropic.com/research/early-progress-drug-development
+https://www.golem.de/news/comu-action-pro-im-test-mitschreiben-kann-es-buchstabensalat-auch-2610-214602.html
 
-### How to create a scale-ready AI mandate
-*CIO Dive - 27.10. 20:21*
+### U.S. worker job engagement hits lowest level since 2011, new Gallup poll finds
+*CNBC Technology - 29.10. 11:16*
 
-CIOs face challenges around implementation, ROI and an oversaturation of AI, not just technical roadblocks, Capital One Software’s product head said.
+Gallup finds U.S. worker engagement on the job sinking to a level not seen since 2011, with remote and hybrid employees and AI primary factors.
 
-https://www.ciodive.com/news/create-scale-ready-AI/872962/
+https://www.cnbc.com/2026/10/29/us-employee-engagement-gallup-poll.html
 
-### Fields Medal-winning UC Berkeley professor ends graded homework due to AI cheating
-*Tom's Hardware - 27.10. 20:09*
+### What are the must-have qualities of a CIO?
+*CIO Dive - 29.10. 11:00*
 
-Award-winning mathematician Richard Brocherds says that it's a waste of time and money to grade AI answers, so he now only uses in-person exams to see how well his students are doing in his classes.
+Leaders don't need to know it all, but those capable of building trust among staff while discerning AI hype will stand out among the pack.
 
-https://www.tomshardware.com/tech-industry/artificial-intelligence/fields-medal-winning-uc-berkeley-professor-ends-graded-homework-due-to-ai-cheating-says-in-person-exams-are-the-only-solution-left-to-widespread-ai-use
+https://www.ciodive.com/news/must-have-qualities-of-CIO/873097/
 
-### Survival LLM: AI assistant and emergency library that runs on your own computer
-*Hacker News - 27.10. 19:55*
+### Angreifer kapern 42 GitHub-Repositories für npm-Wurm-Kampagne „testmetest“
+*heise online - 29.10. 10:57*
 
-Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 373 # Comments: 144
+JFrog hat Schadcode in 42 GitHub-Repositories entdeckt. Dieser startet automatisch durch KI-Assistenten oder bei der Arbeit an Projekten.
 
-https://www.brangus.io/survival-llm
+https://www.heise.de/news/Angreifer-kapern-42-GitHub-Repositories-fuer-npm-Wurm-Kampagne-testmetest-11503164.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
 
-### Anthropic now lets Claude users jump out of plane without parachute
-*The Register - 27.10. 19:29*
+### Tape is so not dead that Fujifilm will increase production capacity 5x
+*The Register - 29.10. 03:34*
 
-Meet CLAUDE_CODE_EVEN_MORE_DANGEROUSLY_SKIP_PERMISSIONS
+Because, sigh, AI
 
-https://www.theregister.com/ai-and-ml/2026/10/27/anthropic-now-lets-claude-users-jump-out-of-plane-without-parachute/5305807
+https://www.theregister.com/storage/2026/10/29/tape-is-so-not-dead-that-fujifilm-will-increase-production-capacity-5x/5306189
 
-### AI 'hacker' finds 4 severe bugs in popular industrial control software in under 4 hours
-*The Register - 27.10. 19:11*
+### Scaling Hierarchical Networks
+*Hacker News - 28.10. 18:07*
 
-One critical, three high-severity EPICS bugs could disrupt research experiments
+Article URL: https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1 Comments URL: https://news.ycombinator.com/item?id=50278253 Points: 76 # Comments: 4
 
-https://www.theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811
+https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1
 
-### Chinas Reichenliste: KI-Milliardäre liegen an der Spitze, keine Angaben zur Parteiführung
-*golem.de - 27.10. 18:53*
+### Decoding China 2026: Huawei will das Reichweitenproblem von 6 GHz gelöst haben
+*golem.de - 28.10. 17:44*
 
-Chinesische Tech- und KI-Milliardäre führen den Hurun-Report an. Parteifunktionäre verschleiern ihren Reichtum derweil über Familiennetzwerke. ( Bytedance , Studien )
+Hohe Frequenzen im Mobilfunk haben bislang ein Reichweitenproblem. Mit neuer Antennentechnik, Werkstoffen und KI-Steuerung will Huawei das ändern. ( Mobilfunk , Huawei )
 
-https://www.golem.de/news/chinas-reichenliste-ki-milliardaere-an-der-spitze-keine-angaben-zur-parteielite-2610-214573.html
+https://www.golem.de/news/decoding-china-2026-huawei-will-das-reichweitenproblem-von-6-ghz-geloest-haben-2610-214614.html
 
-### KI in Rathäusern: 18 Gemeinden im Waldviertel schulen ihre Beschäftigten - BornCity
-*GN AI Act - 27.10. 18:40*
+### Fujifilm getting it taped - quintupling production
+*Blocks & Files - 28.10. 15:12*
 
-KI in Rathäusern: 18 Gemeinden im Waldviertel schulen ihre Beschäftigten BornCity
+Buoyed by a 57 percent rise in LTO tape shipments in the first three months of 2026, Fujifilm is planning to increase LTO tape output fivefold. The 2026 Q1 jump was due to new LTO-10 tape format shipments and demand to archive more data, for such things as AI training data. Storing that low access rate data on disk would be prohibitively expensive and tape is the only feasible, low-cost per TB medium available. Alternatives like holography are still in early stage development and DNA archival storage is in an even earlier state, making it a 5-10 year prospect, if not later. As reported by Asia
 
-https://news.google.com/rss/articles/CBMiogFBVV95cUxPZm9ibWhFaUhoTGdKcW53b1ZRNUdiREFvdkdjSmNaYWhneVh5ZVNHNVNXTkVTWmdQOXpfMHVWZUZUX2VtdXg4c1Jzek11ZWctR0dzMngzZVB0UmhZTzJHQzVOVzZPdmtLN3lEaUVheHBKZ1NoUTRJUkxfelNQZURMdDN6TTJaYkxwbkNITDVRRlg3eFJwTTQ2V0FURkFQbHRscEE?oc=5
+https://www.blocksandfiles.com/tape/2026/10/28/fujifilm-getting-it-taped-quintupling-production/5306015
 
-### Anzeige: KI-Agenten für wiederkehrende Büroaufgaben einsetzen
-*golem.de - 27.10. 17:45*
+### Storage news ticker - 28 October
+*Blocks & Files - 28.10. 13:22*
 
-KI-Agenten brauchen klare Aufgaben und menschliche Kontrolle. Ein Online-Workshop zeigt, wie mit Claude wiederverwendbare Abläufe für typische Büroarbeit entstehen. ( Golem Karrierewelt , Programmiersprachen )
+ETL supplier Adeptia announced Automate 5.3, its latest agentic platform release. Automate 5.3 expands its native MCP capabilities, enabling users and AI agents to create data mappings using natural language and apply context-aware insights. This reduces reliance on deep technical expertise, speeds partner onboarding , and makes building new integrations easier at scale. There is a redesigned AI Mapping experience that lets developers, business users, and AI agents build and validate mappings in natural language, cutting onboarding time from days or weeks to minutes. The AI learns from each ma
 
-https://www.golem.de/news/anzeige-ki-agenten-fuer-wiederkehrende-bueroaufgaben-einsetzen-2610-214490.html
-
-### Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?
-*TechCrunch AI - 27.10. 17:08*
-
-TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.
-
-https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/
-
-### Firefox’s Smart Window adds AI form filling and webpage monitoring
-*The Verge - 27.10. 16:14*
-
-Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application. You […]
-
-https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms
-
-### LexisNexis Protégé marks even human-typed exports as AI-generated - Tomorrow's Publisher
-*GN AI regulation EU - 27.10. 14:23*
-
-LexisNexis Protégé marks even human-typed exports as AI-generated Tomorrow's Publisher
-
-https://news.google.com/rss/articles/CBMixAFBVV95cUxPT1AxRldsQ1JLakZMMXJjTnFReFRBT09UZ3pTWnNsRlVHQzVqckVzU19CSzQ4QzQxdEJKODVoOHJRdzBmTlV2R3l5TVJCZXZOVmh2Nmk2S1B6ZGZ2eHZzYWhwQnJiTDJjQUdJbGJTN0trSjE0UXppZXFfdm9tUXByS2hpa0xvOGJTa0hvbGwzOTBrY2c4WVJJeVFONVRoV012RVlfOWlkQW1sWUZZMmxTNE1neklRZUZhWVcwaEdSNFdsOF9f?oc=5
-
-### A whopping 3% of boardroom execs spy productivity and costs savings from AI
-*The Register - 27.10. 14:00*
-
-A load more are spending more than they expected and forecast to shell out even more in 2027
-
-https://www.theregister.com/ai-and-ml/2026/10/27/a-whopping-3-of-boardroom-execs-spy-productivity-and-costs-savings-from-ai/5305675
-
-### Police are reportedly pulling motorists over because AI algorithms deem their driving patterns 'suspicious'
-*Tom's Hardware - 27.10. 13:53*
-
-An ACLU report claims police are increasingly using AI to analyze license plate-reader data and flag motorists based on travel patterns, raising concerns that innocent drivers could be pulled over because an algorithm deemed their movements suspicious.
-
-https://www.tomshardware.com/tech-industry/artificial-intelligence/police-reportedly-pulling-motorists-over-because-ai-algorithms-deem-their-driving-patterns-suspicious-rights-group-report-warns-ai-surveillance-systems-will-sweep-in-more-innocent-people-than-wrongdoers
-
-### Opera introduces a new web standard to let users deploy AI locally in their browser
-*TechCrunch AI - 27.10. 13:00*
-
-The new standard, WebAI, is designed to work with a variety of AI models.
-
-https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/
-
-### Roblox accused of downloading 145GB of 3D assets, including adult content, for AI training purposes during scraping spree
-*Tom's Hardware - 27.10. 12:26*
-
-Independent 3D modeling community Open3DLab has publicly claimed that a web crawler, attributed to Roblox, downloaded 145.5GB of its data, for what it assumes is for AI training purposes.
-
-https://www.tomshardware.com/tech-industry/artificial-intelligence/open3dlab-accuses-roblox-of-downloading-145gb-of-3d-assets-for-ai-training-purposes-automated-crawler-ignored-site-rules-to-grab-over-1-000-files-including-adult-content-during-scraping-spree
-
-### AI Agents Are Media’s New Favorite Audience
-*Wired Business - 27.10. 11:00*
-
-As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.
-
-https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/
-
-### BSI-Chefin warnt vor laxer Cybersicherheit bei KI-Anbietern: Diese Gefahren birgt KI für Unternehmen - Frankfurter Rundschau
-*GN EU-Parlament KI - 27.10. 10:49*
-
-BSI-Chefin warnt vor laxer Cybersicherheit bei KI-Anbietern: Diese Gefahren birgt KI für Unternehmen Frankfurter Rundschau
-
-https://news.google.com/rss/articles/CBMiugFBVV95cUxPQm5LR3pnSUVaNGtHMF9tR3hsdjVmUGdNeWlRMWVBZHZZN2E5WHI5SWJoODh3SlB6aEVtaVRlSm52V256ZXhUY09oSXJWVllBOEVHSmd5RGdqUjk0ZEpNZXdsRmtJNlJxSFU3RFk1YVl6TWhnckFfZjJwdFRzRGJZaER4c0NfRlRHR0RxTEpBdHBTeWxKV1RqTnNESDFSaFdYSTRXQnNxRTdEUnNaeVl0MUVGc1lFTGp5QXc?oc=5
-
-### Klimaschutz statt KI-Wahn! - Umweltinstitut München
-*GN Rechenzentren - 27.10. 10:38*
-
-Klimaschutz statt KI-Wahn! Umweltinstitut München
-
-https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2loM2JIbE1lVmgwODh2Z1hvcHpiR0I5NXc3eTVIUE1ZRzhMaXhKc1JKenA2bDBOeXA4TlNDYUxhQXRaWHk2UnRGdy1aUEc4RmJPVVNGWEFUSlhOWmR2dTc4YWNKNElIbmFoczNQTGpaX0ZjZ1NxazZwLVJqbEtoZjNLQzJsaHdOZ0ZzRXJ5MG0?oc=5
-
-### CoreWeave erweitert KI-Infrastruktur in Europa - Startbase
-*GN Rechenzentren - 27.10. 10:00*
-
-CoreWeave erweitert KI-Infrastruktur in Europa Startbase
-
-https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3ZZa2VfTzRqUzlJSnFrQnRrYlU4c24zUmNXZk92aTY1RTM1YmpJeExOdF9jdnJTTGtZWXVTRm82NEhYUlVkRHpILWFzUndXTmJJSUxzUmNLWUQ5bWhwaHdka25CVmNpLVFXVllsSEsxcTdqTkNRbnRIZHNYbXBNVkxBdw?oc=5
-
-### KI-Agenten: Sicherheitsvorfälle werden verspätet veröffentlicht
-*silicon.de - 27.10. 09:31*
-
-Report zeigt, wie schwierig es ist, unbeabsichtigtes Agentenverhalten zu erkennen, den Ablauf eines Vorfalls nachzuvollziehen und Erkenntnisse transparent zu machen.
-
-https://www.silicon.de/41724241/ki-agenten-sicherheitsvorfaelle-werden-verspaetet-veroeffentlicht
-
-### How solid-state transformers could help power the AI boom
-*MIT Technology Rev. - 27.10. 09:00*
-
-Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade. As the world races to meet rising electricity demand from…
-
-https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/
-
-### One Astonishing Element in Anthropic’s Prospectus That Investors Shouldn’t Ignore - The Globe and Mail
-*GN AI regulation EU - 27.10. 08:53*
-
-One Astonishing Element in Anthropic’s Prospectus That Investors Shouldn’t Ignore The Globe and Mail
-
-https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWDBaeTQ4QUU3Z2VmSE5VUmxRN19kVEJIVDctNndSSGNla3ZqamlxWERFZ3haY3k4bGFhNDlOMGg5bVVZZlE5ZDNxcG04TEFyZ05JRVE0QktJQjYyVm9BNzBzRGJ3X202M19XQzVPTkdaUGJia1g5a0tfQjlXeVQwSi1odGFyMjh2emNLZ1JGVkQ3cjdWcFhuTi11aDZRazc5NmZsU3B0TjRHbG9JUU00akVEejJVMUt6dnJRYzRLcmUzalk5bW5xa3l6bzluZ3Jhek5YUkxjWG5oVWd6NFlDV1Z3ZnRvVmdUSGV1LXpCYw?oc=5
-
-### Quality Jobs Act: EGB fordert verbindliche Regeln für KI am Arbeitsplatz - BornCity
-*GN EU-Parlament KI - 27.10. 08:10*
-
-Quality Jobs Act: EGB fordert verbindliche Regeln für KI am Arbeitsplatz BornCity
-
-https://news.google.com/rss/articles/CBMioAFBVV95cUxORFNlVlR3RXJ2Sm04Q2htQW5uVklLYU5Sd21nUTZEZVl2TUxHZ2kzUUJsQ1c3LTlaUFpFSHBlbDRHVk1sZGtOUE9rdlZ3OThmME5hV0d0U2g0T1FVdUJubHVlSTZTbV9oUWg2alFiZzdYdHdNSDQ5MTZ1ZmRmbmZqNzNLQl9ramYwbnlBcXFZaHh3SF9oemVMTHJ4RVZvVm1J?oc=5
-
-### KI: Wer zahlt, wenn die Finanzierungsblase platzt? - Telepolis
-*GN Rechenzentren - 27.10. 07:00*
-
-KI: Wer zahlt, wenn die Finanzierungsblase platzt? Telepolis
-
-https://news.google.com/rss/articles/CBMimgFBVV95cUxQbzlpNS1ubkV6T0JUYzdXVzE1bVl6OGc1Ujgtd1dRSkJlRTNSTzlKWENXUGVUR21FSTVnU0FuakJMd2xNN3cxT0FCVnFvUFZsQ1otOENGbTFBTFdNQ2d3U1hzV05sVVJlWURQdF9wVVhnT1pwajRyajNKcTN0QjFUczlqaG1zTmRsblZITG9nblVxSWREcU1ibFVB?oc=5
-
-### Gulf organisations must balance data sovereignty with AI accessibility, says Seagate
-*Computer Weekly - 27.10. 06:20*
-
-Sameer Bhatia, senior regional director for India, the Middle East, Turkey and Africa at Seagate Technology, discusses how organisations in the Gulf can build scalable AI infrastructure while balancing data governance, storage density, energy efficiency and long-term costs
-
-https://www.computerweekly.com/news/366652738/Gulf-organisations-must-balance-data-sovereignty-with-AI-accessibility-says-Seagate
-
-### Capita ‘comprehensively failed’ on Civil Service pension artificial intelligence promise
-*Computer Weekly - 27.10. 06:00*
-
-Minister says she will ‘hold Capita’s feet to the fire’ as MPs wade in with distressing stories from affected constituents
-
-https://www.computerweekly.com/news/366652777/Capita-comprehensively-failed-on-Civil-Service-pension-artificial-intelligence-promise
-
-### PABeLA-II: Saarland fördert KI-Prüflabor für Medien mit 160.000 Euro - ad-hoc-news.de
-*GN AI Act - 27.10. 05:52*
-
-PABeLA-II: Saarland fördert KI-Prüflabor für Medien mit 160.000 Euro ad-hoc-news.de
-
-https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbk95SUQ1aTRvSXlWbXlDdUVvdjhoOF81NEE0Nm9ibUVHSndHWEd4bjRsNlNKOGtjRnh4TVNzem1mLUQ1V1Q3dHZzbEEyV3dQT09Ccy1sdzBmOXAzREFnSXpWLU95MllTdDFDblJPdEhNRzEtTzVvZmhYM01IYU95Nlp3T2wyc1l0akYzZGtWbUFmTXU5VXNVQ2hPNGQ1M3FGSlhOcUZSNzgwVm02Q0xOS3NFQkJwMXJ6V2xF?oc=5
-
-### Elvis rightsholders sue Anthropic for stealing songs and leaving them in Heartbreak Hotel
-*The Register - 27.10. 05:39*
-
-They want a little less chatbot conversation, and a whole lot more royalty action
-
-https://www.theregister.com/ai-and-ml/2026/10/27/elvis-rightsholders-sue-anthropic-for-stealing-songs-and-leaving-them-in-heartbreak-hotel/5305625
-
-### How OpenAI turned its coding tools into dots, an always-on personal assistant
-*TechCrunch AI - 27.10. 02:00*
-
-Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.
-
-https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/
-
-### Main-Kinzig-Kreis: KI wertet EKGs im Rettungswagen seit August aus - ad-hoc-news.de
-*GN AI Act - 26.10. 23:24*
-
-Main-Kinzig-Kreis: KI wertet EKGs im Rettungswagen seit August aus ad-hoc-news.de
-
-https://news.google.com/rss/articles/CBMitAFBVV95cUxPRXB0YVU2T1p6SUVjRWFiNUhJM1dhZHdDSXFFOFNXMTgzdjVOaUtlQUFsVDRtWnpHUi1rRDdiVkhQMHhtUU8tZDlyRFZlQlBSSHRvNzQ5R254NTEyNWtwcklIOTZGTTZ3WTJXM3BYVV9yMzkwY2gxMUxFZFc3UExIUU5wWWpKSGRnajltSGhCOEJxbnJucXc1alBFUmlIUmJBQnpYQkFsVnVUOFdjSFpxWW9TMmI?oc=5
-
-### DeepMind unveils Genie 4 world model promising more realistic physics and humans
-*Ars Technica - 27.10. 16:00*
-
-Genie 4 will roll out to developers and Google AI Ultra subscribers soon.
-
-https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/
-
-### Guidewire buys Hyperexponential for $1.7B in cash
-*TechCrunch Venture - 27.10. 22:26*
-
-The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.
-
-https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/
-
-### Vibe genes? Natural(ish) language comes to protein, genome design software
-*Ars Technica - 27.10. 18:49*
-
-You can apparently now tell AI tools what sort of protein you want them to make.
-
-https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/
-
-### EU privacy advocates accuse US data annotation firm of snooping on contractors
-*The Register - 27.10. 17:29*
-
-Noyb files five complaints in four member states over alleged tracking of workers on Scale AI's Outlier platform
-
-https://www.theregister.com/legal/2026/10/27/eu-privacy-advocates-accuse-us-data-annotation-firm-of-snooping-on-contractors/5305757
-
-### Introducing LFM3: Every Modality for Specialized Intelligence
-*Hacker News - 27.10. 17:04*
-
-Article URL: https://www.liquid.ai/blog/lfm3 Comments URL: https://news.ycombinator.com/item?id=50262229 Points: 146 # Comments: 55
-
-https://www.liquid.ai/blog/lfm3
-
-### Classification of Finite Simple Groups Formalized in Lean
-*Hacker News - 27.10. 16:29*
-
-Article URL: https://cfsg.axiommath.ai/ Comments URL: https://news.ycombinator.com/item?id=50261647 Points: 216 # Comments: 61
-
-https://cfsg.axiommath.ai/
-
-### Dell letting sysadms chat with PowerProtect
-*Blocks & Files - 27.10. 16:27*
-
-We may as well start calling it AI Data Domain as Dell is making an AI Assistant available for PowerProtect , the rebranded Data Domain, along with a bundle of other resilience news encompassing identity protection and AI services. PowerProtect AI Assistant deliversan enhanced conversational interface for managing cyber resilience across assets, tasks, restores and reporting. We're told proactive daily briefs surface potential risks before they escalate, and a human-in-the-loop approval workflow allows teams to review and approve actions before they are taken. These capabilities help organizat
-
-https://www.blocksandfiles.com/data-protection/2026/10/27/dell-letting-sysadms-chat-with-powerprotect/5305753
-
-### Kimi K3.1 Pro: Wie das Open-Weight-Modell Sicherheitsrisiken eindämmen soll
-*t3n - 27.10. 13:30*
-
-Kimi K3.1 Pro, das neue Spitzenmodell von Moonshot AI, setzt die US-Konkurrenz weiter unter Druck. Bis zum 4. November will es die vollständigen Gewichte veröffentlichen – und könnte die Cybergefahren dadurch weiter erhöhen. weiterlesen auf t3n.de
-
-https://t3n.de/news/kimi-k3-1-pro-wie-das-open-weight-modell-sicherheitsrisiken-eindaemmen-soll-1770089/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
-
-### C-suite remains split on how tech shapes the enterprise
-*CIO Dive - 27.10. 11:00*
-
-Non-technical executives put less importance on AI shaping business strategy than CEOs and CIOs, Gartner data shows.
-
-https://www.ciodive.com/news/c-suite-split-on-role-of-tech-leaders/872810/
-
-### FreeBSD founder ports Omarchy to FreeBSD in ten days, ten releases
-*The Register - 27.10. 10:15*
-
-Daemonarchy is unaffiliated with the Linux original, built with AI help, and could complicate FreeBSD's debate over AI contributions
-
-https://www.theregister.com/os-platforms/2026/10/27/freebsd-founder-ports-omarchy-to-freebsd-in-ten-days-ten-releases/5305446
-
-### Cohere says Alibaba’s Qwen model tried to send a file to Beijing
-*TechCrunch AI - 27.10. 01:12*
-
-An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.
-
-https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/
+https://www.blocksandfiles.com/flash/2026/10/28/storage-news-ticker-28-october/5305899
 
 
 ## Rechenzentren
 
-### Meta sammelt 97,5 Milliarden Dollar für KI-Rechenzentren ein - Unsertirol24
-*GN Rechenzentren - 27.10. 18:24*
+### Xcel Energy vor Quartalszahlen: KI-Rechenzentren-Boom trifft auf regulatorischen Gegenwind - Investing.com Deutsch
+*GN Rechenzentren - 28.10. 17:36*
 
-Meta sammelt 97,5 Milliarden Dollar für KI-Rechenzentren ein Unsertirol24
+Xcel Energy vor Quartalszahlen: KI-Rechenzentren-Boom trifft auf regulatorischen Gegenwind Investing.com Deutsch
 
-https://news.google.com/rss/articles/CBMiowFBVV95cUxQT2s1Smk4MWNXaUFDbEhFaWtmSzZmMVVWTGVMRDN6TjlMeUpLODhySFI3ZFNiUWVLZlBkc2t6OTNDVUVhNUJNRmxHOFlsRzZvdGg2NUpvbXUwRGhLY2hDZG84UGZIX3B0ZHlUR19Mal9JNFoxaWExS1NOTHd6TzlPMDk4cVNkdTRrVzlMUk00cF9TUHJ6R0tja3NhZXQ0VUtabm9v?oc=5
+https://news.google.com/rss/articles/CBMi1gFBVV95cUxORFhJMGNud3NKMDU5MFViZWdOM0E1WW03RlRzNmVpS0xsX3lXd3l5N1ZiWTVVZ2RNQ25Ba3ZMTTN2WFdPUFRtWHhabWpYV1RucHd3RUw2TFF5QmltZjZWRUJ0bDVUWl9QYmJGcGk5LXh6V0g0ZE5pWmNNbFBCc0JFNUNQdThBQkpXTHA2bEpHRzQ5OE5wX1BzZ0pzLVZIbmMtZkFsQ0FFVEZzWS0waWVnYW15V1hpU1NPYXVPcjViN2FQUjBRWHROWE00dXVaSnZWelFTMUJn?oc=5
 
-### Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership
-*CNBC Technology - 27.10. 14:19*
+### AIB plans 50MW AI data center at former Spartanburg cryptomine to serve Nebius
+*Data Center Dynamics - 29.10. 09:33*
 
-Meta on Monday announced plans to raise a total of $95 billion to support its investments in artificial intelligence infrastructure.
+South Carolina mine closed over the summer, conversion project allowed despite local data center moratorium
 
-https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html
+https://www.datacenterdynamics.com/en/news/aib-plans-50mw-ai-data-center-at-former-spartanburg-cryptomine-to-serve-nebius/
 
-### Nvidia und Meta: Geplante 3-Milliarden-Investition für Muse-KI - ad-hoc-news.de
-*GN AI Act - 27.10. 07:45*
+### KI-Zirkelgeschäfte: Nvidia finanziert den KI-Boom mit – Wie riskant ist der Milliardenkreislauf? - Xpert.Digital - Konrad Wolfenstein
+*GN Rechenzentren - 29.10. 07:29*
 
-Nvidia und Meta: Geplante 3-Milliarden-Investition für Muse-KI ad-hoc-news.de
+KI-Zirkelgeschäfte: Nvidia finanziert den KI-Boom mit – Wie riskant ist der Milliardenkreislauf? Xpert.Digital - Konrad Wolfenstein
 
-https://news.google.com/rss/articles/CBMisAFBVV95cUxPOWJBd3hxenFBcTYzaFlOWENqZzZUOHQxeDg5WHZ5R3RxV1hHV1R4Wi0wcXVId203dE9kMU8xbEhDQzA4aktTUGVKXzl4M21jenU0X0J1WnZWdVNOWVZrVVRPU2JnQ1RBQzJ0RDJUajEyRHdwZm56bGIzbjZ3TXI1dUo4dW5wNHNRa0J3RVJMNjQ3V0hPMXhGNkJFdFozVm9iOGV5YW9XM3hySnVDdmZZbQ?oc=5
+https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZR3VST0hjTWo3b2xEajQ1SkZuem8zSmVOTW03MEhvdXdGcG9ZYkhwc1pfN3d2QzE5d3dpQU5nMmZNUjdicFZfZlVScnhXWkpFZ1FjeXg0RG45TzJWZFBVTTUyTkZPY20zZUZlbHRpSTVxcDTSAXNBVV95cUxPWUd1Uk9IY01qN29sRGo0NUpGbnpvM0plTk1tNzBIb3V3RnBvWWJIcHNaXzd3dkMxOXd3aUFOZzJmTVI3YnBWX2ZVUnJ4V1pKRWdRY3l4NERuOU8yVmRQVU01Mk5GT2NtM2VGZWx0aUk1cXA0?oc=5
+
+### Malaysia seizes $12 million worth of advanced AI chips hidden inside 30 servers
+*Tom's Hardware - 28.10. 17:02*
+
+Malaysian customs seized 30 servers containing more than $12 million worth of advanced AI chips at Kuala Lumpur International Airport, as authorities investigate a suspected smuggling network linked to multiple previous seizures.
+
+https://www.tomshardware.com/tech-industry/policy/malaysia-seizes-usd12-million-worth-of-advanced-ai-chips-hidden-inside-30-servers-customs-says-suspected-smuggling-network-used-the-country-as-a-transit-hub
 
 ### Google alters its cloud playbook, enlisting partners to sell more AI chips
-*CNBC Technology - 28.10. 11:00*
+*CNBC Technology - 28.10. 13:52*
 
 Google is opening its TPU business beyond its own cloud as custom chips become a bigger engine for growth.
 
 https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html
+
+### Microsoft stellt Maia 300 für KI-Inferenz ab 2027 vor - DataCenter-Insider
+*GN Rechenzentren - 28.10. 11:00*
+
+Microsoft stellt Maia 300 für KI-Inferenz ab 2027 vor DataCenter-Insider
+
+https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUFZYMi1mZWJTdXUyaWZnaGc3LTV1LXJQUzVZdlVyQmZyZWtxYjg1SHhwRHpDYW16VlpYSFB1SUpRaTM1R2ZsVU9OQ0xVRVFGNjExd0xiOWFMTEo4d0E0b1p1TDRrem1UaVExVmd0Y1hidk9USW1CLThyUnREYUFJNFlEbHJWYnpLMm5EOXgwN0hBN2ljRWs2YXBNWkxzakhKVGxBeEk0cFRfdm5MR25LNXpKbThzWnR5YkZxZmpwdTc?oc=5
 
 ### IT vendor lists massive $60 million AI supercomputer on eBay with 300 racks of decommissioned GPUs
 *Tom's Hardware - 28.10. 10:30*
@@ -807,707 +770,798 @@ Someone listed a massive 300-rack AI supercomputer on eBay for $59.7M. Packed wi
 
 https://www.tomshardware.com/desktops/servers/it-vendor-lists-massive-usd60-million-ai-cluster-on-ebay-300x-racks-of-decommissioned-gpus-includes-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cpus-plus-free-shipping
 
-### Oracle will offer Google’s TPU AI chips via OCI in multi-gigawatt deployment
-*Data Center Dynamics - 27.10. 17:57*
+### Microsoft: Kapitalausgaben unter Erwartungen wegen Verzögerungen bei Rechenzentren - aktien.news
+*GN Rechenzentren - 29.10. 08:58*
 
-Will be the first hyperscaler to offer Google’s TPU outside of Google
+Microsoft: Kapitalausgaben unter Erwartungen wegen Verzögerungen bei Rechenzentren aktien.news
 
-https://www.datacenterdynamics.com/en/news/oracle-will-offer-googles-tpu-ai-chip-via-oci/
+https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVTJDczV2MkYtZW9SUkdtZE0tcVB5Q2pTQUJvMjBlOHNQeWZRQ0xPQWMxdWV3QXMxRVdrclB2bng4eXBaY0pwN19QWVFDMC02UzUyUndtMm9jVV9JNWZMVWE5SWh6T0JhT1JvZnBvTDNwMVU4ZmE0Y2prUHZPaExiQnNYQ2Y5bXJoLXJ5a1VUTEFYQzVoUXZwZ3JxVGZ1NS02cTZIU1hyRFc?oc=5
 
-### Flex vor Quartalszahlen: KI-Rechenzentren rücken ins Rampenlicht - Investing.com Deutsch
-*GN Rechenzentren - 27.10. 16:31*
+### Playmobil-Werk wird KI-Rechenzentrum: Serverpark statt Spielfiguren - Business Punk
+*GN Rechenzentren - 29.10. 11:21*
 
-Flex vor Quartalszahlen: KI-Rechenzentren rücken ins Rampenlicht Investing.com Deutsch
+Playmobil-Werk wird KI-Rechenzentrum: Serverpark statt Spielfiguren Business Punk
 
-https://news.google.com/rss/articles/CBMitAFBVV95cUxPX19OYkhkRGJsMnJHM0VRMTVfeTVkeHdqM0tBRlluOFlPOElMUm5DRkdmNzhBcXROYVRIVGNjTG0tSW9nWC10b0I5ZDNaQXRhQW1oWmNUVThnRHZBd01teV9XczJwWHZGaXlGZF9lZHRKMklGYW1MZFlObmNkSFBzMjNLaVFZTE45bUVaRUhOSTVwRzhTZWk2RGJBMmxWM1JIWkk3VHFlQUdtTFJvOThMYmdTVFk?oc=5
+https://news.google.com/rss/articles/CBMingFBVV95cUxPa0NKQXh1OXlwaHZpTXlfQWpiZWpiN2N2empXVFpHVWVJUlV0TDVmeFd0eGdfSjJycnN3bG5ZSEZfVjNsNExmOWh5T2JWdEVDV3E1RmFaYzhjdkFLTWxDdWZlLXB6OUhqSFZJempRZnhMMWNUejhzdTJUbEMyMnlJVTBKR2pMNWMwTVNVTzE4eGUzQjYzYkZsb1F1dE11QQ?oc=5
 
-### Broadcom organizes $63bn deal with Bank of America, Blackstone, Citigroup, and Morgan Stanley to fund Anthropic chip purchases
-*Data Center Dynamics - 27.10. 15:00*
+### Der Boom bei KI-Rechenzentren stößt an den Wahlurnen in den USA auf Widerstand - TradingView
+*GN Rechenzentren - 29.10. 10:00*
 
-Project North Star will finance the purchase of Broadcom-developed Google TPUs
+Der Boom bei KI-Rechenzentren stößt an den Wahlurnen in den USA auf Widerstand TradingView
 
-https://www.datacenterdynamics.com/en/news/broadcom-organizes-63bn-deal-with-bank-of-america-blackstone-citigroup-and-morgan-stanley-to-fund-anthropic-chip-purchases/
+https://news.google.com/rss/articles/CBMid0FVX3lxTFBSN3pGVE9FanJJSFF5ZGhMbkhRYjQ0ODdXcThYVnVEUEQ5MGtQQThjVWlLVk1sTWNPUGM2NkZuUHpuS21SZ0lQTVpwTjNfdzU1TWdBM3VGazJKbVZFWUxuSjVucUNIZmx6TGl2c042RklEOGJMX3Aw?oc=5
 
-### Warum die Nebius-Aktie steigt: 250 Mio. Euro für KI-Rechenzentrum bei Lille - Investing.com Deutsch
-*GN Rechenzentren - 27.10. 13:51*
+### DataBank's CEO on the Texas data center moratorium and the impact of the US midterm elections
+*Data Center Dynamics - 29.10. 08:55*
 
-Warum die Nebius-Aktie steigt: 250 Mio. Euro für KI-Rechenzentrum bei Lille Investing.com Deutsch
+New regulatory requirements could filter out rogue projects, Raul Martynek says
 
-https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeGliM1BBczJrNmtpMVZ2b2k2V0t6X1FfSndRZW5CZnQtYUgxdGphbnFfMUQ3aVg0NTZhd2JZZjdIWVRmOERGWDI5OXFMTkdhdEsyZlNrdmY1Nk9fSkxSSWVmWkwwTjN3eURGSWZVSFZGa01JcV9ZRGhsT0JaX2NHNXBOcS0teWp1LXBPeXdPMVVfWkZxeUJtUVR0YW9fb2pmNldOalMtYWhyY2ptSWo4dndTbXJJcFRrT3R4RzhuUnBxNFhwQllSOWxDN01nWkNkdE9jbGxyQW4?oc=5
+https://www.datacenterdynamics.com/en/analysis/databank-ceo-raul-martynek-data-center-moratorium-texas-dallas-greg-abbott/
 
-### Corning: KI-Rechenzentren befeuern Ausblick – Aktie vorbörslich 3 % höher - Investing.com Deutsch
-*GN Rechenzentren - 27.10. 11:21*
+### Playmobil digital: Playmobil-Werk soll zu KI-Rechenzentrum werden - Hardwareluxx
+*GN Rechenzentren - 29.10. 08:07*
 
-Corning: KI-Rechenzentren befeuern Ausblick – Aktie vorbörslich 3 % höher Investing.com Deutsch
+Playmobil digital: Playmobil-Werk soll zu KI-Rechenzentrum werden Hardwareluxx
 
-https://news.google.com/rss/articles/CBMi1wFBVV95cUxNS21OX1BmMHQzMm1Pdy1yS0VkWWR2V1VOeEo5c0FiQ2I0OHdJU1dYbHpUQUZTc3ptdExTNHJ6d2ZuTW12QU0xVnZRaklCclM3QkUwbXltc2hfQlhLbGxET0NfckVIQXBUcFJZU0h5U2psVnZkRW5HcC1xRDlfaWJBNGdvYXZlQnkyNHhtX2x6U3ZhdmZaSkllSk1uSDZZRjk5Mk5oeWZCRzdNLTk1MmJyZzdJaE1Id1o4SmZmNHJETjlUQ2JaTDB1ZlpYUUp3VlV4TDlJM2FGaw?oc=5
+https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbWV5YTdLb3JfWjJpUFZ6ZS0tbHFMdDRIM1RheURIMlJIRi15LUlsZFpWaDJWc3BLWW5wUUctbTVnUHpsc2l0dnY2X0dNaUNieDZ0cGEtVFlaX2RRemxvQkRpLThDOHlFNzl1cE1TQ3FZeTAySVZlbkZGOXdBbmpkQUw4QkF1VU5JcVg1UmFMc3BkNXp1aUVueHBrYk5kcngwWXpZemVDMzVEWTJsQjhzNnRlc3lyOTNhVWFrZlpSck1hcFkwajktWV9nbTJqejNRS2tmeEp3?oc=5
 
-### Malaysia says it seized ~$12.11M worth of AI chips this month, as authorities close in on a syndicate suspected of smuggling through the country's main airport (Rozanna Latiff/Reuters)
-*Techmeme - 28.10. 10:30*
+### Sponsored: TrueLook brings new AI-powered search, alerts, and reporting to data center construction
+*Data Center Dynamics - 29.10. 08:00*
 
-Rozanna Latiff / Reuters : Malaysia says it seized ~$12.11M worth of AI chips this month, as authorities close in on a syndicate suspected of smuggling through the country's main airport — Malaysian customs said on Wednesday that it had seized about 49.5 million ringgit ($12.11 million) worth of advanced artificial intelligence chips …
+Recently launched TrueAI capabilities help contractors managing large data center campuses monitor critical activity, track equipment, and turn jobsite imagery into actionable project intelligence
 
-https://www.techmeme.com/261028/p14#a261028p14
+https://www.datacenterdynamics.com/en/product-news/truelook-brings-new-ai-powered-search-alerts-and-reporting-to-data-center-construction/
 
-### Nvidia partners with PreussenElektra to explore deployment of AI data centers at former nuclear sites in Germany
-*Data Center Dynamics - 28.10. 09:55*
+### Streitthema KI-Rechenzentren: Löst Trumps Wahlschlappe den KI-Crash aus? - FinanzNachrichten.de
+*GN Rechenzentren - 28.10. 19:23*
 
-Represents the first step in the evaluation process
+Streitthema KI-Rechenzentren: Löst Trumps Wahlschlappe den KI-Crash aus? FinanzNachrichten.de
 
-https://www.datacenterdynamics.com/en/news/nvidia-partners-with-preussenelektra-to-explore-deployment-of-ai-data-centers-at-former-nuclear-sites-in-germany/
+https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTkllaHRMaXpCS1FxbEZXdzRXenFGbUtFYUNYbDFrTUdZZVVuRHlxM3duU0FZem90XzRlb01GUkNqT1NhUk1fRlY1allaUmxubXZucDFhc1k2OHBFSEtFdUFTcVJWcmNoSHFZaUZfWHphRVBoalkybkU2N1J2cTZYVXZmM3ppeEVfcFhqOXRoWlB3bWV3UE40NnZmbmJyVXRKZUdHOXFLcEY0eXlrd3A2WUpvOXlTUk9wakpGUG1IQ201OUlGeFZ1TUFSSkI0ejNRVlUwODFvWWk?oc=5
 
-### Nvidia Vera Rubin and Vera CPUs now generally available on Oracle
-*Data Center Dynamics - 27.10. 20:41*
+### Healey kündigt schnelleren Netzzugang für wichtige Rechenzentren im Rahmen der KI-Offensive an - MarketScreener Schweiz
+*GN Rechenzentren - 28.10. 19:19*
 
-And other AI hardware deployments soon to arrive
+Healey kündigt schnelleren Netzzugang für wichtige Rechenzentren im Rahmen der KI-Offensive an MarketScreener Schweiz
 
-https://www.datacenterdynamics.com/en/news/nvidia-vera-rubin-and-vera-cpus-now-generally-available-on-oracle/
+https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVHRsSGVJMVlDdFJHTi0wSkZOWDhzcWZ1dWQxVldGdHU3ZVRtaW5XajBBbndObnMxOTBieHA1SU5PeVYtWmt4NENGdk85WGdOXzBXUkRSOE1tVF9HUHRNRVlCQ2xsVTI0OEQ1Ql90MlQyVGRFWlZvY0MwejNyTk0zWTcxUDI4M1Fwb01tb1Qtckd6Zl9tVHBGTl83ZnJ4M1RFcUUtVXE1U2VubVFaS1NRalEzTmVwWlRCdjU4ejNZbXBMTnlab1R4enV0RkdCSF9RT3NTVzJXNHNFNHJYaU8wVTJMU2pkTklwbHk3MThWbnVMNWR1?oc=5
 
-### SpaceX closes $40 billion debt financing for GPUs expected in the first half of 2027, Musk says
-*Tom's Hardware - 27.10. 09:20*
+### Tata Communications to invest $450m into 10,000km of AI-ready fiber to support data center connectivity in India
+*Data Center Dynamics - 28.10. 18:33*
 
-SpaceX expects fourth-quarter capital expenditure of $35 billion to $40 billion, CFO Bret Johnsen said, as Elon Musk pushes to expand the company’s AI computing infrastructure.
+The route aims to support India's growing data center industry
 
-https://www.tomshardware.com/tech-industry/data-centers/spacex-closes-usd40-billion-debt-financing-for-gpus-expected-in-the-first-half-of-2027-musk-says-company-faces-up-to-usd40-billion-in-additional-fourth-quarter-capital-spending-as-ai-infrastructure-costs-soar
+https://www.datacenterdynamics.com/en/news/tata-communications-to-invest-450m-into-10000km-of-ai-ready-fiber-to-support-data-center-connectivity-in-india/
 
-### DCD Studio: The physical constraints of AI scaling with Sean James, Nvidia
-*Data Center Dynamics - 28.10. 10:40*
+### Verärgerung über KI-Rechenzentren kommt laut Host-Digital-Chef aus den "Randbereichen" - MarketScreener Deutschland
+*GN Rechenzentren - 28.10. 18:29*
 
-Kat Sullivan speaks with Sean James of Nvidia about the company’s data center energy strategy, exploring efficiency, integrated systems, cooling innovations, water usage, and the challenges of increasing power density
+Verärgerung über KI-Rechenzentren kommt laut Host-Digital-Chef aus den "Randbereichen" MarketScreener Deutschland
 
-https://www.datacenterdynamics.com/en/videos/dcd-studio-the-physical-constraints-of-ai-scaling-with-sean-james-nvidia/
+https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTHFqVUYzU0dRZFl5c1FDZWdxQkwwemV4SXlyRlBVVXV3V1RfczM2YXpTd2hOeWh3bVY3TDFHNUVnNUxkOHVHZmlhU1U2SUxTMzd1amZ3dWhrZXBIcFZyUWdHTkJtTmN4M2QzUHJOcFBBQmpkM05SaWdqS3NGbWttOEUtcHpTdXNnbHBqNVRRLW5GQWlKR3V0S1pCbEdiR1dxWnJnMkxUZFViRDBjbjJ5d2VBZHZpY2RkNmdJTXNOSm4zb1BQdm9LSTY3bFpGdTZDVUFyUzhnREJuaEVXZ0N5R1JLLWQxVDA?oc=5
 
-### Industry insiders say PCBs and chip substrates are key supply constraints for consumer electronics makers, as AI demand increasingly eats up production capacity (Nikkei Asia)
-*Techmeme - 28.10. 05:40*
+### Voice AI in vogue: Nvidia releases new open transcription model
+*TechCrunch AI - 28.10. 15:00*
 
-Nikkei Asia : Industry insiders say PCBs and chip substrates are key supply constraints for consumer electronics makers, as AI demand increasingly eats up production capacity — TAIPEI — As executives at PC makers, including HP and Dell, map out their supply needs for 2027, a mundane component has emerged as an unlikely concern.
+Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.
 
-https://www.techmeme.com/261028/p6#a261028p6
+https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/
 
-### ASUS stellt flüssigkeitsgekühlte NVIDIA HGX Rubin-Server für KI-Rechenzentren vor - Refindustry
-*GN Rechenzentren - 27.10. 22:10*
+### Großbritannien forciert Ausbau von Rechenzentren für KI- und Sicherheitsziele - Investing.com Deutsch
+*GN Rechenzentren - 28.10. 13:28*
 
-ASUS stellt flüssigkeitsgekühlte NVIDIA HGX Rubin-Server für KI-Rechenzentren vor Refindustry
+Großbritannien forciert Ausbau von Rechenzentren für KI- und Sicherheitsziele Investing.com Deutsch
 
-https://news.google.com/rss/articles/CBMitAFBVV95cUxOMi10X0RJbTZIcE1uN01ZQnJKdGdnTGlGOEJmN0ppdHhiZjdBeER4UEp5dkktSVpCTm1CQTg5MkJLbFVSRFFyVE9ISk82ZmN5d2d3OHRGcERZcUJ1a3A5M2pLT21WbDlGZTFuTTBQOEFpTjlpcGM5dlluamVlTkxxckhPMG94Vy1hdXNFVU92QWt3eHQ0ZWc5QlJ1am5rbi12RUtDa2t0emJTd25MOE1rX2RObTk?oc=5
+https://news.google.com/rss/articles/CBMizAFBVV95cUxOUmloSXJyS3VwaDJaU2hiSWZDazdvMWh1LVdfSlNxT1FJZGlwTW0xbDQ5dHlXOXhTNXo3OWpWQjQydUVaSmZvU2hvRkR0RUNyd1I5QkpsZ2pwV3JPYjBmLVBTZk9Pc0FGZ2hiS0lRRmFDLWJKbUdYS3FDcDNlbG5Ed2hyNXpYaGFkRmw0UFJ4TjQ0RzZiR1JQMkN1UHFWZHA1T19wYU5EVDU5V1pXWVBWRXVocG8xdEtBdEpUY0k1aXhrMDRJZ1ZzQmJ5WU8?oc=5
 
-### KI-Rechenzentren: Die Finanzierung wird knapp und Projekte werden ausgewählt - Foro3D
-*GN Rechenzentren - 27.10. 22:01*
+### Anthropic will Mega-Rechenzentrum in Mittelfranken bauen - Playmobil-Pläne verhindern das - NN.de
+*GN Rechenzentren - 28.10. 11:55*
 
-KI-Rechenzentren: Die Finanzierung wird knapp und Projekte werden ausgewählt Foro3D
+Anthropic will Mega-Rechenzentrum in Mittelfranken bauen - Playmobil-Pläne verhindern das NN.de
 
-https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXU0Z3UwSDdpYW00S19USUE5U0FVMFNxTEZldTMxZWljZ1k5dzZONzJRZjJKT0txZkI2enpOcnVWTnhGamlORXNqZklwWmZraUhkLU5BWGN0UjNQTU40N1hDNjVZbDlWVW8wbDZEUjZMV1gxcTFNLWhscHRaRmZpaUM5NXQ1VHEzS1ZRSW9iZG10RGFscFVOUDk2SVAwaGZmbnJrTjlpUWFkMzFSQlc4?oc=5
+https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOFVwSDBPSVBqVy1yaE51RFc3UUFIMDJ0SFlKYjktbTNaclJnT2U1MlQxYkg4TU9jQlV0TWR3Z3RzbVVLeGFsMXFySzRhcXNYdkJ6cG82RjBsdHFGSkNCaXgySWFmeWRfbUZ2SEZrWkdYajBSaDVIU3NoaGVXNXhrT19lYUFpb2s2WFg2bGhuS0NoVFRwTVZWZ0kxMjB3QWRXYlROLXFoeUhFcXBkZDhDbmRicW9TZ0w2UVF5eVlWVks?oc=5
 
-### ZVEI: Prozessautomation wächst 2026 leicht, Rechenzentren treiben Nachfrage - atpinfo.de
-*GN RPA - 27.10. 17:41*
+### Nvidia's $108 Billion Earnings Test: Why the Next Forecast Matters More - The Globe and Mail
+*GN AI regulation EU - 29.10. 11:23*
 
-ZVEI: Prozessautomation wächst 2026 leicht, Rechenzentren treiben Nachfrage atpinfo.de
+Nvidia's $108 Billion Earnings Test: Why the Next Forecast Matters More The Globe and Mail
 
-https://news.google.com/rss/articles/CBMivgFBVV95cUxNVG05Y0F3SDA0dVpCZUpMWWE0d2ZJTEQ3alYtZmpSbXd3WVFZZ2xyQ2VHdjhqeUhocW1nbDhnN3oyMlFxNzNWMHRjQ1F4UE5ZRjNBV1pUcDNNc1NwNngwaURSNjVETXJRdFRvUmF2aTktWmlOenFqRkY0RDVCaFdEQ005bHlwSzZZRThncERmX2Y3bk9HM3lFVXBNeDVabXRPdzl1X0o4a2x6dV9BWnZQZDh0VUNDQjVwVUlNWTVn?oc=5
+https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVVI5ZkFqTVprNFpKVDJrcEY0aE1NdV84M2FMVmtYRE5pX0treUVNVjBZTGY3Z0NBaHY2TGlsODRIZnVkcnVtNVJmajBlSWY1MklCdk5BVlhUMEU4Z2pQdVp3eXdCdGR1MWQ5Wi04Vl9iUUdjRGtSTlFwRkpBaTU0YUVianFBNEh3YzJhOWY1ZHVYVHZ0alRCUVcyU2FHcXh2VndYa0hwdnNVQWptY3FhUHdFaDhmZ056cGFLOU5WY3BzRnZ4ckN6VzVFV1VkMWNuRWRtdWFpdWRIdkJNSnBuaVNBN2J5NWNqVnhxZA?oc=5
 
-### Schneider Electric schließt Pilotprojekt für digitalen Zwilling von KI-Rechenzentrum in Portugal ab - Investing.com Deutsch
-*GN Rechenzentren - 27.10. 12:06*
+### Naver closes $10bn investment from Brookfield and Nvidia
+*Data Center Dynamics - 29.10. 10:17*
 
-Schneider Electric schließt Pilotprojekt für digitalen Zwilling von KI-Rechenzentrum in Portugal ab Investing.com Deutsch
+Money to fund the build-out of data centers and GPU purchases
 
-https://news.google.com/rss/articles/CBMi6gFBVV95cUxObk54TTlCZTktOWJJUXozWkxfS1RhS1F6RVQwaXlWSnh2OEFxeHhLek1wLWR5dFhEV2tSXzNEazVkQWZ4MDFyT0U4VmhEaVBaMWZsaWdFMzBJZTZaRmVSdURuck1KSURaeE9rbHkxSnVPbTVta2FMUW8zYkRlUk50Z2o4c0RjM0pRNEFBeV9abzNFblFIT2hiSEpHbEVkYzZXektUQUE5UllqRmswcThfZjFUa2w0VGRINDVYOFhwZ3J4YmZoUFUyS2hYeDVEMk5zVVFYbGdIc0JJZHJNYjMwaGFtbkU1MURSY2c?oc=5
+https://www.datacenterdynamics.com/en/news/naver-closes-10bn-investment-from-brookfield-and-nvidia/
 
-### Nvidia backs Indian startup helping companies run AI models with fewer GPUs
-*TechCrunch AI - 27.10. 11:00*
+### UK's Volta acquires Reynolds House data center site in Manchester
+*Data Center Dynamics - 29.10. 10:15*
 
-Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.
+Company buys former Telecity/Equinix site from Lunar Digital
 
-https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/
+https://www.datacenterdynamics.com/en/news/uks-volta-acquires-reynolds-house-data-center-site-in-manchester/
 
-### UK ministers had plenty of time for AI datacenter bosses, but none for environmental groups
-*The Register - 27.10. 11:00*
+### Siemens Energy Aktie: Rechenzentren-Rückenwind? - Kapitalmarktexperten
+*GN Rechenzentren - 29.10. 09:08*
 
-Investigation finds businesses dominated govt meetings while communities were left out of decisions about AI Growth Zones
+Siemens Energy Aktie: Rechenzentren-Rückenwind? Kapitalmarktexperten
 
-https://www.theregister.com/on-prem/2026/10/27/uk-ministers-had-plenty-of-time-for-ai-datacenter-bosses-but-none-for-environmental-groups/5305654
+https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOE5UREpxM01jbFdKNkdmTHIwZV9pN1lGdi1xa21KNEVCaVVNSjA0MWJXV3VkekdHSFNYc1ZGX09zV2NlWDhIWl9mY0p4M204T0J1SkxSS2RMQllabUc0azNkY3hUSmNOQVBEQmtOUzV1WDdkalNub3AyNmRUbVRldFd2NFMwUElFMUFv?oc=5
 
-### Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity
-*Tom's Hardware - 27.10. 11:00*
+### Millionen-Investition: Playmobil-Produktion in Dietenhofen weicht riesigem Rechenzentrum - NN.de
+*GN Rechenzentren - 28.10. 14:20*
 
-Nvidia is committing billions to expand substrate, co-packaged optics, advanced packaging, and chip-testing capacity through 2028, reserving capacity at nearly every stage of its AI accelerator supply chain.
+Millionen-Investition: Playmobil-Produktion in Dietenhofen weicht riesigem Rechenzentrum NN.de
 
-https://www.tomshardware.com/tech-industry/semiconductors/nvidia-is-bankrolling-ai-accelerator-supply-chain-buildout-to-reserve-production-capacity-announces-billion-dollar-deals-with-six-major-suppliers-across-substrates-advanced-packaging-semiconductor-testing-and-optical-engines
+https://news.google.com/rss/articles/CBMixgFBVV95cUxOTlc1NFg3TmRXcWVKX0pDbEI1dVF2bHQxVGRiYy0tRjFSazZwd2xiakFqa1dnR3QzWUJTUEJEZ1MybC1wbnhtQ1ZMTkZLaUZhZjB4S1k3c3N1LVkwVWE2Umo2QTBvLTN0N1hsVkZyLXY0T1JjdlNKTEZDRzhSTkZ6VklpenM4TzQ5VlRYWktqN3Ytb0NQZFZvYkp2cVNOQlZTRkpSdEIwNFZDb2lHbDJsdEpCeHhkWk1tTWlkVGRmbVktb292dmc?oc=5
 
-### Infineon und Nvidia versorgen KI-Rechenzentren mit Energie - all-electronics.de
-*GN Rechenzentren - 27.10. 06:32*
+### Kaufpreis nicht allein entscheidend: Experte sagt, worauf Sie bei der Wärmepumpe noch achten müssen - CHIP
+*GN Waermepumpe - 28.10. 12:50*
 
-Infineon und Nvidia versorgen KI-Rechenzentren mit Energie all-electronics.de
+Kaufpreis nicht allein entscheidend: Experte sagt, worauf Sie bei der Wärmepumpe noch achten müssen CHIP
 
-https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTFNeGFySVJTYVhfSmhjMkY4b19sY1Q2b3JXNnB3SHd6aEhRMldWTktYbmFzQV9aOHNWMHI0aWVBOHYxdlpzSFhiems5U3YzbUNwSTRzZmZnX2NrLTB4V3psWVY2UXJXWGpPOVJWZGpLLU5MT29rUm1lZGQ3NTFSZVNRczRrM1FZZC1XeVlMM2ZsMmFNdHNpZUxzRVBtZzYtVkp4bXFodUNZcjNqRUhkZ1dUanhjd3Eza0V5NQ?oc=5
+https://news.google.com/rss/articles/CBMijwJBVV95cUxQUnB4OXhPci1nUmRxdXZnQmUzZTh5MldiSGFvazhsQ0U1UVZ0blIwYnFMalVJc3ZQVzhZc00xcnRFbTI5Ml9jQkdacnNiZHJxRTJ5RnNPUFJDVzMzV1J6RVcxRzF5SEZkTG1XMlVrUVFYVTkzVjJMcnlSSUppUWx1UzNjdVJka2Z2ekRpSTB5OW50V013LTlIQlZjV3NxOGc5UDdFbHVSeVdDQWR5cXVEeU4yUFlIdVhDcGRQMDVCbldXRXU4WGFnTGVOQXJpUHQxVWVtdk8wd2pqbTk5elBMSFpFMU5lVGZCTVhUSXpMaUVfSG1GZG5ra2NqTlQ2MFVVQUstcEFvU2JMalVWOHVF?oc=5
 
-### Standalone Nvidia Vera CPUs land in Oracle Cloud's multi-gigawatt deployment — our independent benchmarking of a local server reveals Vera's massive memory bandwidth lead over dual Xeon 6 server
+### Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%
+*CoinDesk - 28.10. 11:32*
+
+Bitcoin rose above $81,400 as Asian chip stocks rallied, with frog-themed memecoin pepe adding 9%.
+
+https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9
+
+### Standalone Nvidia Vera CPUs land in Oracle Cloud's multi-gigawatt deployment
 *Tom's Hardware - 28.10. 11:00*
 
 Nvidia’s Vera CPU is now generally available on Oracle’s OCI Superclusters, a win for Nvidia as it moves past NVL72 to a standalone Vera deployment at a major hyperscaler.
 
 https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-oracle-bring-vera-cpu-instances-online-in-multi-gigawatt-deployment-oci-superclusters-also-set-to-expand-with-rubin-only-clusters-attached-to-dual-xeon-6-hosts
 
-### Sources: TPG is in talks to acquire UK-based Ark Data Centres, which operates 27 data centers in the UK and Belgium, from Elliott Management at a ~$5B valuation (Financial Times)
-*Techmeme - 28.10. 05:50*
+### Statt Spielfiguren jetzt Server: Playmobil-Mutter baut Stammwerk zum Rechenzentrum um
+*t3n - 28.10. 13:22*
 
-Financial Times : Sources: TPG is in talks to acquire UK-based Ark Data Centres, which operates 27 data centers in the UK and Belgium, from Elliott Management at a ~$5B valuation — US private capital group in talks with Elliott over what would be among the booming sector's biggest deals this year
+Die Mutter der bekannten Spielwarenmarke hat die Produktion ins Ausland verlagert. Im deutschen Stammwerk soll künftig Rechenleistung angeboten werden, die wichtig für künstliche Intelligenz ist. weiterlesen auf t3n.de
 
-https://www.techmeme.com/261028/p7#a261028p7
+https://t3n.de/news/playmobil-rechenzentrum-1770445/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
 
-### Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip
-*Ars Technica - 27.10. 22:37*
+### DCD Studio: Europe's gigawatt opportunity with Maria Poyer, CoreWeave
+*Data Center Dynamics - 29.10. 10:34*
 
-Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.
+DCD's Seb Moss and Maria Poyer of CoreWeave discuss global expansion strategies, focusing on site selection, real estate, and market entry challenges in Europe and APAC
 
-https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/
+https://www.datacenterdynamics.com/en/videos/dcd-studio-europes-gigawatt-opportunity-with-maria-poyer-coreweave/
 
-### Apple takes powerful M6 chip to the MacBook Pro, iMac
-*The Register - 27.10. 17:47*
+### Sierra Club expects US power emissions to hit 2.1B metric tons by 2030, up 42% on 2025 and erasing 15 years of cuts, with off-grid data centers matching Mexico (Bloomberg)
+*Techmeme - 29.10. 10:25*
 
-6th-gen M-series silicon promises more cores, faster memory, a fatter NPU, and better connectivity, now in more form factors
+Bloomberg : Sierra Club expects US power emissions to hit 2.1B metric tons by 2030, up 42% on 2025 and erasing 15 years of cuts, with off-grid data centers matching Mexico — The boom is set to produce enough greenhouse gases to cancel out 15 years of declines in power-sector emissions, according to a Sierra Club analysis.
 
-https://www.theregister.com/personal-tech/2026/10/27/apple-takes-powerful-m6-chip-to-the-macbook-pro-imac/5305797
+https://www.techmeme.com/261029/p17#a261029p17
 
-### Amazon settles legal battle against AWS managers accused of data center deal kickbacks
-*Data Center Dynamics - 27.10. 17:17*
+### Enabling the next generation of data center mechanical cooling
+*Data Center Dynamics - 29.10. 09:47*
 
-The long-running case will continue with Northstar Commercial Partners as defendant
+High-performance, scalable, and sustainable cooling platforms for mission-critical data centers
 
-https://www.datacenterdynamics.com/en/news/amazon-settles-legal-battle-against-aws-managers-accused-of-data-center-deal-kickbacks/
+https://www.datacenterdynamics.com/en/whitepapers/enabling-the-next-generation-of-data-center-mechanical-cooling/
 
-### Google data center hearing in Hermantown, Minnesota, shut down due to protests
-*Data Center Dynamics - 27.10. 16:44*
+### Malaysian gov’t approves renewable energy requirement for new data centers
+*Data Center Dynamics - 29.10. 09:14*
 
-Hearing pushed back a day, but project faces lawsuits and other challenges
+Data centers will have to source a minimum of 30 percent of their power from renewable energy
 
-https://www.datacenterdynamics.com/en/news/google-data-center-hearing-in-hermantown-minnesota-shut-down-by-protesters/
+https://www.datacenterdynamics.com/en/news/malaysian-govt-approves-renewable-energy-requirement-for-new-data-centers/
 
-### TSMC reportedly weighs 20% CoWoS price increase as Nvidia Blackwell and Rubin chips put pressure on packaging capacity
-*Tom's Hardware - 27.10. 14:30*
+### Sponsored: The network approach: Powering data center growth with lifecycle support
+*Data Center Dynamics - 29.10. 09:00*
 
-TSMC is reportedly weighing a price increase of up to 20% for its CoWoS advanced packaging technology as Nvidia’s Blackwell and upcoming Rubin chips intensify pressure on capacity. Equipment deliveries now reportedly take up to eight months, while separate wafer-price increases of 5% to 10% are expected in 2027, with some customers potentially facing total cost increases of up to 25%.
+Power resilience can’t be achieved via equipment selection alone. It’s defined by the cumulative result of decisions made throughout the project lifecycle – starting with the right partnerships
 
-https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reportedly-weighs-20-percent-cowos-price-increase-as-nvidia-blackwell-and-rubin-chips-put-pressure-on-packaging-capacity-equipment-lead-times-stretch-to-eight-months
+https://www.datacenterdynamics.com/en/marketwatch/the-network-approach-powering-data-center-growth-with-lifecycle-support/
 
-### 1,1 Milliarden Euro für Kärnten: Infineon baut Chip-Fabrik der Superlative! - exxpress
-*GN EU-Parlament KI - 27.10. 12:30*
+### Building liquid cooling systems that last: the critical role of sustaining engineering
+*Data Center Dynamics - 28.10. 20:58*
 
-1,1 Milliarden Euro für Kärnten: Infineon baut Chip-Fabrik der Superlative! exxpress
+Liquid cooling must remain reliable, serviceable, and adaptable to what the future holds
 
-https://news.google.com/rss/articles/CBMipgFBVV95cUxNNmVFYWRhR2NxNjExZV9KWE1YcGI3SnlPUlIzYUJqTm9IXzdjbm9DdWQwRS1kc2F4bWVNUkFKbm4ydlc0MzE3YjM3X0VERlJMYjVpb0Y0LWpCYklXeWxZM1NsZlVRNDBBQ3NUTUhlaHdkYVhLLVpjSzY3Vml3R0EzSW5rYmp0LXpTVTNzei1nZ0tSSXFSVXBUVU1XeUhJZFFWLVNHeVN3?oc=5
+https://www.datacenterdynamics.com/en/opinions/building-liquid-cooling-systems-that-last-the-critical-role-of-sustaining-engineering/
 
-### Data center gear is being hijacked in transit to the tune of hundreds of millions
-*Tom's Hardware - 27.10. 09:40*
+### KBRA assigns preliminary ratings to up to $525m in US Signal notes, secured against ten data centers
+*Data Center Dynamics - 28.10. 18:32*
 
-Data center gear is being stolen in transit to the tune of hundreds of millions — grand-theft-GPU thieves hack accounts, perform hit-and-runs, and spoof GPS signals
+With a final maturity of November 2056
 
-https://www.tomshardware.com/tech-industry/big-tech/data-center-gear-is-being-hijacked-in-transit-to-the-tune-of-hundreds-of-millions-grand-theft-gpu-thieves-hack-accounts-perform-hit-and-runs-spoof-gps-signals-and-funnel-hardware-to-china
+https://www.datacenterdynamics.com/en/news/kbra-assigns-preliminary-ratings-to-up-to-525m-in-us-signal-notes-secured-against-ten-data-centers/
 
-### Sonntag Energy nimmt in Apfelplantage Photovoltaik-Anlage mit 2,4-Megawatt Leistung in Betrieb
-*pv magazine - 27.10. 09:22*
+### Wahlkampf ums Rechenzentrum - The Pioneer
+*GN Rechenzentren - 28.10. 15:10*
 
-Die mit einem Batteriespeicher gekoppelte Agri-Photovoltaik-Anlage steht in Kressbronn am Bodensee. Sie versorgt eine nahe gelegene Apfelsortieranlage über eine Direktleitung mit Strom.
+Wahlkampf ums Rechenzentrum The Pioneer
 
-https://www.pv-magazine.de/2026/10/27/sonntag-energy-nimmt-in-apfelplantage-photovoltaik-anlage-mit-24-megawatt-leistung-in-betrieb/
+https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2ZVSzU4ZW53dllJRkw5M3pweUkzWXBXR1VLZU1EVU5qbUJZbjhhNnBROW9JaEdfOFNqXy1FOThlQV9SUXczNnoxQ2s2MnhmMGN6c0NMdFhlSDBLRXFUQWdtQlJXcWtPa2xVQWZkWTgtX2VVYjA5aWo5ZWp2NUNobXRUbHB2VnkwOGdRczdwM09pbV9QSktsRFFYOEtnb1dfLXZlMG1n?oc=5
 
-### Frachtdiebstahl: Diebe erbeuten Rechenzentrumsfracht für über 100 Millionen US-Dollar - Golem
-*GN Rechenzentren - 27.10. 08:09*
+### Ads-Tec Energy plant Bau eines Vier-Gigawattstunden-Speichers in Baden-Württemberg
+*pv magazine - 28.10. 14:21*
 
-Frachtdiebstahl: Diebe erbeuten Rechenzentrumsfracht für über 100 Millionen US-Dollar Golem
+Das Unternehmen erwartet die Baugenehmigung in Kürze. Ads-Tec Energy verhandelt derzeit mit Investoren über eine Mehrheitsbeteiligung an der Projektgesellschaft. Der Netzanschluss ist für 2029 vorgesehen.
 
-https://news.google.com/rss/articles/CBMitAFBVV95cUxOVDhULU04MTZwajV6YXBIbC05LTRNdWdOS0lmU2x2aU1ISTJYNXEtbVJ2bEtHQ3BUemJMS0FOSndjNFM0UGlnWHZ1NEdUQ3ZSTW9hUzlKcEtnR3owVzNqYlFLRjdPYmZHV04zVWVtY01wd0tTZENPVkRsMzBrSjQ0WlZ2WmV4Uzg1cGpqY1JpdkNyM2dyRXp5QUp1emRzeHM5bXFrV1lfcHBNMUVwSnR6NzRsbXY?oc=5
+https://www.pv-magazine.de/2026/10/28/ads-tec-energy-plant-bau-eines-vier-gigawattstunden-speichers-in-baden-wuerttemberg/
 
-### Microsoft-Rechenzentrum im Elsass: Umweltverbände drohen mit Klage - SWR
-*GN Rechenzentren - 27.10. 05:30*
+### Playmobil-Stammwerk weicht Hochleistungsrechenzentrum - heise online
+*GN Rechenzentren - 28.10. 13:27*
 
-Microsoft-Rechenzentrum im Elsass: Umweltverbände drohen mit Klage SWR
+Playmobil-Stammwerk weicht Hochleistungsrechenzentrum heise online
 
-https://news.google.com/rss/articles/CBMi5gFBVV95cUxON2d2Wk1CVWxjTDB4R0pCSndVS0E2LVJrenJqZUpoNHZqelk3ekRoSy1ZWUE0WjYwQlQ4RkdwNmtMVTVONWJzM2piMWNrX0dicll4SDdwNjBSclN4WHlhT08yb3pOS2ZSSXlpZDMyNkhNMnJ4akxEZzZhZWxuWHh4TmdNZS00UUJtTjJldFBRbU9OT3Q2U2V6RTBrdFVlY0w0cWI0akppTGdDSzhUY2ZoNk1xOTIwRUMzZThsUTB0ckNFMTlsaDV2MDFwbHVzLU5YOHJSUUxsOTBfeGdTQ1Y4bXVONUxpUQ?oc=5
+https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlBRajA1YloyZk44aGtEZ3RJamZtMVFTZGU2ejZDMmN0MTZzZDdPZmJiZkhyOXBNUXNSS001eEEtY0UyY0hEUFJTM1JqTXMxeVF1VkVVMWNCcUpUMjVLUEZBUC1iakpUYk9vUzVwUGtSc3BfOG9YR1BjdnA4akRBS0c3UHBNZVR0ZjNBaWVFemR5SElvNm1xamFIOUI?oc=5
 
-### Sources: CXMT plans to start HBM3E production despite yields of just 20% to 30%; its HBM3E performance is closer to that of SK Hynix's previous-gen HBM3 chips (Reuters)
-*Techmeme - 28.10. 05:30*
+### Wenn die Stromverteilung im Rechenzentrum zum Engpass wird - elektroniknet
+*GN Rechenzentren - 28.10. 13:00*
 
-Reuters : Sources: CXMT plans to start HBM3E production despite yields of just 20% to 30%; its HBM3E performance is closer to that of SK Hynix's previous-gen HBM3 chips — China's CXMT plans to start production of HBM3E, an advanced type of high-bandwidth memory chip used with AI processors …
+Wenn die Stromverteilung im Rechenzentrum zum Engpass wird elektroniknet
 
-https://www.techmeme.com/261028/p5#a261028p5
+https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTEdrX1MwUzVNUUl2amhaRmVJLWJuX0VfVkh0Unp6RUJXbFR1SVNuc3k5Tm41U2hqX3NVSEUxUHN4MFl2bzctUFJzbExZdi1VMDNGdEF6Ty1CZXEwQkJyWlZvLWYwY1ZYa0tZRGpBRHE4cGxfQXR3SktIUExEVmVfSi11OFR5ekhxbmNwMm1BM0ZjaWFXZUhQUVFXYTI2NDBoVXVYczFNUVlOZ0pWVEJqZVlQQlpMazVxNkhyT3JweFQyLVhpRTJvN2JkWWVPS051eTd4akZvaXQ2d2EwblE5YkpCWkFqci1FS2pCM2VKdFl2QldKZWVibw?oc=5
 
-### The data center boom has an upside: innovation for the US grid
-*TechCrunch AI - 27.10. 22:55*
+### Nvidia RTX GPU vendor Palit denies its Galax factory has closed due to a shortage of chips
+*Tom's Hardware - 28.10. 11:56*
 
-As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.
+Palit denies news that Galax is going out of production.
 
-https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/
+https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-gpu-vendor-palit-denies-its-galax-factory-has-closed-due-to-a-shortage-of-chips-company-says-brand-continues-to-operate-as-usual
 
-### Sponsored: Ground control: Structuring land deals for data center development
-*Data Center Dynamics - 27.10. 16:00*
+### American Tower CEO: We own abandoned Dish equipment on our towers
+*Data Center Dynamics - 29.10. 09:54*
 
-AI and unprecedented demand for compute have fundamentally altered how investors, developers and operators evaluate opportunities
+As data center revenue growth raises full year outlook
 
-https://www.datacenterdynamics.com/en/opinions/ground-control-structuring-land-deals-for-data-center-development/
+https://www.datacenterdynamics.com/en/news/american-tower-ceo-we-own-abandoned-dish-equipment-on-our-towers/
 
-### Cowboy Space shows Big Iron, the 15-ton payload rocket that turns into a data center
-*Data Center Dynamics - 28.10. 10:08*
+### US officials believe Megaspeed executive Alice Huang is a Chinese asset who maintained a close relationship with Jensen Huang to pass intelligence to Beijing (New York Times)
+*Techmeme - 29.10. 09:20*
 
-Former space solar startup turned rocket company reveals plan for Falcon 9 competitor
+New York Times : US officials believe Megaspeed executive Alice Huang is a Chinese asset who maintained a close relationship with Jensen Huang to pass intelligence to Beijing — Jensen Huang, the chief executive of Nvidia, is influential at the White House on technology policy and has developed a close relationship …
 
-https://www.datacenterdynamics.com/en/news/cowboy-space-shows-big-iron-the-15-ton-payload-rocket-that-turns-into-a-data-center/
-
-### How the UK's Slough, a town on the borders of west London, became the largest data center hub in Europe, hosting 40+ facilities, as locals seek more benefits (Financial Times)
-*Techmeme - 28.10. 11:15*
-
-Financial Times : How the UK's Slough, a town on the borders of west London, became the largest data center hub in Europe, hosting 40+ facilities, as locals seek more benefits — The UK council overseeing Europe's data centre capital has asked companies to provide more benefits for local people …
-
-https://www.techmeme.com/261028/p17#a261028p17
-
-### Forschungstransfer in Deutschland: "Wir müssen in der Lage sein, ein eigenes Nvidia aufzubauen"
-*t3n - 28.10. 08:00*
-
-Der Transfer von Deep Tech von der Uni in die Wirtschaft bleibt hierzulande schwierig. Deep-Managing-Director Thorsten Lambertus erklärt, warum. weiterlesen auf t3n.de
-
-https://t3n.de/news/deep-tech-forschung-transfer-thorsten-lambertus-1770022/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
-
-### Siemens investiert in Skeleton Technologies und baut Rechenzentrumsportfolio aus - Wirtschaftszeit
-*GN Rechenzentren - 28.10. 07:52*
-
-Siemens investiert in Skeleton Technologies und baut Rechenzentrumsportfolio aus Wirtschaftszeit
-
-https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVWhiYVRENVVnNnRyNGd5WTlHNDNuSmJrQzltTXk4bzhfNjFwYmNUZHZYMi1OeVp0UU9jRE1IODN1bEhERi1JcUp1TDRFWmZjRE5HQVYtc21VdFZmOTZkYlJxemVhbzlPX0JnY25TSXhxUGhIaVJCX3luOHpvZmg2b3hZcGszaDcySE91bDdVOEhUTlNnQTRHcU5DU3NHVmtpc3hNUlBsOHJ3M09sbHFWMGVLdTU2ek1V?oc=5
-
-### 950 Terawattstunden für Rechenzentren: MAX Power prüft natürlichen Wasserstoff als neue Stromquelle - FinanzNachrichten.de
-*GN Rechenzentren - 28.10. 07:22*
-
-950 Terawattstunden für Rechenzentren: MAX Power prüft natürlichen Wasserstoff als neue Stromquelle FinanzNachrichten.de
-
-https://news.google.com/rss/articles/CBMigAJBVV95cUxQZ2NHeFZnTFdRdXJ3ZGlRTGJnVFZaV1dXMDFtbXhkYTBCbU9QMm5ZY3JPb1RZYm9QamRkSTlHOVpCNFpfdW5IWi1YeGRKbnZTNDdSSzZNelRrMTB6RWNnTEkzTzk4RTl4WWdrWkpLUGRpbWJZNzNic0d4ZDNha1JaamR5bVNMd1NUNkZqc1JybWlhcEg0NnN2RFZuMk1hYUxNQlZJSzgzcEZIQkk2Q254QWF4OEFzdXBFMlZyUk9PSXlZY0J6NEIzWWNqTEpvMDBqVmNFRTJlWDhGdG5jUFZSel84X2k0RmhyMWFKeUU0ZDFIZHVSQ3NrUm1SWS1fUEo2?oc=5
-
-### Infineon baut erste Hochvolumenfertigung für 300-mm-Galliumnitrid-Halbleiter
-*heise online - 27.10. 20:00*
-
-In Österreich plant Infineon die weltweit erste Fabrik für Galliumnitrid-Leistungshalbleiter auf 300-Millimeter-Wafern in Stückzahlen. EU-Subventionen helfen.
-
-https://www.heise.de/news/Infineon-baut-erste-Hochvolumenfertigung-fuer-300-mm-Galliumnitrid-Halbleiter-11502449.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
-
-### Ferveret's in-rack immersion cooling deployed on HPC infrastructure at MIT
-*Data Center Dynamics - 27.10. 17:02*
-
-Can unlock up to 35 percent additional compute capacity, firm claims
-
-https://www.datacenterdynamics.com/en/news/ferverets-in-rack-immersion-cooling-deployed-on-hpc-infrastructure-at-mit/
-
-### SoleCrypt ups size of planned data center campus in Bizerte, Tunisia
-*Data Center Dynamics - 27.10. 15:20*
-
-First 7MW phase due live in early 2028, to host Vera Rubin GPUs
-
-https://www.datacenterdynamics.com/en/news/solecrypt-ups-size-of-planned-data-center-campus-in-bizerte-tunisia/
-
-### Energy2market nutzt neuen Zehn-Megawatt-Speicher der Stadtwerke Ulm für mehrere Märkte
-*pv magazine - 27.10. 10:27*
-
-Das Unternehmen setzt den Stand-Alone-Speicher im Intraday- und Day-Head-Handel sowie am Regelenergiemarkt ein. Den Erlös teilen sich Energy2market und die Stadtwerke Ulm.
-
-https://www.pv-magazine.de/2026/10/27/energy2market-nutzt-neuen-zehn-megawatt-speicher-der-stadtwerke-ulm-fuer-mehrere-maerkte/
-
-### In Pfaffenhofen geht bald Prior1-Container-Rechenzentrum in Betrieb - DataCenter-Insider
-*GN Rechenzentren - 27.10. 07:00*
-
-In Pfaffenhofen geht bald Prior1-Container-Rechenzentrum in Betrieb DataCenter-Insider
-
-https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVEZfNnl2WnNfRHVrRGlQdmM1aG96Skt1NFJ2Zml6MW5mYnpmdHVtN1doMFJ1UjEybWRxOXhwVWRzczNFOWhHcDJadlIydm8wNEM4alBfN2ZNLVl2ODA0VG5IeTBwRW8wU1hRdFlrWnJJQWMtWXlpQ250TktaRU4tcEpIWnQwb2J6d0s0TGlDSFlUY3FSaHlCcnNFSERna0lia2RnV3dyMHJOVkxRN2I4U20waUdvQ1cwbzMwQ1N6cEVOZ2RaLVVHa0FEU1RneEVyeW0w?oc=5
-
-### Readiness checklist & project plan workbook
-*Data Center Dynamics - 28.10. 10:28*
-
-For enterprise, colocation, hybrid, and multi-site environments
-
-https://www.datacenterdynamics.com/en/whitepapers/readiness-checklist-project-plan-workbook/
-
-### Sponsored: ‘I don’t see the grid in your future’
-*Data Center Dynamics - 28.10. 09:00*
-
-Data centers have relied on the grid for decades. But for PROPWR and Prime Data Centers, it’s not a good enough solution to support future-ready power demands
-
-https://www.datacenterdynamics.com/en/marketwatch/i-dont-see-the-grid-in-your-future/
+https://www.techmeme.com/261029/p14#a261029p14
 
 
 ## Big Tech
 
-### Amazon darf Globalstar trotz Yippy-Einspruch gegen Satelliten-Deal übernehmen
-*heise online - 28.10. 04:04*
+### Microsoft hits 10 quarters of record-breaking revenue in a row
+*TechCrunch AI - 28.10. 21:25*
 
-Die US-Aufsicht genehmigt Amazons Übernahme von Satellitenbetreiber Globalstar. Nur dessen Partner Yippy legte Einspruch ein, doch das wurde vom Tisch gewischt.
+Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.
 
-https://www.heise.de/news/Amazon-darf-Globalstar-trotz-Yippy-Einspruch-gegen-Satelliten-Deal-uebernehmen-11502501.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
+https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/
 
-### Take it on the chin SatNad: Microsoft chief exec's pay slips 6% in record year
-*The Register - 27.10. 15:51*
+### Apple MacBook Pro: Der erste Touch-Mac kostet bis zu 16.099 Euro
+*golem.de - 28.10. 17:56*
 
-Revenue up, operating profit up, 30 million paid Copilot seats locked in, 88 DCs added, $43.8 billion returned to shareholders
+Apple stattet das Macbook Pro mit Touch-Bedienung und einem OLED-Display aus. Dazu kommen die Chips M5 Pro und M5 Max. ( Macbook , Display )
 
-https://www.theregister.com/saas/2026/10/27/take-it-on-the-chin-satnad-microsoft-chief-execs-pay-slips-6-in-record-year/5305737
+https://www.golem.de/news/apple-macbook-pro-der-erste-touch-mac-kostet-bis-zu-16-099-euro-2610-214613.html
 
-### Google Deepmind: Genie 4 baut Welten mit Ton und lässt sich live umbauen
-*golem.de - 28.10. 08:17*
+### Amazon tells engineers to stop ‘tokenmaxxing’ to look productive
+*Tom's Hardware - 28.10. 15:13*
 
-Google Deepmind startet Genie 4 als Research-Preview. Das Weltmodell erzeugt Ton und folgt Textbefehlen live. ( Deepmind , KI )
+Amazon has published new engineering guidelines warning developers and managers against ‘tokenmaxxing,’ arguing that AI usage metrics are ‘deeply flawed’ unless tied to long-term outcomes. The move follows similar spending concerns at Uber and Accenture.
 
-https://www.golem.de/news/google-deepmind-genie-4-baut-welten-mit-ton-und-laesst-sich-live-umbauen-2610-214579.html
+https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-tells-engineers-to-stop-tokenmaxxing-to-look-productive-says-ai-will-be-central-to-software-development-but-usage-is-not-the-goal-new-guidelines-claim
 
-### IBM outlines plan to simplify mainframe overhauls
-*CIO Dive - 27.10. 19:56*
+### Langsameres Wachstum im Google-Kerngeschäft alarmiert Börse
+*heise online - 29.10. 06:49*
 
-The company unveiled IBM Z Atlas as CIOs mull AI’s potential to ease modernization.
+Das Geschäft von Google wächst weiter – aber nicht mehr so schnell wie noch kürzlich. Anleger schicken die Aktie auf Talfahrt.
 
-https://www.ciodive.com/news/ibm-plan-simplify-mainframe-overhauls/872952/
+https://www.heise.de/news/Langsameres-Wachstum-im-Google-Kerngeschaeft-alarmiert-Boerse-11503941.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
 
-### Notebook: 14-Zoll-Macbook-Pro jetzt mit Apple M6
-*golem.de - 27.10. 18:11*
+### CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations
+*CNBC Technology - 29.10. 00:16*
 
-Mehr Grafik- und KI-Leistung, bis zu 24 Stunden Akkulaufzeit und ein Einstiegspreis von 2.300 Euro: Apples neues 14-Zoll-Macbook-Pro kommt am 6. November in den Handel. ( Macbook , Apple )
+Shares of CoreWeave, Nebius and IREN fell as Microsoft's lower-than-expected capex figure points to infrastructure partners taking longer to deliver capacity.
 
-https://www.golem.de/news/notebook-14-zoll-macbook-pro-jetzt-mit-apple-m6-2610-214571.html
+https://www.cnbc.com/2026/10/28/neocloud-stocks-drop-after-microsoft-revises-capex-down.html
 
-### Apple adds M6 to 14-inch MacBook Pro and iMac
-*Tom's Hardware - 27.10. 13:28*
+### Microsoft reveals strong cloud growth amid financial reporting overhaul
+*The Verge - 28.10. 22:47*
 
-Apple updated its 14-inch MacBook Pro and iMac lineup with the M6 chip.
+Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a new financial year for Microsoft, so the company is changing up […]
 
-https://www.tomshardware.com/laptops/macbooks/apple-adds-m6-to-14-inch-macbook-pro-and-imac-starts-at-usd1-999
+https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027
 
-### Intel's APX offers 'better performance' in Windows 11 according to new Insider setting
-*Tom's Hardware - 27.10. 11:30*
+### Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027
+*CNBC Technology - 28.10. 22:07*
 
-Microsoft has begun testing the option to enable Intel's Advanced Performance Extensions, or APX, which will bring a performance boost to some apps — although no chips with APX support are available as yet.
+Alphabet missed Q3 expectations on earnings and revenue, its first top-and-bottom-line miss in nearly four years.
 
-https://www.tomshardware.com/software/windows/intels-apx-offers-better-performance-in-windows-11-according-to-new-insider-setting-microsoft-begins-early-enablement-for-advanced-performance-extensions-on-nova-lake-cpus
+https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html
 
-### AWS wins direct while Azure is obscured: The UK’s £9bn cloud spend
-*Computer Weekly - 27.10. 05:10*
+### Oracle stock pops 11% as long-term revenue forecast and clarity on financing ease debt concerns
+*CNBC Technology - 28.10. 20:00*
 
-Of £8.96bn in UK public sector cloud contracts, only £1.64bn traces cleanly to hyperscalers. BidSkim data reveals how AWS takes the direct route while Microsoft Azure hides behind resellers
+Oracle issued a revenue forecast for fiscal year 2030 of $225 billion, and said it will limit additional fundraising over that stretch to $20 billion.
 
-https://www.computerweekly.com/news/366652563/AWS-wins-direct-while-Azure-is-obscured-The-UKs-9bn-cloud-spend
+https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html
 
-### Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans
-*CoinDesk - 27.10. 18:13*
+### Anzeige: Aqara Zigbee Tür- und Fenstersensoren im 3er-Pack unter 40 Euro bei Amazon
+*golem.de - 29.10. 10:18*
 
-The latest notice added four objections, bringing the total to 26 as the joint venture prepares to test the SEC’s new framework for blockchain-based stock trading.
+Aqara Tür- und Fenstersensoren melden offene Fenster ans Smartphone und halten zwei Jahre durch. Das Dreierpack gibt es nun zum Sparpreis ( Technik/Hardware , Smart Home )
 
-https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans
+https://www.golem.de/news/anzeige-aqara-zigbee-tuer-und-fenstersensoren-im-3er-pack-unter-40-euro-bei-amazon-2610-214628.html
 
-### Anzeige: Beliebtes Akku-Multifunktionswerkzeug reduziert bei Amazon
-*golem.de - 28.10. 10:32*
+### Microsoft breaks New Outlook attachment opening with Edge Update
+*The Register - 29.10. 10:14*
 
-Amazon hat ein Akku-Multifunktionswerkzeug für Präzisionsarbeiten im Angebot, das bohren, schleifen, polieren und gravieren kann. ( Technik/Hardware )
+Attachments in New Outlook come undone thanks to Windows' fundamental interconnectedness of things
 
-https://www.golem.de/news/anzeige-beliebtes-akku-multifunktionswerkzeug-reduziert-bei-amazon-2610-214590.html
+https://www.theregister.com/personal-tech/2026/10/29/microsoft-breaks-new-outlook-attachment-opening-with-edge-update/5306224
 
-### eMudhra-TLS-Leck: Apple lässt Problem auf macOS-Kommandozeile zunächst bestehen
-*heise online - 28.10. 09:53*
+### Tesla's Free Cash Flow Beat: Good News, Bad News, and What It Means for the Future - The Globe and Mail
+*GN AI regulation EU - 29.10. 10:11*
 
-Während Browser längst gepatcht sind, hat Apple die Datei cert.pem, die diverse CLI-Werkzeuge nutzen, nicht korrigiert. Immerhin gibt es eine Anleitung.
+Tesla's Free Cash Flow Beat: Good News, Bad News, and What It Means for the Future The Globe and Mail
 
-https://www.heise.de/news/eMudhra-TLS-Leck-Apple-laesst-Problem-auf-macOS-Kommandozeile-zunaechst-bestehen-11500945.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
+https://news.google.com/rss/articles/CBMi9gFBVV95cUxOb1AzVXhmRlEwb1dIOFFuakpXamVQenVMMjVWQ1hyai14ZVM4YVVGa0VTakMzN2tLNk95cVRsd0E3T3JDZzJiMmVqTjRMZTYwM1UyOTY2OHJsaUY5QkkyeHl3SHcwSURaU0l4WEhHX1I1S2pJQWE3TnMtcVVmN0FkNTdiWng3NnFnbVVqRG5CZUxsb3lCNFdBRmxNMW4xWjh2UUw4SG55bGJtUEZQMVZaMlBPdTVKZGx6d3JET0hLRGdYdlRCNmlscTdvaTh6TEN0cS0zcllWaXJiZnZyczJ6MlVqTm1lYlN1Y1NuRHJnTXNSb0cyWnc?oc=5
 
-### Anzeige: Apple Watch Ultra 3 jetzt zum neuen Amazon-Bestpreis
-*golem.de - 28.10. 09:39*
+### Einsteiger-CPUs: Intel erweitert günstige Reihe Wildcat Lake
+*golem.de - 29.10. 09:54*
 
-Die Apple Watch Ultra 3 mit Titangehäuse, Dual-GPS und Satelliten-Notruf ist seit dem Start des Nachfolgers so günstig wie noch nie. ( Technik/Hardware , Smartwatch )
+Ein Modell mit mehr P-Cores, eines komplett ohne: Ein Leak zeigt, dass Intel weitere CPUs für günstige Computer plant. ( Prozessor , Intel )
 
-https://www.golem.de/news/anzeige-apple-watch-ultra-3-jetzt-zum-neuen-amazon-bestpreis-2610-214586.html
+https://www.golem.de/news/einsteiger-cpus-intel-erweitert-guenstige-reihe-wildcat-lake-2610-214627.html
 
-### Google begins certifying Registered App Stores for Android, but not in the US
-*Ars Technica - 27.10. 19:32*
+### Apple's touchscreen MacBook Pro is designed for the iPad generation, with an optimized macOS, and the company is right to move on from Steve Jobs' skepticism (Federico Viticci/MacStories)
+*Techmeme - 29.10. 09:50*
 
-Easier app installs are coming to third-party stores, pending Google's stamp of approval.
+Federico Viticci / MacStories : Apple's touchscreen MacBook Pro is designed for the iPad generation, with an optimized macOS, and the company is right to move on from Steve Jobs' skepticism — Ever since I got my hands on the very first iPad Pro all the way back in November 2015, I've gotten used to a certain type …
 
-https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/
+https://www.techmeme.com/261029/p15#a261029p15
 
-### Anzeige: Schweizer Taschenmesser mit 33 Funktionen bei Amazon unter Vergleichspreis
-*golem.de - 27.10. 17:58*
+### Discord bei Google: Welche Nachrichten bald im Suchindex landen – und warum für die EU andere Regeln gelten
+*t3n - 29.10. 09:45*
 
-Das Victorinox Swiss Classic bietet 33 Funktionen, unter anderem eine Zange und eine Säge. Bei Amazon ist es nun viel günstiger als in den vergangenen Wochen. ( Victorinox , Technik/Hardware )
+Jahrelang blieben Unterhaltungen auf Discord hinter den Mauern der Plattform für Suchmaschinen unsichtbar. Nun öffnet der Dienst tausende Kanäle für das offene Web, legt dafür aber Kriterien fest, durch die längst nicht jeder Beitrag im Suchindex landet. weiterlesen auf t3n.de
 
-https://www.golem.de/news/anzeige-schweizer-taschenmesser-mit-33-funktionen-bei-amazon-unter-vergleichspreis-2610-214569.html
+https://t3n.de/news/discord-google-suche-welche-nachrichten-regeln-1770555/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
 
-### ZacOS 9 and Mavernix: Two classic Apple desktops find their Wayland to Linux
-*The Register - 27.10. 17:00*
+### Apple: Dieser neue Mac Studio kostet mehr als ein Neuwagen
+*t3n - 29.10. 08:15*
 
-Classic Platinum or lickable Mavericks-era Aqua – it's your choice
+Wenn man die Möglichkeiten für das neue Macbook Pro mit Touchscreen im Konfigurator ausreizt, landet man bei rund 16.000 Euro. Gegen die neue Version des Mac Studio wirkt das noch günstig. weiterlesen auf t3n.de
 
-https://www.theregister.com/os-platforms/2026/10/27/zacos-9-and-mavernix-two-classic-apple-desktops-find-their-wayland-to-linux/5305710
+https://t3n.de/news/apple-mac-studio-512-gigabyte-ram-kleinwagen-1770523/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
 
-### Anzeige: 128 GByte großer 2-in-1-USB-Stick von Orico für unter 22 Euro bei Amazon
-*golem.de - 27.10. 16:44*
+### Forging a Microsoft Edge Full Chain with Logic Bugs Only
+*Hacker News - 29.10. 06:47*
 
-Ein 128 GByte großer USB-Stick von Orico mit USB-C- und USB-A-Anschluss ist bei Amazon wieder günstiger erhältlich. ( Technik/Hardware , Amazon )
+Article URL: https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/ Comments URL: https://news.ycombinator.com/item?id=50285319 Points: 87 # Comments: 19
 
-https://www.golem.de/news/anzeige-128-gbyte-grosser-2-in-1-usb-stick-von-orico-fuer-unter-22-euro-bei-amazon-2610-214568.html
+https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/
 
-### Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering
-*TechCrunch AI - 27.10. 16:30*
+### Sattelschlepper: Tesla Semi geht in Flammen auf
+*golem.de - 29.10. 06:26*
 
-Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.
+Ein Tesla Semi ist auf der Interstate 880 in Kalifornien in Brand geraten, der Fahrer blieb unverletzt. Die Brandursache ist noch ungeklärt. ( Tesla , Elektroauto )
 
-https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/
+https://www.golem.de/news/sattelschlepper-tesla-semi-geht-in-flammen-auf-2610-214618.html
 
-### Anzeige: Smartes Thermometer mit Hygrometer für nur 11,39 Euro bei Amazon
-*golem.de - 27.10. 16:11*
+### Apple: Mac Studio mit 512 GByte RAM kostet mehr als 25.000 Euro
+*golem.de - 29.10. 06:19*
 
-Amazon hat ein Thermometer von Govee im Angebot, das auch die Luftfeuchtigkeit misst und seine Daten per Bluetooth ans Smartphone sendet. ( Technik/Hardware )
+Apple bietet den Mac Studio mit M5 Ultra jetzt mit 512 GByte RAM an. Die Option gilt nur für das Topmodell und treibt den Preis auf mindestens 25.079 Euro. ( Apple , Technik/Hardware )
 
-https://www.golem.de/news/anzeige-smartes-thermometer-mit-hygrometer-fuer-nur-11-39-euro-bei-amazon-2610-214567.html
+https://www.golem.de/news/apple-mac-studio-mit-512-gb-ram-kostet-mehr-als-25-000-euro-2610-214617.html
 
-### Google Cloud für BND, MAD und Verfassungsschutz: Unsouveräner geht es nicht
-*t3n - 27.10. 14:45*
+### Digital-Omnibus: Recherche dokumentiert Lobbyarbeit von Google und Meta - Table.Briefings
+*GN EU-Parlament KI - 29.10. 04:16*
 
-Deutsche Geheimdienste könnten in Zukunft mit der ND-Cloud einen Cloud-Dienst von Google nutzen. Für unseren Autor ist das nicht nur Quatsch, sondern auch realitätsverweigernd. weiterlesen auf t3n.de
+Digital-Omnibus: Recherche dokumentiert Lobbyarbeit von Google und Meta Table.Briefings
 
-https://t3n.de/news/google-cloud-fuer-bnd-mad-und-verfassungsschutz-unsouveraener-geht-es-nicht-1770152/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
+https://news.google.com/rss/articles/CBMipAFBVV95cUxNNHVxVWxhVDRGcDl6b0VKMmRUbXVraG04QmRxSEF0VDRHQldGSXI3a00yWThsdk5fZzVXY3hjU0lLb3BzM0VNcEU3RUVMSVVKMk5WTmpQSVZiSHJKd21rX2JTb2ZQSjh6ZG1sbHl6WjVOSVl3WU9GVGJXLW44ZEYxTkp0VFU4d0s0Wkp5NFNrOFpaVWRVUEpMNFZLLURvc2hkVG5YYw?oc=5
 
-### Apple iPhone Duo review: Two screens, two experiences, two thousand dollars
-*Ars Technica - 27.10. 14:20*
+### Hands-on with Apple's first touchscreen laptop: Touch is totally optional
+*CNBC Technology - 28.10. 22:38*
 
-I respect Apple's first crack at a foldable phone, but I'm not sure I like it.
+Any button that can be clicked can also be touched.
 
-https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/
+https://www.cnbc.com/2026/10/28/apple-touchscreen-macbook-pro-hands-on.html
 
-### Jetzt mit M6: Apple stellt neues Macbook Pro und verbesserten iMac vor
-*t3n - 27.10. 14:15*
+### Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop
+*CNBC Technology - 28.10. 22:04*
 
-Nach dem Mac Mini stattet Apple weitere Geräte mit dem M6-Prozessor aus: das Einsteiger-Macbook und den iMac. Wer zugreifen will, braucht das nötige Budget. weiterlesen auf t3n.de
+Apple announces a new touchscreen laptop, the company's third major launch under new CEO John Ternus.
 
-https://t3n.de/news/apple-imac-macbook-pro-m6-vorgestellt-1770183/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
+https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html
 
-### Some iPhone Duo screens are already failing, Apple says only a "small number" are affected
-*Ars Technica - 27.10. 14:00*
+### Apple charges $14,549 for a fully specced touchscreen MacBook Pro
+*The Verge - 28.10. 20:12*
 
-Apple's "precision-engineered" hinge is apparently damaging some iPhone Duo screens.
+With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year. But upgrading the base models that start at $2,899 for the 14-inch, and $3,399 for the 16-inch, with every premium hardware option that Apple offers pushes those […]
 
-https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/
+https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced
 
-### Apple's foldable phone has a crease in its reputation
-*The Register - 27.10. 13:15*
+### Oracle celebrates end of Cybersecurity Awareness Month with quadruple trouble
+*The Register - 28.10. 19:56*
 
-Admits a 'small number' of iPhone Duos have display problems, and no, you're not folding it wrong.
+Attackers probe another EBS bug, and ShinyHunters' PeopleSoft 0-day turns out to involve three vulns
 
-https://www.theregister.com/personal-tech/2026/10/27/apples-foldable-phone-has-a-crease-in-its-reputation/5305669
+https://www.theregister.com/security/2026/10/28/oracle-celebrates-end-of-cybersecurity-awareness-month-with-quadruple-trouble/5306121
 
-### Apple responds to user reports of broken iPhone Duo screens on new foldable phone
-*CNBC Technology - 27.10. 12:41*
+### Neues PROLED-XDR-Display: Apple verpasst Macbook Pro erstmals Touch-Bildschirm
+*t3n - 28.10. 18:51*
 
-Apple on Monday said that it was aware of the issue and that it would replace the devices under its AppleCare warranty.
+Apple hat erstmals ein Macbook Pro mit Touch-Bildschirm vorgestellt. Die Tandem-OLED-Technologie des PROLED-XDR-Displays soll eine Helligkeit von bis zu 2.000 Nits ermöglichen. Zudem erhält das Profi-Laptop die vom iPhone bekannte Dynamic Island. weiterlesen auf t3n.de
 
-https://www.cnbc.com/2026/10/26/apple-responds-to-user-reports-of-broken-iphone-duo-screens.html
+https://t3n.de/news/apple-macbook-pro-touch-1770497/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
 
-### Microsoft releases out-of-band Windows fixes with certificate updates
-*The Register - 27.10. 12:30*
+### Amazon Echo: Dot wird Smart-Home-Zentrale, Wecker erkennt Schlafphasen
+*golem.de - 28.10. 18:46*
 
-Did you hear the one about eMudhra and the power of 4? Time to get connected to certificate trust list updates
+Mit einem smarten Wecker, einem vernetzten Echo Dot, einem größeren Display und einem digitalen Bilderrahmen baut Amazon sein Echo-Angebot aus. ( Echo , Mesh )
 
-https://www.theregister.com/security/2026/10/27/microsoft-releases-out-of-band-windows-fixes-with-certificate-updates/5305637
+https://www.golem.de/news/amazon-echo-dot-wird-smart-home-zentrale-wecker-erkennt-schlafphasen-2610-214615.html
 
-### Android 18: Neue Funktion soll deine Kontakte besser schützen
-*t3n - 28.10. 09:48*
+### Amazon turns its most capable smart speaker into a smart camera, too
+*Ars Technica - 28.10. 18:05*
 
-Google schließt endlich eine Sicherheitslücke in Android. Apps hatten bisher nahezu unbegrenzten Zugriff auf das Adressbuch deines Smartphones. So soll sich das mit Android 18 ändern. weiterlesen auf t3n.de
+The Echo Studio with Home Camera can "see and understand what's in front of the camera."
 
-https://t3n.de/news/android-18-kontakte-schuetzen-1770333/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
+https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/
 
-### Hobby-Port: Entwickler bringt iOS 26 auf Surface Duo
-*golem.de - 28.10. 08:07*
+### Apple announces touchscreen MacBook Pro with OLED display
+*Ars Technica - 28.10. 17:25*
 
-Ein Entwickler startet iOS 26 auf dem Surface Duo 2. Beide Displays und Touch funktionieren. ( Mobile Endgeräte , Apple )
+The OLED display is the main draw, but the price is a lot to reckon with.
 
-https://www.golem.de/news/hobby-port-entwickler-bringt-ios-26-auf-surface-duo-2610-214577.html
+https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/
 
-### New 14‑inch MacBook Pro with M6
-*Hacker News - 27.10. 16:08*
+### Apple launches new MacBook Pro with touchscreen and OLED — starts at $2,899
+*Tom's Hardware - 28.10. 17:15*
 
-Article URL: https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/ Comments URL: https://news.ycombinator.com/item?id=50261352 Points: 374 # Comments: 507
+The computer is also lighter and has an updated speaker system.
 
-https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/
+https://www.tomshardware.com/laptops/apple-launches-new-macbook-with-touchscreen-and-oled-starts-at-usd2-899
 
-### Genie 4
-*Hacker News - 27.10. 16:06*
+### Anzeige: OLED-Brille statt Monitor | Amazon-Bestseller Viture Pro 2 mit 120 Hz kostet nur 349 Euro
+*golem.de - 28.10. 16:46*
 
-Article URL: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/ Comments URL: https://news.ycombinator.com/item?id=50261319 Points: 917 # Comments: 529
+Die Viture Pro 2 bietet Full HD pro Auge, 120 Hz und einen virtuellen Bildschirm mit bis zu 146 Zoll. Im Angebot ist sie günstiger als üblich. Doch es gibt eine günstigere Alternative. ( OLED , Amazon )
 
-https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/
+https://www.golem.de/news/anzeige-oled-brille-statt-monitor-amazon-bestseller-viture-pro-2-mit-120-hz-kostet-nur-349-euro-2610-214612.html
 
-### Anzeige: Akku-Schlagbohrer von Einhell für weniger als 48 Euro
-*golem.de - 27.10. 15:30*
+### Anzeige: Powerstation mit 2.000 W und 1.024 Wh reduziert bei Amazon
+*golem.de - 28.10. 15:42*
 
-Der Einhell Akku-Schlagbohrschrauber TE-CD 18/48 Li-i-Solo ist bei Amazon zum niedrigsten Preis seit Monaten im Angebot. ( Technik/Hardware , Amazon )
+Eine tragbare Powerstation von Anker mit 2.000 W, 1.024 Wh, neun Ausgängen und Notstromfunktion gibt es zum Aktionspreis bei Amazon. ( Powerstation , Technik/Hardware )
 
-https://www.golem.de/news/anzeige-akku-schlagbohrer-von-einhell-fuer-weniger-als-48-euro-2610-214565.html
+https://www.golem.de/news/anzeige-powerstation-mit-2-000-w-und-1-024-wh-reduziert-bei-amazon-2610-214608.html
 
-### Account-Sperren auf Instagram und Facebook: Metas Willkür unterworfen
-*netzpolitik.org - 27.10. 14:36*
+### How Google fumbled the frontend with Angular 2
+*The Register - 28.10. 15:11*
 
-Wer auf Instagram oder Facebook gesperrt wird, verliert Reichweite und Sichtbarkeit. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Iqro Rinaldi Meta sperrt Konten von Organisationen und Einzelpersonen, ohne eine klare Begründung zu geben. Weil die Sperrungen oft queere und progressive Konten treffen, werfen Kritiker:innen Meta Zensur vor.
+All Things Open Talk provided lessons in how not to upgrade a software package
 
-https://netzpolitik.org/2026/account-sperren-auf-instagram-und-facebook-metas-willkuer-unterworfen/
+https://www.theregister.com/devops/2026/10/28/how-google-fumbled-the-frontend-with-angular-2/5306030
 
-### Fitbit Edge: Googles neuer Tracker mit EKG und 1 Woche Akku
-*t3n - 27.10. 13:55*
+### Microsoft faces potential vote: Shareholders curious about its plans to tackle emissions
+*The Register - 28.10. 14:15*
 
-Google hat seinen neuen Fitnesstracker Fitbit Edge vorgestellt. Er misst nicht nur eure Trainingsdaten, sondern kann noch mehr. weiterlesen auf t3n.de
+Greenhouse gas output has risen dramatically since the company promised to become carbon-negative by 2030
 
-https://t3n.de/news/fitbit-edge-google-tracker-ekg-akku-1767919/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
+https://www.theregister.com/on-prem/2026/10/28/microsoft-faces-potential-vote-shareholders-curious-about-its-plans-to-tackle-emissions/5305953
 
-### New iMac with M6
-*Hacker News - 27.10. 13:02*
+### Intel gets tax breaks while local authorities lose revenue, claims policy org
+*The Register - 28.10. 12:45*
 
-Article URL: https://www.apple.com/imac/ Comments URL: https://news.ycombinator.com/item?id=50258538 Points: 340 # Comments: 429
+Report accuses corp of getting subsidies for its fabs from Oregon and New Mexico that deprive those states of vital funds
 
-https://www.apple.com/imac/
+https://www.theregister.com/systems/2026/10/28/intel-gets-tax-breaks-while-local-authorities-lose-revenue-claims-policy-org/5305902
 
-### Azure licensing lock-in limits choice
-*Computer Weekly - 27.10. 12:15*
+### Apple's git still trusts the compromised eMudhra certificates
+*Hacker News - 28.10. 11:03*
 
-A survey of US users has found that businesses are paying significantly more to host Microsoft apps on non-Microsoft public clouds
+Article URL: https://emudhra.we-have-a-problem.com/apple.html Comments URL: https://news.ycombinator.com/item?id=50271640 Points: 1144 # Comments: 398
 
-https://www.computerweekly.com/news/366652833/Azure-licensing-lock-in-limits-choice
+https://emudhra.we-have-a-problem.com/apple.html
 
+### heise+ | Frischer Anstrich für mehr Geld: Der HomePod mini 2 im Test
+*heise online - 29.10. 11:15*
 
-## Krypto
+Endlich gibt's eine zweite Generation des HomePod mini. Im Test schauen – nein, hören – wir, ob Apple mehr als nur die Farbe verändert hat.
 
-### Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG
-*CoinDesk - 27.10. 16:35*
+https://www.heise.de/tests/Frischer-Anstrich-fuer-mehr-Geld-Der-HomePod-mini-2-im-Test-11503599.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus
 
-Robinhood helped launch a rival dollar-backed token, USDG, but will also offer Ripple's stablecoin to retail customers later this year.
+### Der Verkäufer wird zur Kasse: Was sich bei Mediamarkt und Saturn jetzt bei der Bezahlung ändert
+*t3n - 29.10. 10:15*
 
-https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform
+Schluss mit dem Anstehen an der Kasse: Mediamarkt und Saturn führen in vielen Märkten eine neue Bezahlmöglichkeit ein – und die erinnert an den Apple Store. Kund:innen können dann direkt beim Berater bezahlen. weiterlesen auf t3n.de
 
-### BitFuFu considers abandoning 80MW Ethiopian Bitcoin mine acquisition
-*Data Center Dynamics - 27.10. 16:32*
+https://t3n.de/news/mediamarkt-saturn-bezahlung-1770551/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
 
-Dispute between current operator and local electricity supplier could kibosh deal
+### Xreal Aura: Leichte Android-XR-Brille kommt in ersten Ländern auf den Markt
+*golem.de - 29.10. 08:39*
 
-https://www.datacenterdynamics.com/en/news/bitfufu-considers-abandoning-80mw-ethiopian-bitcoin-mine-acquisition/
+Mit der Xreal Aura können Nutzer virtuelle Bildschirme und Kinoleinwände, aber auch Apps nutzen. Die Recheneinheit ist ausgelagert. ( Headset , Google )
 
-### Live updates: Bitcoin edges higher as Nasdaq surges 1.2%
-*CoinDesk - 27.10. 11:40*
+https://www.golem.de/news/xreal-aura-leichte-android-xr-brille-kommt-in-ersten-laendern-auf-den-markt-2610-214624.html
 
-The Fed is expected to hold rates steady on Wednesday, but markets will be looking for clues about future policy moves.
+### As Waymo expands overseas, it remains a niche cash-burning business
+*CNBC Technology - 28.10. 23:53*
 
-https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital
+Alphabet's Other Bets segment, which includes Waymo, accounted for 0.3% of total revenue in the quarter.
 
-### Japan's top yen stablecoin falls short of its target in a disappointing first year
-*CoinDesk - 27.10. 11:37*
+https://www.cnbc.com/2026/10/28/as-waymo-expands-overseas-it-remains-a-niche-cash-burning-business.html
 
-CEO Noritaka Okabe blamed a 1 million yen per-transaction cap for Type II funds transfer providers, which has slowed corporate adoption.
+### MacBook Pro with PROLED XDR Display and Touch
+*Hacker News - 28.10. 17:10*
 
-https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year
+https://www.apple.com/newsroom/2026/10/apple-unveils-groundb... Comments URL: https://news.ycombinator.com/item?id=50276940 Points: 589 # Comments: 989
 
-### Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules
-*CoinDesk - 28.10. 10:07*
+https://www.apple.com/macbook-pro/proled-xdr-display/
 
-Itaú Unibanco notified Brazil’s central bank of its crypto trading and custody operations on Tuesday, ahead of an Oct. 30 deadline.
+### Auto-App: Entwickler bringen Android Auto als Standalone-App zurück
+*golem.de - 28.10. 16:23*
 
-https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules
+Seit einigen Jahren lässt sich Android Auto nicht mehr als App auf einem Smartphone starten. Phoneauto bringt die Funktion zurück. ( Android Auto , Google )
 
-### Robinhood shares fall as crypto slump weighs on profits, offsetting gains in new businesses
-*CNBC Technology - 28.10. 09:29*
+https://www.golem.de/news/auto-app-entwickler-bringen-android-auto-als-standalone-app-zurueck-2610-214610.html
 
-Robinhood's third-quarter revenue met expectations, fueled by the company's expansion into options, predictions markets and other financial services.
+### Amazons neue Echos: Alexa für den Nachtschrank und eine Kamera fürs Wohnzimmer
+*t3n - 28.10. 14:17*
 
-https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html
+Mit drei neuen Geräten sorgt Amazon nicht gerade für mehr Übersicht in seinem Echo-Aufgebot. Immerhin kommen die Geräte mit teilweise sinnvollen Verbesserungen. Ein Feature hätte sich der Versandhändler aber wohl auch sparen können. weiterlesen auf t3n.de
 
-### Here's how much bitcoin and the S&P 500 could rally after midterms
-*CoinDesk - 28.10. 09:15*
+https://t3n.de/news/amazon-echo-time-dot-studio-kamera-alexa-plus-1770439/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
 
-Both bitcoin and the S&P 500 have historically produced positive returns in a year after midterms. BTC's pattern, however, could also be explained by the four-year halving cycles.
+### Save $249 on 32GB of DDR5 with this 9800X3D parts bundle
+*Tom's Hardware - 28.10. 11:48*
 
-https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15
+Save $248.99 on this AMD Ryzen 7 9800X3D bundle at Newegg with an MSI MAG X870E Tomahawk Max Wifi motherboard and 32GB of DDR5-6000 RAM, now just $1,094.99.
 
-### Securitize adds Stellar blockchain as institutional tokenization gathers steam
-*CoinDesk - 28.10. 09:00*
+https://www.tomshardware.com/pc-components/save-usd249-on-32gb-of-ddr5-with-this-9800x3d-parts-bundle-grab-one-of-amds-top-cpus-with-an-msi-x870e-motherboard-and-a-free-aio-cooler-for-under-usd1-100
 
-The firms announced the agreement at Meridian 2026, the Stellar Development Foundation’s annual conference in Portugal.
 
-https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam
+## Investitionen
 
-### Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%
-*CoinDesk - 28.10. 04:15*
+### Microsoft mit erneut deutlich gesteigerten Einnahmen, Aktie macht kleinen Sprung
+*heise online - 29.10. 04:32*
 
-Majors outpaced bitcoin across the board as tech stocks extended a climb.
+Umsatz und Gewinne Microsofts steigen dank Cloud und KI mehr als erwartet, Anleger reagieren erfreut. Nur die Geschäfte mit Windows und Xbox gehen zurück.
 
-https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8
+https://www.heise.de/news/Microsoft-mit-erneut-deutlich-gesteigerten-Einnahmen-Aktie-macht-kleinen-Sprung-11503905.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
 
-### Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top
-*CoinDesk - 27.10. 20:41*
+### Alphabet falls 10% in premarket, putting it on course for its biggest ever post-earnings drop
+*CNBC Technology - 29.10. 08:54*
 
-Speaking at Ripple's conference, the U.S. Treasury Secretary said the SEC and CFTC action could help fill the gap left by the Clarity Act's failure, while curbing crypto debanking.
+Alphabet reported a larger negative free cash flow than analysts had expected while maintaining its spending gudiance for the year.
 
-https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top
+https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html
 
-### Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts
-*CoinDesk - 27.10. 20:32*
+### Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat
+*CNBC Technology - 29.10. 06:03*
 
-Crypto trading volume fell 38% from year-ago levels, but the firm's overall blockchain business gained traction.
+Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.
 
-https://www.coindesk.com/markets/2026/10/27/robinhood-s-crypto-revenue-plunges-55-even-as-trading-platform-posts-record-sales
+https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html
 
-### Brazilian companies turned to stablecoins on election day to dodge a currency crash
-*CoinDesk - 27.10. 16:59*
+### Our next steps for Alphabet stock after earnings disappoint at nearly every turn
+*CNBC Technology - 29.10. 01:11*
 
-USDT volume on crypto exchange Mercado Bitcoin jumped nearly 800% and bitcoin volume surged 865%. Binance’s USDT/BRL market tripled while the global BTC/USDT pair fell.
+Alphabet whiffed.
 
-https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash
+https://www.cnbc.com/investingclub/2026/10/28/our-next-steps-for-alphabet-stock-after-earnings-disappoint-at-nearly-every-turn.html
 
-### Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP
-*CoinDesk - 27.10. 12:00*
+### Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion
+*TechCrunch AI - 28.10. 21:58*
 
-Your day-ahead look for Oct. 27, 2026
+Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.
 
-https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp
+https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/
 
-### Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins
-*CoinDesk - 27.10. 11:32*
+### Tesla Just Spent $4.73 Billion on Capex. Here's Where Every Dollar Went. - The Globe and Mail
+*GN AI regulation EU - 28.10. 10:06*
 
-Bitcoin fell 0.4% to around $79,700 since midnight UTC while Asian tech stocks rallied. The DeFi index dropped 1.8%, and the Fed is set to begin a two-day meeting.
+Tesla Just Spent $4.73 Billion on Capex. Here's Where Every Dollar Went. The Globe and Mail
 
-https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins
+https://news.google.com/rss/articles/CBMi7AFBVV95cUxNY1RZY1VReXVzbVJ4bVY5ZjZHbTFORGFaZUFVTk5Cb3hhQW9taFBtZXF1aUpfQTdWMFBlMUlXVnNZdm9yTFIwd3gwNWc3NFpTX0E0RHZBZURmRFJycGhieVk2VVQweHhnUkZvcUpsNnNGRlRETGhtVXhETDRpQ1ZHZWlZbXlFMUlEb1dBQUJqNFlqNUhGdDZJcEtaZldrSktWT2Y0NWg2Ti0xY1lvWXZfTzhmcHMtZTh0MUI3X1c5SnNWNk9CRy1BSDRsNkVDM01iYlZmOHcxT0ZXUkZlZUVZNjczR0x5U0M0RzY2Zg?oc=5
 
-### Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach
-*CoinDesk - 27.10. 11:13*
+### EdgeCore secures $521 million in ABS financing
+*Data Center Dynamics - 29.10. 10:10*
 
-The breach exposed 25,964 buyer records, some kept past Keystone’s 180-day deletion policy after an automated tool failed without the firm noticing.
+Latest financing backed against leased data center in Silicon Valley
 
-https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach
+https://www.datacenterdynamics.com/en/news/edgecore-secures-521-million-in-abs-financing/
 
-### Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS
-*CoinDesk - 28.10. 10:41*
+### Kyivstar acquires Ukrainian cloud provider GigaCloud
+*Data Center Dynamics - 29.10. 10:00*
 
-Stablecoins lead instruments in use or planned at 63%, ahead of tokenized deposits at 53% and tokenized money market funds at 52%.
+In the works for months, deal comes weeks after Kyiv data center of GigaCloud’s parent company was bombed by Russia
 
-https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs
+https://www.datacenterdynamics.com/en/news/kyivstar-acquires-ukrainian-cloud-provider-gigacloud/
 
-### Coinbase says user funds are safe after third-party vendor exposes customer contact info
-*CoinDesk - 28.10. 03:11*
+### A profile of Nscale CEO Josh Payne, who is proceeding with plans for a US IPO that sources say is targeting a $30B valuation despite some investor pushback (Mark Bergen/Bloomberg)
+*Techmeme - 29.10. 09:02*
 
-The crypto exchange says an incident at analytics firm Amplitude exposed some customer contact information, but insists its own systems were not breached.
+Mark Bergen / Bloomberg : A profile of Nscale CEO Josh Payne, who is proceeding with plans for a US IPO that sources say is targeting a $30B valuation despite some investor pushback — Sheryl Sandberg says the 32-year-old executive reminds her of Mark Zuckerberg. Josh Payne must now take his startup public at a tumultuous moment for the AI industry.
 
-https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info
+https://www.techmeme.com/261029/p12#a261029p12
 
-### Ripple strikes deal with Robinhood to expand its RLUSD digital dollar
-*CNBC Technology - 27.10. 16:35*
+### GitHub powering up four million extra cores to stop its service going down
+*The Register - 28.10. 16:30*
 
-As crypto evolves past its trading roots, and global markets shift to 24/7 liquidity, stablecoins are becoming essential financial infrastructure.
+Re-architects site to cope with AI slop-pocalypse
 
-https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar.html
+https://www.theregister.com/ai-and-ml/2026/10/28/github-powering-up-four-million-extra-cores-to-stop-its-service-going-down/5305863
 
-### CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock
-*CoinDesk - 27.10. 14:00*
+### SK hynix-owned Solidigm is plotting a new $45 billion flash memory factory for the US, report claims
+*Tom's Hardware - 28.10. 13:01*
 
-The new service could help developers build blockchain-based index funds, tokenized portfolios and derivatives using established financial benchmarks.
+Solidigm, an American subsidiary of SK hynix, is in discussions about potentially investing $45 billion in a new flash chip factory that would be built in the United States.
 
-https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock
+https://www.tomshardware.com/tech-industry/manufacturing/sk-hynix-owned-solidigm-is-plotting-a-new-usd45-billion-flash-memory-factory-for-the-us-report-claims-wants-go-ahead-to-export-equipment-for-china-upgrades-in-return
+
+### Jio Platforms adds $36B in market value in two trading sessions, hitting a $144B market cap, up from its ~$108B IPO valuation, after India's biggest-ever IPO (Ashutosh Joshi/Bloomberg)
+*Techmeme - 29.10. 11:10*
+
+Ashutosh Joshi / Bloomberg : Jio Platforms adds $36B in market value in two trading sessions, hitting a $144B market cap, up from its ~$108B IPO valuation, after India's biggest-ever IPO — Jio Platforms Ltd. has added almost $36 billion in market value in two trading sessions, extending its blistering run …
+
+https://www.techmeme.com/261029/p20#a261029p20
+
+### Wegen Porsche und China: Volkswagen meldet 5,82 Milliarden Euro Verlust
+*golem.de - 29.10. 10:24*
+
+Bei Europas größtem Autohersteller läuft es schlechter als erwartet. Was hinter den roten Zahlen von VW steckt. ( VW , Elektroauto )
+
+https://www.golem.de/news/wegen-porsche-und-china-volkswagen-meldet-5-82-milliarden-euro-verlust-2610-214630.html
+
+### Forscher warnen: Millionenfach installierte Chrome-Add-ons kapern heimlich Traffic
+*golem.de - 29.10. 10:09*
+
+Betroffen sind 319 Erweiterungen mit mehr als 13 Millionen Installationen. Sie leiten Suchanfragen um und bescheren den Betreibern damit Werbeeinnahmen. ( Browser , Chrome )
+
+https://www.golem.de/news/forscher-warnen-ueber-300-chrome-add-ons-leiten-heimlich-traffic-um-2610-214629.html
+
+### Volkswagen meldet 5,82 Milliarden Euro Quartalsverlust
+*heise online - 29.10. 09:36*
+
+Milliarden-Abschreibung auf Porsche, schwache China-Geschäfte und teurer Konzernumbau: Bei Volkswagen läuft es noch schlechter als erwartet.
+
+https://www.heise.de/news/Volkswagen-meldet-5-82-Milliarden-Euro-Quartalsverlust-11504313.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
+
+### Infineon Aktie: Villach-Millionen genehmigt? - Börse Global
+*GN EU-Parlament KI - 29.10. 02:00*
+
+Infineon Aktie: Villach-Millionen genehmigt? Börse Global
+
+https://news.google.com/rss/articles/CBMihAFBVV95cUxOUEtyaWJIOEJCanRvTk5iQnJHN2FuTy15b3FfUndOUzE2NWQtNmI1TXRxX2M1T3h0a2s4Tld1Z01aU1BmR2ZHU2NJU1UtaExYc2hFcS04U2dCMVZfNGYxSlFoMmRFLUZkNTNtQVh2NktCZWNVcVlNQ180VzN3bGNlVXlPNDA?oc=5
+
+### Appian Aktie: Studienzentren-Coup? - Kapitalmarktexperten
+*GN RPA - 28.10. 16:30*
+
+Appian Aktie: Studienzentren-Coup? Kapitalmarktexperten
+
+https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdnNrcXFFZFRxTlZ6RzNaVHJEZWlWNGtuaHc1WkkzMi0zV1VVeGdjalR6ZlRHMUpULVJ0WmZkYndKVWtnX0txdEMySWx5WGlIMWJ2YXBTWTN3ZEU2dkJfNWNVRlRQZloyRjg4SDRWbENpUWpldHhFRg?oc=5
+
+### Größte Kosmos-Simulation aller Zeiten: Lumina zeigt die ersten zwei Milliarden Jahre des Universums
+*t3n - 28.10. 15:00*
+
+Die Simulation Lumina bildet die ersten zwei Milliarden Jahre nach dem Urknall ab. Sie könnte Wissenschaftler:innen dazu zwingen, bisherige Annahmen über das Universum auf den Prüfstand zu stellen. weiterlesen auf t3n.de
+
+https://t3n.de/news/groesste-kosmos-simulation-aller-zeiten-lumina-zeigt-die-ersten-zwei-milliarden-jahre-des-universums-1770466/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
+
+### China’s snooping around Pacific undersea cables raises risks for Big Tech
+*Ars Technica - 28.10. 11:00*
+
+US-owned trans-Pacific cables face growing risks from sabotage and China.
+
+https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/
+
+### Samsung gibt groben Ausblick auf Galaxy S27 und Produktroadmap 2027
+*heise online - 29.10. 09:33*
+
+Samsung hat im Zuge der Veröffentlichung der Quartalszahlen einen Ausblick auf das Galaxy S27 und eine grobe Produktroadmap für das Jahr 2027 gewährt.
+
+https://www.heise.de/news/Samsung-gibt-groben-Ausblick-auf-Galaxy-S27-und-Produktroadmap-2027-11504263.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
+
+### Samsung Electronics shares slid despite record profit in the third-quarter
+*CNBC Technology - 29.10. 06:53*
+
+Samsung Electronics reported third-quarter earnings on Thursday.
+
+https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html
+
+### Stellantis stock rises 13% as automaker's turnaround plan, cost cuts gain traction
+*CNBC Technology - 28.10. 20:23*
+
+European car giant Stellantis said Wednesday that it recorded a 4 billion euro ($4.5 billion) cash shortfall in the third quarter.
+
+https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html
+
+### SK Hynix: What shall we do with all the cash?
+*Blocks & Files - 28.10. 15:15*
+
+SK Hynix , overflowing with cash, has a spending problem, but still does not have enough cash to build a US Solidigm fab. Predictably SK Hynix had another gargantuan, humungous quarter with revenues rising 328 percent Y/Y to ₩104 trillion ($78.9 billion) in its third 2026 quarter, surpassing ₩100 trillion for the first time, while net income went up 216 percent to ₩39.8 trillion (c$30 billion). Its operating margin was 80 percent and its made so much money that it now has a net cash position of ₩98.7 trillion ($74 billion), being effectively debt-free. CEO Kwak Noh-Jung explained why the Solid
+
+https://www.blocksandfiles.com/flash/2026/10/28/sk-hynix-what-shall-we-do-with-all-the-cash/5306038
+
+### Commvault revenue plateau set to end
+*Blocks & Files - 28.10. 15:01*
+
+A 4-quarter revenue plateau at the $313 million level is set to end as Commvault predicts fresh growth. Commvault brought in $312.4 million in second fiscal 2027 quarter revenues, up 13 percent Y/Y and beating its $310 million mid-point guidance. There was a $29.1 million GAAP net income (profit), up 97.6 percent. It registered an increase of 550 in net new subscription customers, , making its total 15,750, and subscription ARR is now $1.194 billion, 20 percent higher Y/Y. Operating cash flow was $75 million with $71 million in free cash flow. President and CEO Sanjay Mirchandani said: ,"Enter
+
+https://www.blocksandfiles.com/data-protection/2026/10/28/commvault-revenue-plateau-set-to-end/5305998
+
+### Autumn Budget 2026: UK chancellor ties datacentre grid access to community tests
+*Computer Weekly - 28.10. 11:15*
+
+Healey’s Autumn Budget covenant makes grid priority and on-site generation conditional on community investment, jobs and water protection, weeks after MSPs paused Scotland’s pipeline
+
+https://www.computerweekly.com/news/366652837/Autumn-Budget-2026-UK-chancellor-ties-datacentre-grid-access-to-community-tests
 
 
 ## KI-Politik und Regulierung
+
+### The Deadline Moved, but the Questions Didn't: What the AI Act Delay Changes for European Finance - FinanceX Magazine
+*GN AI regulation EU - 29.10. 07:59*
+
+The Deadline Moved, but the Questions Didn't: What the AI Act Delay Changes for European Finance FinanceX Magazine
+
+https://news.google.com/rss/articles/CBMizAFBVV95cUxQejRjTW9Xc0J0ZWFMNXk0cVRncjB5MnphZ3hxZjN4cGFnTzdicXhXVU8zaElOZlJ4YmpoV0Y4cFE0S2NBamltc2xzZGQzbWdEb0FEQjQwWFlQZndxTkxYN3NwTTBBaHNjR2tSb3JjYXVRcmpaeFpJTzNtdzNtSzNpNHB2VGlGUHFocEg5aWhfRTEta3NpR3ZiemNiZTJWWGdEZkFMZ1B3aklDT2ZzRFE5NWhqZXBpTC1OZFB1ZnQ3M1VYUURXY0l1MGVSMFY?oc=5
+
+### KI-Sicherheitsrisiken: US-Abgeordnete fordern Meldung binnen 48 Stunden - ad-hoc-news.de
+*GN AI Act - 28.10. 21:13*
+
+KI-Sicherheitsrisiken: US-Abgeordnete fordern Meldung binnen 48 Stunden ad-hoc-news.de
+
+https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbFgyQU9vWUxveHJNUjJEQVdoeXIyUVl1aG9VbFVhMG0ySE96azJpNUF6VGppR1NYM1FmSzJWWXI4VXdmMC1WdGdsbThWRVowYzVNUWFZRlhfRDB2VklKRlJuczJrZUo2QjRFSmxUZGgtQzhLN2JxVXNROGY4Snhwc2pCekpQUHA4NDFGdlE3dDdmSGpBSG1ud1BkWVI1NGR0aTNPTmZwUzFLSlpRTG02Y3RiZVEwSlAyWFZB?oc=5
+
+### EU AI Act rules for AI agents depend on purpose and role - NeoTeo
+*GN AI regulation EU - 28.10. 19:33*
+
+EU AI Act rules for AI agents depend on purpose and role NeoTeo
+
+https://news.google.com/rss/articles/CBMiigFBVV95cUxPcGRvNTBuZ0tyUTZUaDdmbXItZUQ5aW9oYTBqOHJtT3NISmk4VmtZSkpFOTZnZ2ZYbVgwRHNqczBLaHNPN2EyZ1U5WDh6ckpsU0xyQk1nS0dIVGs4QmpYTW42XzAwTFFWQlhPVXFlLTZvNmRiTzh0dWxYUFZoakdWa0JUa3pSRWs4RUE?oc=5
+
+### Italien: KI-Gesetz 179/2026 verteilt die Aufsicht - NeoTeo
+*GN AI Act - 28.10. 19:02*
+
+Italien: KI-Gesetz 179/2026 verteilt die Aufsicht NeoTeo
+
+https://news.google.com/rss/articles/CBMif0FVX3lxTFBmc0NNWmJ5c210cHM2eXBDSmV4bXNNLUNmNWQ3akpSbl8wcG9VdEduaktmSDNkTTFaWTRLY0puYk40NHpZVklhYUF0T21lZVJqS0VJVHR0Y1ZFR3Q0aGpmWGNTVjBQNEc1ajJrLUZTT3FKa19GNi1iRllXQzJWZmc?oc=5
+
+### KI-Agenten im EU AI Act: Autonomie allein macht sie nicht zu Hochrisiko-KI - BornCity
+*GN AI Act - 28.10. 18:49*
+
+KI-Agenten im EU AI Act: Autonomie allein macht sie nicht zu Hochrisiko-KI BornCity
+
+https://news.google.com/rss/articles/CBMiogFBVV95cUxPaVVnc3RSbTRyUHh1WDBZdEo3eVRXZ1JDaHpxdXNjdkh1UDN3TkU2Mmppa2RKVnFJY3BWb29vSXRId3U1SlIzYUhnTXYtQzA0VExFQi1CTi1paXBwdkRQOXN0RUd0RkdKeEZxWkEyLWdaQTMteGhHUUk3NzZXQTd4eFY3SDNyanVabTBIbVh2a2xKZEpfc19TWkdwLThlbkkwdWc?oc=5
+
+### First Harmonised Technical Standard Published Under the EU AI Act - JD Supra
+*GN AI regulation EU - 28.10. 17:48*
+
+First Harmonised Technical Standard Published Under the EU AI Act JD Supra
+
+https://news.google.com/rss/articles/CBMihAFBVV95cUxQUlBzVFFHZmo1bjRDdmphQl9ZVGRBRlU3ckFXa0RISGVlU1VWdFZQV3pLSks5bTRiaFVhUW5acU0yRW85WGlBZ2ZfTUxXa1dmUVdyYmpqUkRQWUhZeXdaZ2lwUThoVnVsaUZQOEY0d0tIbTVxNTItTVVXVDFyNGlWbDlRSnA?oc=5
+
+### Italy’s Decree 179/2026 assigns AI Act enforcement roles - NeoTeo
+*GN AI regulation EU - 28.10. 17:37*
+
+Italy’s Decree 179/2026 assigns AI Act enforcement roles NeoTeo
+
+https://news.google.com/rss/articles/CBMihwFBVV95cUxOTXNSQnJPTWRJVWpTc3hCWDQwQmNtOEtYTl9JUmo4RHNrbERIRmI0Y0pxX01jbUhYaTN3NXlWVjhnUnliLW9rTVNpYWNEYVROVU5CVkI3Yk1wQWVTQ3FyazZlaUsxR3huZk1DaVFib0JmNU1KXzZhcnI2WHBScV9tVk8tcW5jcXM?oc=5
+
+### AI governance starts with your data: Building the evidence the EU AI Act and new US rules expect - IAPP
+*GN AI regulation EU - 28.10. 15:17*
+
+AI governance starts with your data: Building the evidence the EU AI Act and new US rules expect IAPP
+
+https://news.google.com/rss/articles/CBMiygFBVV95cUxPTGdCWjVPd29QVHQ4ay13YVEwWnZsaF9hZ2dQeVB2aWM1dzdjdWVlRVpBbGFDd2ZCd1ZycmVidFVpS3RLOWlKbFQtTFByUnFwNjVjVUZXeDd6ZUg2VkNwUHJ6RW5tVXdMaHFQcks1OTVJcFEweU5xalQ2VEM3YVc4ZklEOTZGNWRQOElYSllkQkhJQUV4X2VSMFNNLWg4dVNNUUNuZUxOclZnYWNmVkVtU1pXMm5zVzc5RE9Wa2U5bTEzajJDaWxEaWtn?oc=5
+
+### Update zur KI-Verordnung und zum Cyber Resilience Act – Verfahrensregeln, harmonisierte Norm und Aufsichtsbehörde - Gleiss Lutz
+*GN AI Act - 28.10. 12:00*
+
+Update zur KI-Verordnung und zum Cyber Resilience Act – Verfahrensregeln, harmonisierte Norm und Aufsichtsbehörde Gleiss Lutz
+
+https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOE5IV3BORXduSDcxWVU5T0s3WDdqVTVPTDB6UU9sRXU2UHo0Z1EzSktlVUo2Z2JnV09YTUJ6aWhWQk5DXy1LcWdYM0xUUUJJZzBESVN2RWlEMkRIX0prMUdrVlhtTHE1cGN6Z3B2ZS1mdW0zZ1VmSW1vczZpN1FfSFZYQXNfTjF2cGFOYVZwWnE3LTRRaGpaVUd0Y2dOdWFyNTdRRlBmXzhyMlVXMGV1OGQ5dFhnb1hMamdmTnZGM2ItYVRsLV9FZGtta0RTbVRCdFhoTS1fTUxxTkRuN29GRDkxeFo?oc=5
 
 ### AI regulation push gains steam ahead of midterms
 *CIO Dive - 28.10. 11:00*
@@ -1538,276 +1592,276 @@ ADLC compliance: Mapping agentic development to NIST SSDF, the OWASP LLM Top 10,
 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oRTNpdEc3cU5lSVc0SmhXXzVIT205RnhpVDcydmUzSjVwa1c3Y2FBUHF1ZWVvZnJoWWtaallDVjhFZlVObm04Uk93dzdySHUtczNQX1FuYjFpcEU?oc=5
 
 ### “No Philippine AI Act” Does Not Mean “No AI Regulation:” What Philippine Businesses Need to Understand - The Business Manual
-*GN AI regulation EU - 28.10. 01:38*
+*GN AI regulation EU - 28.10. 03:46*
 
 “No Philippine AI Act” Does Not Mean “No AI Regulation:” What Philippine Businesses Need to Understand The Business Manual
 
 https://news.google.com/rss/articles/CBMilAFBVV95cUxPMkh0RWdWc25FaHNKckUwRk1qQXJpZzAxWEM2bGRWN3daQW5rUGpoWEM0U2N3NkdNcmZLdlJqY2FmRktMT1Q2bkZQVElRdC16eERPVzdtM0Q4ZGcyYkJQVTBfVmNTNVhHUEItekg2YmRPOGFzV0pQbUdYQjVaZng0cTN0M2ZqWkFVUXpNRV9TcVpweFY4?oc=5
 
-### First Harmonised Technical Standard Published Under the EU AI Act - Orrick
-*GN AI regulation EU - 27.10. 20:03*
+### Kritik an EU-Kommission: Kanada wird vorerst kein assoziiertes EU-Mitglied - Schwarzwälder Bote
+*GN EU-Parlament KI - 29.10. 06:38*
 
-First Harmonised Technical Standard Published Under the EU AI Act Orrick
+Kritik an EU-Kommission: Kanada wird vorerst kein assoziiertes EU-Mitglied Schwarzwälder Bote
 
-https://news.google.com/rss/articles/CBMirAFBVV95cUxNTXlnTmhiNkotcVM5VEQyQmZzN2tBc1VFNDdldmlXLXJvdy1xMHFoQWRUZ0JFUDRlTGUxdGVNcHFrNWdrUjVJbkRMNDh5QVZ2QUhfbk45clVOMUVpM01FR2huRjM5OWRyNkcySGY2M0gxeWUxM0NkclNnTUk4N0wyWlBQSkFLXzk2bm1EY05Cci12d0ptelBRelZUSEhmVTdlVW9YcjhRaVgzNVQ0?oc=5
+https://news.google.com/rss/articles/CBMiygFBVV95cUxONkIxMWtKY1M1MWtyZS1MOWpodVZ0SVAzYkxqRV81NDVWdkV4dXYyNFI3SkhYcnhucXl4UGdKSjZRQjl1X3h4U2s0QzlRbjB5MUkwZ2VZMUxRdjZIc3kwU21VNUtFRFRmUGRBa01zTmt2R1EtSWJ5d2lMX1NxdkR1OXMyZWtvdEVxM0pOdXVuSjJJbTJpVFV6aVZ2S3E5aEx5bTU4UUZESmZIcHZuUjg5S3hONUd1NjVneGRsOTRSakcyMnlPb1l4RExn?oc=5
 
-### Antrag: Grüne fordern Haftung für KI-Firmen und Management
-*golem.de - 27.10. 17:33*
+### Regulatory News for Product Makers || October 29, 2026 - In Compliance Magazine
+*GN AI regulation EU - 28.10. 21:37*
 
-Die Grünen fordern strengere Sicherheitsauflagen für KI. Man verlangt ein entschlossenes Handeln der Bundesregierung sowie eine Aufstockung staatlicher Prüfstellen. ( Security , PHP )
+Regulatory News for Product Makers || October 29, 2026 In Compliance Magazine
 
-https://www.golem.de/news/antrag-gruene-fordern-haftung-fuer-ki-firmen-und-management-2610-214570.html
+https://news.google.com/rss/articles/CBMidEFVX3lxTE1tQ2xVMjQ5ZnF1aDVuZjJVVU0tcEpyal9ERTdmQk9EQnQ4X19QYl80ODdENUZoXzVyZjljQ0lkY1dGWFdyMDBDOXFCQk50dlZFTE1WMDZEOXV3Mm94dEc3VEw0cGRFM1E1Wng1ZjJIZ2tUWHFu0gF8QVVfeXFMTndLYXhEakN6Z1A1TjhxZk9jY2pYbmtpclZTbGhuODhPMjdHRFF2ODNrNWg1NlpITUFLZmRGVTVnMk5CeXRfS1ZoTTJvWEdwMkNkRUJ5ZDZkT3BEb2w2Q2lJVGs4X3FiUWVmUEhkT3lheWVLWGVrREhOa2ZxQw?oc=5
 
-### Italy's AI Act framework takes shape: What Legislative Decree No. 179/2026 means for organizations - IAPP
-*GN AI regulation EU - 27.10. 14:01*
+### EU-Kommission korrigiert Wasserstoffziele nach unten - energate messenger
+*GN EU-Parlament KI - 28.10. 15:22*
 
-Italy's AI Act framework takes shape: What Legislative Decree No. 179/2026 means for organizations IAPP
+EU-Kommission korrigiert Wasserstoffziele nach unten energate messenger
 
-https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSHVRb19STUtSd0hqZW9VSnhqam1FQVFmQnp6aDFFY1V5RF9LRHcwb29LcEtFcDB2d1BKelRqbHJmMi0zOGRqQ1dvMlJwdElDM2YzcWhMbXpGMU03MDREdE5PSmFlSHpQcUxiVkNPQ3hSTG5VSGwySS1FYmJBeDJjakIydWMxLWNJZXFYM3gwQUVhbWtKX3BGYUtZdVZMQ1plMGN0UjVkNTdwY1VqSkVnZlh4OThnLXlmUGpR?oc=5
+https://news.google.com/rss/articles/CBMinwFBVV95cUxQdnh5RmFrZjdQam1NT0MxV3B4R1hYQWxvMnFBUFZUY3AzNmxWMVNxTTZ3Nms4N3dDci05OE5JcjM1S1c1U09JNWNVRV9TUXNkazFaY0t5RnpwOFdCczY1X1VJcHM5bUY0bklveUJ4VzhKVko2R1RmRnJ4MlRmUjZ2UGR1X1JHd0Z6UksyRmE1TzJaTWVRQkF0dV91U1Vaam8?oc=5
 
-### Shout about it: Why Transparency is a slipway to AI compliance - Sync NI
-*GN AI regulation EU - 27.10. 09:05*
+### Lapsed US snooping law still running as senators object
+*Computer Weekly - 28.10. 13:20*
 
-Shout about it: Why Transparency is a slipway to AI compliance Sync NI
+FISA 702 is one of two key US laws that undermine data sovereignty and allow the US to access foreign data without the subject knowing. Senators demand release of a secret ruling
 
-https://news.google.com/rss/articles/CBMimgFBVV95cUxNUW9zajZpU2QzeDAybG5zTXZ3MFY4ZHdNNTR1YnJ0OFdmQjVCRDBwR25nQ1hKU3VUTFllMl9qamtzd1FVSkgxc0hSM01sOEpKUm1jaXhaeFRHRXpCSGY2dmJYaFR0b29KNmluQWNrbTV6aVRjLTBJbE56MEprX2tFUVc5ZHlNbHlxYUs5SGdCT0FfV0cwM3ZxVXRR?oc=5
+https://www.computerweekly.com/news/366652857/Lapsed-US-snooping-law-still-running-as-senators-object
 
-### How the EU AI Act Regulates Agentic AI - HackerNoon
-*GN AI regulation EU - 27.10. 05:48*
+### EU-Kommission: Frontex soll zur Abschiebeagentur werden
+*netzpolitik.org - 28.10. 11:22*
 
-How the EU AI Act Regulates Agentic AI HackerNoon
+Frontex soll mehr Macht und mehr Personal bekommen. – Alle Rechte vorbehalten: IMAGO / ANP Mit zwei Gesetzentwürfen will die EU-Kommission die Grenzagentur Frontex zur zentralen Abschiebeagentur aufrüsten. Dabei spielt auch Social-Media-Monitoring eine Rolle. Ein EU-Abgeordneter warnt, dass Frontex damit zu einer europäischen Version der US-Deportationspolizei ICE werden könnte.
 
-https://news.google.com/rss/articles/CBMibkFVX3lxTFBWOFRQTWJydlNKYWVCU1I2QlZPRmxSWXl2SkxrYVFIMXdUNTlFbFVSWS1XUnBhdkpOTzhfcUpVeHYyRmhLeUFXTDc2aHQ4QXpUNFE5UmVSemE2RTlXQUo4NkJnLTd2dTNSUGZ1MzJR?oc=5
+https://netzpolitik.org/2026/eu-kommission-frontex-soll-zur-abschiebeagentur-werden/
 
-### EU-KI-Gesetz: Mehr als 30 Unternehmen müssen Sicherheitsfragen beantworten - ad-hoc-news.de
-*GN AI Act - 27.10. 01:13*
+### „Ein Mindestanspruch kann nicht in eine Zahlungspflicht umschlagen“
+*pv magazine - 29.10. 09:40*
 
-EU-KI-Gesetz: Mehr als 30 Unternehmen müssen Sicherheitsfragen beantworten ad-hoc-news.de
+Die Neuregelung zu Redispatch im EnWG führt dazu, dass Anlagenbetreiber statt Gutschriften auch Rechnungen von Netzbetreibern für Ausfallarbeit bekommen können. Ab kommenden Jahr wird es eine neue Festlegung von der Bundesnetzagentur geben, der negative BDEW-Mischpreise ab 2027 zum verbindlichen Maßstab erklären könnte. Rechtsanwalt Sebastian Schnurre erklärt, was Anlagenbetreiber und Direktvermarkter noch tun können, um dies zu verhindern.
 
-https://news.google.com/rss/articles/CBMisAFBVV95cUxQLXI1VHZfZjhQVl9ZMkt5SHNEcHQ3QlhFVVZnQ1JQT0RUZ0RrV0otTGFjaTQzdk45czB1Mk9pR2RiVVhtQ0hfdGl4bS1QSlRGS3F3T0xaUzN2cTdqaFZSRmk1WmxOVko3UDNCbk9CVWlPQjhlZzJRWFlpT0xoWlJ5c2FzbFRFQzZ4NkZuYVUzemlCOGx1bExGUW9yUFRvYTNYX3RnaGhJUkVUTE40VVhDSQ?oc=5
+https://www.pv-magazine.de/2026/10/29/ein-mindestanspruch-kann-nicht-in-eine-zahlungspflicht-umschlagen/
 
-### Letter: Senator Elizabeth Warren asks Dario Amodei for "exhaustive responses" to four pages of questions by November 3 regarding existential risks in its S-1 (Corrie Driebusch/Wall Street Journal)
-*Techmeme - 28.10. 10:45*
 
-Corrie Driebusch / Wall Street Journal : Letter: Senator Elizabeth Warren asks Dario Amodei for “exhaustive responses” to four pages of questions by November 3 regarding existential risks in its S-1 — The Democratic senator told the AI giant to answer four pages of questions about its IPO filing by Nov. 3
+## Krypto
 
-https://www.techmeme.com/261028/p15#a261028p15
+### Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline
+*CoinDesk - 29.10. 10:44*
 
-### EU-Kommission legt Klimaresilienzgesetz vor und beziffert Bedarf mit 70 Milliarden Euro im Jahr - https://nachrichten.jetzt/
-*GN EU-Parlament KI - 27.10. 16:02*
+About 1.56 million SOL sat on a validator that stopped earning, and the wallet still hasn’t named the firm that held its keys.
 
-EU-Kommission legt Klimaresilienzgesetz vor und beziffert Bedarf mit 70 Milliarden Euro im Jahr https://nachrichten.jetzt/
+https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline
 
-https://news.google.com/rss/articles/CBMiygFBVV95cUxORXZKYTVDdTdXeVJvT2RGWkZKS0NVQVJBTEtVMGhHb2RzOTRnNmFERnd2X3hwOHZrQXlsaHBOZ0pibzRYdnFMd2pHTUg0S0V4YlB5SzJaWVNHc09LSnRyMGoyMER6LXZXUEY4UkdEUDh5dkNiNWVZckFPMkU1UnB4WTlzZTlUb19OdEd6a1gxNnZBc1EtdDJrT015cWs4eDBxY1J2Q3ktM1psLUFuYTg5WXBtYjJuRktONnJRUlJaSy1wTUlFcURTanZB?oc=5
+### Live updates: Bitcoin clings to $80,000 as Strategy’s cushion thins before earnings
+*CoinDesk - 29.10. 10:41*
 
-### The CFTC files a legal challenge to block Utah's attempt to restrict prediction market betting, asserting it is the sole US regulator of prediction markets (Jesse Hamilton/CoinDesk)
-*Techmeme - 28.10. 06:25*
+Bitcoin slipped nearly 2% ahead of Strategy’s third-quarter results, and the largest corporate holder’s coins are now worth only about 6% more than it paid for them.
 
-Jesse Hamilton / CoinDesk : The CFTC files a legal challenge to block Utah's attempt to restrict prediction market betting, asserting it is the sole US regulator of prediction markets — The U.S. agency that oversees derivatives has filed a federal legal challenge to halt Utah's attempt to stop prediction market betting in its state …
+https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings
 
-https://www.techmeme.com/261028/p9#a261028p9
+### Bitcoin briefly dips below $80,000 as tech jitters and hawkish Fed weigh on crypto
+*CoinDesk - 29.10. 03:32*
 
-### EU-Kommission legt am 4. November neue Fahrpläne für Beitrittsverhandlungen mit Ukraine und Moldau vor - 112.ua
-*GN EU-Parlament KI - 27.10. 16:36*
+Bitcoin fell below $80,000 as Alphabet and Samsung-drove tech weakness and a hawkish Fed hold triggered a broad risk-off move. Crypto futures saw $356 million in liquidations.
 
-EU-Kommission legt am 4. November neue Fahrpläne für Beitrittsverhandlungen mit Ukraine und Moldau vor 112.ua
+https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto
 
-https://news.google.com/rss/articles/CBMiugFBVV95cUxNeV8yTFdfSFhKdVBzZDZyRnNRa3o1TWNoSDlGSXdub25zWXlkU1ZhM2lVMzRXNHhCR1lLQktYOXZBYzJzczZHWUpZdHpRb0RtWEp1TVdYMHVuWndPU0V4cUlmQVkyR01oamZMdGs0UU9SOGtKMW14LVRfUzVHN09aSm5sc1Z5bGlvTU45VUJoS0NYdTZBemRzY3Bwb3hPZ1lTVWJfNUNGSWhqSlk1VndTeUQzRHRaRFFveUE?oc=5
+### Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%
+*CoinDesk - 28.10. 17:02*
 
-### EU-Kommission legt Formate für Angaben zum wirtschaftlichen Eigentümer fest - kpmg.com
-*GN EU-Parlament KI - 27.10. 10:15*
+Coinbase faces a key earnings test as analysts debate the strength of its trading rebound following a sharp drop in Robinhood's crypto revenue.
 
-EU-Kommission legt Formate für Angaben zum wirtschaftlichen Eigentümer fest kpmg.com
+https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55
 
-https://news.google.com/rss/articles/CBMi4AFBVV95cUxPalkyOEdBOGcydThLemVzUG56M0x5d1M5dEg3Q0lRUTRkME1aR3B0QjlBMmc4Z1BPTE9UT082TlJZTzVzM2JnTlRHMF9zZlh2cEE2Q25RQnlwMThRamplZEdUQm8tOEUwMldEQmsyNm90MFNSSzRLNGRkMWQ4ZzNVeXJsRTVQaFE2SkVjVkVXZXFCOVVMX0JadVpZYklZMHAzaVpPZkZWV0JqLWdocFRHYU9rQlFsU3U1YTVKcGU5UURYTVJ4N1dWRFZVclMxaVhucUdZZU42TU5OMXFmdWRacg?oc=5
+### Russia limits new cryptomining grid connections to interruptible power
+*Data Center Dynamics - 29.10. 10:03*
 
-### EU-Kommission akzeptiert Temus Aktionsplan gegen illegale Produkte - markenartikel-magazin.de
-*GN EU-Parlament KI - 27.10. 08:57*
+Nation struggling to find capacity for new data center developments
 
-EU-Kommission akzeptiert Temus Aktionsplan gegen illegale Produkte markenartikel-magazin.de
+https://www.datacenterdynamics.com/en/news/russia-limits-new-cryptomining-grid-connections-to-interruptible-power/
 
-https://news.google.com/rss/articles/CBMijwFBVV95cUxPckk5OVlyM0JqaEtxNWM0allYc0NkZTAweVJ1VmVkVXJUVDRNX054NnRaY2ZWUHdXMUFiSHFXSll3ZGVaZjVoZzYtVXBtdVpyT0RCblFZZ1NnOVo2Nk9pSWwxa3Fxb0ZlaFZmWTlDcXJtRGpiT1IzRFJweXZ5OFl4MmFXeGVCMlV5TVpDRHp4cw?oc=5
+### XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments
+*CoinDesk - 28.10. 11:52*
 
-### US officials want Section 702 renewed before damaging court ruling goes public
-*Ars Technica - 27.10. 13:22*
+An experimental change would let companies cover the reserve for customer and AI-agent accounts, allowing users to start with stablecoins without first acquiring XRP.
 
-Senators say officials hid a ruling on warrantless searches past its release deadline.
+https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments
 
-https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/
+### Former Swift CEO joins stablecoin firm OpenTrade as chairman
+*CoinDesk - 29.10. 09:00*
 
+Lazaro Campos takes the board role as the London-based company reports $300 million in assets locked and more than $1 billion in annual transaction volume.
 
-## Investitionen
+https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise
 
-### Disruptive raises $10B fund to make big bets on at least 10 companies
-*TechCrunch AI - 27.10. 18:55*
+### Thai Supreme Court rules bitcoin is property after thief challenges conviction
+*CoinDesk - 29.10. 10:04*
 
-Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.
+The court said bitcoin has a market price, can be cashed out and held by the public. It upheld a 10-year sentence for a man who helped the robbers.
 
-https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/
+https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction
 
-### General Compute raises $100 million Series A, countering the neocloud disaster narrative
-*TechCrunch AI - 27.10. 13:00*
+### 18MW Bitcoin mine proposed in Jersey County, Illinois
+*Data Center Dynamics - 29.10. 09:12*
 
-General Compute is betting on inference chips from outside the Nvidia ecosystem.
+Eight containers planned on seven acre site
 
-https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/
+https://www.datacenterdynamics.com/en/news/18mw-bitcoin-mine-proposed-in-jersey-county-illinois/
 
-### Tesla Just Spent $4.73 Billion on Capex. Here's Where Every Dollar Went. - The Globe and Mail
-*GN AI regulation EU - 28.10. 10:20*
+### The chart bitcoin traders should be paying attention to
+*CoinDesk - 29.10. 07:44*
 
-Tesla Just Spent $4.73 Billion on Capex. Here's Where Every Dollar Went. The Globe and Mail
+A market at an inflection point could shape inflation trends and the prices of risk assets, from bitcoin to tech stocks.
 
-https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbVBuWkxZUUY3TEtncE9jWEw5a1pWT0YyOURydnl1TW9IUjZUS3VqcXR5bTYzSG9EX0NiWjdsT0dLU2doQS1vSUgxcFhfZUlZMWxFdFUxS2hnbXJtYUpyVGVoWFM3SWs5VER4MTdMUVliLVZTWm01MFl5UkRXYVRRdXVFbmVFaEFXQWdtc3ZIR1hrMU5Pa3FOWW5vaHl2TEJicGxsUmVxRklHWFJkS2RZa3UwVEhjVm1rWkI3Wnk3WlZ5bXMzV1poUlU3WkNQZmwtRXdyVEpKOWxpeTYwTDJvZUcyR29CeHA4WjZ3?oc=5
+https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to
 
-### Mittwoch: Werbung mit Spyware für Starlink-User, Amazon-Übernahme von Globalstar
-*heise online - 28.10. 05:15*
+### Security failure at Indian certificate firm bites Ethereum as developers rush out fixes
+*CoinDesk - 29.10. 05:30*
 
-Bespitzelung von Starlink-Nutzern + Satelliten-Deal trotz Einspruch + Infineons Wafer-Werk in Österreich + Angriffe auf php2shell + Tempolimit bei Dieselmangel
+A key blunder at Indian certificate issuer eMudhra left some Teku and Besu setups trusting forged certificates. Default mainnet nodes weren’t exposed.
 
-https://www.heise.de/news/Mittwoch-Werbung-mit-Spyware-fuer-Starlink-User-Amazon-Uebernahme-von-Globalstar-11502517.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
+https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards
 
-### Meta’s $25 billion legal loss just put blood in the water
-*The Verge - 27.10. 16:44*
+### Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost
+*CoinDesk - 28.10. 21:13*
 
-When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of the water. The judge ordered Meta to pay $25 billion to resolve claims that Meta misled users around the 2018 […]
+Prospective borrowers face collateral liquidation risks if bitcoin prices drop, though APX said property and crypto collateral will be handled distinctly.
 
-https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement
+https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost
 
-### Stellantis reports $4.5 billion cash drain as massive turnaround plan continues
-*CNBC Technology - 28.10. 10:18*
+### Crypto isn’t a partisan fight, proven by data
+*CoinDesk - 28.10. 18:11*
 
-European car giant Stellantis said Wednesday that it recorded a 4 billion euro ($4.5 billion) cash shortfall in the third quarter.
+Treating crypto as a political battleground only makes it harder to build the secure, transparent, American-made financial system that most Americans say they want, argues DeFi Education Fund’s Jennifer Rosenthal.
 
-https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html
+https://www.coindesk.com/opinion/2026/10/28/crypto-isn-t-a-partisan-fight-proven-by-data
 
-### Jio Platforms, India's largest telecom and digital services company, jumps 21.4% in its trading debut, after raising ~$3.2B in the country's largest-ever IPO (Priyanka Salve/CNBC)
-*Techmeme - 28.10. 05:10*
+### Robinhood shares fall as crypto slump weighs on profits, offsetting gains in new businesses
+*CNBC Technology - 28.10. 14:50*
 
-Priyanka Salve / CNBC : Jio Platforms, India's largest telecom and digital services company, jumps 21.4% in its trading debut, after raising ~$3.2B in the country's largest-ever IPO — Jio Platforms' shares rose 21.4% on their trading debut Wednesday after a record initial public offering that was lapped up by retail as well as institutional investors.
+Robinhood's third-quarter revenue met expectations, fueled by the company's expansion into options, predictions markets and other financial services.
 
-https://www.techmeme.com/261028/p4#a261028p4
+https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html
 
-### php2shell: Angreifer nutzen die Lücken jetzt aus – 4 Millionen deutsche Dienste verwundbar
-*t3n - 27.10. 15:30*
+### Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks
+*CoinDesk - 28.10. 13:14*
 
-Mehrere kritische PHP-Lücken werden nun aktiv ausgenutzt, berichten Sicherheitsexperten. Und die Gefahr ist nicht gebannt: Allein in Deutschland melden sich noch über vier Millionen Dienste mit verwundbaren Versionsnummern. weiterlesen auf t3n.de
+DTCC's tokenization service went live on Canton Network and private chain Besu, with JPMorgan, Citi and Morgan Stanley among 20 firms signed up.
 
-https://t3n.de/news/php2shell-angreifer-nutzen-die-luecken-jetzt-aus-4-millionen-deutsche-dienste-veruwndbar-1770083/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
+https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks
 
-### Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund
-*CoinDesk - 27.10. 14:21*
+### NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.
+*CoinDesk - 29.10. 11:11*
 
-The $500 billion asset manager is launching an issuer-sponsored fund on Stellar, taking a different approach from third-party stock tokens.
+The planned ICE[XYZ] venue would offer 24/7 perpetual futures on stocks, commodities and crypto, pending CFTC approval. ICE is investing in Trade[XYZ].
 
-https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund
+https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s
 
-### Infineon: Chipkonzern investiert 1,1 Milliarden Euro in Österreich - WirtschaftsWoche
-*GN Rechenzentren - 27.10. 09:27*
+### Bermuda taps WalletConnect to advance its onchain economy plan
+*CoinDesk - 29.10. 10:00*
 
-Infineon: Chipkonzern investiert 1,1 Milliarden Euro in Österreich WirtschaftsWoche
+Bermuda chose WalletConnect to bring crypto payments to local merchants, starting with ticketing platform PTIX in the second quarter of 2027.
 
-https://news.google.com/rss/articles/CBMitgFBVV95cUxOY255RThHOTlXNkxjeEVoNXJQOTZId29tdC1lOEc4UHlXLUdJQnFIRVgybHM5TEZGZ2xMejR2UjF2a0FxNFE4QXh6MWpWZjVLMW9iRVJsdTRxTG1NQnFtWjhtMGFUYXl5bWRkcFlIaGF3b2l6Rll3NVU0UFRyQk9CZURBZ1NSX1VBeVZlV1Zabm1GMXFWa3d5UTN6UHNoSk9VTGFPd2d6WG1wSzlqbjNpRXBDSmVFZw?oc=5
+https://www.coindesk.com/business/2026/10/29/bermuda-taps-walletconnect-to-advance-its-onchain-economy-plan
 
-### Rund 130 Millionen Kunden in der EU betroffen: So verschärft der chinesische Handelsriese seine Regeln - Frankfurter Rundschau
-*GN EU-Parlament KI - 27.10. 09:09*
+### JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized stock trading plan
+*CoinDesk - 28.10. 12:59*
 
-Rund 130 Millionen Kunden in der EU betroffen: So verschärft der chinesische Handelsriese seine Regeln Frankfurter Rundschau
+Nearly half the companies on the venture’s original roster have now objected to their shares trading on the planned blockchain-based venue.
 
-https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN1B3N3FGNXFEM2htZFR0X3loWjl5dXBORXlsNGtEOGRLb29LMnY2RURaanVqVlQzbXFQUE5XcWdVVFdvUExPZTF4NjJHUjNvN0ZDZGRBYWlrSzF5NjVDYXBzSTdwVGxMRFF2ODdsM2ZtM0JJdnU5bmZGT0l4WVRvWHZLQmRubXpoUEtfaURJS1JCcUhEQTVJZW9pNE05RVZTR3dCUVdlb3k?oc=5
-
-### Das Ende des Sonnensystems: Wann Jupiter und Saturn aus der Umlaufbahn fliegen
-*t3n - 28.10. 09:55*
-
-Bislang gingen Astronomen davon aus, dass unsere planetare Nachbarschaft noch etliche Milliarden Jahre friedlich ihre Kreise zieht. Neue Simulationsmodelle zeichnen nun ein radikal anderes Bild vom Ende unseres Sonnensystems. weiterlesen auf t3n.de
-
-https://t3n.de/news/sonnensystem-ende-jupiter-saturn-1767662/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
-
-### La Caisse snaps up 49.9% stake in Bell Canada's tower unit
-*Data Center Dynamics - 27.10. 17:08*
-
-Raises CAD$2.45bn for newly-formed tower business
-
-https://www.datacenterdynamics.com/en/news/la-caisse-snaps-up-499-stake-in-bell-canadas-tower-unit/
+https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan
 
 
 ## Energie und Gebäude
 
-### Chinas Photovoltaik-Zubau sinkt in den ersten drei Quartalen 2026 um 54 Prozent
-*pv magazine - 27.10. 15:01*
+### Gemeinschaftliche Wärmeversorgung: In fünf Planungsschritten zum kommunalen Wärmenetz - tga.at
+*GN Waermepumpe - 29.10. 11:25*
 
-Nach Angaben der Nationalen Energiebehörde (NEA) installierte China bis Ende September 110,83 Gigawatt an neuer Photovoltaik-Leistung. Das ist ein Rückgang um 53,9 Prozent gegenüber dem Vorjahreszeitraum. Betrachtet man nur das dritte Quartal, hat sich der Zubau allerdings gegenüber 2025 wieder erhöht.
+Gemeinschaftliche Wärmeversorgung: In fünf Planungsschritten zum kommunalen Wärmenetz tga.at
 
-https://www.pv-magazine.de/2026/10/27/chinesische-neuinstallationen-sinken-in-den-ersten-drei-quartalen-2026-trotz-erholung-im-september-um-54-prozent/
+https://news.google.com/rss/articles/CBMihwFBVV95cUxPV2t0Z1JDNHdlUnp6ZHRneGl5eUlHVlozcFVheFg5QnhCVXFHejNkb1ROZjZ2T1JscTd5RS1jRXp2WjBJaHYyRnNwTmF0R3pYckptbkhvTEV3Ylp0Wl9zM0Mxb3FHN3NpZmVoZFlEbUJ0RjZQZmNsMU5zNHFTdmpTbWV6S0tRbzA?oc=5
 
-### Xpanner launches autonomous pile driver for solar farm contruction
-*The Robot Report - 27.10. 11:44*
+### Transporthilfe: BA-Bachler macht die Wärmepumpe leichter - tga.at
+*GN Waermepumpe - 29.10. 11:24*
 
-Xpanner's new X1 Piling R6 robot autonomously drives solar posts with one operator, improving placement accuracy while cutting on-site labor. The post Xpanner launches autonomous pile driver for solar farm contruction appeared first on The Robot Report .
+Transporthilfe: BA-Bachler macht die Wärmepumpe leichter tga.at
 
-https://www.therobotreport.com/xpanner-launches-new-autonomous-pile-driver-solar-farm-contruction/
+https://news.google.com/rss/articles/CBMidkFVX3lxTE9PTVAyNzFwcTdTMTFtWS15ZUVYQm1EY1FkYzVzTGRZVGQ5eFF3LXBTY2RtbkMzdmlWUHBGUkxBdTRfdjJHRjcwdDFTNnNRaGlHOWRCZFo4MXp0M251UEZlMWVJSkJWN0xfeUxTM3FMbS1iMlR2T0E?oc=5
 
-### heise+ | Anker Solix Solarbank Max: Heimspeicher-Riese im Praxistest
-*heise online - 28.10. 11:00*
+### Umfrage: Photovoltaik-Betreiber offen für Direktvermarktung – aber nicht um jeden Preis
+*pv magazine - 29.10. 10:52*
 
-Die Solarbank gibt es nun in XXXL: Die „Max“ bietet mehr PV-Leistung, mehr Speicher und mehr Einspeisung. Ob mehr tatsächlich besser ist, zeigt der Test.
+Nach einer Befragung von Clever-PV würden knapp 60 Prozent von der Einspeisevergütung in die Direktvermarktung wechseln. Allerdings nur wenn sie dabei einen finanziellen Vorteil hätten.
 
-https://www.heise.de/tests/Anker-Solix-Solarbank-Max-Heimspeicher-Riese-im-Praxistest-11484676.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus
+https://www.pv-magazine.de/2026/10/29/umfrage-photovoltaik-betreiber-offen-fuer-direktvermarktung-aber-nicht-um-jeden-preis/
+
+### BAFA verlängert Beratungsförderung für kleine und mittlere Unternehmen bis Ende 2028 - openPR.de
+*GN Waermepumpe - 29.10. 10:07*
+
+BAFA verlängert Beratungsförderung für kleine und mittlere Unternehmen bis Ende 2028 openPR.de
+
+https://news.google.com/rss/articles/CBMixgFBVV95cUxPZTV6bG5TVFB5ZFRlci05TEcyMFdCeTJMVHRLeUFJWUVaNEhpYWFMa0dib0kzOVlmV0RnU2JYYjd1QXR0aXhjM0hEU1BicklYYzhyVzM4dEsxaHQ5cmJfMFltNm85ZXBfWS1aOHBMc2RwSElZcXdieXJEcTAyRGFMZWtNZkcwRlBzZ1RsbmZJeWZBajNWNHNjcUJSTHFGdjhvbV9OYTFuanc1MFg2LXhMaVUwY1Q2eGQxcmRvNGhpZk9GcXlFUUE?oc=5
+
+### BAFA-Förderung für Unternehmensberatungen bis 2028 verlängert: Was sich ab 2027 für Berater ändert - openPR.de
+*GN Waermepumpe - 29.10. 10:06*
+
+BAFA-Förderung für Unternehmensberatungen bis 2028 verlängert: Was sich ab 2027 für Berater ändert openPR.de
+
+https://news.google.com/rss/articles/CBMi2gFBVV95cUxOelJaQktUUGFpRk4xMjluQXJFUzR2UGhmeUJMVUxwdEkxOXhWaXZXNlRyV09sQzN5Unllb1JYVHRFMUdaVHYwRW9fdDFBQjlUd21YYk0tWGRic2hyZlBVX3B3TXQwZFBmeXJBRUNPQjlNY3VPcmFEZWctTzNqbmVSejMyeHd3dEh5VUFTT3JHZlJ6amFSRk9yZmNMTHZubnBEOTBnbFlqWkxfMmJVR0pNNzN2Skh1c0RxNlNLUlpWby1vTlMyQS1Wc2E1dmwtWms1RWt4RDFqdHZRUQ?oc=5
+
+### Exxosqel will mit neuer Beschichtung Solarglas bis zu 40 Prozent leichter machen
+*pv magazine - 29.10. 08:09*
+
+Das deutsche Start-Up hat eine Beschichtungstechnologie entwickelt, die Solarglas durch die gezielte Behandlung mikroskopisch kleiner Oberflächenrisse verstärkt. Die mit dem Fraunhofer-Institut für Silicatforschung ISC entwickelte Technologie könnte das Glasgewicht um bis zu 40 Prozent und das Gesamtgewicht von Photovoltaik-Modulen um etwa 30 Prozent senken.
+
+https://www.pv-magazine.de/2026/10/29/exxosqel-will-mit-neuer-beschichtung-solarglas-bis-zu-40-prozent-leichter-machen/
+
+### Wärmepumpe schlägt Gas: Selbst in älteren Gebäuden ist sie günstiger - BASIC thinking
+*GN Waermepumpe - 29.10. 04:45*
+
+Wärmepumpe schlägt Gas: Selbst in älteren Gebäuden ist sie günstiger BASIC thinking
+
+https://news.google.com/rss/articles/CBMifkFVX3lxTFBGRXhpZVBqNWtMamdtTU5IX3p3T25MdEVVbXppUHg2M01WOHQ5U05ZaWgxZVN3ZEVMdTdIdmRjVnRsT1VyRzlRMGp2VW5GZzJadjR2RHp4TTBmX3AxMGZkeS1ka0daNi1XV3Nvdm9mRVZTemNJVzdFSnlFX1B0dw?oc=5
+
+### Das gilt bei der Gebäudeabgrenzung in WEG - Gebäude-Energieberater
+*GN Waermepumpe - 29.10. 04:00*
+
+Das gilt bei der Gebäudeabgrenzung in WEG Gebäude-Energieberater
+
+https://news.google.com/rss/articles/CBMif0FVX3lxTE5NOGhVS3FmYVoyQ1k1WXlxaGlRSE9iQVhTWTZKTmlYV3dLSVIybHdhZV9yRVBsZW91TVhvdGlqLUxSU3BBS3BISTNpLU1rMkFER2t5RHBFUmVuSUx0NGVVZ3FYZXotc0c0TkJzdUxDaThob3F4cHJYeFBtbHhLX3M?oc=5
+
+### Wärmepumpen-Förderung sinkt ab 1. Februar 2027: Bonus von 16 auf 12 Prozent - Netz Trends
+*GN Waermepumpe - 28.10. 21:41*
+
+Wärmepumpen-Förderung sinkt ab 1. Februar 2027: Bonus von 16 auf 12 Prozent Netz Trends
+
+https://news.google.com/rss/articles/CBMipgFBVV95cUxNbVNJMEUzX0tpY29XemZCS0t2a2JDeV9Uem9WT0t5aTEzcURocWlnZWFULVJhcWlFUzlCaDdVS19lZ214QXRMbGtTVXcyVU5Dck9kbE1DMVBYMjloTGh1LVlBMFBVMjIzTndGRmlJMjNQcFhCLUtaMndGdkVmX3JHV1pGV0pvUWwyQ2ZmMWJrcUpUM1RYUnRqeC1wclE0SWtRWlVEMEhR?oc=5
+
+### Ab November gibt es neue Förderungen für den Heizungstausch, 2027 folgen weitere Mittel für Sanierungen. - VOL.AT
+*GN Waermepumpe - 28.10. 14:17*
+
+Ab November gibt es neue Förderungen für den Heizungstausch, 2027 folgen weitere Mittel für Sanierungen. VOL.AT
+
+https://news.google.com/rss/articles/CBMiogFBVV95cUxOZWhfYndVMVVROUhqZm9uQUxGUlNsOVRnVm5faEtPYkhMQ2NUZy1leWRXODVRYmdLWjB5d0gyMDZ2UnBnZ2xMVXNJYVRqZ2RJSnUzTVJKN3pvN0tzWGdVMHh4UWdOd21OSC0xZGIzQjktOHczbXVMLW9vaWlJdnRMeU9tY1d3aVRJdVdROFpIazFxN3Ffc1ZLOFlSZWtfR2pnVkE?oc=5
 
 ### Großer Erfolg: 1.150 Interessierte beim Wärmepumpen-Infotag im CCW - Landkreis Würzburg
-*GN Waermepumpe - 28.10. 09:38*
+*GN Waermepumpe - 28.10. 09:40*
 
 Großer Erfolg: 1.150 Interessierte beim Wärmepumpen-Infotag im CCW Landkreis Würzburg
 
 https://news.google.com/rss/articles/CBMipgJBVV95cUxNQ1M0V1Z2N0VxZEliMEd6bHhMVzhvU25TOHFfVHRCeElKYW9QZDlYUkxSVl9GSzlELUUyd1RFdzVzaDhWRW1NVHUtaDJ1TEppdXZGbDJ4QkxITm9sY0ZMT0N4WnVwMmNwYVB1UmlvQ2pib1h2bC14X2pjU0E3dnNvMUJ0ZTdOc1I1QlBBeDd3VzBLVEVNY2JBb25idC1FNkg5TWtTd2RBUWsxTF9uc0FOTnF2dk8ydFM4QkNaekhqY2JZcHJMbEJ1cHhZSURMSnZtSVNBT0d0QzlxRks3V3NSSWNzVExMbk84YXN1VFVzVHlTX2JYdEJHeGt6Z1ptSUF5RzVqQ2xQRGpCRXpBMko2bXNGWElHemRiTFl1eHNxSG5hNkZDNGc?oc=5
 
-### Pöckinger Wärmenetz bekommt 100.000 Euro – und soll bundesweites Vorbild werden - Merkur
-*GN Waermepumpe - 27.10. 14:00*
+### Zahl neuer Gewerbespeicher hat sich in den ersten drei Quartalen verdreifacht
+*pv magazine - 28.10. 13:19*
 
-Pöckinger Wärmenetz bekommt 100.000 Euro – und soll bundesweites Vorbild werden Merkur
+Von Januar bis September wurden 473 Gewerbespeicher mit einer Leistung von 135 bis 950 Kilowatt installiert. Das zeigt eine Auswertung des Marktstammdatenregisters durch Carbonfreed. Bei den gewerblichen Photovoltaik-Anlagen gibt es dagegen einen deutlichen Rückgang.
 
-https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZjQyMTZvT0ZRd1FkVW1NNVIyaE9admFQRUdLSzdYVVk5ZzRLV1JOOGFtVkV1QlNrcTRpTzllOWxGOGFsMklpWU8zWGRlVEFCLTEwd3FSanBWbk5yTm52NWNBMm1nSVBEV0ZlQU16WDlRY3BUTER1N2RMWHRaUV9OaXN4SFloWTZyUEVyR2liZHJ1WG5SeVk0UjlKQnpBVTNZX3gyYVptWW5PSS1vMXZBbDYwTGEtU2dvUHNzUGRRNThFOEhoVUNTVnBPN3cwa0xWWE1JNEJVVGxEdGZrZkV4Z2dYQmFmVzgwbDlzN09oR1g1NUE?oc=5
+https://www.pv-magazine.de/2026/10/28/zahl-neuer-gewerbespeicher-hat-sich-in-den-ersten-drei-quartalen-verdreifacht/
 
-### Heizungsförderung 2026: Wer jetzt handelt, kann sich höhere Zuschüsse sichern, febis Service GmbH, Story - lifePR
-*GN Waermepumpe - 27.10. 13:38*
+### Aufschwung am Großhandelsmarkt: Batterieerlöse im September
+*pv magazine - 28.10. 12:43*
 
-Heizungsförderung 2026: Wer jetzt handelt, kann sich höhere Zuschüsse sichern, febis Service GmbH, Story lifePR
+Im September erholten sich die Großhandelserlöse deutlich. Steigende Strompreise und größere Preisspannen eröffneten Batteriespeichern wieder attraktivere Handelsmöglichkeiten. Dr. Lennard Wilkening, CEO und Mitgründer von Suena Energy, beleuchtet die Entwicklungen am deutschen Strommarkt und ihre Auswirkungen auf die Speichererlöse.
 
-https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRUxVYmZFWkFvak82SHZiMlljUjVMa25jaHZCN25QZS1mZXNveUh4dm1rN0l3eTczbFhBY0Q5UWh3Umd1R3VPX0ozSkIxQ0lKR1RwbGlMZk90TU5ZUHA0YWtkLThsWVBJWmtXTDF1TWN5MWlOQ1hqa3hSNnRWTWVvX0JMdTNCMlA3b3FvLUJod1hXQWV2cnRmR2VlNl9PMmlmV2Y3X1RTZzY2dlhwLVhWNFVZeXlFQzRTNmxvS0U2WHgxaHN0OWM3Z1ZRMUJFQllEZmpIQnhGNzRiRk8w?oc=5
-
-### Enervis-Batteriespeicher-Index: BESS-Erlöse steigen im September leicht an – steigende Gaspreise und weiterhin relativ hohe Photovoltaik-Erzeugung stützen die Marktspreads
-*pv magazine - 27.10. 11:46*
-
-Unabhängige Einschätzung von historischen und zukünftig erzielbaren Erlösen für Großbatteriespeicher
-
-https://www.pv-magazine.de/2026/10/27/enervis-batteriespeicher-index-bess-erloese-steigen-im-september-leicht-an-steigende-gaspreise-und-weiterhin-relativ-hohe-photovoltaik-erzeugung-stuetzen-die-marktspread/
-
-### TCL Sunpower bringt 505-Watt-Solarmodul mit Rückkontakt-Technologie und 24,7 Prozent Wirkungsgrad auf den Markt
-*pv magazine - 27.10. 08:04*
-
-Der Hersteller gewährt auf die Module eine 40-jährige Garantie, die Produkt, Leistungsabgabe und Service umfasst. Die jährliche Leistungsdegradation liegt laut Hersteller bei maximal 0,25 Prozent.
-
-https://www.pv-magazine.de/2026/10/27/tcl-sunpower-bringt-505-watt-solarmodul-mit-rueckkontakt-technologie-und-247-prozent-wirkungsgrad-auf-den-markt/
-
-### Beste Wärmepumpe Hamburg: Förderung & Kosten | nuuEnergy - Handelsblatt
-*GN Waermepumpe - 27.10. 07:16*
-
-Beste Wärmepumpe Hamburg: Förderung & Kosten | nuuEnergy Handelsblatt
-
-https://news.google.com/rss/articles/CBMiekFVX3lxTE5FUngzYjVIWGNZLUYyRzl3cG0xeTdneklKSjQ5NEJPTXRFd0NQTnNuUWFQMWZqS1R6NGlPOVZ5cktrbml6aGJrTVZHOGVNSXRYS01vdTh4eWlZY3ZnU1gwX0xjeXA5UFhKSVlKV2VnMy1SM2tzYnlocjlR?oc=5
-
-### DEN sieht Verbesserungsbedarf bei neuer BEG-Förderung - Gebäude-Energieberater
-*GN Waermepumpe - 27.10. 04:00*
-
-DEN sieht Verbesserungsbedarf bei neuer BEG-Förderung Gebäude-Energieberater
-
-https://news.google.com/rss/articles/CBMikwFBVV95cUxPWlFxZUNwTEhoS0lCdmRTc3FBdW1aR1ZQWDVlY0RBaGVMRVp2QjQxYzhGRng2SDR5UnJFa2MxZDd3N29ZcTBrLWt4aWdqanREdjBWdVhFcDItZW1MYTA1eHJkbEJVR0c4SkJGVU00VDZKU0tQSV9VZzdlMnZsalJOYXI3Yk5rTUMzQ3FnRjNxNWdDa1k?oc=5
-
-### Hammer-Heizungs-Deal 3.0 - WWF Deutschland
-*GN Waermepumpe - 27.10. 03:28*
-
-Hammer-Heizungs-Deal 3.0 WWF Deutschland
-
-https://news.google.com/rss/articles/CBMilgFBVV95cUxQVzdZYndDRmtfY1g3djN6aEZhZl9ISm1oVkE0WENTNnNjR2NEc284WUljMVlTeGFENXBrWmhpQmVzU054a1hDYVFVVjNYZk84SFRfS3F0ak90OVBYVFE3bzkzalJjQUJ6d3F5RmdXU1ZBcHpBdjNBLWYybGZVcmRwT3lsMWRiSHBEdldQcDVtYno4aUJmd0E?oc=5
+https://www.pv-magazine.de/2026/10/28/aufschwung-am-grosshandelsmarkt-batterieerloese-im-september/
 
 ### Marcley bietet in Goslar gemeinschaftliche Gebäudeversorgung für 227 Wohnungen
 *pv magazine - 28.10. 08:30*
@@ -1819,12 +1873,26 @@ https://www.pv-magazine.de/2026/10/28/marcley-bietet-in-goslar-gemeinschaftliche
 
 ## RPA / Automatisierung
 
-### ServiceNow und Google Cloud: Gemini Enterprise verknüpft Branchen-Workflows - ad-hoc-news.de
-*GN AI Act - 27.10. 15:56*
+### Please state the nature of the medical emergency: Google is building a robot medic for NASA
+*The Register - 28.10. 20:44*
 
-ServiceNow und Google Cloud: Gemini Enterprise verknüpft Branchen-Workflows ad-hoc-news.de
+The AI medical assistant is still being tested. Now the space boffins want to give it hands
 
-https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGV6THNHamZtdDNJTWdQNjYxb1RCVFNIRU9XeVFUNlFaa0VCQ2ZVOTFVc3NUWVpqeC1oY1AyeGVrdFNoNjF5RlJGT3dZTm0tQTNrOURWR1dXbG9IeElZWGNmN0IxQ1c3Wm5rY05LUG9GNUUxVzdPNGxlVHowcDRUQ18wSGhhcHdWak55cFJ0WVl1b3F2QlpxdF9ZOUh5SWEwaWR3TVl1OXc?oc=5
+https://www.theregister.com/offbeat/2026/10/28/please-state-the-nature-of-the-medical-emergency-google-is-building-a-robot-medic-for-nasa/5306130
+
+### Warp Sciences emerges from stealth, to apply robotics to drug research
+*The Robot Report - 28.10. 16:28*
+
+Warp Sciences has co-founders from OpenAI, Meta, and more, plus funding to build infrastructure for automated drug discovery in the U.S. The post Warp Sciences emerges from stealth, to apply robotics to drug research appeared first on The Robot Report .
+
+https://www.therobotreport.com/warp-sciences-emerges-stealth-apply-robotics-drug-research/
+
+### Open Source Diktier-App: So hat sich ein Produktmanager seinen KI-Workflow aufgebaut
+*t3n - 29.10. 07:00*
+
+Produktmanager Jan Werner nutzt in seinem Arbeitsalltag nahezu rund um die Uhr die KI-Diktier-App Freeflow. Warum er von Wispr Flow auf die Open-Source-Lösung u weiterlesen auf t3n.de
+
+https://t3n.de/news/open-source-diktier-app-freeflow-1770271/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
 
 ### Japan experiments with autonomous AI chainsaw-wielding robots
 *Tom's Hardware - 28.10. 09:40*
@@ -1840,19 +1908,26 @@ InterSystems und Comsysto Reply zeigen KI-gestützte Prozessautomatisierung auf 
 
 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWm11ZzFWX0xBUVphZVNxVF9TVWpsYzJQRjF2NVFBbm90Tm10MVJfakxhVVlhSnlhendtYXROU3FITW41RFA3XzljRUxDelNPdG1Ud1g5V29VcndCMkxtQU9xRmx6d1BlYXdfdGZhdlUxUzI4Y1Z3REpFU2VBcjM5ZE5OTm41N2pXaDdEdnNXaGVVb0t5TkhmMVdocFJQUXlMR3BDSVRQV1JocHpLQk9JekxubmdXTG52WlNkeTlWZ3dsSWo5cW5hcmdXQXRrM0sydlBWaWtVMVc4SW5pZFlmbnNkdVlqcEU3Q2RJ?oc=5
 
-### UiPath-Aktie über 50-Tage-Linie - boerse.de
-*GN RPA - 27.10. 07:33*
+### IMI-Umsatz durch Wachstum bei Prozessautomatisierung und Klimaregelung gestützt - MarketScreener Schweiz
+*GN RPA - 29.10. 10:13*
 
-UiPath-Aktie über 50-Tage-Linie boerse.de
+IMI-Umsatz durch Wachstum bei Prozessautomatisierung und Klimaregelung gestützt MarketScreener Schweiz
 
-https://news.google.com/rss/articles/CBMigAFBVV95cUxPaXZkemVETzNvVmJjeWo4LUpmdVcxeE9GOVUyQzVWbjc2SUhXai1lYUFnTU1fSGEteWNsa1JyejlEc0xvdHFaZVdEaU5jM3NYYTM3VElCTDZhbVA1MFNnOVdaNWNidDdFUmVLRkN4NXg5OHZfM2pvcEhpT1ZNTG5Icg?oc=5
+https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb3laal9RZW5sR3pMTHZpZ2pCRHJIUjl4c1phMWJ6dEk4ZUxrcnV6dkJUeTNFN3c3X3p4bDBDRmNCaWR3U0ZTemgzWjNueDZnYmJuSDRuWDF6b2VESk5FSzhkOTZ0LUNpNVhJTEt3SEp3N1ZDd0Q4bEI1blBBUlB6dTd1Vk5xbDhGNUlib1lrSWJCcFNnZGNScEs0ZXpzWjQySTZxZDNKWW9Lb3labXJiMVZwUEkwa0NDakl1aU9MbkpfdzV6N2ctSXB1bllYbzNtZFd6d0E2SWlmZDJ4VGRz?oc=5
 
-### Robotaxis: Musk sieht Konkurrenz mit Waymo als "keinen echten Wettkampf"
-*golem.de - 28.10. 10:43*
+### UiPath-Aktie unter 50-Tage-Linie - boerse.de
+*GN RPA - 29.10. 07:29*
 
-Eine Grafik zu Fahrdaten von Teslas Robotaxis und Waymos Fahrzeugen in Austin wird von Tesla-Fans gefeiert. Zur Wahrheit gehört aber mehr. ( Cybercab , Elektroauto )
+UiPath-Aktie unter 50-Tage-Linie boerse.de
 
-https://www.golem.de/news/robotaxis-musk-sieht-konkurrenz-mit-waymo-als-keinen-echten-wettkampf-2610-214591.html
+https://news.google.com/rss/articles/CBMigAFBVV95cUxQRXZvVWVmcDVZQVE3WEVkUkRJd1BiNUw5MXEzeGl4cEp5VkNTaHhsZDJuaENWUnBqcENKRVZfSlFZekJkajBMbmx0a1l6a0hGZFdRV0E5Yms0ZzNDbnlkUzkxVk8tUXE2YXNTOXI2d2NsbmkzNUx3X1g2MlNDZVRlRQ?oc=5
+
+### (g+) Samsung-Klinik entwickelt OP-Roboter: "Roboter, das Skalpell bitte!"
+*golem.de - 28.10. 17:00*
+
+In Südkorea sollen humanoide Roboter künftig bei Operationen assistieren. Nikkei Asia zeigt in unserer heutigen Leseempfehlung, was sie bereits können. Von Nami Matsuura ( KI , Instant Messenger )
+
+https://www.golem.de/news/samsung-klinik-entwickelt-op-roboter-roboter-das-skalpell-bitte-2610-214609.html
 
 ### it-sa: Automatisierte Cyber-Angriffserkennung für IT-/OT-Sicherheitsarchitekturen
 *silicon.de - 28.10. 08:41*
@@ -1861,78 +1936,64 @@ Echtzeit-Erkennung und Sicherheitsbewertung von Angriffen auf Basis intelligente
 
 https://www.silicon.de/41724250/it-sa-automatisierte-cyber-angriffserkennung-fuer-it-ot-sicherheitsarchitekturen
 
-### Karriere gegen den Strom: Wie diese Künstlerin zur preisgekrönten Robotik-Forscherin wurde
-*t3n - 28.10. 06:30*
+### North American robot orders climb 24.8% in Q3 of 2026, says A3
+*The Robot Report - 28.10. 18:59*
 
-Buse Aktaş ist Künstlerin und Ingenieurin. Für eine der diesjährigen Trägerinnen des Preises „For Women in Science“ ist das kein Widerspruch, sondern eine notwendige Ergänzung. Was dahintersteckt, hat sie uns erklärt. weiterlesen auf t3n.de
+Robot demand from automotive component manufacturers nearly doubled in Q3, as other sectors posted strong gains, reported A3. The post North American robot orders climb 24.8% in Q3 of 2026, says A3 appeared first on The Robot Report .
 
-https://t3n.de/news/karriere-gegen-den-strom-wie-diese-kuenstlerin-zur-preisgekroenten-robotik-forscherin-wurde-1769883/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
+https://www.therobotreport.com/north-american-robot-orders-climb-24-8-q3-2026-says-a3/
 
-### ANYbotics begins delivering ANYmal X legged robot for explosive atmospheres
-*The Robot Report - 27.10. 14:29*
+### What Symbotic’s Walmart growth teaches robotics startups about anchor customers
+*The Robot Report - 28.10. 18:40*
 
-ANYbotics has designed the ANYmal X inspection robot to comply with the strictest safety standards of the oil, gas, and chemical industries. The post ANYbotics begins delivering ANYmal X legged robot for explosive atmospheres appeared first on The Robot Report .
+Symbotic’s growth with Walmart shows how an anchor customer can fund a robotics startup’s scale while creating risks around customer concentration, contractual restrictions and the challenge of building a diversified, repeatable business. The post What Symbotic’s Walmart growth teaches robotics startups about anchor customers appeared first on The Robot Report .
 
-https://www.therobotreport.com/anybotics-begins-delivering-anymal-x-legged-robot-explosive-atmospheres/
+https://www.therobotreport.com/what-symbotic-growth-with-walmart-teaches-robotics-startups-about-anchor-customers/
 
-### When file infrastructure becomes the bottleneck
-*The Register - 27.10. 13:00*
+### WorldOracle Tests Whether World Models Can Reliably Predict Real-World Executions
+*The Robot Report - 28.10. 13:44*
 
-Legacy NAS, VPNs, and file-sync workflows leave hidden costs in their wake. Is the way your organization manages files still fit for purpose?
+In one case showcased by WorldOracle, a robot's grasp missed, yet the world model predicted that the robot had successfully picked up the fruit. The post WorldOracle Tests Whether World Models Can Reliably Predict Real-World Executions appeared first on The Robot Report .
 
-https://www.theregister.com/storage/2026/10/27/sponsored-when-file-infrastructure-becomes-the-bottleneck/5305523
-
-### Embotech and BMW move 1M vehicles with automated driving technology
-*The Robot Report - 27.10. 12:45*
-
-Embotech is automatically moving 3,500 vehicles around the clock daily across four BMW sites in the U.K. and Germany. The post Embotech and BMW move 1M vehicles with automated driving technology appeared first on The Robot Report .
-
-https://www.therobotreport.com/embotech-bmw-move-1m-vehicles-automated-driving-technology/
+https://www.therobotreport.com/worldoracle-tests-whether-world-models-can-reliably-predict-real-world-executions/
 
 
 ## Sicherheit
 
-### Bithumb hacked through employee system as South Korean financial firms face cyberattacks
-*CoinDesk - 28.10. 05:10*
+### Sources: the Pentagon is treating the late August freezer malfunctions across 6+ military bases as a suspected cyberattack and is working with French police (Reuters)
+*Techmeme - 29.10. 11:25*
 
-The breach hit an internal employee system that Bithumb says is separate from its trading platform, while the exchange is still determining whether customer information was exposed.
+Reuters : Sources: the Pentagon is treating the late August freezer malfunctions across 6+ military bases as a suspected cyberattack and is working with French police — The Pentagon is treating the spate of mysterious freezer malfunctions that spoiled food at military bases across the United States …
 
-https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks
+https://www.techmeme.com/261029/p21#a261029p21
 
-### Day 2 of canceled classes at University of New Mexico after Health Sciences Center cyberattack
-*The Register - 27.10. 16:15*
+### Angriffe auf Linux- und VMware-ESX-Schwachstellen
+*heise online - 29.10. 07:34*
 
-University hospitals once again accepting patients after initial ambulance diversion, but recovery to continue in phases
+Die IT-Sicherheitsbehörde CISA warnt vor Angriffen auf Lecks im Linux-Kernel und VMware ESX. Dieses Mal sind Hintergründe bekannt.
 
-https://www.theregister.com/cyber-crime/2026/10/27/day-2-of-canceled-classes-at-university-of-new-mexico-after-health-sciences-center-cyberattack/5305690
+https://www.heise.de/news/Angriffe-auf-Linux-und-VMware-ESX-Schwachstellen-11503947.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
 
-### Angriff auf PXE-Boot: 16 Jahre alte Uefi-Lücke gefährdet unzählige Server
-*golem.de - 28.10. 10:28*
+### Rollende Sicherheitslücken: Autos lassen sich immer noch über Infotainmentsysteme hacken
+*t3n - 29.10. 06:30*
 
-Eine kritische Sicherheitslücke lässt Angreifer aus der Ferne Schadcode in PXE-Bootprozesse schleusen. Details wurden versehentlich zu früh geleakt. ( Sicherheitslücke , Computer )
+Seit 2019 geht die Zahl der bekannten Software-Sicherheitslücken bei Autos zurück. Grund zur Entspannung ist das nicht, denn auch die Art der Lücken hat sich verändert. weiterlesen auf t3n.de
 
-https://www.golem.de/news/angriff-auf-pxe-boot-16-jahre-alte-uefi-luecke-gefaehrdet-unzaehlige-server-2610-214589.html
+https://t3n.de/news/rollende-sicherheitsluecken-autos-lassen-sich-immer-noch-ueber-infotainmentsysteme-hacken-1770473/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed
 
-### heise-Angebot: iX-Workshop: Lokales Active Directory gegen Angriffe absichern
-*heise online - 28.10. 09:00*
+### GitLab Security Incident: Attempted Exploitation of CVE-2026-97229
+*Hacker News - 28.10. 23:45*
 
-Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.
+Article URL: https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html Comments URL: https://news.ycombinator.com/item?id=50282544 Points: 190 # Comments: 89
 
-https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-11480210.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
+https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html
 
-### Angreifer nehmen Brotli-, Adobe-Commerce- und Magento-Lecks ins Visier
-*heise online - 28.10. 08:03*
+### Serial ransomware crook gets 70 months behind bars for Nefilim, Hive roles
+*The Register - 28.10. 15:52*
 
-In freier Wildbahn wurden Angriffe auf kritische Sicherheitslücken in Brotli, Adobe Commerce und Magento beobachtet. Updates helfen.
+Artem Stryzhak joined both gangs, which targeted businesses and a hospital during the pandemic
 
-https://www.heise.de/news/Angreifer-nehmen-Brotli-Adobe-Commerce-und-Magento-Lecks-ins-Visier-11502623.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
-
-### php2shell aus Sicht eines Hosters: Ruhe bewahren, aber nicht verschlafen
-*heise online - 28.10. 06:31*
-
-Die gravierenden php2shell-Sicherheitslücken zwangen Hostinganbieter zum Handeln. Das stellt die Update-Prozeduren auf die Probe – und die Kundenkommunikation.
-
-https://www.heise.de/hintergrund/php2shell-aus-Sicht-eines-Hosters-Ruhe-bewahren-aber-nicht-verschlafen-11501861.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
+https://www.theregister.com/cyber-crime/2026/10/28/serial-ransomware-crook-gets-70-months-behind-bars-for-nefilim-hive-roles/5306050
 
 
 ## Prozesse und ERP
@@ -1944,25 +2005,18 @@ Maxsolar versorgt den IT-Konzern mit Strom aus zwei Solarparks. Zusammen haben s
 
 https://www.pv-magazine.de/2026/10/28/maxsolar-und-sap-schliessen-solarstrom-ppa/
 
-### TechEd 2026: SAP fronts tabular data model in space as it bids to make autonomous enterprise real
-*Computer Weekly - 27.10. 11:45*
+### Sources: Bloomberg, Susquehanna, and Jump Trading signed up for Truth Social's fast API feed of President Trump's posts, paying $60K to $100K per month (Reuters)
+*Techmeme - 29.10. 09:15*
 
-At TechEd 2026 in Berlin, SAP unveiled AI developments including deploying its RPT-2 tabular data AI model aboard the International Space Station
+Reuters : Sources: Bloomberg, Susquehanna, and Jump Trading signed up for Truth Social's fast API feed of President Trump's posts, paying $60K to $100K per month — Truth Social, the social media platform founded by President Donald Trump, has signed up news and data provider Bloomberg and two Wall Street firms …
 
-https://www.computerweekly.com/news/366652852/TechEd-2026-SAP-fronts-tabular-data-model-in-space-as-it-bids-to-make-autonomous-enterprise-real
-
-### GitHub-App in Teams: Alte Schnittstelle wird am 16. November eingestellt - ad-hoc-news.de
-*GN AI Act - 26.10. 23:29*
-
-GitHub-App in Teams: Alte Schnittstelle wird am 16. November eingestellt ad-hoc-news.de
-
-https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbGtHQm9mQUVnLWxad1dmVlhfLW9Vb1ltYVE1aEFETG9FVDJnZ2l5dElZUHZIeDZPYzZ0TzZ5WHh5UzdjU0R3VEk1elRBcmtob1F0c2NycnFyRk80VG5XdHlaeXktMUR0RUZRc3JVbVBSUHdwMk9ScmNKaUNZNmw3WGU3ZDZFbThFZVBOZ3ZrZ3NsY21hYjM1ckRsSDdVeTd5cUZQcGpBM09GY0lUYmhhcXgwTkYwQnpHdU9r?oc=5
+https://www.techmeme.com/261029/p13#a261029p13
 
 
 ---
 
 ## Quellen ohne Antwort
 
-- AI News: HTTP 502
+- AI News: ValueError
 - VentureBeat AI: HTTP 429
 - Tech Policy Press: ValueError
