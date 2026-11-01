@@ -1,293 +1,8 @@
-# Rechtslage 31.10.2026 10:56
+# Rechtslage 01.11.2026 11:50
 
-113 Meldungen aus 18 Quellen, Zeitraum der letzten 96 Stunden.
+84 Meldungen aus 18 Quellen, Zeitraum der letzten 96 Stunden.
 
 ---
-
-## Gesetzgebung Bund
-
-### Startchancen-Gesetz: Bundesrat kritisiert Ausstieg aus der Förderung nach acht Jahren - ad-hoc-news.de
-*GN Bundestag Gesetz - 30.10. 06:00*
-
-Startchancen-Gesetz: Bundesrat kritisiert Ausstieg aus der Förderung nach acht Jahren ad-hoc-news.de
-
-https://news.google.com/rss/articles/CBMizAFBVV95cUxNaHhrQVVURXhINEF6Y0lCSXZXdUxkM05QaXMybTVZczhOSnRCVWJZMmJ6V0VRdWRBZkhVRE9mUHdyaFBtTnRZYmJnX0RGY1NQM1lHOWxrQXNtaEtrMzhRLWM4aUJUQ183eU1Kb0U3TUE5YVdKTGprNklfSmpQdS1ucFlSUnVPTDJJaXRGVjhMSFRKOExrcGlDN2RIMlZZc1VrZnBMdHlSRE5Hd0RFdllvVE5IRGpTNHNua0cteVh5MUhvNWFwbWNIVV9LTGM?oc=5
-
-### BFH zur Verjährung im Steuerrecht - LTO.de
-*GN Steuer und Arbeit - 29.10. 17:49*
-
-BFH zur Verjährung im Steuerrecht LTO.de
-
-https://news.google.com/rss/articles/CBMikwFBVV95cUxQeHhkck5GUS1nWnB6aC01MUN2bEpVNTBrRGlRckZPUjFCenFSYmxpM1VVRllwWGFna1B2YjZqa2xKNGZYQjQzYkxRbkQwcDM2V3p6RmQ1WVd1VlRjQ0k0UEJlVkFhR2NJLUU1MEJzYUlPbkZUMmtvWF9fd0lCd1lLdnFaN2tYXzd5bzNGRlJkemdwUEU?oc=5
-
-### Bundesrat lockert Arbeitszeitregeln für Schweizer Start-ups - imTicker
-*GN Bundestag Gesetz - 29.10. 10:02*
-
-Bundesrat lockert Arbeitszeitregeln für Schweizer Start-ups imTicker
-
-https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa2h2MjZNWHlZR1JhMnE1d3gzRFVldVE0VVlDaklfeVpJbmctc2VKWVJVZXBGMGFjTmFjVFlFeUVyZFkxZzc4RmtGTUExU0RCV1MtNlhkNUpwYkMyRWlnV0RnblhiVjJobUM1bU5UMWhha2p1SlNLRS1ua2NvY2ZyMERKc1d0dE1f?oc=5
-
-### 21/8826: Unterrichtung Entwurf eines Gesetzes zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029 - Drucksache 21/8236 - Stellungnahme des Bundesrates und Gegenäußerung der Bundesregierung (PDF)
-*BT Drucksachen - 28.10. 11:00*
-
-https://dserver.bundestag.de/btd/21/088/2108826.pdf
-
-### 21/8822: Verordnung Verordnung zur Umsetzung der Richtlinie (EU) 2024/1785 und zur Umsetzung des Durchführungsbeschlusses (EU) 2022/2427 (PDF)
-*BT Drucksachen - 28.10. 11:00*
-
-https://dserver.bundestag.de/btd/21/088/2108822.pdf
-
-### Update BEM mit aktueller Rechtsprechung - LTO.de
-*GN Recht Fachpresse - 31.10. 09:04*
-
-Update BEM mit aktueller Rechtsprechung LTO.de
-
-https://news.google.com/rss/articles/CBMilwFBVV95cUxNZHYtUzFNbUJRaHNTb3lfVlpFVTItWUZlaFdWRXdYSWNHQUQ0UzFUZnk1al90b2J3MHJfUUpSUW1LSzRxYlhFdnpHRVVnT3h5aTBoYnVPNlRZLWI3VEwtTTBoX2dSaG5Rd0d6N0x1ZnJ5U054MVd3cW5JelRrdmIyQXpqeUtwdWpCYzFzaklkZm9ReU1wUW93?oc=5
-
-### Bundesrat erleichtert Herausgabe elektronischer Daten an EU-Behörden - imTicker
-*GN Bundestag Gesetz - 31.10. 08:36*
-
-Bundesrat erleichtert Herausgabe elektronischer Daten an EU-Behörden imTicker
-
-https://news.google.com/rss/articles/CBMilAFBVV95cUxPRHlkcHVNN3ZKWWN3amlaQlJ4Z0RXMmh4SmVQbVhzYlhZN3Bha1g0dGtCQUMtTlM0QTZlSHY2TFlDUUtia2Z4WFNzRVh3a2tPc2FFei10cEJ6b3F6SXUydzAwczJmMWlDQXB0aU5VSGhNNVdYakw0UmNZeGVmUTlzVXJLTXB3bFpQblFjT1kzMjltZENO?oc=5
-
-### Millionen Raucher betroffen – Regierung muss Gesetz korrigieren - Karlsruhe Insider᠋
-*GN Bundestag Gesetz - 31.10. 07:50*
-
-Millionen Raucher betroffen – Regierung muss Gesetz korrigieren Karlsruhe Insider᠋
-
-https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaXY1Y1BudW1fTjVLLURadHp3MnFVdjg1QzluaEExY195UGptbEtBeHFWV0tUTUltRDVwTEhRLUpSQmxXR0g0b1phTG1ZN1FaRzZxWWZnNWRHTjNlQUg5QWpqbE4wekJoWjlzVGlBX01GSXdtNENGSHBMVDBBQml6emlvUTBucUdyaGlVNDU2OFlZcXh2WnRueWJma0o4SFlaRFZueXoxNkZLQQ?oc=5
-
-### Offshore-Windenergie: Bundesrat verlangt mehr Planungssicherheit - EU-Schwerbehinderung
-*GN Bundestag Gesetz - 31.10. 02:40*
-
-Offshore-Windenergie: Bundesrat verlangt mehr Planungssicherheit EU-Schwerbehinderung
-
-https://news.google.com/rss/articles/CBMixwFBVV95cUxOaGJrbkRMSU0zVVlIbkFvdGkzZU9YSUJSY2FJMHNBOVhPbVdHSjZ0SW1LYVd1VWFsTnJXTGtJbURZQ2cwRHF0VG1uVkJudVNLSGx1dEUzVUV6WC1hdmlPQ0o3Z3h2UHYtWlA5bm1CQ1ZPdGpiYzdYaHY5alZrLTZJUFNGdnF6b2RYejcwalpRSEVWLTVFOWM5RGVIWEM4Z2dIQnZSYTJGbnIySFlZY0dfZ1Yta3I2SW1kNm1QQnRqbklPOFE3bTVj?oc=5
-
-### DFB: Regionalliga-Reform soll kommen – aber weiter Uneinigkeit über das Modell - MDR.de
-*GN Novelle Reform - 30.10. 16:45*
-
-DFB: Regionalliga-Reform soll kommen – aber weiter Uneinigkeit über das Modell MDR.de
-
-https://news.google.com/rss/articles/CBMihAFBVV95cUxQSTZwX21ZaGdRTTB5UVc2NkZ3RUlnbC04S2syNjRMZjZuZThEUkZxSHcxV3hZNEZoNTF6WENzZmVEbEdYSld4MEtPclZlXzQ4MGFXOG1fMklWdEFHMUZMOEdhSTFPRXVjamJvaUhreHM2TmEwNml3dWkzQnA3U1QweUJqbFc?oc=5
-
-### Neue Sportanlage, Kampf gegen Misteln und Hundesteuer: Das hat der Rat in Wiernsheim beschlossen - PZ-news.de
-*GN Steuer und Arbeit - 30.10. 16:23*
-
-Neue Sportanlage, Kampf gegen Misteln und Hundesteuer: Das hat der Rat in Wiernsheim beschlossen PZ-news.de
-
-https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUzVOT3F1ZnhqdDd6VWlPN2RFSktTTEJIRy1KN01XME1VRDNkeEQtNzJnaU9OUldqZ29tNTQ4b045OVB2R01KejBQa1NISzJlVGg1WnFOOEtsbUlneGt6SEFDWDc5RTg5NFM5Nm5iUzRZUG5BU09HMndFYjQ5N0Q0aWZPTGZCekFhYS1yRVJLMG1QOFBCcXBHNjhQdG1rLW5jLWlIamdWN251ZjBnNktwMEZydk1tS0w1Q1NrOEtwZlU5RnhnZHRNLWQzYXgxVFoyOWFzOTFRSHBMLUU5QzlzWU8zblMycFU?oc=5
-
-### "Kompassmodell" kommt in Bundestag zur Abstimmung - auch Gegenmodell angekündigt - MDR.de
-*GN Novelle Reform - 30.10. 13:43*
-
-"Kompassmodell" kommt in Bundestag zur Abstimmung - auch Gegenmodell angekündigt MDR.de
-
-https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ2xVY200VGV4OVg5MHlvcV9Dc3dlUzUyTk9BdUkzT0VxN1JIRk1ITkhpMjhZRnNNUDR3RnI4eWxmTkpJMjI2cWdpMWRsdmVvZ1gzQ1JTX25HQXJsY1dWRVI2NE9HMkJZT3M5YlZfNnVRdGxxV2xIZ1RUdlBWLU1NUXF6dEFNSF81TzdJ?oc=5
-
-### Japan verabschiedet offiziell ein Gesetz zur Einrichtung einer „zweiten Hauptstadt“. - Vietnam.vn
-*GN tritt in Kraft - 30.10. 13:13*
-
-Japan verabschiedet offiziell ein Gesetz zur Einrichtung einer „zweiten Hauptstadt“. Vietnam.vn
-
-https://news.google.com/rss/articles/CBMijgFBVV95cUxNMjNwSVhYOVhoMmhXMElXMjZkSEVjRGVuUWkxSENEbHpnNHJ3enU4Vzd0Y1ZNZWNkdHpueDJvdGJwWC1INThWQUl5UUlidDZhZ21wemhja1pVbEhkSzc5ZUhpOWR0WmM2Q0xWUWVLUTFTVHdkTHhGV0ZTMEY4Y1NhSHktblFIZU9oRnF5ajdB?oc=5
-
-### Bundesrat fordert Änderungen am Finanzausgleichsgesetz
-*BT heute im bundestag - 30.10. 10:56*
-
-Finanzen/Unterrichtung Der Bundesrat fordert in einer von der Regierung vorgelegten Unterrichtungen Änderungen am Finanzausgleichsgesetz, die von der Regierung zum Teil abgelehnt werden.
-
-https://www.bundestag.de/presse/hib/kurzmeldungen-1230266
-
-### Bundesrat verlangt Änderungen bei Zuschlagsbesteuerung
-*BT heute im bundestag - 30.10. 10:56*
-
-Finanzen/Unterrichtung Die vom Bundesrat geforderten Verbesserungen bei der Besteuerung von Sonntags- und Feiertagszuschlägen werden von der Regierung in einer Unterrichtung abgelehnt.
-
-https://www.bundestag.de/presse/hib/kurzmeldungen-1230268
-
-### Das Gesetz zur Einrichtung einer zweiten Hauptstadt in Japan tritt in Kraft. - Vietnam.vn
-*GN tritt in Kraft - 30.10. 10:09*
-
-Das Gesetz zur Einrichtung einer zweiten Hauptstadt in Japan tritt in Kraft. Vietnam.vn
-
-https://news.google.com/rss/articles/CBMif0FVX3lxTE9Wb0Z0VjBpQmxNLUJ1dnhLWVRMMk9FQjhpaGVkMk1KOUg2YVlYS2Y5TEY0dDd5NHdqZ01TVV9BRERsN0txNjdvTEFVNFBySVVucXZGQVhZVkhkbVJFZkdURGsxeG5Zc0FMU2pPdVZSTVlmcGI2cTlvRHBfSEFGbHM?oc=5
-
-### Brandenburg Berlin: Neue Gesetze und Regeln: Das ändert sich im November - tagesschau.de
-*GN tritt in Kraft - 30.10. 05:15*
-
-Brandenburg Berlin: Neue Gesetze und Regeln: Das ändert sich im November tagesschau.de
-
-https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2lEUmQ4WEU4TU5uM0dHSHoxY2ZEQUNEWDdqRzV0Ml9ualdjZ3hHMXlzUTlVZC1CalhXb3hPUWFrcmh0MnJBQ2JvVE00aVJwQVliM2ZTZU5Fcm9yVF9lTEhOWklXS2gyUHlzQmphY0VfT3RZSFF5eWN1c0Y3ejdXeTlpZW05OHFJZThPTndmcmVxeGJYQXNCeS1WM2YwT0x2YWRIcWtsOHZ2LU1JSnU3S0dOc2pJakMzblU4?oc=5
-
-### Bundesrat fordert Nachbesserungen beim Gesetz zur frühkindlichen Bildung - EU-Schwerbehinderung
-*GN Bundestag Gesetz - 30.10. 02:40*
-
-Bundesrat fordert Nachbesserungen beim Gesetz zur frühkindlichen Bildung EU-Schwerbehinderung
-
-https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVDNZSmZ6SHZOblh0N296OHFrN3dqcVpvbXd1UjQ5Tjd2WkVZM3JDdVdJV3NDNm9nRXozUUdBNmR6M0Q1aVZfUUxYQUNUai11cmtNN2Rob1RwSFVKODFDbkVVcFRNZXdWby1saFZJMS1Xbnl6MzRtNW9Jc0IzelRwa1k2aWRHZDJFSV8wSW5FOWFDWFNoUktvR3U4NG9yRnJmZENrc3VkdVhUX2RTRnFSdmlCY25YbDdDRWZVbUVxNVF0bktRRUNxWUNiOVZ4MXJiWjBpVA?oc=5
-
-### Showdown um die Regionalliga-Reform: Das wird am Freitag wichtig - MDR.de
-*GN Novelle Reform - 29.10. 14:54*
-
-Showdown um die Regionalliga-Reform: Das wird am Freitag wichtig MDR.de
-
-https://news.google.com/rss/articles/CBMimwFBVV95cUxNWDVrTlc3Y1diVU1LMHhRMDE4azAyZzIxM0xuZ1RrNHRYaEg1RVZNdVN0RFktWDBfZUJNLVU0WEdpbUJDeE4zSnJUT1p6aGtjc2NOUFR5a3dLTkgyYWgtZHViZ2VfVGgyY1lMeUk5OTNRRFlocFlXbEtSNnhiRk9QVkFZaGlYaDhlRVVXQWc3TW9VSDM5bTZnZmt4UQ?oc=5
-
-### Bundesverfassungsgericht deutet Änderungen bei der Erbschaftsteuer an - was sich für Erben ändern könnte - Gegen Hartz IV
-*GN Steuer und Arbeit - 29.10. 14:49*
-
-Bundesverfassungsgericht deutet Änderungen bei der Erbschaftsteuer an - was sich für Erben ändern könnte Gegen Hartz IV
-
-https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdlJvUzBmOXVNSEhkQUhHLWkyNFl1b2pBMjF4Qi1vMXQ4Q2QtSFI4OVEzTTNKSk8wUUtTV1RfSU4yM0gta20wUnpYYWl3MjZ5NFJBREdaanowNzZoWFhQajE1NEE4SlNENGJJUnpTOUh1NlJPbUZzX3RPbGttNGd1aVRoT3RVYXczdVY2ektmVzJzNFhQeS1CS1pWU0UtVDZ1N2xsVzYxNmxpVVlIdnZrWWpvb0hyMDZsNncyYnh0VmQ1WDhZa1QwWHR4enpKZHlZZV9fM3ZMNXk?oc=5
-
-### Bundesrat genehmigt Anpassungsstrategie und Massnahmen zu Hitze und Trockenheit - Walliser Zeitung
-*GN Bundestag Gesetz - 29.10. 11:16*
-
-Bundesrat genehmigt Anpassungsstrategie und Massnahmen zu Hitze und Trockenheit Walliser Zeitung
-
-https://news.google.com/rss/articles/CBMirAFBVV95cUxPcENHVnNJenR0UHBtSkZ2RFp1NnRzWlhTV18zRE54X3JYNnZWUmVYX0FBZi1QeTJsenZtdmlURmVWalc4T1NzT3R4S2VhTGxNc09oSEg1NmYxdl8tUkgwOVV6aUZPeWllMjlLc1F3Q3hleW0xMEl1YjJZTlZTYWVxVWhubHFzd0toNHBCQ3pRaFBjS3h6cEdVR3NDUldJNm5keEVNNDV1Y3NlWV9m?oc=5
-
-### Bundesrat fordert Änderungen am Start-Chancen-Gesetz wegen Länderfinanzierung - Traders Union
-*GN Bundestag Gesetz - 29.10. 10:21*
-
-Bundesrat fordert Änderungen am Start-Chancen-Gesetz wegen Länderfinanzierung Traders Union
-
-https://news.google.com/rss/articles/CBMingFBVV95cUxONjZXbGstWFhzTTQ3S2FPRU5hQlhzQUlELUtHZVE5dHcxWVM1VDdlclVHOVdzb3VJVlJyYnZzZVFVajJrMHQtbHAyY25RbUNyM0JBQ3pFWThVZTU4dDJDVldlQjJiM2ZRdF9aUGxqd1NhWlBkclRDYm9WS0dCNm1rdFctWFB5aUY1eFpzcy1aOU9YaDlrR2ltbnROc3BOQQ?oc=5
-
-### Tabaksteuer-Chaos in Deutschland: Gesetz gilt – der Zoll soll es ignorieren - LUDWIGSBURG24 | Online Nachrichten
-*GN Bundestag Gesetz - 29.10. 09:01*
-
-Tabaksteuer-Chaos in Deutschland: Gesetz gilt – der Zoll soll es ignorieren LUDWIGSBURG24 | Online Nachrichten
-
-https://news.google.com/rss/articles/CBMipgFBVV95cUxPYk5HbnNfa2FuNjNzTFEyRUxQQ0VUbTBsOHZHd1ZiUnJoQTNCTC1CNmg3cTRnWjdabGtWeVpkdU5hS19mTUk0OVUzSUtXeWxKQnc3bll4MldMcG9TOXVsa0RONHNqOUotWXFjRG4xUm50Vll4SlVlaUI1a2xGVjQzZzNDWjJqNFBTdW0yZ0FqT3NRRkx6MTJDT0Y1bUtiLUg4cXlzN1Fn?oc=5
-
-### Gesetz soll Beschneidung regeln - Schweiz heute
-*GN Bundestag Gesetz - 29.10. 05:31*
-
-Gesetz soll Beschneidung regeln Schweiz heute
-
-https://news.google.com/rss/articles/CBMiiwFBVV95cUxObURLbGlxaUszT01kSG5RY0szZTB3X1pjaWd2dzVCem1JNE9vTldXMTRqYk9sSURMSXNrV0ttTXJSVThiVkdjU1hGNkc3aDNCYVNNTHVjOWFnbERQYzd6SkVlSi1zdUVGR3FVQ3ZHZmdUYzNmR1dnM0xkWTZnNzZaWXNuMDFaSWVIMmlB?oc=5
-
-### Psychotherapeuten warnen vor Folgen der GKV-Reform - SWR
-*GN Bundestag Gesetz - 29.10. 05:00*
-
-Psychotherapeuten warnen vor Folgen der GKV-Reform SWR
-
-https://news.google.com/rss/articles/CBMiugFBVV95cUxOdmJpX0RMQUtEc1huUWR2X3Q0a1U2Z2xDelhDMjJFTlY1a21IbW5Cd0ZBRjRBZndNUTU4ODZ2QVdERTNfcmpTVTV6Q3pGUmE1WFc4cU43TXk3anJOcThua1RjU0xwaTZRdWVuU0VPanMxUjl4SkdFZG41UGM0c255NjZsOXJaRVl1TmsyZEpTU3BFaHo4ckJid0VhYkxDVWF5UWsxZXdOdmZReGwwd0NFMGRsdzBCclByaFE?oc=5
-
-### Pflegereform 2027: Welche Termine jetzt wichtig sind und wann die nächste Reform kommt - Allgäuer Zeitung
-*GN Novelle Reform - 29.10. 04:25*
-
-Pflegereform 2027: Welche Termine jetzt wichtig sind und wann die nächste Reform kommt Allgäuer Zeitung
-
-https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR25XemxFWm1EVEpGVldJQ3pRSlRVeVU1Tkd3eHRJZUNyMHNPaWMtdWNSWEdyLXYzV3habGZONzFuNWFwUGFmeTZqQWpBWWZSa0YxZDMwUm8tY2VPc2dEa2s3YVNpbmZpZWx0Yk80c3RlQkxUNkRKUmR6Zl95aUgzVFFGa2Q5UU9YT1R4dXlVamlQWGNSUFQ4enN2dHBFNzhoUDFyWTEwd3lVWUFPS0FFbkU5dDBQYkctRERsS3VTV2k?oc=5
-
-### Cannabis-Legalisierung - Seite 4086 - Aktuelles aus Recht, Gesetz und Justiz - LTO.de
-*GN Recht Fachpresse - 29.10. 02:19*
-
-Cannabis-Legalisierung - Seite 4086 - Aktuelles aus Recht, Gesetz und Justiz LTO.de
-
-https://news.google.com/rss/articles/CBMifEFVX3lxTE90Q0w2N2JlUFNYZFE5UFdNU3NGY24zWjF6cGxyWDAwY084UDg4S2swWUVWbHNIRS1ERW9pZmRic00zc3VCeE1mU3ZkaGFsMWx6eE1YdXVJQmZPX2xxaHBfWEhfT0I3ZE9rMldoTUVQaHVyQVlsbFpPcU9RbjM?oc=5
-
-### Tabaksteuer-Panne: Finanzministerium setzt auf Gesetzesänderung - ad-hoc-news.de
-*GN Bundesgesetzblatt - 28.10. 19:54*
-
-Tabaksteuer-Panne: Finanzministerium setzt auf Gesetzesänderung ad-hoc-news.de
-
-https://news.google.com/rss/articles/CBMitAFBVV95cUxPN19SVDk1M2dONlMtR1ZpeUpHdVNtQy10eVZvOWppc2JSSkdrcjJlWWdBcVQ4UXk0ZHY4VjdNSmpfYnZ0Y1lQZ2dWczc3cUpZbHhkRTl1MUpEY3NuVGFfX013YmtWT3I0QmdLUEFtNWFpaU9EaERkMm5pNVNlczFkYXR2Q2UyTWkyWWVQNnlaMDYyMjQ3bldCRTRMMF8yMVRDckpPanpZaTF3YWIyN3BvN0F1YWQ?oc=5
-
-### Bundesrat plant nach Hitzesommer eine Klima-Anpassungsstrategie - SRF
-*GN Bundestag Gesetz - 28.10. 16:37*
-
-Bundesrat plant nach Hitzesommer eine Klima-Anpassungsstrategie SRF
-
-https://news.google.com/rss/articles/CBMipwFBVV95cUxNelBRLWZRYS12aUt5Tmk3RU93NUhPLU5ucmRGZE5oSUNQd05wSUJZTy1uWEFOTEs4aXhUdWR4OXpwaGlmVFMzRGdmNkRhcHJUeEx4SzBINHd2Z0dTRWhOUzQtcEduRTFrM3FSZnRtclU1bzlZN1pZUHhaU1BSTXVjVVdncl9SSVdaWUZLS1VDSmF1aUV5VEZkOE4tdDRCZU5pUU1BNENlSQ?oc=5
-
-### Regionalliga-Reform: Bayern fordert ein Modell, das der DFB längst abgelehnt hat - Berliner Zeitung
-*GN Novelle Reform - 28.10. 13:33*
-
-Regionalliga-Reform: Bayern fordert ein Modell, das der DFB längst abgelehnt hat Berliner Zeitung
-
-https://news.google.com/rss/articles/CBMixwFBVV95cUxNYWZFWXE2dmVieFY5T3NndENCZXhtbklvcWdMV1FCSFhwanEyQTNPSkZCT1NkSHZYTHJTVHUtanpaRXg0dU4xMnB1OHc2dFFheW9kMkY5NWZvWTAtcm5KTjRCRkdieHlMZi1UMnlQNzRSdFlVankwNFhXN0dMSWhQZ0R0VGFtNmp1VzFENXczNjU5WklZLVF3VzY0MVQ1U0M5dnZ1M3RzTndZbWlLQ2FyZmxQc00zTmdYQW5fUXhmLTdJRTR3cVZN?oc=5
-
-### Bern BE: Bundesrat regelt Kompensationsgeschäfte neu - Unfallmeldungen.ch
-*GN Bundestag Gesetz - 28.10. 11:20*
-
-Bern BE: Bundesrat regelt Kompensationsgeschäfte neu Unfallmeldungen.ch
-
-https://news.google.com/rss/articles/CBMilgFBVV95cUxPaE9PTTN1bTNwZFBncnFuRE83YXZTNXA5Ul95ODRIRlIzVmRXODA2S0RzbzdrckQ1Z1MwWkd1MHlmS25KMTgtbmJVMndXUl9JM1owV2tpdXgtQW1NZE40UmFaeFkxb1UtQzY1YUI0UTloSHl2cVhjR1dNRW82S1RyMm1QczYxMnNzRlhiMUZxcW50aUdIenfSAZ4BQVVfeXFMTjZ6Z0wxdFByUldtVUdWdkpHZzlmS3gtUXFqUlJTS1hYU3pobjkwdm9VbkZiTTl2NzE2TFZkeEdmd3VnV01xR1hSNVhRUkVrV0NXdzR0U3c2VUJjZVdyTmhrVURtcUZSdG5wcmJGc2tsaGt1OFpZWHBTcl93NXdFdXdsU0kzcE9RT0RVVmdEeXhVOVp5dmRla2VKQnptVXc?oc=5
-
-### 21/8827: Unterrichtung Entwurf eines Gesetzes zur Verbesserung der Startchancen von Kindern und zur Qualitätsentwicklung in der Kindertagesbetreuung (Startchancen- und Qualitätsentwicklungsgesetz - SCQEG) - Drucksache 21/8239 - Stellungnahme des Bundesrates und Gegenäußerung der Bundesregierung (PDF)
-*BT Drucksachen - 28.10. 11:00*
-
-https://dserver.bundestag.de/btd/21/088/2108827.pdf
-
-### 21/8825: Unterrichtung Entwurf eines Gesetzes zur Optimierung und Absicherung des Ausbaus der Windenergie auf See - Drucksache 21/8238 - Stellungnahme des Bundesrates und Gegenäußerung der Bundesregierung (PDF)
-*BT Drucksachen - 28.10. 11:00*
-
-https://dserver.bundestag.de/btd/21/088/2108825.pdf
-
-### 21/8824: Unterrichtung Entwurf eines Gesetzes zur Änderung des Finanzausgleichsgesetzes 2026 (FAG-Änderungsgesetz 2026) - Drucksache 21/8237 - Stellungnahme des Bundesrates und Gegenäußerung der Bundesregierung (PDF)
-*BT Drucksachen - 28.10. 11:00*
-
-https://dserver.bundestag.de/btd/21/088/2108824.pdf
-
-### 21/8823: Unterrichtung Entwurf eines Einkommensteuerreformgesetzes 2027 - Drucksache 21/8235 - Stellungnahme des Bundesrates und Gegenäußerung der Bundesregierung (PDF)
-*BT Drucksachen - 28.10. 11:00*
-
-https://dserver.bundestag.de/btd/21/088/2108823.pdf
-
-### Tabaksteuer zu früh erhöht: Finanzministerium will Gesetz korrigieren - Hamburger Abendblatt
-*GN Bundesgesetzblatt - 27.10. 12:48*
-
-Tabaksteuer zu früh erhöht: Finanzministerium will Gesetz korrigieren Hamburger Abendblatt
-
-https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYjVVVkFocEpMSWJvWjQwNWRHSGIzNEljUFAyZWd5bVVfY25XYW9TeThpRG0yY001Ukl6MC1SVkItbG9ENnh2aTZmSXZkSUpULWNDOTREeG9sOWtiTHRjemNtZDZyMjdnbFVjMzBWOTh3NE9ILXpaVUlVTVA4TkZVdEt1b09zYXFaSXhvZWZEWFIzVHBqdGx4RUFDTm5WcHhQV2hOVlBuY2VpdGZ4OTM5bFJQME1BTlBDRGVraUhOTXFsbEVhUlhBYQ?oc=5
-
-### Finanzministerium: Tabaksteuer-Panne: Gesetzesänderung soll Fehler korrigieren - NIUS
-*GN Bundesgesetzblatt - 27.10. 12:43*
-
-Finanzministerium: Tabaksteuer-Panne: Gesetzesänderung soll Fehler korrigieren NIUS
-
-https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUFZGZTZSRmNTU3MxRGFwSmtLUW1Ua1FaYnNncmZOSklWejFYWFQwNzZNZHAwYkNnSHI3SXIzMHI4b05rTHJ0ZVZMN1FBejZ5RlRNbmJqOTUtQ21QTVB3djZkaGdmM1R2SlpWN3NNVGx2VTZvb0wtTU9IS3hhZmxVNlJmU2dIcDFFTUdF?oc=5
-
-### Wissenschaftsfreiheitsgesetz erweitert
-*BReg Artikel - 28.10. 08:00*
-
-Weniger Formulare und mehr Möglichkeiten, um internationale Spitzenkräfte für die Forschung zu gewinnen. Mit der Reform des Wissenschaftsfreiheitsgesetzes werden unter anderem flexible Vergütungsregelungen eingeführt und der Zugang zu Förderungen erleichtert.
-
-https://www.bundesregierung.de/breg-de/aktuelles/kabinett-wissenschaftsfreiheitsgesetz-2403242
-
-### Einsatz zur Stabilisierung Libyens wird fortgesetzt
-*BReg Artikel - 28.10. 10:30*
-
-Die Bundeswehr beteiligt sich weiterhin an der EU-geführten Operation IRINI im Mittelmeer. Die Bundesregierung hat beschlossen, das Mandat bis zum 30. November 2027 zu verlängern. Der Bundestag muss dem Beschluss noch zustimmen.
-
-https://www.bundesregierung.de/breg-de/aktuelles/bundeswehreinsatz-libyen-irini-2387850
-
-### Das Designrecht bekommt ein Update
-*BReg Artikel - 28.10. 10:00*
-
-Animierte Logos, digitale Oberflächen, 3D-Druck: Design entsteht längst nicht mehr nur am physischen Produkt. Das Gesetz zur Modernisierung des Designrechts entwickelt den Designschutz weiter, vereinfacht Verfahren und stärkt die Durchsetzung von Designrechten.
-
-https://www.bundesregierung.de/breg-de/aktuelles/kabinett-modernisierung-designrecht-2409304
-
-### Mission SEA GUARDIAN verlängert
-*BReg Artikel - 28.10. 09:45*
-
-Bewaffnete Streitkräfte der Bundeswehr werden sich auch künftig an der maritimen Sicherheitsoperation SEA GUARDIAN der NATO im Mittelmeer beteiligen. Das Bundeskabinett hat beschlossen, das Mandat bis zum 30. November 2027 zu verlängern.
-
-https://www.bundesregierung.de/breg-de/aktuelles/sea-guardian-2387972
-
-### Schutz der kritischen Infrastruktur wird verstärkt
-*BReg Artikel - 28.10. 09:37*
-
-Durch die anhaltende Bedrohungslage in Deutschland ist auch die Gefahr von Sabotagehandlungen gestiegen. Das Bundeskabinett hat zwei Verordnungen beschlossen, um unsere kritische Infrastruktur besser zu schützen.
-
-https://www.bundesregierung.de/breg-de/aktuelles/kabinett-aenderungen-suefv-2458814
-
 
 ## EU-Recht
 
@@ -358,15 +73,15 @@ https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1829
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2458
 
-### CELEX:32026D2471: Council Decision (EU) 2026/2471 of 12 October 2026 on the position to be taken on behalf of the European Union within the Joint Committee established by the Agreement between the European Community, of the one part, and the Government of Denmark and the Home Government of the Faroe Islands, of the other part, concerning the amendment of the provisions to implement the Protocol on veterinary matters supplementing that Agreement
-*EUR-Lex Amtsblatt L - 29.10. 23:00*
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2471
-
 ### CELEX:32026R2391: Commission Implementing Regulation (EU) 2026/2391 of 29 October 2026 making imports of certain cellulose ethers originating in the People’s Republic of China and the Republic of Korea subject to registration with a view to allowing the levy of anti-dumping duties on the imports subject to registration
 *EUR-Lex Amtsblatt L - 29.10. 23:00*
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2391
+
+### CELEX:32026D2471: Council Decision (EU) 2026/2471 of 12 October 2026 on the position to be taken on behalf of the European Union within the Joint Committee established by the Agreement between the European Community, of the one part, and the Government of Denmark and the Home Government of the Faroe Islands, of the other part, concerning the amendment of the provisions to implement the Protocol on veterinary matters supplementing that Agreement
+*EUR-Lex Amtsblatt L - 29.10. 23:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2471
 
 ### CELEX:32026D2410: Commission Decision (EU) 2026/2410 of 29 October 2026 on renewing the mandate of the European Coordinator for the Central and South-East European energy interconnectivity designated by the Decision (EU) 2025/2204
 *EUR-Lex Amtsblatt L - 29.10. 23:00*
@@ -436,13 +151,6 @@ https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2389
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1915
 
-### CELEX:32024R1183R(07)
-*EUR-Lex Amtsblatt L - 28.10. 23:00*
-
-The corrigendum does not concern the English version.
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024R1183R(07)
-
 ### CELEX:32019R0877R(05)
 *EUR-Lex Amtsblatt L - 28.10. 23:00*
 
@@ -450,15 +158,22 @@ The corrigendum does not concern the English version.
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32019R0877R(05)
 
-### CELEX:32026D2453: Decision (EU) 2026/2453 of the European Parliament and of the Council of 7 October 2026 on the mobilisation of the European Globalisation Adjustment Fund for Displaced Workers following an application from Spain – EGF/2026/002 ES/Galicia automotive ancillary
+### CELEX:32024R1183R(07)
 *EUR-Lex Amtsblatt L - 28.10. 23:00*
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2453
+The corrigendum does not concern the English version.
 
-### CELEX:32026D2456: Decision (EU) 2026/2456 of the European Parliament and of the Council of 7 October 2026 on the mobilisation of the European Globalisation Adjustment Fund for Displaced Workers following an application from Finland – EGF/2026/003 FI/Valmet Automotive
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024R1183R(07)
+
+### CELEX:32026D2377: Commission Implementing Decision (EU) 2026/2377 of 28 October 2026 granting derogations to certain Member States regarding data transmission under Regulation (EU) No 691/2011 of the European Parliament and of the Council on European environmental economic accounts (notified under document C(2026) 7464)
 *EUR-Lex Amtsblatt L - 28.10. 23:00*
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2456
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2377
+
+### CELEX:32026D2370: Commission Implementing Decision (EU) 2026/2370 of 28 October 2026 on harmonised standards for household tumble dryers drafted in support of Regulation (EU) 2023/2533 and Delegated Regulation (EU) 2023/2534
+*EUR-Lex Amtsblatt L - 28.10. 23:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2370
 
 ### EU-Canada Summit 2026: Leaders mark a historic moment in bilateral relations
 *EU-Kommission - 31.10. 09:45*
@@ -538,7 +253,192 @@ Bei der Simulation Europäisches Parlament (SIMEP) übernehmen Schülerinnen und
 https://www.bundesregierung.de/breg-de/aktuelles/simep-2026-in-potsdam-srs-hille-2459140
 
 
+## Gesetzgebung Bund
+
+### EEG-Novelle: Alternative zur Direktvermarktung - Cleanthinking.de
+*GN Bundestag Gesetz - 31.10. 11:30*
+
+EEG-Novelle: Alternative zur Direktvermarktung Cleanthinking.de
+
+https://news.google.com/rss/articles/CBMie0FVX3lxTFByZnJMajBFNklKQ3BnbExwTHQtS21yU3B6enBDS3JZcnQ4WlVrb0VGMGplSGZGTEh1WFg5ZzR0N1dZclhKS1plZEVxTF9JV2RjdUVIaFBSUzEwd05UMG5DLVVqY3UyenFpY21kRmltNWxnZGRoV19NcjBGUQ?oc=5
+
+### Startchancen-Gesetz: Bundesrat kritisiert Ausstieg aus der Förderung nach acht Jahren - ad-hoc-news.de
+*GN Bundestag Gesetz - 30.10. 06:00*
+
+Startchancen-Gesetz: Bundesrat kritisiert Ausstieg aus der Förderung nach acht Jahren ad-hoc-news.de
+
+https://news.google.com/rss/articles/CBMizAFBVV95cUxNaHhrQVVURXhINEF6Y0lCSXZXdUxkM05QaXMybTVZczhOSnRCVWJZMmJ6V0VRdWRBZkhVRE9mUHdyaFBtTnRZYmJnX0RGY1NQM1lHOWxrQXNtaEtrMzhRLWM4aUJUQ183eU1Kb0U3TUE5YVdKTGprNklfSmpQdS1ucFlSUnVPTDJJaXRGVjhMSFRKOExrcGlDN2RIMlZZc1VrZnBMdHlSRE5Hd0RFdllvVE5IRGpTNHNua0cteVh5MUhvNWFwbWNIVV9LTGM?oc=5
+
+### BFH zur Verjährung im Steuerrecht - LTO.de
+*GN Steuer und Arbeit - 29.10. 17:49*
+
+BFH zur Verjährung im Steuerrecht LTO.de
+
+https://news.google.com/rss/articles/CBMikwFBVV95cUxQeHhkck5GUS1nWnB6aC01MUN2bEpVNTBrRGlRckZPUjFCenFSYmxpM1VVRllwWGFna1B2YjZqa2xKNGZYQjQzYkxRbkQwcDM2V3p6RmQ1WVd1VlRjQ0k0UEJlVkFhR2NJLUU1MEJzYUlPbkZUMmtvWF9fd0lCd1lLdnFaN2tYXzd5bzNGRlJkemdwUEU?oc=5
+
+### Siebzehnte Verordnung zur Änderung der Sozialversicherungsentgeltverordnung
+*BGBl Teil I und II - 29.10. 00:00*
+
+Typ: Verordnung | Initiant: Bundesministerium für Arbeit und Soziales | Fundstelle: BGBl. 2026 I Nr. 324 vom 29.10.2026 | Sachgebiet: Sozialgesetzbuch
+
+https://www.recht.bund.de/eli/bund/bgbl-1/2026/324
+
+### Neues Wohnbaureglement tritt in Kraft - www.bote.ch
+*GN tritt in Kraft - 01.11. 08:49*
+
+Neues Wohnbaureglement tritt in Kraft www.bote.ch
+
+https://news.google.com/rss/articles/CBMinwFBVV95cUxPaXExUEkwSW5ncGhKSmJ5enh1bXUxajhpVm9WV2NjX0FOUGQ1SjcycVFSakFzc0VCaUdubkRNZklyTzRuU0U3ZWlLZldWdVpfMGZwajk2WXhLcDJpdG10OGRFMk5HSGpWTlhmN01OSlltT3dHVVpOa2ZRZnFMNFdLckpmRFJuRDZKMldNMEN3bFFEdVkzMU5tcEdZX01MUVE?oc=5
+
+### Pflegereform 2027: Welche Termine jetzt wichtig sind und wann die nächste Reform kommt - Allgäuer Zeitung
+*GN Bundestag Gesetz - 01.11. 04:25*
+
+Pflegereform 2027: Welche Termine jetzt wichtig sind und wann die nächste Reform kommt Allgäuer Zeitung
+
+https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ2xpVlJfemY3T0NFOHF5Y2V3UnBZU1dQSGd4MXoyblhWZUxtZjdvT2NSR2JoSkk5aHEteDE4V2Zwb0x0cnktREJOOW0yTy15b3lYc0xJVzhsWlFYdjFDYXppMnlpNHpWMWMwVnVIUjVZRDZtNjhOVm9RT1FfSVExMElsZlpXUjZEby1WOXE2QTVqV092Rm41MGxaNkNZTXhOQ3pOdTM3Z0t6RTQ4cDZIZVJsalB1NElSZlNSNHV1bW4?oc=5
+
+### Führerschein-Reform im Bundestag: ADAC erwartet bis zu ein Drittel weniger Kosten - Netz Trends
+*GN Bundestag Gesetz - 31.10. 13:34*
+
+Führerschein-Reform im Bundestag: ADAC erwartet bis zu ein Drittel weniger Kosten Netz Trends
+
+https://news.google.com/rss/articles/CBMirgFBVV95cUxQaVVBOW9IUEV5dGFMYWhrRllvY00tN0EzenNOUjhQbUpyQTREdGJTWm84Qjc3VXJuZEhKUDhVeFZSWlFPMmRSVmFrMG45RDF4R2dmWFVNVllIdzR4SWFUZ1dQbjZOanQ1MFVIbHdiRVJLdmpWY3JXdUxhdlk0bk1LS1QtbGFTal9QUVktWmVscWJEVGtJM1FQTXVkempjSldjSWZwWHlsMWhtR1BtM0E?oc=5
+
+### Bundesrat erleichtert Herausgabe elektronischer Daten an EU-Behörden - imTicker
+*GN Bundestag Gesetz - 31.10. 08:36*
+
+Bundesrat erleichtert Herausgabe elektronischer Daten an EU-Behörden imTicker
+
+https://news.google.com/rss/articles/CBMilAFBVV95cUxPRHlkcHVNN3ZKWWN3amlaQlJ4Z0RXMmh4SmVQbVhzYlhZN3Bha1g0dGtCQUMtTlM0QTZlSHY2TFlDUUtia2Z4WFNzRVh3a2tPc2FFei10cEJ6b3F6SXUydzAwczJmMWlDQXB0aU5VSGhNNVdYakw0UmNZeGVmUTlzVXJLTXB3bFpQblFjT1kzMjltZENO?oc=5
+
+### Offshore-Windenergie: Bundesrat verlangt mehr Planungssicherheit - EU-Schwerbehinderung
+*GN Bundestag Gesetz - 31.10. 02:40*
+
+Offshore-Windenergie: Bundesrat verlangt mehr Planungssicherheit EU-Schwerbehinderung
+
+https://news.google.com/rss/articles/CBMixwFBVV95cUxOaGJrbkRMSU0zVVlIbkFvdGkzZU9YSUJSY2FJMHNBOVhPbVdHSjZ0SW1LYVd1VWFsTnJXTGtJbURZQ2cwRHF0VG1uVkJudVNLSGx1dEUzVUV6WC1hdmlPQ0o3Z3h2UHYtWlA5bm1CQ1ZPdGpiYzdYaHY5alZrLTZJUFNGdnF6b2RYejcwalpRSEVWLTVFOWM5RGVIWEM4Z2dIQnZSYTJGbnIySFlZY0dfZ1Yta3I2SW1kNm1QQnRqbklPOFE3bTVj?oc=5
+
+### Minijob-Reform: Kommission empfiehlt Ende des Sonderstatus für Beschäftigte - ad-hoc-news.de
+*GN Novelle Reform - 30.10. 22:21*
+
+Minijob-Reform: Kommission empfiehlt Ende des Sonderstatus für Beschäftigte ad-hoc-news.de
+
+https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMmItVGV1VUZldWo0a29GNE5QWEwzZ3B4MFBTTXlTX3JWNUVNMHIxeXVIdFNJNTNNR0hueVJJYjAxWnhCZmQ2SVlFbHhTVzJ4SnF4TDR3NnQzLXdHLUZNejZDUnZKQW9XdE9PY01LbHBDSHFQM0V1Ulh6bEdvWVZKdnI0UWhzNWI2YmtsUEs2WDdVdEttWGFmcVoxWkVxNlc3bFlhcGpaT191SHlpc3FoR2tNUkhkbHV3ZEVpQkxQTzI?oc=5
+
+### DFB: Regionalliga-Reform soll kommen – aber weiter Uneinigkeit über das Modell - MDR.de
+*GN Novelle Reform - 30.10. 16:45*
+
+DFB: Regionalliga-Reform soll kommen – aber weiter Uneinigkeit über das Modell MDR.de
+
+https://news.google.com/rss/articles/CBMihAFBVV95cUxQSTZwX21ZaGdRTTB5UVc2NkZ3RUlnbC04S2syNjRMZjZuZThEUkZxSHcxV3hZNEZoNTF6WENzZmVEbEdYSld4MEtPclZlXzQ4MGFXOG1fMklWdEFHMUZMOEdhSTFPRXVjamJvaUhreHM2TmEwNml3dWkzQnA3U1QweUJqbFc?oc=5
+
+### Neue Sportanlage, Kampf gegen Misteln und Hundesteuer: Das hat der Rat in Wiernsheim beschlossen - PZ-news.de
+*GN Steuer und Arbeit - 30.10. 16:23*
+
+Neue Sportanlage, Kampf gegen Misteln und Hundesteuer: Das hat der Rat in Wiernsheim beschlossen PZ-news.de
+
+https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUzVOT3F1ZnhqdDd6VWlPN2RFSktTTEJIRy1KN01XME1VRDNkeEQtNzJnaU9OUldqZ29tNTQ4b045OVB2R01KejBQa1NISzJlVGg1WnFOOEtsbUlneGt6SEFDWDc5RTg5NFM5Nm5iUzRZUG5BU09HMndFYjQ5N0Q0aWZPTGZCekFhYS1yRVJLMG1QOFBCcXBHNjhQdG1rLW5jLWlIamdWN251ZjBnNktwMEZydk1tS0w1Q1NrOEtwZlU5RnhnZHRNLWQzYXgxVFoyOWFzOTFRSHBMLUU5QzlzWU8zblMycFU?oc=5
+
+### "Kompassmodell" kommt in Bundestag zur Abstimmung - auch Gegenmodell angekündigt - MDR.de
+*GN Novelle Reform - 30.10. 13:43*
+
+"Kompassmodell" kommt in Bundestag zur Abstimmung - auch Gegenmodell angekündigt MDR.de
+
+https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ2xVY200VGV4OVg5MHlvcV9Dc3dlUzUyTk9BdUkzT0VxN1JIRk1ITkhpMjhZRnNNUDR3RnI4eWxmTkpJMjI2cWdpMWRsdmVvZ1gzQ1JTX25HQXJsY1dWRVI2NE9HMkJZT3M5YlZfNnVRdGxxV2xIZ1RUdlBWLU1NUXF6dEFNSF81TzdJ?oc=5
+
+### Japan verabschiedet offiziell ein Gesetz zur Einrichtung einer „zweiten Hauptstadt“. - Vietnam.vn
+*GN tritt in Kraft - 30.10. 13:13*
+
+Japan verabschiedet offiziell ein Gesetz zur Einrichtung einer „zweiten Hauptstadt“. Vietnam.vn
+
+https://news.google.com/rss/articles/CBMijgFBVV95cUxNMjNwSVhYOVhoMmhXMElXMjZkSEVjRGVuUWkxSENEbHpnNHJ3enU4Vzd0Y1ZNZWNkdHpueDJvdGJwWC1INThWQUl5UUlidDZhZ21wemhja1pVbEhkSzc5ZUhpOWR0WmM2Q0xWUWVLUTFTVHdkTHhGV0ZTMEY4Y1NhSHktblFIZU9oRnF5ajdB?oc=5
+
+### BGH: Bei Totalschaden eines Neuwagens nur gleichwertiger Ersatz - LTO.de
+*GN Recht Fachpresse - 30.10. 13:00*
+
+BGH: Bei Totalschaden eines Neuwagens nur gleichwertiger Ersatz LTO.de
+
+https://news.google.com/rss/articles/CBMitAFBVV95cUxPYnFnTDI0a0pRbndqay1abk41Z2tjTE9IbEc1VXNfaW9Odnh5bDhXdHl2M2Z6NjR0czRibXRaLWRSbEhtNnlldW11VTBxa3JCTkdnblBwRTBIZ1FjOTFnLUlsLTBJUExQNG9xNDBiTnZUajJVMnRxM2tBenh5VHVRYkw3TlF3REFsSmp5bUo5SW55OFZzcGlLUE9PZjB6VDA0cGZjckRteVlHTnpYYUxlRGNkZ3E?oc=5
+
+### Bundesrat fordert Änderungen am Finanzausgleichsgesetz
+*BT heute im bundestag - 30.10. 10:56*
+
+Finanzen/Unterrichtung Der Bundesrat fordert in einer von der Regierung vorgelegten Unterrichtungen Änderungen am Finanzausgleichsgesetz, die von der Regierung zum Teil abgelehnt werden.
+
+https://www.bundestag.de/presse/hib/kurzmeldungen-1230266
+
+### Bundesrat verlangt Änderungen bei Zuschlagsbesteuerung
+*BT heute im bundestag - 30.10. 10:56*
+
+Finanzen/Unterrichtung Die vom Bundesrat geforderten Verbesserungen bei der Besteuerung von Sonntags- und Feiertagszuschlägen werden von der Regierung in einer Unterrichtung abgelehnt.
+
+https://www.bundestag.de/presse/hib/kurzmeldungen-1230268
+
+### Das Gesetz zur Einrichtung einer zweiten Hauptstadt in Japan tritt in Kraft. - Vietnam.vn
+*GN tritt in Kraft - 30.10. 10:09*
+
+Das Gesetz zur Einrichtung einer zweiten Hauptstadt in Japan tritt in Kraft. Vietnam.vn
+
+https://news.google.com/rss/articles/CBMif0FVX3lxTE9Wb0Z0VjBpQmxNLUJ1dnhLWVRMMk9FQjhpaGVkMk1KOUg2YVlYS2Y5TEY0dDd5NHdqZ01TVV9BRERsN0txNjdvTEFVNFBySVVucXZGQVhZVkhkbVJFZkdURGsxeG5Zc0FMU2pPdVZSTVlmcGI2cTlvRHBfSEFGbHM?oc=5
+
+### Brandenburg Berlin: Neue Gesetze und Regeln: Das ändert sich im November - tagesschau.de
+*GN tritt in Kraft - 30.10. 05:15*
+
+Brandenburg Berlin: Neue Gesetze und Regeln: Das ändert sich im November tagesschau.de
+
+https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2lEUmQ4WEU4TU5uM0dHSHoxY2ZEQUNEWDdqRzV0Ml9ualdjZ3hHMXlzUTlVZC1CalhXb3hPUWFrcmh0MnJBQ2JvVE00aVJwQVliM2ZTZU5Fcm9yVF9lTEhOWklXS2gyUHlzQmphY0VfT3RZSFF5eWN1c0Y3ejdXeTlpZW05OHFJZThPTndmcmVxeGJYQXNCeS1WM2YwT0x2YWRIcWtsOHZ2LU1JSnU3S0dOc2pJakMzblU4?oc=5
+
+### Bundesrat fordert Nachbesserungen beim Gesetz zur frühkindlichen Bildung - EU-Schwerbehinderung
+*GN Bundestag Gesetz - 30.10. 02:40*
+
+Bundesrat fordert Nachbesserungen beim Gesetz zur frühkindlichen Bildung EU-Schwerbehinderung
+
+https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVDNZSmZ6SHZOblh0N296OHFrN3dqcVpvbXd1UjQ5Tjd2WkVZM3JDdVdJV3NDNm9nRXozUUdBNmR6M0Q1aVZfUUxYQUNUai11cmtNN2Rob1RwSFVKODFDbkVVcFRNZXdWby1saFZJMS1Xbnl6MzRtNW9Jc0IzelRwa1k2aWRHZDJFSV8wSW5FOWFDWFNoUktvR3U4NG9yRnJmZENrc3VkdVhUX2RTRnFSdmlCY25YbDdDRWZVbUVxNVF0bktRRUNxWUNiOVZ4MXJiWjBpVA?oc=5
+
+### Verordnung zur Beschleunigung der Anerkennungsverfahren ausländischer Berufsqualifikationen in Heilberufen
+*BGBl Teil I und II - 30.10. 00:00*
+
+Typ: Verordnung | Initiant: Bundesministerium für Gesundheit | Fundstelle: BGBl. 2026 I Nr. 326 vom 30.10.2026 | Sachgebiet: Zahnärzte und Dentisten; Hebammen und Heilhilfsberufe; Ärzte und sonstige Heilberufe; Apotheken- und Arzneimittelwesen, Gifte
+
+https://www.recht.bund.de/eli/bund/bgbl-1/2026/326
+
+### Showdown um die Regionalliga-Reform: Das wird am Freitag wichtig - MDR.de
+*GN Novelle Reform - 29.10. 14:54*
+
+Showdown um die Regionalliga-Reform: Das wird am Freitag wichtig MDR.de
+
+https://news.google.com/rss/articles/CBMimwFBVV95cUxNWDVrTlc3Y1diVU1LMHhRMDE4azAyZzIxM0xuZ1RrNHRYaEg1RVZNdVN0RFktWDBfZUJNLVU0WEdpbUJDeE4zSnJUT1p6aGtjc2NOUFR5a3dLTkgyYWgtZHViZ2VfVGgyY1lMeUk5OTNRRFlocFlXbEtSNnhiRk9QVkFZaGlYaDhlRVVXQWc3TW9VSDM5bTZnZmt4UQ?oc=5
+
+### BGH zu Abfindungsvergleich: Anwälte müssen zu Alternativen beraten - LTO.de
+*GN Recht Fachpresse - 29.10. 11:28*
+
+BGH zu Abfindungsvergleich: Anwälte müssen zu Alternativen beraten LTO.de
+
+https://news.google.com/rss/articles/CBMirAFBVV95cUxNX3NyZklUQk1QX3VzdEM5NEt4TlJKR3A2TUZyZklJTjF3SUFJcUwxSHNDOUFJbjJoRnJVLVBTZ1YyRm5ucDFnaGxBTjVlY0RyNGJadjB4VDBkYl9hRV9hUWJXTW55ZlRoMS1vc1hqVkdQdGNKUXJrTEJzZVpoaHJ2SlV4Q0FxTWszckxPSlFLTjYzbzdmamZlNFJMcHg4TmZ6TnFIRC12UVYxS1Iw?oc=5
+
+### Bundesrat genehmigt Anpassungsstrategie und Massnahmen zu Hitze und Trockenheit - Walliser Zeitung
+*GN Bundestag Gesetz - 29.10. 11:16*
+
+Bundesrat genehmigt Anpassungsstrategie und Massnahmen zu Hitze und Trockenheit Walliser Zeitung
+
+https://news.google.com/rss/articles/CBMirAFBVV95cUxPcENHVnNJenR0UHBtSkZ2RFp1NnRzWlhTV18zRE54X3JYNnZWUmVYX0FBZi1QeTJsenZtdmlURmVWalc4T1NzT3R4S2VhTGxNc09oSEg1NmYxdl8tUkgwOVV6aUZPeWllMjlLc1F3Q3hleW0xMEl1YjJZTlZTYWVxVWhubHFzd0toNHBCQ3pRaFBjS3h6cEdVR3NDUldJNm5keEVNNDV1Y3NlWV9m?oc=5
+
+### Tabaksteuer-Panne: Finanzministerium setzt auf Gesetzesänderung - ad-hoc-news.de
+*GN Bundesgesetzblatt - 28.10. 19:54*
+
+Tabaksteuer-Panne: Finanzministerium setzt auf Gesetzesänderung ad-hoc-news.de
+
+https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUm40X2JFR1ZTeUtiMFRUYk9nOFJLcmpORHpYMXlibGpfNmFhWWZ3LURNLUtxMF96OG0wUjZGQXotU2sxM05qb0M4Qm81MkpiN0wwbGZCcF9xdE9xYlFfQlJhdVFhbDZqNzM4T3NVdzUwbU1BcUFuc0FnZnVFRGtGYzM1cGlLYmwxX3JpTnVDejF4NzFNYWdGak5TQXotQS1NdFh5UFpwN2ktUEk?oc=5
+
+
 ## Steuern und Abgaben
+
+### Rentenalter soll steigen: Was die Bundesregierung mit der Rentenreform plant - SOL.DE
+*GN Novelle Reform - 31.10. 10:51*
+
+Rentenalter soll steigen: Was die Bundesregierung mit der Rentenreform plant SOL.DE
+
+https://news.google.com/rss/articles/CBMizAFBVV95cUxNTG10MTNuUWQtaHZxVE9FYTdXZ1RPdTJxTENTMUJ2cFBmU1BlRk1tTGdMaHVSTlRubWVGWFAyR3cyYU4wZlEtbzY1V2ozdWJDSC10N191VDlmWkl5TUpVYm5YWVJDMlJyQ0ktbC1wTjNRZWEyS2dfbWhBUXJscTIwa0Nkc01QREg3MjNEWmd4QmJMdEh5MThhVVVBRm9pcTFyUmpVdWcxMVZxelA1SllLbnRhVXhrb05WeFdMU0tfbWRqcjNIajR4RTRYVW8?oc=5
 
 ### Merz-Regierung plant neue Steuer für Anleger – sie soll ab dem Jahreswechsel zuschlagen - DerWesten
 *GN Steuer und Arbeit - 31.10. 07:54*
@@ -561,20 +461,6 @@ Handwerkerleistungen: Steuerbonus soll ab 2027 von 1.200 auf 900 Euro sinken ad-
 
 https://news.google.com/rss/articles/CBMivwFBVV95cUxPOUMtMVpmcUkwRGxHemdTcDFnSnVLUTlTWEFPb0R0Z21hZmhjal9EMElHU2loM1Z2d2toSkhoUG9Rd2JGSE1JaW0xOFl5Wk1QcXZXWmROQlBjeXRfSEJKU0FsOXhjZG9lSHRkQzZDWHlMV2lMMGtrS1JMZTd3WVhPaVdtdFZUR1lFWlp2b3d4eWN6NjlhUVFEWi1IT2NxNkkxbXN2NHZDV2I5Q3BpVWkzMTdVMkNibm5RVzZrd2l5TQ?oc=5
 
-### Ausführlicher Leitfaden zur Reduzierung der zu zahlenden Steuern um 30 % für Unternehmen mit einem Umsatz unter 10 Milliarden VND. - Vietnam.vn
-*GN Steuer und Arbeit - 31.10. 04:02*
-
-Ausführlicher Leitfaden zur Reduzierung der zu zahlenden Steuern um 30 % für Unternehmen mit einem Umsatz unter 10 Milliarden VND. Vietnam.vn
-
-https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkxTeVJYNVFxTlZEVzBORWo1VHZXNWh2eFNqQV9iQWdSREc3QnRBUzZfZjJRY2hLMURRMVJ1dENxWFp1NmNQTjdVWGJ0NHFGTWthRXNsZXI1MldtZzFHYXZxS3drclNjRktBakNtVHRXTVRWdmQ0UnJpTkNpS2V5U2dtZS0wZlg4YWw5UDU1NUFTS09Od1ZmS3M4ZEpVdzNBeHVBZnREY2h3ZHB3UFBkWUx3?oc=5
-
-### In Greifenstein bahnt sich erneut eine Steuererhöhung an - Mittelhessen
-*GN Steuer und Arbeit - 30.10. 17:00*
-
-In Greifenstein bahnt sich erneut eine Steuererhöhung an Mittelhessen
-
-https://news.google.com/rss/articles/CBMiygFBVV95cUxNcDhYTnkxdnZBcmY3R2hxNnR1bm1tYk9rcENSYlg4TVBoUjhyS21aLWFWUTU0NFR1WEtJLVJBcVg5ai1scnllSU9FM1JYR29VQ0dGR2pLa3hzSHdRMmp1cERoZkFGR0RyclIxMERFRlRuenRSMUp1V0I4bUJjaThKcnJkWVBITjZ5ZFdsS2kwTlVhaW1mUmdXclNPTHB6NWV1YlRpa0ttM0dwZ0VQNFc1Q3o3VDJtT2FkVkpOTHFBaEV4SHFuZ1ZNYnpn?oc=5
-
 ### Minijob neben der Rente: Bundeskabinett beschließt nun doch schon die nächste Änderung - Gegen Hartz IV
 *GN Steuer und Arbeit - 30.10. 14:52*
 
@@ -596,33 +482,19 @@ Bratwurst-Steuer bei Feuerwehrfesten: FDP fordert Rettungseinsatz für das Ehren
 
 https://news.google.com/rss/articles/CBMiywFBVV95cUxQVy1nQ0UyOEtjYXNGSVFLV3UzWEllQ1M1cjBtZ0R4MmZLeUNMclVBMFVoS1BoeW9KMWxNdnhFZGwzcnZiQjVjTFJxaXNJR18zVmJFV05tbHd0UjE2SVZ6MVVqMzBmTE5KU2VRREtjSE9Wdmg1R28zdUdGY0Z2Q29Ba0xDT3NkLUwyaVFPQTN5eDhIVmcySmVMV1lsSzh2eG1YeHFGcDR2OWduQ1h1N1JEQjRBUGJFcHJJSXZmYVQ0M25CWE83YUtNOGNpMA?oc=5
 
+### Handwerker-Steuerbonus könnte 2027 schrumpfen - Neue Westfälische
+*GN Bundestag Gesetz - 30.10. 12:59*
+
+Handwerker-Steuerbonus könnte 2027 schrumpfen Neue Westfälische
+
+https://news.google.com/rss/articles/CBMimwFBVV95cUxQa2dxLUhpNGhmam5oT2oxTlFaX2hvaUJMOFJtdUQ5U1Q0bXhrSThSZGJuM2xPczJ0MnE2SkhYTzloWXhMRWdmZ1I1dmNNVTlJLVI0dU9qRUI4LXRKUnJHOTdodURzRzNoMjZhS1dLQktjdTR0bFY3c2ozTll3VVR3U1BFMU45T0FKTXliMXl1NC14dUZHQUxDbHlLaw?oc=5
+
 ### Steuerreform in Luxemburg - RADIO SALÜ
 *GN Steuer und Arbeit - 30.10. 12:57*
 
 Steuerreform in Luxemburg RADIO SALÜ
 
 https://news.google.com/rss/articles/CBMiY0FVX3lxTE96UlpQbmRBOEZuVy1GdC1yV2VWQjdCN1hodXE2dXM3STN2QVAxa2RscVZ1d2NxNTRlMGtpSEpnbXV1S1lQQmZzU0lfSkhoRFpONjZUdU5hdldNQVZiYmp3b19BSQ?oc=5
-
-### Rentenalter soll steigen: Was die Bundesregierung mit der Rentenreform plant - SOL.DE
-*GN Novelle Reform - 30.10. 10:20*
-
-Rentenalter soll steigen: Was die Bundesregierung mit der Rentenreform plant SOL.DE
-
-https://news.google.com/rss/articles/CBMizAFBVV95cUxQRFphSHJBS0wyR2QxMWJCU3FsRlVLOXI1eDRzQVVkZjZCeUJOZEJPOUVEcWVVWkEtNHZKcFZFQS16ZWlHWDNzQ2p6c2pyd2ZsSEt2VVl5aVR6VHp5QlVYSjB4UUtHTnE0RDUzYVZjMHBuZ1JMaVJzNExNSWVEalk0eWVwR2M0RlJjSm5lTU9rM0x2ZUZaWmI2dlRjc2NXeGo1OGVuWnhFalVncUFzeXlSQTQ3cUUyRXE4MUNWMkU3SUU1TThmZ3dSeWRkb28?oc=5
-
-### Italien plant dauerhafte Kfz-Steuerbefreiung für bestimmte Fahrzeuge - Tuningblog
-*GN Steuer und Arbeit - 30.10. 07:16*
-
-Italien plant dauerhafte Kfz-Steuerbefreiung für bestimmte Fahrzeuge Tuningblog
-
-https://news.google.com/rss/articles/CBMilwFBVV95cUxQNEhqQTdFWTFWZ0p4V0tIdElFM3laTWg2anU5UnR0a0ZPLUJxOW5OQUJLVkYtcmU3SFFDVWYwRzhoU1k1cDlEOUxaZWcwUDlaREQyUGFMZ3FsX2dmYW9xd1l4TGtzRTN1UnlqTVgzSkV3dTNSV1NaV3ZLQ2pVbEVLN0Jua3pkUDVMUGxaN0lJeUdQYjZzUGJz?oc=5
-
-### Steuerberater (m/w/d) - LTO.de
-*GN Recht Fachpresse - 30.10. 05:23*
-
-Steuerberater (m/w/d) LTO.de
-
-https://news.google.com/rss/articles/CBMizwFBVV95cUxNVnplMThJTWd0cFIyTkJ4bzhsaEtxc3JydHhKZXZYbVVoc3VtREV5TEE0Nnl4ekNoTFc5cXJ5anJEOWJaZjNJZW5EUkZGRTBQdHVMRDNQRUZ4dEY0UFZfcTVLLWF6cGY0Q2dUYlBXM00temJDaHhfZDUxZGI0Sk12cGZrcmxQUDNOSkRuMk1FSTZidl9COTFnTmhYamtqZ0ZNT0hfRmhwYVl5c3RZMjNaenFlSEZoZV9aS3RKTWFPX0lFNllWQ1FWdjlnQ20tN00?oc=5
 
 ### Diese alte Steuer-Regel trifft immer mehr Rentner: 400-Euro-Grenze greift - inside digital
 *GN Steuer und Arbeit - 29.10. 11:34*
@@ -631,13 +503,6 @@ Diese alte Steuer-Regel trifft immer mehr Rentner: 400-Euro-Grenze greift inside
 
 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeS1pVlZpMGhvaUpSTnF3ZlU1YVRyLUFpRERGam9tVERQRzNmX2hWSlZJUTdtYUY5bUFiRGoyTGlFSXlKdGxGZ2Jxc2tSRmhFajc0aUhBSktlZElJUEJwOHQzNmFDM09HS0lsay1CRWhiczhmS3E3dWRSNFFXNGxHU3NsRy1uXzdJOFJtX0FpNTlJcFpFX0t6di15RzNFZDNaOXBnOUR6Z3hLT2vSAbABQVVfeXFMTktjT1RYRUo3ZEZiTzBjY2ZrUncwd1RTbFM4UlVNVmt1cVFGelloNEhRNDNIdjN0akx2WXpTVXBYLWhIeWxzc0Y2a0h3S0wzTUhJVjlCX0xGSVktQXRsY1AyTC1zV0Z4blhLZU9RZHJCUWF6SHVMbGh1SkljXzQ0Y1g1aUpDcTFLOHRLejVsNVlSZGIzLVJTWkpPTnJxdEtWazV4Tl9qNXpwUGJ5Szcwb2o?oc=5
 
-### Es wird vorgeschlagen, neu gegründete Unternehmen für drei Jahre ab dem Zeitpunkt, an dem sie Gewinne erzielen, von Steuern zu befreien. - Vietnam.vn
-*GN Steuer und Arbeit - 29.10. 11:12*
-
-Es wird vorgeschlagen, neu gegründete Unternehmen für drei Jahre ab dem Zeitpunkt, an dem sie Gewinne erzielen, von Steuern zu befreien. Vietnam.vn
-
-https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkpsc1NCMkQ3M1JyZ1E2dVJMbzVQZ19sRkdhVnNCX2p1V0E5UklfMjl2RWZpa1lHeWFsWkRZb2c5akhxZ2s3UFNIUDVYbl9fQjFIdjdPNnZRdHN3MDQzV0cyQlN6RE5ReXdZWHZhTlROUDFLdG56RDYtc0x4aXNTemdKRDlQdnZzSjE3czZEM2UzeGV6NmRHLUp2QQ?oc=5
-
 ### Rente: Neues Verbot der Merz-Regierung – es trifft zahlreiche Empfänger - futurezone.de
 *GN Bundesgesetzblatt - 29.10. 06:43*
 
@@ -645,50 +510,15 @@ Rente: Neues Verbot der Merz-Regierung – es trifft zahlreiche Empfänger futur
 
 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNjNodF91M2pSdDdaYWRING16TnNXZldpaFNHRlg5Wm5TcHFHbHZTT2dHVE82LVN0YndkQVJibXh6WW84VDJObU1lNW5WMXQ4UUwzWk81c1Ezc2s0X3BYMkI3SFc5LUNrQ2s4VmpWaEZwcjJHVWVqdGVIdWE2eVl1eDlMWE5KQjdWdFg5ODZVNUlQTi1nV3BLSWVPSmxKS1hwZkVuSnBTVXNyZ3RGWGt5ejR1dDlza0N5bHFucnhpUGVNNlFTNWZxYTJlMkRKYXhoN2ZJ?oc=5
 
-### Schwarz-Rot in der Krise: Warum sich die Bundesregierung mit der Rentenreform so schwer tut - SWR
-*GN Novelle Reform - 29.10. 05:00*
-
-Schwarz-Rot in der Krise: Warum sich die Bundesregierung mit der Rentenreform so schwer tut SWR
-
-https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT0dnLXN3TXQxYzYtOWJpMUR4Ym5jNzYxT2FrdVY3ZC04NmFLcDZ2cVI3SjVYaDdGbUo4aDg3M0tvRW9EVzJiVVRIR0FFbGhpakJyME12MXdjZ2Q1V25qUkpqRmx1T0wxOWpWUDV3My1ha3RzQjRSemhfZUV1cW9VZ1Z0dlhYdHNob0lCNC0xSG8zNnM5SUczMWNBdGk1WUZURnlJQ1U5MU9ZLXBOWHVoSWtMRGxGVElwRU9nbkJlVnFGT3VZUnlMdU5hY1ZyUTdK?oc=5
-
-### Wie muss die Rentenreform umgesetzt werden, um zukünftige Generationen zu entlasten und abzusichern? - SWR
-*GN Novelle Reform - 29.10. 05:00*
-
-Wie muss die Rentenreform umgesetzt werden, um zukünftige Generationen zu entlasten und abzusichern? SWR
-
-https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUVJpUTRoRXo4SWNYV0JaRGMxbVVwM3pLSzZRRDNhYXBJWS1DOHFkVjNxbUdXd3pLYld5RjVQRjRSaUw1S3ZEaXdWenloLWQ5Qm9RbUdkcGJtd3lDanM1UE5xSXk1TnJMeExDejl0bTFCdDN2M2kzcTZ0SGFZeHY1ajY4aWt1UWc5ZU8zZ2pKdjJHaXBEM0dlOHZQM0JOTW1yRy1BcDZQNmQ?oc=5
-
-### Krypto-Steuer Verjährung: Wie weit das Finanzamt zurückgeht - CryptoTicker.io
-*GN Steuer und Arbeit - 28.10. 21:25*
-
-Krypto-Steuer Verjährung: Wie weit das Finanzamt zurückgeht CryptoTicker.io
-
-https://news.google.com/rss/articles/CBMicEFVX3lxTFBFUUthRHB3cWM4dUZIYmdtcmg5OTVMU1c5bXJuNkpiQWJiN3JHNTRiOFRlRkFhRFBha2RxSktsYWZuVW1QT3plMVlWdDEzS0p5T1l5ZHNJNkQ2WDE1ci1QcXlnR2h6S29oNWw2RU04ajk?oc=5
-
-### "Die Rente ist nicht zu teuer" – DGB legt Gegenentwurf zur Rentenreform des Bundesregierung vor - MDR.de
-*GN Novelle Reform - 28.10. 18:36*
-
-"Die Rente ist nicht zu teuer" – DGB legt Gegenentwurf zur Rentenreform des Bundesregierung vor MDR.de
-
-https://news.google.com/rss/articles/CBMixAFBVV95cUxPcUtoUmlQR1JEbWdJUHg5TUZrdnctUFY4T0ZvY2VCckQzV0VHTWtBUVpfOVg5RlhBMWFOZkxpXzd5Rmp2QWplWWRtSUVxX3ZBd3pRMVQwRmNXMENlZUxJanlqY0NRVlc1blRHUVdZcmFrcnhCYWFIY25HSXhNSzNYenM0dUdVdjBxWmZQRUlMX0dyUnpOWjlOVVZkMF9lbGlvc2V0NWwyVFRhWW5ncmozYUZvWExiTE9TT3czc3JVT1l1SUhH?oc=5
-
-### Ministerrat billigt Haushaltsentwurf – Steuerentlastungen und Hilfen geplant - stol.it
-*GN Steuer und Arbeit - 28.10. 17:42*
-
-Ministerrat billigt Haushaltsentwurf – Steuerentlastungen und Hilfen geplant stol.it
-
-https://news.google.com/rss/articles/CBMirwFBVV95cUxPeE5SeFRBeW9ZcFB4bXV0OVNqbUlBTWtOdVZEakZBM0pnWFdBNDZ6eDB0ZU1aOE5EeEEwQWh4N2NZWHpULVlJTjYxQWVQalhYOWVIODQtUXNWRk53WDFFNTJscHBiRTgxOEZJdWJGbVJXcnpCQ01IUWNKZ3NfWndjd0Z3NHd1ZHV0WFQ1VlNwVWJrTWtBdkcxRjU1ZHFYZUJsV1BNVjBhYmdwZkZrM20w?oc=5
-
-### Schweitzer auf Kompromisssuche: Das sind die drei Knackpunkte bei der Rentenreform - RP Online
-*GN Novelle Reform - 28.10. 12:27*
-
-Schweitzer auf Kompromisssuche: Das sind die drei Knackpunkte bei der Rentenreform RP Online
-
-https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWlyRjNrVm1saEJ1bEdoazBRYmtiNEZrQzFGM1Y5dm9rMXdSaW02TDZKSkRYd1FxZUFrM1lpN1VZZ20wWFIwNnBQWGhhWU92b09LcF9YNDFEOTJPenV1NHNxY1doTk0zQ2ljbzFLbG9IcmFyYllnVDRaemZsVFlNdWJKWG14ZmYxS2w0SVMxcmZ6Q3RWVXBrTUV4Q2NWTTMzeG5wdV92NTVMaUQtaktR?oc=5
-
 
 ## Foerderung
+
+### Rechtsanwalt Europarecht / Verwaltungsrecht (m/w/d) - Fördermüller, Köln - LTO.de
+*GN Recht Fachpresse - 31.10. 11:24*
+
+Rechtsanwalt Europarecht / Verwaltungsrecht (m/w/d) - Fördermüller, Köln LTO.de
+
+https://news.google.com/rss/articles/CBMizwFBVV95cUxNSGVWalAtVW5Ca2FCbkJ2WUY2djFnOEJvS0ViUldRNUZUMWZ1YlQ2YzVUbW82SUVnNHpRSzQtRllBQjJleHphQ0VwbU5jdUhZX0I5NE9JeXJoemFZYmtJVlViNDN0MjlURjBMb0lxRDlVcjc0cHNyZ1Nod0VoR29MUWpjaVFMVnRUN3ZiVVdRUGRMdnc0NmNJel91cElwcTJoTmFYN2MwMW92U0JNWXBrekdidGM3eEZLSF8zR3V4cG5TMkZEbVYzTVlOWmFGYkk?oc=5
 
 ### Staatsminister Weimer fördert Kampnagel-Umbau mit bis zu 60 Millionen Euro: „Was in Kampnagel passiert, ist wirklich Weltklasse“
 *BReg Pressemitteilung - 30.10. 12:50*
@@ -709,50 +539,20 @@ https://news.google.com/rss/articles/CBMimwFBVV95cUxPNUowUjRocEMtZUc2aXBPZFFOQWR
 
 https://dserver.bundestag.de/btd/21/088/2108842.pdf
 
-### Altersvorsorgedepot 2027: Förderung, Kosten, Riester-Wechsel - Finanzen.net
-*GN Bundestag Gesetz - 28.10. 13:53*
-
-Altersvorsorgedepot 2027: Förderung, Kosten, Riester-Wechsel Finanzen.net
-
-https://news.google.com/rss/articles/CBMicEFVX3lxTE1hUWs0ZF9kYVdXeUNiNTlWZmE1TzVlWjB6X0ctWUM4czBiOUlob3VRenB3RnJ6MFhHR2llUnpFMnlJZGNid01ZNnNkQjRzRmFzVG5Oa1U0UXV2QmVfd19iQ0RFOEdyVER0OGVaR19OYks?oc=5
-
-### Erzbistum Paderborn stellt Förderung kirchlicher Gebäude neu auf - Westfalen-Blatt
-*GN Steuer und Arbeit - 28.10. 13:00*
-
-Erzbistum Paderborn stellt Förderung kirchlicher Gebäude neu auf Westfalen-Blatt
-
-https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcHVCREtISGliWUhGRzNmV2hJRElzR3BESmlBNHhRSzJmalI4WTlvbUt6M1N4bExaY1ZWcnZfZW9nNGdzejhIdkV5U2g3UUNadjVsR0hNUWNOTzBMS25qeGhJUHQ1TTFKQk5mWldZalBfUXlOS19rclRDQ25uX3Fqd2JrVkkzMWc3RURtcFZ4Ri1rUHp2TUxXbEhuRUtfOFZOMTE2YWR0bXNnR0g2RENnb0o4b3pYaEg0UVBZ?oc=5
-
-### Baden-Württemberg fördert Carsharing nun auch mit Vollhybriden - electrive.net
-*GN Steuer und Arbeit - 28.10. 12:30*
-
-Baden-Württemberg fördert Carsharing nun auch mit Vollhybriden electrive.net
-
-https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmdOeGctTUIxa1VPbVBnUXZtVVN0VWktaVJsZVFWTjFzUFB4cFBEQ3RpY1lzNmFBczFhOXhIRzU5Nm8tVS1DUThVbkM3WmxaaE5OSmdQVlo1eC1HbUpUc0RGUkJaTXFPNmRXcmJBTHNNb3N4Z2JkbWd4Qlhsd2I2Uktrc2hmZ2RqaVdkWXJVQlV5SFo0WEFodTM4VUttWXZETVdQUg?oc=5
-
 
 ## Pflichten und Fristen
 
 ### CRA-Meldepflicht läuft: Wo ENISA-Plattform und Fristen in der Praxis haken - Security-Insider
-*GN Steuer und Arbeit - 30.10. 10:00*
+*GN Bundestag Gesetz - 30.10. 10:00*
 
 CRA-Meldepflicht läuft: Wo ENISA-Plattform und Fristen in der Praxis haken Security-Insider
 
 https://news.google.com/rss/articles/CBMitgFBVV95cUxQcmtPMVBHRHFaY3pDVzhEeVZFc2JGcXhOdXQwNG1zWFRvMG02WThiOXpYNjBHSGhmOGZtSXlxRWZVYUZEbG5rbjdpWkJuQkplNUdoTkszd21yUWFHOXBSOW03NGd1cHVMTVk1N1BWQWl3SnhqSU5ITmhtQm5vVm12LWdoaGRkSnRQcGdTLUpQRHVvczRFXzJ5WW1uZWlOZTZESjliWGxtTUNSTTdMYkE0QWVSVnlyUQ?oc=5
 
+### LG Frankenthal: Haftung für Online-Betrug des Partners - LTO.de
+*GN Recht Fachpresse - 29.10. 12:09*
 
-## Arbeit und Unternehmen
+LG Frankenthal: Haftung für Online-Betrug des Partners LTO.de
 
-### Öffentliche Anhörungen und Ausschusssitzungen in der Sitzungswoche vom 2. bis 6. November
-*BT Pressemitteilungen - 28.10. 10:23*
+https://news.google.com/rss/articles/CBMilwFBVV95cUxONlM2Q3JucHdiM2dNcFBxRml6NkFncUIwdWpiUEpuTHE5Ukw1TzlwOThERlM2c1ljZEQtVHJIZU9NaXZncDd2N2hYVVRxMFVlOUEzMW92cTM0Tm1scHZCOTdIOXgxRWQtWUd4V0NkYkFvR2VUemhPSjhyOUxGRG56THViZE1oNXI0Rm5BZUJQVHN3bl9fZFZJ?oc=5
 
-Montag, 2. November 2026 12.30 Uhr: Ausschuss für Wirtschaft und Energie - Ausbau der Windenergie auf See (Paul-Löbe-Haus, Sitzungssaal 4 600) 13.30 Uhr: Verteidigungsausschuss – Bundeswehr-Infrastrukturbeschleunigungsgesetz (Paul-Löbe-Haus, Sitzungssaal 2 600) 14.00 Uhr: Ausschuss für Arbeit und Soziales - Stärkung der Tarifbindung (Paul-Löbe-Haus, Sitzungssaal E 200) 14.00 Uhr: Enquete-Kommission „Aufarbeitung der Corona-Pandemie und Lehren für zukünftige pandemische Ereignisse“ - Wissenschaftsberatung, Krisenkommunikation, Rolle der Medien (Paul-Löbe-Haus, Europasaal 4 900) 14.00 Uhr: Finan
-
-https://www.bundestag.de/presse/pressemitteilungen/2026/pm-261027-oea-kw45-1229788
-
-
----
-
-## Quellen ohne Antwort
-
-- BGBl Teil I und II: URLError
