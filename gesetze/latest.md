@@ -1,6 +1,6 @@
-# Rechtslage 06.11.2026 12:57
+# Rechtslage 07.11.2026 11:44
 
-134 Meldungen aus 18 Quellen, Zeitraum der letzten 96 Stunden.
+136 Meldungen aus 18 Quellen, Zeitraum der letzten 96 Stunden.
 
 ---
 
@@ -12,6 +12,13 @@
 The corrigendum does not concern the English version.
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32009L0081R(04)
+
+### EU-Verordnung 2026/ 2467: Staaten dürfen ETS2-Kosten freiwillig erstatten - ad-hoc-news.de
+*GN EU-Verordnung - 06.11. 20:12*
+
+EU-Verordnung 2026/ 2467: Staaten dürfen ETS2-Kosten freiwillig erstatten ad-hoc-news.de
+
+https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVFFsSkF0UjVkOFNCSWNrZkt4aU8wR2ZPS2RMR1NaWE9lR0tIVHVSYkxES3RmeHRIcmZzdkdhQ1ZVcUl4SEVQd19UaDBPeXJ0RXQ0LUp6RGRvQWduUlZzemExc09uS1FTZGZVMF9UQ3N0cFdFWVdJYzVqNEV0T3BxZ24zeGc4VllqdlBNVDJfMGZEMkNlUXd2WEdhWjluRjdQbWFlYW95UXVnYUVqVnZabERZdXJPSUFmSWhB?oc=5
 
 ### CELEX:32016R1824R(05): Berichtigung der Delegierten Verordnung (EU) 2016/1824 der Kommission vom 14. Juli 2016 zur Änderung der Delegierten Verordnung (EU) Nr. 3/2014, der Delegierten Verordnung (EU) Nr. 44/2014 und der Delegierten Verordnung (EU) Nr. 134/2014 hinsichtlich der Anforderungen für die funktionale Sicherheit des Fahrzeugs, der Anforderungen an die Bauweise von Fahrzeugen und der allgemeinen Anforderungen sowie der Anforderungen an die Umweltverträglichkeit und die Leistung der Antriebseinheit (ABl. L 279 vom 15.10.2016)
 *EUR-Lex Amtsblatt L - 05.11. 23:00*
@@ -46,6 +53,13 @@ Krypto-Steuer 2027 in Deutschland: Was der Referentenentwurf zur Haltefrist vors
 
 https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MSVkyeUF1c294V1duaUtlN3dnaDMtdGIxMVRmcFJ3cDI3NlZILUZSajhicG43Z0hwdmZZWm5EX2VGT0tmaENDd3ZaNldlVW1Gb2VWYWNrcVV5OFk0?oc=5
 
+### Doppelbesteuerungsabkommen: Bundestag billigt neues Steuerabkommen mit Ukraine - ad-hoc-news.de
+*GN Steuer und Arbeit - 05.11. 22:09*
+
+Doppelbesteuerungsabkommen: Bundestag billigt neues Steuerabkommen mit Ukraine ad-hoc-news.de
+
+https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM2UtUzhMWXhfdmU3WGJIRzZtdEFkOThMX1B2NTZMbE5QOTYwTEtHYm1nbGR1anN3eV93WnprSlA2R1R2OGNDUTR5RHMzU3VYamp5SnRXbDg0NVZNN0VCSVlyUnhnQ0xEOFFuTDlndEVacVVmTzR4YWNWbHhQQU9ESng2ZjlFRC04cUlMTGQyd1ZWQjBVYVpCYlZXUUV2RnI1TURia0QtRTNLZGo5a3Y4cTJQVXczWFJTc2YzYXBFNzFMQQ?oc=5
+
 ### Bundestag: Anhörung zum Einkommensteuerreformgesetz 2027 | Steuern - Haufe. Intelligenz, die bewegt.
 *GN Novelle Reform - 05.11. 06:30*
 
@@ -65,40 +79,110 @@ https://news.google.com/rss/articles/CBMikAJBVV95cUxPQVZKd0cyVjAtR1BMT1hIZmxERWh
 
 https://dserver.bundestag.de/btd/21/089/2108975.pdf
 
-### Kommission stellt vorläufig fest, dass TikToks „For You“-Feed wegen schädlicher „Kaninchenlöcher“-Effekte gegen das Gesetz über digitale Dienste verstößt
-*EU-Kommission - 05.11. 23:00*
+### Bundestag debattiert über Heizkosten
+*BT Aktuelle Themen - 07.11. 01:53*
 
-European Commission Pressemitteilung Brussels, 06 Nov 2026 Die Europäische Kommission hat heute vorläufig festgestellt, dass TikTok wegen des sogenannten „Kaninchenlocheffekts“ seines Empfehlungssystems gegen das Gesetz über digitale Dienste (DSA) verstößt.
+Die Heizkosten beschäftigen den Bundestag bei einer einstündigen Debatte am Donnerstag, 12. November 2026. Grundlage dafür sind Anträge der Fraktion Bündnis 90/Die Grünen. Über den Antrag mit dem Titel „Sanierungsoffensive für Deutschland – Heizkostensenkung durch eine vollständige Umsetzung der EU-Gebäuderichtlinie“ (21/6005(Dokument, öffnet ein neues Fenster)) entscheidet das Parlament auf Basis einer vom Ausschuss für Wirtschaft und Energie vorgelegten Beschlussempfehlung (21/9004(Dokument, öffnet ein neues Fenster)). Zu dem Antrag „Wärmepumpenoffensive – Heizungsindustrie und Zukunftstechn
 
-https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2361
+https://www.bundestag.de/dokumente/textarchiv/2026/kw46-de-heizkosten-1231492
 
-### Bundestag beschließt ersten Teil der Führerschein-Reform - verkehrsrundschau.de
-*GN Novelle Reform - 06.11. 12:48*
+### Tschentscher schießt gegen eigene Partei auf Bundesebene: Warum Hamburg die GKV-Reform als Fehler abstempelt - NDR.de
+*GN Novelle Reform - 07.11. 10:17*
 
-Bundestag beschließt ersten Teil der Führerschein-Reform verkehrsrundschau.de
+Tschentscher schießt gegen eigene Partei auf Bundesebene: Warum Hamburg die GKV-Reform als Fehler abstempelt NDR.de
 
-https://news.google.com/rss/articles/CBMivwFBVV95cUxQYi1PTHJ6V2JVRzdjSTVMM2Y0Mk55MXdneWlLcVliM1RyWDFXYkN5UTdmWlloX29SOEhISWRNMXdtSHFRQUR0ZG4xeDFXc2lLbTV4QnRPQ0tjOEh2MlcxNU9JSUVaQzNIcFZtY2VEWVVwU0p6aU5PbzI0SDFoMkMxUkg0a3paRERvWUd4MlNhU0VzcVlseVBueXlMZDE2ZHFIRmxlcUJJeGN5bjlyODRzTmVCdHRNLUNBSjB4MHRPMA?oc=5
+https://news.google.com/rss/articles/CBMivgFBVV95cUxQb2tCa1l4SkdmanZMWFRsV0d2b2lSZ1AtSV9wdzh5R0ZzRDVOVUp2RzhzdlY0bW5GMFZNYS1kaU9PUzBIdWpiMUFZcHA5YmFURWxWLW9LdlNEUlV1blJhWmNlalNpUFd3X2pBc3E5MTVOcEFKVTU4dndtMDlKQzdWRjZFa0s5QWJwUkxnaE05OWdGQ1phSWEwM0owTUFyNXRXZEVEN2RWRlZybjVwWmpEQ0N6Z2lWVVVEbVBmNmR3?oc=5
 
-### Bundestag: Bilger: Reform soll Unterhalt der Autobahnen stärken - Tagesspiegel
-*GN Novelle Reform - 06.11. 12:40*
+### Mindestens 5 Jahre Gefängnis! Der Bundestag hat heute härtere Strafen für den Einsatz von K.-o.-Tropfen beschlossen. Die CDU-geführte Bundesregierung hat dazu einen Gesetzentwurf eingebracht, der von allen Bundestagsfraktionen außer der AfD angen - Instagram
+*GN Bundestag Gesetz - 07.11. 10:00*
 
-Bundestag: Bilger: Reform soll Unterhalt der Autobahnen stärken Tagesspiegel
+Mindestens 5 Jahre Gefängnis! Der Bundestag hat heute härtere Strafen für den Einsatz von K.-o.-Tropfen beschlossen. Die CDU-geführte Bundesregierung hat dazu einen Gesetzentwurf eingebracht, der von allen Bundestagsfraktionen außer der AfD angen Instagram
 
-https://news.google.com/rss/articles/CBMiugFBVV95cUxPMTVyeUlwWHhrY2JwcFk4QTJnWG81QW1rYml5b3VWZVNJVkI0dVJVTW55eUQxbWk2ZV9mYXFlN09IRTRyTUJJVlpaUVUybldXV2hITFZSVE1iVHNyUmNFVkN6S0FtaW1FN1lhZlVwR19JQUUwX2cwdkdYVVZmdm5GVFk4TGxsbW14YjlGb0xFci1SSWFFYldjWVR0cy1nemRFcklYelg3Z2VzelRrdEpvZmZZUGFtOFl2OGc?oc=5
+https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vb3c5Z0F2aUQ2UkxwQWtXY0xzbHRSeGthd0VOTlFsTXA2ek9lUjBCRmswSlkyMDNJSU1DMG5tdGxPQmd4Vi1hcWZyTlR0c1NKMmc?oc=5
 
-### Bundestag beschließt Gesetz: K.-o.-Tropfen – Tätern drohen nun härtere Strafen - Schwarzwälder Bote
-*GN Bundestag Gesetz - 06.11. 12:12*
+### Bundestag verlängert E-Auto-Privilegien bis 2035 – jetzt auch für Busse und Lkw - Netz Trends
+*GN Bundestag Gesetz - 07.11. 09:35*
 
-Bundestag beschließt Gesetz: K.-o.-Tropfen – Tätern drohen nun härtere Strafen Schwarzwälder Bote
+Bundestag verlängert E-Auto-Privilegien bis 2035 – jetzt auch für Busse und Lkw Netz Trends
 
-https://news.google.com/rss/articles/CBMizgFBVV95cUxOTzlRc05wd0hwdExCakxwTmNyM0JXZURieERzbmhSVkpLcHY4SmJtZWlZVkxRSDJheE1WRFgweEIwUWI1WXIzeVZ3WWFuRC1kd1pKbk1lanRuLU02U2h6R0JkR3VMbHlESXVHNjQ1T2ItQjQxZXpCZ1VvbTRnbzhzMVEtRVhmUXc3XzloY1ZyT3NPcG40WTRwRDRSM0RJdkc0YlI1Q3RVaWV2RUEzdnZZWGxOWElBbUpLek84bzE3bFYwQWJiS1N2eE5taWkxdw?oc=5
+https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdG4tQU1YdVJFNHBJTW40RG41YWpWVVNEQk96aFlad1VPZjdSajFsSklHS1cwU3Nvc00ydjdYQTRoTV94MEtvdGVkWktzWDBLVVdwNS1Jb1NQd3JueWdEeUFRenRKUHI3N0tZMUcwdGpDTDNTWGVtTE9zSFc4THoxeDEzOWFvdzhOZG5BUGlYVm51NUo1a2x5bzhnSDE5a0lXTjByYUN3cm5KLXM?oc=5
+
+### Kostenlos parken und neue Sonderrechte: Bundestag beschließt E-Auto-Regeln - Merkur
+*GN Bundestag Gesetz - 07.11. 07:29*
+
+Kostenlos parken und neue Sonderrechte: Bundestag beschließt E-Auto-Regeln Merkur
+
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU1VXOFltLTcxV1QzdDZPdmoxX0FYUVNHSnVBLVJiaHRRM0ZrSmVxN3o4TTZCNzZEZnlzbzByY0FrRVFfYmhTMzR5Z1VwUVppQXcyT3QyYjBjZGJkcE5JOUtZX0ZoN3hsT0dsZjFVakVxVlBVc3BGdXRuUm1seG1WaVhLT2N4NWQ2RG5lNC1xVUIxZHJFX0dPYXRNbkZ1ZlNQWUVJdWpOTTdkUQ?oc=5
+
+### Abstimmung über Start­chancen- und Qualitäts­entwicklungs­gesetz
+*BT Aktuelle Themen - 07.11. 01:59*
+
+Das Parlament entscheidet am Donnerstag, 12. November 2026, nach einstündige Aussprache über den Gesetzentwurf der Bundesregierung „zur Verbesserung der Startchancen von Kindern und zur Qualitätsentwicklung in der Kindertagesbetreuung“ (Startchancen- und Qualitätsentwicklungsgesetz, 21/8239(Dokument, öffnet ein neues Fenster), 21/8827(Dokument, öffnet ein neues Fenster)). Dazu gibt der Ausschuss für Bildung, Familie, Senioren, Frauen und Jugend eine Beschlussempfehlung ab. Der Haushaltsausschuss legt einen Bericht gemäß Paragraf 96 der Geschäftsordnung des Bundestages zur Finanzierbarkeit vor.
+
+https://www.bundestag.de/dokumente/textarchiv/2026/kw46-de-startchancen-1231486
+
+### Führerscheinreform beschlossen – wie Fahrschüler sparen sollen - WEB.DE
+*GN Novelle Reform - 06.11. 19:58*
+
+Führerscheinreform beschlossen – wie Fahrschüler sparen sollen WEB.DE
+
+https://news.google.com/rss/articles/CBMioAFBVV95cUxPaG9NeDlaV2dMME9BaFNiQWdOcDk3MHJSb2ZhRE1YTE1tLWlTZ3ZnRVQtS01vN1U4OFNTZTBYN2pCQlJibzBkZkFWOHJ6Q1I5R0NEVHVPRzhhOUFtRVlwOU9aVzdReXlacUlTVnJYTEt6bEhsYmwtTWVDMG5hTWZudnhnYVR5U3FQVG50eFhNN2l6NGZFa3dPWVNzSmFQMVRO?oc=5
+
+### Drucksache - - Bundesrat
+*GN Bundesrat - 06.11. 19:57*
+
+Drucksache - Bundesrat
+
+https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJY3dyZ29vZGt2cG9Mb2Yxdm9Sb1RjWmFSREZOV3pJbnVkY1FCUkphbTVpaHZVMnRtYXRzeDMxSDA2S2JySmF3V3p1OUJEdlpPcW9MRC1R?oc=5
+
+### Autobahn-Reform im Bundestag: neuer Schattenhaushalt? - tagesschau.de
+*GN Novelle Reform - 06.11. 16:11*
+
+Autobahn-Reform im Bundestag: neuer Schattenhaushalt? tagesschau.de
+
+https://news.google.com/rss/articles/CBMibkFVX3lxTE5oSWdwSjhuWEszaGptX3pDT3V1b2pnY3l3TE9jZ1VGMlJ2NWhhWmU1WGZtYmNyVHU3eFJYX2FjbkVoZnJCMU1IQmxLa196NWdaMWZObmp5S3lKWmhVZWFpRHRFejRmbkVmR1JidGx3?oc=5
+
+### Führerschein: Bundestag beschließt ersten Teil von Führerschein-Reform - WELT
+*GN Novelle Reform - 06.11. 15:01*
+
+Führerschein: Bundestag beschließt ersten Teil von Führerschein-Reform WELT
+
+https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTGN5Uk5odUVORWwzLURvU3Uyd3k1bWFRTndna1duOTVfbjhJU1cwVlB1U0tpZGFXeDV1Y2QtNGNsMHM1aTA4OG02ckQyYkpiNUVsR0Q1Z1JzUE1xb3VwT0hUZHFZVklMTHdBaGdKTnNIY01CNExzSHRQX1UzV3BwMmluaUNNYk5oV3BXQnBPWUJ1X1gzMHJBa3B0Q0gxZVk5TWFaVm9EQlo3bjVmLTJQeTZzUGc1QkxjYlMxTkJpRmFyRGx6bGZfM1RubHZfbmtULVRTLUxpOTlNVUxEUFhGQlphNA?oc=5
 
 ### Bundestag beschließt härtere Strafen bei K.o.-Tropfen: Was eine Frau in einem Hamburger Club erlebt hat - NDR.de
-*GN Bundestag Gesetz - 06.11. 12:08*
+*GN Bundestag Gesetz - 06.11. 13:32*
 
 Bundestag beschließt härtere Strafen bei K.o.-Tropfen: Was eine Frau in einem Hamburger Club erlebt hat NDR.de
 
 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcE16dGVqTmdKYVdub0xmTjE2d0E5R2VQbTNZS3liT1dEY3FtNFllZDdCZkxIclYwajAzTFI3OC1oWXhlSjBUS0pXc2RWUnRGbnZILVk2UUVORHgyVzdVRDVsaEdmUFlORXpJNnhHM0h0MnZBVncwZjVKYTFSVlVjMkxZQ2dlbC1mcjk2cWR0RU0xaWZEVER3TllQMzBNTEdjWnBZMHVIczk?oc=5
+
+### Bundestag: Autobahn-Reform umstritten - neuer Schuldentopf? - STERN.de
+*GN Novelle Reform - 06.11. 13:08*
+
+Bundestag: Autobahn-Reform umstritten - neuer Schuldentopf? STERN.de
+
+https://news.google.com/rss/articles/CBMirwFBVV95cUxOSVZuc3V5bU1wc2tJNmxrb1NPczBNWXRQYXpRdFQ2ZDlqTkhaMkJKVGVVOHFab21iRXBqbmZQRjJNNEFTTWptSmU4bE55c3U3YWJMZFhEb1JNdVBuTnJzWDBaS0V5VmMwbTh6cTF3ZllOWUhGTjFTN1N1a0xqSVJjN3lUbm82T1Y5UVpJTlpEQkFMaHFUd05MeHlNY3RHdm5Hc3Utcmtnb2o5T0xCRVdj?oc=5
+
+### K.o.-Tropfen: Bundestag beschließt Strafverschärfung - ZDFheute
+*GN Bundestag Gesetz - 06.11. 13:06*
+
+K.o.-Tropfen: Bundestag beschließt Strafverschärfung ZDFheute
+
+https://news.google.com/rss/articles/CBMisgFBVV95cUxOLXdzZTd6V0d2ckFpZnZrQ2FzZEs5TFN4OUExa3c0ZkpmMDVXVnktaDJ3eEozT3lRcFZNU1VjWURQcXlkVXZaTVo3bDg5c1kwT214ZkF1aUhNYXJfTGhGaUtjUm1aS0NHbU5PZVdaNnVjVkdVRUxEVllnVi1lTVhHa1I0RGF5aDZnaGdWSW5wZm1aVzVZQVQ5LWdrdWlpd2pJSEdNUWIxTlhsQjRJb3liYzVB?oc=5
+
+### K.-o.-Tropfen: Bundestag stimmt für eine Verschärfung des Strafmaßes - Spiegel
+*GN Bundestag Gesetz - 06.11. 12:56*
+
+K.-o.-Tropfen: Bundestag stimmt für eine Verschärfung des Strafmaßes Spiegel
+
+https://news.google.com/rss/articles/CBMi3wFBVV95cUxPazJKcWJ3bElVcHY1c1hRNlc2WktVWlhhRGZNbjloMGV0TUxsaVM5dW9qcnVYNUJpLUFyOVYtdVp5UDNhU2g3NGhDUTlXUjNtd3l5cndjN3RISXlPSzZhc0ZlbkRQWHo3VTBrX2hObjhzYmJlazJMalNQXzk1TGVzanlKUGhxeDBIVHJmcFFtWjA0a21lcVc5ZE1FTk1QNkozVnJzYW9BYjlNNV9qV3hHakZFWlR4a25SYlhBQlNwWkpkY2tXc0VBdTExWFA3Vy1NQ0hlRmltczJjYzVJdlVR?oc=5
+
+### Raub- und Sexualdelikte - Bundestag beschließt härtere Strafen für den Einsatz von K.o.-Tropfen - Deutschlandfunk
+*GN Bundestag Gesetz - 06.11. 12:00*
+
+Raub- und Sexualdelikte - Bundestag beschließt härtere Strafen für den Einsatz von K.o.-Tropfen Deutschlandfunk
+
+https://news.google.com/rss/articles/CBMisAFBVV95cUxOd2NhajJuRUwtaDA0TkI1Q2s4cS1DQlgzeTJ0dG1XNWhrMEwzOXJwUVZZeEJDU2psLTEwLU1xYnVfdERiMUU0SWZpd1FGM0FvbkFHTkg5X05TY0pMQUpFZTJlUTcyZG5XQlZITm5qNTBIS3kyQ210VW51VEI5NmlEazJmZnY3eXpGbzg2Qlc5dEdkMkdmMmxrWmE5a0p4cTlOcjdtQWFBR1lOUnQ3LUc4Tw?oc=5
 
 ### K.O.-Tropfen: Bundestag stimmt für Strafverschärfung - LTO.de
 *GN Bundestag Gesetz - 06.11. 11:49*
@@ -121,19 +205,19 @@ Soll Straftäter „abschrecken“: Opposition und Betroffene kritisieren neues 
 
 https://news.google.com/rss/articles/CBMipAFBVV95cUxNa1psdWxnSVZHaGt5VmNJSDBReEpYQ1hGTkl1TGgxUzhaM2ItLWc3bUtpNFMyY2FiQS1GMzl4YUNVc3lBN0IwbGJTcTFWRDZZLTdFZ3VnSlg5MkRESExnMU5XYUF2cm84Z1Nna3czMERTMWpIejZ1MW1ObGpBS2Iwb3ZseTA4M0ZqQTc5a0NTeS1VSnlYVkFYUThPNlpRd3RsNWRwNA?oc=5
 
-### Bundesrat ändert CO₂-Gesetz ab 2030: Lieferwagen dürfen mehr ausstossen, Lastwagen weniger - Watson
-*GN Bundestag Gesetz - 06.11. 10:29*
+### Social Media - Bundesrat
+*GN Bundesrat - 06.11. 10:56*
 
-Bundesrat ändert CO₂-Gesetz ab 2030: Lieferwagen dürfen mehr ausstossen, Lastwagen weniger Watson
+Social Media Bundesrat
 
-https://news.google.com/rss/articles/CBMisAFBVV95cUxQLVUxOGdhUE9TdThiS0ZUU2J1NjM4eVRYTDRvVGxzVjhPa1JOcHF0VHNaNHRqUXFXaVc4bjJmQ3NGVWpQZUdBa1VETG0wNGltb01tOURCUFhpc09DTmFZdEQwVWI3MEdLOFhtamdsc1hyTGJHVmREVkRTcUNzZHVSTVBGYjE5QVFyVzJ5OTVHeUZDY2FqS2haUElXbGVXUTQzR0RwT0JpM0ZBUVp4X1FSSw?oc=5
+https://news.google.com/rss/articles/CBMieEFVX3lxTE1QUkR4X3Rubm9zcXR1QTZWS2pOeS13dWF6UkJzU2NTTXF4bUcwZUdDVnhKeWkwcktOSlp0Z2V0VXJCd2FySmQ3WDlrUk8wT1lLR0RCQnBNU3dyb09sak5iRDEwSE82cEhhY21IdzU3bThSa1NOcmsweg?oc=5
 
-### Mindestens 5 Jahre Gefängnis! Der Bundestag hat heute härtere Strafen für den Einsatz von K.-o.-Tropfen beschlossen. Die CDU-geführte Bundesregierung hat dazu einen Gesetzentwurf eingebracht, der von allen Bundestagsfraktionen außer der AfD angen - Instagram
-*GN Bundestag Gesetz - 06.11. 09:57*
+### Plötzlich Filmriss: Schuld können K.o.-Tropfen sein - Bundestag stimmt für härtere Strafen - SWR
+*GN Bundestag Gesetz - 06.11. 10:24*
 
-Mindestens 5 Jahre Gefängnis! Der Bundestag hat heute härtere Strafen für den Einsatz von K.-o.-Tropfen beschlossen. Die CDU-geführte Bundesregierung hat dazu einen Gesetzentwurf eingebracht, der von allen Bundestagsfraktionen außer der AfD angen Instagram
+Plötzlich Filmriss: Schuld können K.o.-Tropfen sein - Bundestag stimmt für härtere Strafen SWR
 
-https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vb3c5Z0F2aUQ2UkxwQWtXY0xzbHRSeGthd0VOTlFsTXA2ek9lUjBCRmswSlkyMDNJSU1DMG5tdGxPQmd4Vi1hcWZyTlR0c1NKMmc?oc=5
+https://news.google.com/rss/articles/CBMipgFBVV95cUxOVTRIYndPUzBZU0tkdFZsY0F2VmJVdDZsdHJ4c19rVmZrYTRxQTZnVDIyNENnTVA5aHJWV1dGWlhVUF9peEQyWFhoanB4cExJTzAyNFplTmx3MnV2Nk0takZhbWQxWW1VVjRTWnJ5Nm5OVEM2b1B6elNUS3NxVlNLcEdSVVhmWktnbkNOS01Tc1hONEotVWxES2FNWlZWR255X2pQcnpB?oc=5
 
 ### Elektromobilitätsgesetz: Parlament winkt Novelle durch - electrive.net
 *GN Bundestag Gesetz - 06.11. 09:30*
@@ -142,26 +226,19 @@ Elektromobilitätsgesetz: Parlament winkt Novelle durch electrive.net
 
 https://news.google.com/rss/articles/CBMilwFBVV95cUxNTkpwMG5ueG8yeGpwa1BwS21xZzlZcm84Q0E0ZFVmdENLbEg4VWhpN0J5dVk2a2VXRWx3cGtFT3lUWnZvUEtWVXdjaUkzZndzeEpRSGszQU56VjV2OUZGOHh6ZkVTRnBHQlhVRGVJTTlmM2xhNlFTR3g4emJYV0paMERWWWVmWE5kaGhDQkxSSEFUWExrakNv?oc=5
 
-### Bundestag beschließt härtere Strafen bei K.o.-Tropfen - NDR.de
-*GN Bundestag Gesetz - 06.11. 09:20*
-
-Bundestag beschließt härtere Strafen bei K.o.-Tropfen NDR.de
-
-https://news.google.com/rss/articles/CBMiuAFBVV95cUxObW1QZm80RHFKbEp4U1BpenVGQXM3YXJoNEZLdS16V0d4eVBhV0l5c24xZU1qVHZraktFZjhHMTYwaGpqMm9nVzlRdW5BNldsWHp2SW1IVXJPSkxFbk0xd0J0MGdnbGUyOHRPbXVJUXRiWU5ZQ05aRXpDY1FoNzl3TDJTajY3WTFrZTl5QVpuT1BYN3VYblM4aE5waEY1RC1UXzVzM21wZjVsLS13QU5uWkdZNGdEejhQ?oc=5
-
-### K.o.-Tropfen: Bundestag entscheidet über härtere Strafen - ZDFheute
-*GN Bundestag Gesetz - 06.11. 09:20*
-
-K.o.-Tropfen: Bundestag entscheidet über härtere Strafen ZDFheute
-
-https://news.google.com/rss/articles/CBMisgFBVV95cUxOLXdzZTd6V0d2ckFpZnZrQ2FzZEs5TFN4OUExa3c0ZkpmMDVXVnktaDJ3eEozT3lRcFZNU1VjWURQcXlkVXZaTVo3bDg5c1kwT214ZkF1aUhNYXJfTGhGaUtjUm1aS0NHbU5PZVdaNnVjVkdVRUxEVllnVi1lTVhHa1I0RGF5aDZnaGdWSW5wZm1aVzVZQVQ5LWdrdWlpd2pJSEdNUWIxTlhsQjRJb3liYzVB?oc=5
-
 ### Bundestag beschließt große Fahrschul-Reform: So wird der Lappen billiger - Auto Motor und Sport
-*GN Novelle Reform - 06.11. 08:24*
+*GN Novelle Reform - 06.11. 08:50*
 
 Bundestag beschließt große Fahrschul-Reform: So wird der Lappen billiger Auto Motor und Sport
 
 https://news.google.com/rss/articles/CBMiugFBVV95cUxQVWFnYlMtWk9pcExyc0RvaG1MQXRfX0dUWGJWMXctWjJueTRWc2VabkNlVXRQM3JOSm1iQmkyT0RSTTBXel92TzllYWk1bnZNVXRydWFkOHo0TFZHZmFaZWgtcU4yd0dlcElXQlVyNnF2am91RHVkTmM1dVk0MUhBNDVId3VkeTJqSG5QeTktR0tFajFRSmVWMnFzVEFsRkJxQklDRkhYbHM0dGhHbkNiNGVpRXM3b0c0c1E?oc=5
+
+### Bundestag beschließt härtere Strafen für Einsatz von K.-o.-Tropfen - FAZ
+*GN Bundestag Gesetz - 06.11. 08:12*
+
+Bundestag beschließt härtere Strafen für Einsatz von K.-o.-Tropfen FAZ
+
+https://news.google.com/rss/articles/CBMiygFBVV95cUxQT0pHNWV0bzNCMFQyNGZsYVFvTFgtOE5sbWoyZ0FyY2V3TmhrRng4VGw0UkhkT0VkUUZFUnpuWkJhZU9JTVA4Q2FERVhNZWRHNy1MQ0xiNjVFd1R5LUFFZnZhOGp2X0pGMFRMb0pfMnppeWtVOWZEWkdSUGVzVGxTa0xXRFVMcmdmYmJ4WUxia2NWMUVBMDVoM0NoSzZZSWwxcTZkMXIwcHpJSHo3NFJHRlkwOXU2NHpEZHNTUXBhQVliclo1Z19KXzJR?oc=5
 
 ### Tierschutzgesetz: Bundestag beschließt Novelle - www.agrarzeitung.de
 *GN Bundestag Gesetz - 06.11. 08:00*
@@ -184,33 +261,12 @@ Neuregelung: Bundestag beschließt Videoüberwachung in Schlachthöfen fleischwi
 
 https://news.google.com/rss/articles/CBMivgFBVV95cUxOdmVZVFZZLVYta2lLR2NOeWc3LTFVZGJBOU1RX2xFdmRjc2paZmR1UjE3dW4wdWJoY1E1Rm1LakRKWHdWR0o3VHJkdFFOTWhqOFUwT0NLclRnbDMwaVNsbUxvVkRuV0lLd21mMlBNZkhOV1BOeWVMREVZaFRuV2JLM2hRNW56UWtqSWRRQ1RSY2FGR3M3eEQ4VTEzYnhoc0VseUxsSWRyRlZvOVk5SEJ4RFVBR2cwZVFjZG5MUmVR?oc=5
 
-### Reform beschlossen: Führerschein soll günstiger werden - Autogazette.de
-*GN Bundestag Gesetz - 06.11. 06:33*
-
-Reform beschlossen: Führerschein soll günstiger werden Autogazette.de
-
-https://news.google.com/rss/articles/CBMivwFBVV95cUxNTzA1TGFjVjE2akQxaHRVWUdpTkdqVDZ3UWpJa0ZqR3VwTWF3SWg4T2x0ZUZ3eHlCRk1FZjZudkxuNjRreDgxU2hGM29IU012QUNOMzMtMWZtS2psV3dSbk9ZSlhtM29aeXVfeTNEQUFOcG9FWU5KTk9hZk9UR1I5X25rVnhYc1N6NGxHTU1kWkdsb3JEcVBEVXJ1X2o2Y0dYNXZpVWdNeHgwamR6V3VHempQem5RbExQZHQycGVISQ?oc=5
-
 ### Die juristische Presseschau vom 6. November 2026: BAG zu Kündigung nach Kirchenaustritt / Ritter Sport siegt im Streit um Quadrat-Form / Todesermittlungsverfahren um Hubert Aiwanger - LTO.de
 *GN Recht Fachpresse - 06.11. 06:25*
 
 Die juristische Presseschau vom 6. November 2026: BAG zu Kündigung nach Kirchenaustritt / Ritter Sport siegt im Streit um Quadrat-Form / Todesermittlungsverfahren um Hubert Aiwanger LTO.de
 
 https://news.google.com/rss/articles/CBMisAFBVV95cUxOcTZpQzV1YnBNRXJHUnNoUjh2Uy1ROGt6QkRQVlNUY3hyYnJhUC1XM2U1ZllTZmMya1IxdjlaU0p1dTI1MEI3RjF6X2V4MHI3cnFMLTk1MW9Ed1JwOFZ4ZGZaVmMxTWowdlFFaTROdnpHcG95WGY2SnlhRm9IbjB2Q2tDYmxPemFKa1VYMGM0aWVIcDlzWkNyMWVYYVlkbnJ1ejNXdXU5ZjZuX00zY3BsYQ?oc=5
-
-### Pflegereform 2027: Welche Termine jetzt wichtig sind und wann die nächste Reform kommt - Allgäuer Zeitung
-*GN Novelle Reform - 06.11. 05:32*
-
-Pflegereform 2027: Welche Termine jetzt wichtig sind und wann die nächste Reform kommt Allgäuer Zeitung
-
-https://news.google.com/rss/articles/CBMiwAFBVV95cUxONkF4YjdiT2w2OUd5NTllSHhEaDFEcC1kZWM5T0FMbTFTWTdTWnRTMGNwWnNuNUFmSWZwQmdvd2EwMkpXQk5MOGhkZDUweGNGYkpuSS0ydlVmZjBBbkJmaTFFM0VHTm9BZGd0eDdXUVVJM1NHWm55Qnl4MGJxSUFKMHc0eGJkUmNDc3hjb1VJWHZ4dDFPblhIc3Y3YUdqX2NMTEhKdHVyYnBoLTBoeUdWMGpuSzhjbE9FT1NJWl9vRHU?oc=5
-
-### Rösti ändert CO2-Gesetz zu Gunsten der Autobranche - SRF
-*GN Bundestag Gesetz - 06.11. 04:53*
-
-Rösti ändert CO2-Gesetz zu Gunsten der Autobranche SRF
-
-https://news.google.com/rss/articles/CBMipAFBVV95cUxQMVBDb0tSNExLUUFPX3NwM25jN0ZtT0ItdV9pSXZxc1RxNk1zZW96b254bmRkajNkSkFfN2oyN2xGX1ljaXgxbnlxeGpCUDZnUnFUNTRXcVBUMkpCQXNLSUc1VTk2b1ZxV0J4SU9MbUI5aVZzTHUwV0ROM3Y0c085ejE4MF82cm1wMkhnQXlObGl1V3BvVWhZeGZ4bUQ1Z3JNcW14aQ?oc=5
 
 ### Bundestag entscheidet über Gesetz gegen K.O.-Tropfen und debattiert über Klima - STERN.de
 *GN Bundestag Gesetz - 06.11. 03:00*
@@ -219,19 +275,33 @@ Bundestag entscheidet über Gesetz gegen K.O.-Tropfen und debattiert über Klima
 
 https://news.google.com/rss/articles/CBMivAFBVV95cUxORUN4a0xlRUpGRXNKSHhRZ09BWlh5c285WHVvV1B2S200RnJPVEVlY1hmc3ZFTmxyOTIxaU5xdUlSUVcyQVZSTHg0WkxrWHRaRGwwcENnZXhDMVlWTk9RSmhjSVJkenJFZWZ4dXAxc2I0UjlFaDVjT1BMSGFSVDJ5OE5jRmtqSzMxYXVRUWI1QUNyY1cyRDZaWlZlenRkRGphUHNzdy1QX2FmVHJub2ZWZ0g5RWZ2OHpqWDlLTA?oc=5
 
+### Verordnung zur Anpassung der Eisenbahn-Bau- und Betriebsordnung (§ 32 EBO)
+*BGBl Teil I und II - 06.11. 00:00*
+
+Typ: Verordnung | Initiant: Bundesministerium für Verkehr | Fundstelle: BGBl. 2026 I Nr. 330 vom 06.11.2026 | Sachgebiet: Eisenbahnbaurecht und Eisenbahnbetriebsrecht
+
+https://www.recht.bund.de/eli/bund/bgbl-1/2026/330
+
+### Erste Verordnung zur Änderung der Verordnung nach § 119 Absatz 4 des Seearbeitsgesetzes
+*BGBl Teil I und II - 06.11. 00:00*
+
+Typ: Verordnung | Initiant: Bundesministerium für Arbeit und Soziales | Fundstelle: BGBl. 2026 I Nr. 329 vom 06.11.2026 | Sachgebiet: Schiffsbesatzung
+
+https://www.recht.bund.de/eli/bund/bgbl-1/2026/329
+
+### Verordnung zur Neuordnung der Berufsausbildung zum Veranstaltungskaufmann und zur Veranstaltungskauffrau
+*BGBl Teil I und II - 06.11. 00:00*
+
+Typ: Verordnung | Initiant: Bundesministerium für Wirtschaft und Energie | Fundstelle: BGBl. 2026 I Nr. 328 vom 06.11.2026 | Sachgebiet: Berufliche Bildung
+
+https://www.recht.bund.de/eli/bund/bgbl-1/2026/328
+
 ### Tabaksteuer: Bundestag korrigiert Panne bei Tabaksteuererhöhung - DIE ZEIT
 *GN Bundestag Gesetz - 05.11. 23:58*
 
 Tabaksteuer: Bundestag korrigiert Panne bei Tabaksteuererhöhung DIE ZEIT
 
 https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ3FiUno1LW9DVmszWjJIS0tlQy1oaEJOZHJsNlFrVHNlQVJpazBlNGJxNnZ5WkpmR3d0bnpYUUJROHd3dENfUU9oZTIxZFprbERQdWVFNHFNZjRnVXNLTFVsYzJydl9udmJsRnZhdk5GQ2dtMExDbGpOVHBwTm9FakNQVGdaUWRvaEdwZjRiSzV6bFVpOGRHeW9aZXJ5clR0X19QZA?oc=5
-
-### Videoüberwachung in Schlachthöfen: Bundestag beschließt Novelle - DGS MAGAZIN
-*GN Novelle Reform - 05.11. 23:00*
-
-Videoüberwachung in Schlachthöfen: Bundestag beschließt Novelle DGS MAGAZIN
-
-https://news.google.com/rss/articles/CBMi0AFBVV95cUxQandNc2oyTjVtVjg3LTdLQ1RtelBoa2NkMzRac3BRaVQtTmJTYWVFRmxaZ19SdkxYdHliVEwtamVJbURfVHFFUHdCbExSOE1lRkhqcXY3TW90WXBwUGhmUnEyNXU5UTFXZ2pXYnRSZF84UGdOYm8xNWczT2ZOX29BVWM4YUI4NGxRemc4bWExQm54anpFZTNyV0dSOTNnOVc5dS1pSW45YWkxUDNLVlpDUkh3SWpyclBtdVVBbElPYWhla1Z2ZXZ3MjY3Zjd3Mzh0?oc=5
 
 ### Berlin - Bundestag debattiert über erste Pflegereform - Linnemann kündigt Nachbesserungen an Gesetzentwurf an - Deutschlandfunk
 *GN Bundestag Gesetz - 05.11. 22:50*
@@ -254,12 +324,12 @@ Gesetz zu früh in Kraft getreten: Bundestag repariert Tabaksteuer-Panne n-tv.de
 
 https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdFNwWmN2amd1ekxDUVVMbHRhd0JKQ2dsNVhPV3l4MldLWURfR3FtNGdKdmV5RVRJand5bERtZGJoX3dKSjN4ME9GWGYtNWZEb1czV3VROHd2YzRMY3AzTndfc09TMWVqbU9ZVzNTbXZ6VlpTREEtR0JZWjdIVzdWR2tVSi12WHpq?oc=5
 
-### Bundestag korrigiert Panne bei Tabaksteuererhöhung - STERN.de
-*GN Steuer und Arbeit - 05.11. 20:37*
+### Bundestag beschließt ersten Teil der Führerschein-Reform - NDR.de
+*GN Novelle Reform - 05.11. 21:06*
 
-Bundestag korrigiert Panne bei Tabaksteuererhöhung STERN.de
+Bundestag beschließt ersten Teil der Führerschein-Reform NDR.de
 
-https://news.google.com/rss/articles/CBMilgFBVV95cUxPRjdodTJtN2pubkFDQS1CMDdseDZjOFJEaXhUak5FRzNmV2VkX0xQT1FkdXVoV2hEdDNtM21vX1JTczloUDJTV2J3ekxJVl9qMjVaOW1WQ0J5ZDA1QnhtV0EwbkFjY2NlWldyaFp2d1A5RDItTUF0ZEgzNGtQRGt6QVF2MVcxY1pGdzItWlBqVzVIUWt3dFE?oc=5
+https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ2Y4N2NSbEZURXk1YnBYbXRIT0JZMjI2aGRTckJqS1ozeFA0SlRkSEJ5dmNBWU5QbW1KMHVjUVVmX3FuZmFXdzlqeUZhSGR5aURzU09UU0RDcWlvbmkyT242THJtSGdvSFpBM19tOS1SdmkzYUw3emdodVp5d0Jsb2QzbXJ4MldxY2RvNnlYeTlYaEpHU0JLU2N0R0ktNGZxaG1URXpXbDJLZVF4OW9OWmdYUQ?oc=5
 
 ### Bundestag gibt grünes Licht für Reform beim Führerschein - tagesschau.de
 *GN Novelle Reform - 05.11. 19:13*
@@ -297,18 +367,11 @@ Fahrschule: Bundestag beschließt Teil der Führerscheinreform DIE ZEIT
 https://news.google.com/rss/articles/CBMisgFBVV95cUxONzhhOE1yejA1RVloR2V4Yl82X2NVRkVDOEJlaXVSWlczTjc1Vld5YlppWFEzd2JmMDNnZTgxUWl5MjBWZEE0bndvcVlWa1VWQ2xHLUQzcHFFc2N0azBMVFpEeGdHUGJ6TXBZdmNibGtpSkQtZEN0dVItQndoUC1MS2lNQmRuRkhSWFRNbEh3YUw1X29mdDBRY0c2SWhQa2dSN3FIcjZ2ampweFdPcDdyVXl3?oc=5
 
 ### Ersparnis von bis zu 1000 Euro? Bundestag beschließt Führerschein-Reform – was sich ab 2027 ändern soll - Merkur
-*GN Bundestag Gesetz - 05.11. 16:06*
+*GN Novelle Reform - 05.11. 16:06*
 
 Ersparnis von bis zu 1000 Euro? Bundestag beschließt Führerschein-Reform – was sich ab 2027 ändern soll Merkur
 
 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZnFsV2lvSXU3R29zWS1LbUVaQXZIanR3U2x6bTR5WE9UbXVJcllnOFgzeDJpT3NKcEU2UC1NRlBjMDlZVDNnV2plM3diQ3dxQ1ZLa2FaZzhjR3AyeUgwa0J0Q0tJTVZFT3d0S05RYlotemx3VUlyV1UteVhkM2wtNkNvTTAzMFZsd2paaHBUd0ppMGkzbnVleTJWQ1QwaUZfTE5tZHBqZkNhZjVVWmtpRU5DNXZBZ2l3bkwyQTlkdlhOYUZZMG9RZGRXMFJlenJ1?oc=5
-
-### Bundestag beschließt Führerschein-Reform: Statement aus dem Kreis Warendorf - Radio WAF
-*GN Novelle Reform - 05.11. 15:54*
-
-Bundestag beschließt Führerschein-Reform: Statement aus dem Kreis Warendorf Radio WAF
-
-https://news.google.com/rss/articles/CBMizgFBVV95cUxOekxlNUhkd3NLXzJZV1lTUTNSWHNyLXFTVVI0LXdDLXVGT0FyaHFJM3pIYmFEbFIwT2xBNjAwc2VQRDhnc3FzRU9SZEFsVnF2Z0t2NHZvNFJNeTM5M1J6Sk1UejA4aWViN3VJTExoaEtwUUFzS19jWnlMd0RQT3FUSHl2S0pSTjJDQWVtODRFNWJ2aEpsWTNqR0ZLUEtiUlBBU1VVaWQwYVJzSXpFQ1dYRlRiY0w0RnhjbVpuZjNNSnRsbG9tY1FKdEotSzhUQQ?oc=5
 
 ### (S+) Führerschein-Reform beschlossen: So sollen Fahrschüler sparen - Spiegel
 *GN Novelle Reform - 05.11. 15:32*
@@ -316,13 +379,6 @@ https://news.google.com/rss/articles/CBMizgFBVV95cUxOekxlNUhkd3NLXzJZV1lTUTNSWHN
 (S+) Führerschein-Reform beschlossen: So sollen Fahrschüler sparen Spiegel
 
 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTFA4dU1EVDc3T3VBSTFfLVVtYWh0clNzTXZPZWV5STBfcUJBS3dwUnVhSFJhdGhFZlBYSnBPZlUzdURvbjVfQW5qS3pwUkxpMlRmY3N1cV9KYjVDMURaeXpXZk16RTl0b0hmS1diWnRqSjB5YVR0VlJldjdkUDEweF9UN2dzU0RZXzlGWGlSN0hKYTlrSDZpa2hFekxwVlZuWmU4blhncWJaekQzTEF0bE81dFZhRmNyWnREajFvU3JwRjhwaDJSRWtkc3BMMzBFdWx4NkliWQ?oc=5
-
-### Bundestag beschließt ersten Teil von Führerschein-Reform - WELT
-*GN Novelle Reform - 05.11. 15:30*
-
-Bundestag beschließt ersten Teil von Führerschein-Reform WELT
-
-https://news.google.com/rss/articles/CBMi0AFBVV95cUxQREZuRFo3RGZQRzVmRUhTdmpibnV4Rk92a0VzeDNlUmZCWk9HcGtrVFF3aDRNNllwaHFJU05XU0hCQm9qZ2tnWFRqNVRZaTVtQWFETkZQX1hFcDZzaDFZQkFDS2t1ODNpTVkySzJ6WXcyRV9lY0xhdUpHZ2NCM2RTeHZSQ2p0MlZmSFM5N0ZNc2Vmc3NpRnVtNTRJSUdCTUoxcXJ0MkZ0cmxyVFlrdmlDckZRRHQ4cEFkX2Q2NHNzbFZMUXFpUEVCaGdGdGZxYU40?oc=5
 
 ### Führerschein-Reform beschlossen! Das ändert sich jetzt für Fahrschüler - RTL.de
 *GN Novelle Reform - 05.11. 15:27*
@@ -344,13 +400,6 @@ https://news.google.com/rss/articles/CBMi0wFBVV95cUxPY0V0Z3V0Y3pYdHljUDlvSTAtcl9
 Bundestag debattiert über Pflegegesetz tagesschau.de
 
 https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lZVVUWWRYbERkdFNGTHZHcWJUREQwc19JNTZvVVlvQ0NWeEprTHA0Sm1nSFdjUUZoSWtZRXZGN0VLZERqblZRRWt6cFdxa21YdFRySEpTWXZBSF9ucHJj?oc=5
-
-### Bundestag debattiert über Pflegegesetz - Linnemann kündigt Nachbesserungen an - STERN.de
-*GN Bundestag Gesetz - 05.11. 11:27*
-
-Bundestag debattiert über Pflegegesetz - Linnemann kündigt Nachbesserungen an STERN.de
-
-https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUlFiMDBYTm1VLUo2bHFldGctRnllcTdjbnZ0WlFSRDdCSTJHaERuWjM0REFyWXpuaGJNNnVndVRTYmo4ZjNmYmphcFdBazZlOHZRMnhRc2NXdF9RU200X1hOS2JjemhnT2hlLUl2b2V0RmVZekg1clZhM3RGQmNPUmpnUWlCQkpKLUpMOUlvamJyUWxYLURxSTFReWZVQTJ5UGJhZHdzSmZSRlo1NVptMlI1UG9GYTgwTHVV?oc=5
 
 ### Reform für einen bezahlbaren und modernen Führerschein
 *BReg Artikel - 05.11. 11:11*
@@ -378,12 +427,12 @@ Die juristische Presseschau vom 5. November 2026: BVerfG verhandelte über Frakt
 
 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTU1SZVBYckl2bVo4WUNsbmJIb3dMempMV0tqM3hEdTZsd1puOUpLTU1UN1VKbVhMMGoxUnh5OEtKcl9mRGhBeUZaTHdqTzVQeHVTZ3AyR25nOEhXN2dOSzZicWZBZFR3MTUza09XRWJ4b3JuX2h6M2pZT3lXdmhla2VGSE1wU0xPczBfQzZfVW5GRUhjaXJkOEJmVURBR2ZQc1VrU2w1cTFxWW9nY3dsUTJ6OTlVT1hkNThqVTJnQ2wydDRVbnpqYQ?oc=5
 
-### Pflegereform: Bundestag debattiert über Pflegereform - DIE ZEIT
-*GN Novelle Reform - 05.11. 02:26*
+### FF 11/2026, Rechtsprechung kompakt / 2 Nebengüterrecht - Haufe. Intelligenz, die bewegt.
+*GN Recht Fachpresse - 04.11. 15:35*
 
-Pflegereform: Bundestag debattiert über Pflegereform DIE ZEIT
+FF 11/2026, Rechtsprechung kompakt / 2 Nebengüterrecht Haufe. Intelligenz, die bewegt.
 
-https://news.google.com/rss/articles/CBMivgFBVV95cUxQeUVTV3JROF9CaXc0RFRqeGN6c2Z6dWJYcW5CMVpGRE5zMmVpX1JMOG8yNXNicDFvM254N3ViQ2hueXI0NzdpQnp5bE5jcVpGX0d4aUtjUHp1dmNaM0lTRjRGYW1oZ19XVVQzX0I3UVlWdlByR0Y4YmdfRzBGTGNENlJFb1Vja3hOckFqUGtXYWNVZ052VjdDcVFTWDNreVJ0NV9CZnVSbG1EaV83VzgwWXB4MVg3V09KQllkSG5n?oc=5
+https://news.google.com/rss/articles/CBMioAFBVV95cUxOZEVxYU5nM2ZDTHJpM2Y4ZXN2dDI3Zm9uSUN4MG9pei12VzUyMDF2ZHVDelhZQVVGWG9meE1TYWota1ZkLWRJYWRYOEpiM3lOZHhMbUlYY2JfSFAzYWRlNEdKbkJNYnR4NTFER2I3SXpvR1Yzam9QNWpkWUJVbEY4ZmR5b3gwNnFnalNwaF9DWHBYOXE5Z3pLNTM3M0hVRW1o?oc=5
 
 ### BGH: Post für Gesellschafter landet wirksam im GbR-Briefkasten - LTO.de
 *GN Recht Fachpresse - 04.11. 14:39*
@@ -392,12 +441,12 @@ BGH: Post für Gesellschafter landet wirksam im GbR-Briefkasten LTO.de
 
 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS1ozZ3J3NnpfTmViRU9EY3RDeDZId3Zwa0tUdElBbXE1M2lvX0RpNjNfVFNXSmFSc3FzRUd5OGQ4ZGJSOC1HUHFGTUgzRTV2R1J4a05qcVlHcVJRSHVNVmJldmpkMmhzaVY3VmlYMnRrRjBOYm1xenhsZGNHNmR6T1pYc3U4Sl9iODBYX0NCSC1LNWNSZ2RUbGhBVFNicWY1R3dFVjgwOFQzUVRJMzNlV2pSalFEUjdkaHpiY1V3dzBYYW1pZUhoR0FTN056MEtPbThHa0dZSUlBUQ?oc=5
 
-### Aktuelle FG-Rechtsprechung zum Ertragsteuerrecht (estb 2026, Heft 10, S. 386) - Haufe. Intelligenz, die bewegt.
-*GN Recht Fachpresse - 04.11. 12:34*
+### Bundestag: Gesetz zur Tierhaltungskennzeichnung soll später kommen - Lebensmittel Zeitung
+*GN Bundestag Gesetz - 04.11. 14:19*
 
-Aktuelle FG-Rechtsprechung zum Ertragsteuerrecht (estb 2026, Heft 10, S. 386) Haufe. Intelligenz, die bewegt.
+Bundestag: Gesetz zur Tierhaltungskennzeichnung soll später kommen Lebensmittel Zeitung
 
-https://news.google.com/rss/articles/CBMivAFBVV95cUxPQUJFTXViNTMxekhrMGdTUWwxT0M5allOU0FGaV9hLU9QaWZJN191c21MMnRaMVVxWmhmaE56TDloNlJsQTV6UUNsUEJ6bE5JMF95YUQyTDNOdG9ZNmFSUnVscVAtb292azhKTjc3em94eTVwYnc2VUp5c0dKY1pWSXVHajEySXF0TGluVHZ5U1VfWUtuQzZfWkc4R1NFWTk3ZU9XQTZ1dmp0anRPN3lSXzlRa3laZkdEMlZxbg?oc=5
+https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUFBaVThidVdxTzV6S2VTa0k4Q1FsdWVSTVpxM2ItcU1MSncxZmJnTEZ4UVFybGxueWRSb1F0T1phcldqelhCU0cxNGVqbjEtZjNHLWRvNE5GMGtEQkd6OGV3cTg4M2pvaTdwcVA2MlNCOG9IeTR0VTQxalVxNjBSMGVDQTFPWWNHSVhXZ05nME9kQVNTX1RmUlVVQzFYTk1xOGs4SDd6MkZGNGw2eTZyb0VqdEg3YmxpaXpVbjBuMGVtRnFKWjRwVw?oc=5
 
 ### 21/8980: Entschließungsantrag zu der dritten Beratung des Gesetzentwurfs der Bundesregierung - Drucksachen 21/7404, 21/8979 - Entwurf eines Gesetzes zur Änderung des Fahrlehrergesetzes und anderer straßenverkehrsrechtlicher Gesetze (PDF)
 *BT Drucksachen - 04.11. 11:00*
@@ -439,11 +488,6 @@ https://dserver.bundestag.de/btd/21/089/2108949.pdf
 
 https://dserver.bundestag.de/btd/21/089/2108976.pdf
 
-### 21/8973: Entschließungsantrag zu der dritten Beratung des Gesetzentwurfs der Bundesregierung - Drucksachen 21/7560, 21/8947 - Entwurf eines ... Gesetzes zur Änderung des Strafgesetzbuches - Stärkung des strafrechtlichen Schutzes vor sogenannten K.-o.-Tropfen (PDF)
-*BT Drucksachen - 04.11. 11:00*
-
-https://dserver.bundestag.de/btd/21/089/2108973.pdf
-
 ### 888. Plenarsitzung des Bundesrates - Bundesrat
 *GN Bundesrat - 04.11. 03:03*
 
@@ -457,20 +501,6 @@ https://news.google.com/rss/articles/CBMivgFBVV95cUxOSUJCZFZGMVBwc25PSHBqR0VMU3B
 BMF will Fehler im Tabaksteuer-Gesetz rückwirkend korrigieren MMnews
 
 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRXJBbk43OTYteHl3T29FeE96ZUNGZ2tVYWlzTTRnd1ZfTzRIb2UxMnBHZ2QzN1FXcDFSV1JIbWI3MEdsdXBvUGZMUjJpNThsX0hTbEZHalJFSmt4eHZCYzdqNXpsUThOQ1BOUFFVUjFtV1ZFczhBRjVhWFpLTEpTbjhia3pmWE4wS0tNMV9NVkJhMWg1LTdycTVhM05UZTNlczN4aUk2SkllUVk?oc=5
-
-### Tagesordnungen & Termine - Bundesrat
-*GN Bundesrat - 03.11. 08:00*
-
-Tagesordnungen & Termine Bundesrat
-
-https://news.google.com/rss/articles/CBMidEFVX3lxTE8xcWw0LTFkelhqeko3emFzRGFLZHoyajlsQmtHdWhqVGlFNXZtaVlwTWFGM3Jic3JySENDeG5ZanR1Y2tWU0xXRUhVUXk1UEw3WnkxTG52WTNNYWZaVWduU1FBbHpCeDRHR19NcTlhS29VdWtL?oc=5
-
-### Berufsanerkennung: Verordnung tritt in Kraft - Apotheke Adhoc
-*GN Bundesgesetzblatt - 02.11. 14:24*
-
-Berufsanerkennung: Verordnung tritt in Kraft Apotheke Adhoc
-
-https://news.google.com/rss/articles/CBMiowFBVV95cUxQcmp4Y0pKUE5PVHdGOHNZUk5kVC1zVWRxOWxkOGg2STNIUmJ3NjVJRUNDNmFlZXBrOVdLSmtNR252YnpFb0pWdGlDY04tNkR4Y0Rsek9DamZ5TG0walF6Nm03cUNzQnBZYkVwcnd4RjZOeWNzVkhiamtqUndsa19jSlkyVXV4SG11b1RULUpnQy0tbWFpZUFkSzVtTVhMS3lScWg0?oc=5
 
 ### Panel-Diskussion über Frauen im Kampf für Demokratie
 *BT Aktuelle Themen - 09.11. 16:15*
@@ -514,12 +544,12 @@ Ohne Aussprache stimmt der Bundestag am Donnerstag, 12. November 2026, über meh
 
 https://www.bundestag.de/dokumente/textarchiv/2026/kw46-de-abschliessende-beratungen-1154820
 
-### Abstimmung über das Baugesetzbuch-Upgrade
+### Stärkung der Cybersicherheit
 *BT Aktuelle Themen - 07.11. 01:47*
 
-Der Bundestag stimmt am Donnerstag, 12. November 2026, nach einstündiger Aussprache über den Gesetzentwurf der Bundesregierung zur Modernisierung des Städtebau- und Raumordnungsrechts (21/6588(Dokument, öffnet ein neues Fenster), 21/7735(Dokument, öffnet ein neues Fenster)), das sogenannte Baugesetzbuch-Upgrade, ab. Dazu legt der Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen eine Beschlussempfehlung vor. Zudem will der Haushaltsausschuss einen Bericht gemäß Paragraf 96 der Geschäftsordnung des Bundestages zur Finanzierbarkeit abgeben. Abgestimmt wird auch über drei Anträge der 
+Der Bundestag stimmt am Donnerstag, 12. November 2026, nach halbstündiger Aussprache über den Gesetzentwurf der Bundesregierung zur Stärkung der Cybersicherheit (21/6585(Dokument, öffnet ein neues Fenster), 21/7406(Dokument, öffnet ein neues Fenster)) ab. Dazu gibt der Innenausschuss eine Beschlussempfehlung ab. Der Haushaltsauschuss legt einen Bericht gemäß Paragraf 96 der Geschäftsordnung des Bundestages zur Finanzierbarkeit vor. Abgestimmt wird auch über den Antrag der Linksfraktion mit dem Titel „Gegen die Einführung von Hackbacks und offensiver Cyberabwehr“ (21/6653(Dokument, öffnet ein n
 
-https://www.bundestag.de/dokumente/textarchiv/2026/kw46-de-staedtebau-1231496
+https://www.bundestag.de/dokumente/textarchiv/2026/kw46-de-cybersicherheit-1231534
 
 ### Antrag fordert Stopp von „EU-Armutsmigration“
 *BT Aktuelle Themen - 07.11. 01:45*
@@ -535,19 +565,12 @@ Der Bundestag entscheidet am Donnerstag, 12. November 2026, nach halbstündiger 
 
 https://www.bundestag.de/dokumente/textarchiv/2026/kw46-de-bundeswehr-eunavfor-med-irini-1231500
 
-### Debatte über Regelungen zum Unterhaltsvorschuss
-*BT Aktuelle Themen - 07.11. 01:41*
+### AfD fordert genauere Analyse der Gesundheitsausgaben
+*BT heute im bundestag - 06.11. 14:58*
 
-Der Bundestag beschäftigt sich am Donnerstag, 12. November 2026, mit dem Unterhaltsvorschuss. Dazu hat die Fraktion Die Linke einen Antrag mit dem Titel „Gerechtigkeit beim Unterhaltsvorschuss herstellen – Hälftige Anrechnung des Kindergeldes umsetzen“ angekündigt, der im Anschluss an die 30-minütige Aussprache abgestimmt werden soll. Zur Abstimmung steht auch ein weiterer Antrag der Fraktion (21/4539(Dokument, öffnet ein neues Fenster)), der mit „Unterhaltsvorschuss reformieren – Chancen für Kinder Alleinerziehender verbessern“ überschrieben ist. Hierzu gibt es eine Beschlussvorlage des Aussc
+Gesundheit/Antrag Die AfD-Fraktion fordert eine genauere Analyse der Gesundheitsausgaben in der Gesetzlichen Krankenversicherung, auch nach Nationalität und Aufenthaltsstatus.
 
-https://www.bundestag.de/dokumente/textarchiv/2026/kw46-de-unterhaltsvorschuss-1231502
-
-### Beschleunigung von Infrastrukturvorhaben der Bundeswehr
-*BT Aktuelle Themen - 07.11. 01:39*
-
-Der Bundestag stimmt am Donnerstag, 12. November 2026, nach halbstündiger Aussprache über den Entwurf der Bundesregierung für ein Bundeswehr-Infrastrukturbeschleunigungsgesetz (21/8409(Dokument, öffnet ein neues Fenster)) ab. Dazu wird der Verteidigungsausschuss eine Beschlussempfehlung abgeben und der Haushaltsausschuss einen Bericht gemäß Paragraf 96 der Geschäftsordnung des Bundestages zur Finanzierbarkeit vorlegen. Gesetzentwurf der Bundesregierung Die Bundeswehr soll in ihren Strukturen schneller und effektiver an neue Anforderungen angepasst werden können. Der Entwurf sieht dazu Änderung
-
-https://www.bundestag.de/dokumente/textarchiv/2026/kw46-de-bundeswehr-infrastruktur-1231504
+https://www.bundestag.de/presse/hib/kurzmeldungen-1231758
 
 ### Schärferes Recht gegen heimliche Betäubung
 *BReg Artikel - 06.11. 10:00*
@@ -555,20 +578,6 @@ https://www.bundestag.de/dokumente/textarchiv/2026/kw46-de-bundeswehr-infrastruk
 Die Bundesregierung hat mit den nun vom Bundestag beschlossenen Änderungen des Strafgesetzbuches ein wichtiges Vorhaben beim Kampf gegen sexualisierte Gewalt und Gewalt gegen Frauen auf den Weg gebracht: Der Einsatz von K.-o.-Tropfen wird härter bestraft.
 
 https://www.bundesregierung.de/breg-de/aktuelles/strafe-k-o-tropfen-2429950
-
-### Anhörung zur geplanten Änderung des Luftverkehrsgesetzes
-*BT heute im bundestag - 06.11. 08:52*
-
-Verkehr/Ausschuss Der Verkehrsausschuss befasst sich bei einer öffentlichen Anhörung am Mittwoch, 11. November 2026, mit der von der Bundesregierung geplanten Novelle des Luftverkehrsgesetzes für mehr Fluglärmschutz.
-
-https://www.bundestag.de/presse/hib/kurzmeldungen-1231596
-
-### Grüne fordern Abbau bürokratischer Hürden für Nutzhanf-Anbau
-*BT heute im bundestag - 05.11. 15:50*
-
-Landwirtschaft, Ernährung und Heimat/Gesetzentwurf Die Fraktion Bündnis 90/Die Grünen will die Entbürokratisierung des Nutzhanf-Anbaus vorantreiben. Dazu hat sie einen Gesetzentwurf "zur Änderung des Konsumcannabisgesetzes" vorgelegt.
-
-https://www.bundestag.de/presse/hib/kurzmeldungen-1231454
 
 ### TERMINHINWEIS: Bundestagspräsidentin Julia Klöckner empfängt ihre französische Amtskollegin, Yaël Braun-Pivet, in Berlin – gemeinsame Rede bei der ‚Berlin Freedom Week‘
 *BT Pressemitteilungen - 04.11. 13:33*
@@ -579,6 +588,13 @@ https://www.bundestag.de/presse/pressemitteilungen/2026/pm-261104-dfpv-1231182
 
 
 ## EU-Recht
+
+### EU-Kommission: TikTok gefährdet mentale Gesundheit - LTO.de
+*GN Recht Fachpresse - 06.11. 11:28*
+
+EU-Kommission: TikTok gefährdet mentale Gesundheit LTO.de
+
+https://news.google.com/rss/articles/CBMipAFBVV95cUxPa2xQU3lrbnlMY1Bia0FwQ3dmWlpNelJFMFNONklsazZDTElldlJRRHlBOGNPSXdtMFJnbDBpSUNFWDhzSjVqWUpTYTVQaDJEMXdMQkhQdkRHNC1MWUl2Z0ZyQmdsNmEtR1hiZGdNLS14REhselRhVTNtcmRRdlNmaUdFZ2pLS0s2UXFNZWM2QXhCSEY2SzFLNVkzN3pJLXBYYVFrdQ?oc=5
 
 ### CELEX:32026R2409: Commission Implementing Regulation (EU) 2026/2409 of 5 November 2026 making imports of certain polyether polyols originating in the People’s Republic of China subject to registration with a view to allowing the levy of anti-dumping duties on the imports subject to registration
 *EUR-Lex Amtsblatt L - 05.11. 23:00*
@@ -612,16 +628,6 @@ https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32002R0889R(03)
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026H2394
 
-### CELEX:32026D2495: Council Implementing Decision (EU) 2026/2495 of 29 October 2026 amending Implementing Decision (EU) 2024/1641 as regards an extension of the authorisation for Romania to apply special measures derogating from Article 26(1), point (a), and Article 168 of Directive 2006/112/EC on the common system of value added tax
-*EUR-Lex Amtsblatt L - 04.11. 23:00*
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2495
-
-### CELEX:32026D2494: Decision (EU) 2026/2494 of the European Parliament and of the Council of 21 October 2026 on the mobilisation of the European Union Solidarity Fund to provide assistance to Malta and Italy regarding the storm Harry in January 2026 and to Portugal and Spain following the storms in January and February 2026
-*EUR-Lex Amtsblatt L - 04.11. 23:00*
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2494
-
 ### CELEX:32020R0687R(04)
 *EUR-Lex Amtsblatt L - 04.11. 23:00*
 
@@ -629,10 +635,15 @@ The corrigendum does not concern the English version.
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32020R0687R(04)
 
-### CELEX:32026R2401: Commission Implementing Regulation (EU) 2026/2401 of 29 October 2026 setting out the list and description of variables and their technical specifications, statistical classifications, breakdowns, and precision targets for the topic structure of labour costs pursuant to Regulation (EU) 2025/941 of the European Parliament and of the Council
+### CELEX:32026D2494: Decision (EU) 2026/2494 of the European Parliament and of the Council of 21 October 2026 on the mobilisation of the European Union Solidarity Fund to provide assistance to Malta and Italy regarding the storm Harry in January 2026 and to Portugal and Spain following the storms in January and February 2026
 *EUR-Lex Amtsblatt L - 04.11. 23:00*
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2401
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2494
+
+### CELEX:32026D2495: Council Implementing Decision (EU) 2026/2495 of 29 October 2026 amending Implementing Decision (EU) 2024/1641 as regards an extension of the authorisation for Romania to apply special measures derogating from Article 26(1), point (a), and Article 168 of Directive 2006/112/EC on the common system of value added tax
+*EUR-Lex Amtsblatt L - 04.11. 23:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2495
 
 ### CELEX:32011R1007R(08)
 *EUR-Lex Amtsblatt L - 04.11. 23:00*
@@ -640,6 +651,11 @@ https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2401
 The corrigendum does not concern the English version.
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32011R1007R(08)
+
+### CELEX:32026R2401: Commission Implementing Regulation (EU) 2026/2401 of 29 October 2026 setting out the list and description of variables and their technical specifications, statistical classifications, breakdowns, and precision targets for the topic structure of labour costs pursuant to Regulation (EU) 2025/941 of the European Parliament and of the Council
+*EUR-Lex Amtsblatt L - 04.11. 23:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2401
 
 ### CELEX:32026D2493: Decision (EU) 2026/2493 of the European Parliament and of the Council of 21 October 2026 on the mobilisation of the European Globalisation Adjustment Fund for Displaced Workers following an application from Finland – EGF/2026/004 FI/Etelä-Suomi and Helsinki-Uusimaa paper
 *EUR-Lex Amtsblatt L - 04.11. 23:00*
@@ -650,13 +666,6 @@ https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2493
 *EUR-Lex Amtsblatt L - 04.11. 23:00*
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2483
-
-### Europaparlament: EU-Abgeordnete stimmen für Aufweichung des Verbrenner-Aus - WirtschaftsWoche
-*GN EU-Verordnung - 04.11. 16:38*
-
-Europaparlament: EU-Abgeordnete stimmen für Aufweichung des Verbrenner-Aus WirtschaftsWoche
-
-https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU29NUHNBZXhDUXY1OGhPblU0VWpmSFNsZnMxM3ZQUXdsb1paV0Ywdkk2TjIxNGJSSjhkTEVmZlREWlpRNDZNY0RTdGJ5QlNMOW0xMTZzTnhGTkRlNnZuTGI4eWNMNHBKLXgydkR3OFBCX3BIMEd4RjRNa1EtZjlZX04tRGZQamZ1X0VuUk1OZ3lZM2hKSEh4MDA1YkxWSEFNSTFRZG80emlGazdKR0taZUhISXRkMGNFeTEyRUxiWGdDQQ?oc=5
 
 ### CELEX:32026R0322R(01)
 *EUR-Lex Amtsblatt L - 03.11. 23:00*
@@ -709,30 +718,32 @@ https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2482
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2490
 
-### CELEX:32026R2473: Regulation (EU) 2026/2473 of the European Parliament and of the Council of 21 October 2026 amending Regulation (EU) 2023/2124 on certain provisions for fishing in the General Fisheries Commission for the Mediterranean (GFCM) Agreement area
-*EUR-Lex Amtsblatt L - 03.11. 23:00*
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2473
-
 ### CELEX:32026D2475: Council Decision (EU) 2026/2475 of 26 October 2026 establishing the position to be taken on behalf of the European Union within the Joint Committee established by the Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community as regards the adoption of a decision adding a newly adopted Union act to Annex 2 to the Windsor Framework
 *EUR-Lex Amtsblatt L - 03.11. 23:00*
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2475
 
-### CELEX:32026B2254: Definitive Adoption (EU, Euratom) 2026/2254 of Amending budget No 2 of the European Union for the financial year 2026
+### CELEX:32026R2473: Regulation (EU) 2026/2473 of the European Parliament and of the Council of 21 October 2026 amending Regulation (EU) 2023/2124 on certain provisions for fishing in the General Fisheries Commission for the Mediterranean (GFCM) Agreement area
 *EUR-Lex Amtsblatt L - 03.11. 23:00*
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B2254
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2473
 
 ### CELEX:32026D2413: Commission Implementing Decision (EU) 2026/2413 of 3 November 2026 on setting up the European Digital Infrastructure Consortium on Education (EDU-EDIC)
 *EUR-Lex Amtsblatt L - 03.11. 23:00*
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2413
 
-### CELEX:32026D2404: Commission Decision (EU) 2026/2404 of 29 October 2026 amending Decision (EU) 2021/2147 as regards the approval of civil aviation security equipment with EU Stamp marking
-*EUR-Lex Amtsblatt L - 02.11. 23:00*
+### CELEX:32026B2254: Definitive Adoption (EU, Euratom) 2026/2254 of Amending budget No 2 of the European Union for the financial year 2026
+*EUR-Lex Amtsblatt L - 03.11. 23:00*
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2404
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B2254
+
+### Speech by Commissioner Hoekstra at the 22nd Athens Tax Forum
+*EU-Kommission - 06.11. 13:25*
+
+European Commission Speech Athens, 06 Nov 2026 Ladies and Gentlemen, A very good morning to all of you. It's a great pleasure to be back in beautiful Greece and to be here today at the 22nd Athens Tax Forum ...
+
+https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2370
 
 ### Speech by Commissioner Lahbib at the InvestFrontier Conference
 *EU-Kommission - 06.11. 12:00*
@@ -783,6 +794,13 @@ European Commission Pressemitteilung Brussels, 06 Nov 2026 Die Europäische Unio
 
 https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2363
 
+### Kommission gibt grünes Licht für Abschlusszahlungsantrag Finnlands in Höhe von 331 Mio. EUR im Rahmen von NextGenerationEU
+*EU-Kommission - 06.11. 08:53*
+
+European Commission Pressemitteilung Brussels, 06 Nov 2026 Die Europäische Kommission hat heute grünes Licht für Finnlands sechsten und letzten Zahlungsantrag in Höhe von 331 Mio. EUR im Rahmen der Aufbau- und Resilienzfazilität (ARF), dem Kernstück von NextGenerationEU, gegeben.
+
+https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2362
+
 ### EU und Indien schließen Verhandlungen über die Assoziierung mit „Horizont Europa“ ab
 *EU-Kommission - 05.11. 23:00*
 
@@ -790,22 +808,50 @@ European Commission Pressemitteilung Brussels, 06 Nov 2026 Die Europäische Komm
 
 https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2334
 
-### EU drängt auf beschleunigte globale Klimaschutzmaßnahmen auf der COP31
-*EU-Kommission - 05.11. 23:00*
-
-European Commission Pressemitteilung Brussels, 06 Nov 2026 Auf der Klimakonferenz der Vereinten Nationen (COP 31) vom 9. bis 20. November in Antalya (Türkei) wird die Europäische Union mit internationalen Partnern zusammenarbeiten, um den globalen Klimaschutz zu beschleunigen und die Ziele des Übereinkommens von Paris zu erreichen.
-
-https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2342
-
-### AfD-Fraktion lehnt Nationale Partnerschaftpläne der EU ab
-*BT heute im bundestag - 05.11. 08:58*
-
-Europa/Antrag Die AfD-Fraktion lehnt in einem Antrag die von der EU-Kommission vorgeschlagene Zusammenführung der EU-Kohäsions- und Agrarförderung in Nationale und Regionale Partnerschaftspläne ab.
-
-https://www.bundestag.de/presse/hib/kurzmeldungen-1231318
-
 
 ## Steuern und Abgaben
+
+### Steuerreform auf der Kippe: Warum Millionen Deutsche jetzt um ihre Entlastung bangen müssen - Frankfurter Rundschau
+*GN Steuer und Arbeit - 07.11. 11:16*
+
+Steuerreform auf der Kippe: Warum Millionen Deutsche jetzt um ihre Entlastung bangen müssen Frankfurter Rundschau
+
+https://news.google.com/rss/articles/CBMipgFBVV95cUxPT05ubTV5cUZDNHF0ZEVic1BaakhXVFFWWTdjR1JnS0V3TUJvWjNyeUs5eHNvVDF3bTRWS1Nxc1dScEoxd3F5WVBhcW9KclJ2V0pGRS1MNl9GOUc5OVJPWldHVjJkZGZWZXR3RlpfejlZQlF1V2VLSDN3ZEFBQ3U5TmJvSWFlY3BfdjFUQk9Od0E5SUxjWWtfWlgtdktzdzNCS3dtSGtn?oc=5
+
+### Alkopop-Steuer: Union prüft Aufschlag von bis zu einem Euro - ad-hoc-news.de
+*GN Steuer und Arbeit - 07.11. 07:22*
+
+Alkopop-Steuer: Union prüft Aufschlag von bis zu einem Euro ad-hoc-news.de
+
+https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUV1LXB1cHlxQlBVc3hWNEx0QTM5c1pIM0tjVmdjRUVnTjlkWDVLV0xZcUVDS1d4bzJYQWNKU291MWpZMnNhQm9veUlvTUw0bGFmSW5nQmx3WXR1dHFPUTBMSHRJalJ3UXBnNVBoR1BkVEhyUUYtOXhjZjdKVDhQcWlvSzExMXRjYmlNckxDX2w5SEF3d0N6bU1zaHlZbTd3dnYxZ3VR?oc=5
+
+### Grundsicherung kostet Bund 250 Millionen Euro mehr - WEB.DE
+*GN Novelle Reform - 07.11. 04:38*
+
+Grundsicherung kostet Bund 250 Millionen Euro mehr WEB.DE
+
+https://news.google.com/rss/articles/CBMinAFBVV95cUxOcTZDUlBkNzA1LUJqaXlTdmJkbWhZQXJ3VzdXRUF5X2xybmVRNzRBY3FEdW82YV81U0pkM2UtdElBSi1lWTN6bEVNeGotbDUyMnBBRTNCazNSVmpubzhkelVsaVJGOWxVOHdRdHZTalhqN3hkcXZWVUgtWmphN3pNZm1YYktaYWZUSlpfZWQ5dW5WM0RGWmlOb1IxeG0?oc=5
+
+### Steuern - Union droht mit neuer Blockade von Steuerreform - UNTERNEHMEN-HEUTE.de
+*GN Steuer und Arbeit - 06.11. 15:44*
+
+Steuern - Union droht mit neuer Blockade von Steuerreform UNTERNEHMEN-HEUTE.de
+
+https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IbS15WFgtX0RwbmFHYWVVNkJFUWFEdU55Q0xlQjhQR3NaTl83Q3BVajdUS0o0cWRwR1dCbHQwMlFRS0dyajlucFloNTNQc1NpclBrUXVBT0tPMmRybG9vUFp3?oc=5
+
+### Minijob neben der Rente: Bundeskabinett beschließt nun doch die nächste Änderung - Gegen Hartz IV
+*GN Steuer und Arbeit - 06.11. 10:36*
+
+Minijob neben der Rente: Bundeskabinett beschließt nun doch die nächste Änderung Gegen Hartz IV
+
+https://news.google.com/rss/articles/CBMirAFBVV95cUxNdjhKWFZtUGhsdEE5cllsZFJTLUhIdEtoa0toaGp3TE9hWTFsNmpHS1o0aHZFSDlfWndXQUVxb21FZkRzVmNNQmFldW8yQk9HUnpMYmUyRjZaRlU3am5FNUlWMTM1RE9EY3B0QXZBNlBHbnh2Z1c1aGR3dFVKMWY2QnVFXzdrT21FVXo4STBJZF9CNmNjQkliLXZUWUt2WTFOUE1TU0dBQkUtaUpn?oc=5
+
+### Neues Steuerabkommen mit Ukraine nimmt Hürde - openPR.de
+*GN Steuer und Arbeit - 06.11. 10:17*
+
+Neues Steuerabkommen mit Ukraine nimmt Hürde openPR.de
+
+https://news.google.com/rss/articles/CBMijgFBVV95cUxQM2JHOUdONEJEMUJKanVuX3pIYlFHOG1RR2Z5VzRDZkN5T3pkSnJHN2hLNnpGY016N1BpSTFfdHYtZ0JFcE9tSlpnaUM1QnhNalhJRktoU2FxbThJbmhtejFseWJObjA5eGl6QTRBQnh6czVEY1lXTTRhVmFoT1dZMVVRUWc2dGdDUjVMT2VB?oc=5
 
 ### Durchsuchungen wegen Geldwäsche und Steuerkriminalität - Haufe. Intelligenz, die bewegt.
 *GN Recht Fachpresse - 06.11. 06:37*
@@ -814,33 +860,12 @@ Durchsuchungen wegen Geldwäsche und Steuerkriminalität Haufe. Intelligenz, die
 
 https://news.google.com/rss/articles/CBMiugFBVV95cUxPYVRJem9nejBJMnBiRDc1bXJhWGRVMzE2RTRRZjZyV2xMZHV4OHNab2Nkc21lRjFpc2lzdDZTdFBZNElmV2EwcWRyTU1NUDBveUpOX2RYVXExVHMtcVB2TU9KREdOMFNzNWw1amUydDlWeEFweXI1NlpFTW1wV3VLcHJqRjkyaVRiM0VmY0ROVXcyTkRIb2xkamV2SnFiRFNHT0djbHVrUlI1akpBNDdOS2owU3dlZlZDekE?oc=5
 
-### Besteuerung von Kryptowerten: Der Steuerberater kann vermitteln | Steuern - Haufe. Intelligenz, die bewegt.
-*GN Recht Fachpresse - 05.11. 07:30*
-
-Besteuerung von Kryptowerten: Der Steuerberater kann vermitteln | Steuern Haufe. Intelligenz, die bewegt.
-
-https://news.google.com/rss/articles/CBMivAFBVV95cUxQZGxQWkZ5QXhrODlRNUgyZ3NuOC1INENDU2gwLXZtYjVHZjFjblJMZWVaX3l4dm9hN0lZeFA2ZFE0V3ROTkRncTAyVnFwRk1Lb0JXVzREOHF4RG5FLS1OVGdra3VqQlhjT2FqSWR1WU5NZlM5N3VjX3JpZkxEV2ZHZC1fV0FfTXFDWDVlNWJWcll4TDlaWGg2YmkyTHE1dlJkXzhjbWpfUmZaX0dxdzFaLUUwNUdOd1lRLUFuVQ?oc=5
-
 ### Gleich drei Steuererhöhungen: Bürger müssen tiefer in die Tasche greifen - Merkur
 *GN Steuer und Arbeit - 04.11. 15:29*
 
 Gleich drei Steuererhöhungen: Bürger müssen tiefer in die Tasche greifen Merkur
 
 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdGNEdTVpQUxnU19kNHVOSGVCTHdlbExaaVZGdWYtazlyZURoZFdZX0NNR1BITDFCckhzaUFEX29jSDBnN00yTWVwelBTSzUwbk81UURPeFBETTI5cmtBdGJualVvOGI3eHNvQjNSU3NmUDI5eVZhdTU4QXFWSkVEeF9Tc1g0Y19NMGdlOXg5NklTUnZsbTRXclpLYVNjSlZsV1hBejVjOFMxQmNTRzVJZXVST3lFd1VLUWdwN08ybzVjRUZ5Q09zV1JNM2doUXc3ZmxVRWg0eFN2TzFwOWxoaGR3dzRKWGY2b3ZHYlU1a3k2R00?oc=5
-
-### Rentenerhöhung 2027: So hoch soll die Rente ab dem 1.7.2027 werden - Steuertipps
-*GN Steuer und Arbeit - 04.11. 09:06*
-
-Rentenerhöhung 2027: So hoch soll die Rente ab dem 1.7.2027 werden Steuertipps
-
-https://news.google.com/rss/articles/CBMivAFBVV95cUxPU3FCVjBKZ2pMV3dqZDExXzBxZ0t2YWs1YVpNUW54VF91WWJOS0JGWHhMQmRfMk1Hb3lCelRDSUFkNGp3TXQwbTFpVXdOcFRqMHdFSy1SLXlHSFM4UExVN2ZDanFfYy16bWU3bGh2alhlY1ZEaEV1UUJEMS0tUkJzZWkwTkp0SzB3aGFFN09Tc2xZTm0wQkc2SmQ2RVlYSGhwcnFfVlZ2c3JtNm1mVkUwQm1ZeXB3ZWF4ZnFPag?oc=5
-
-### Steuertipps für 2026: Steuern sparen zum Jahresende - Stiftung Warentest
-*GN Steuer und Arbeit - 04.11. 08:13*
-
-Steuertipps für 2026: Steuern sparen zum Jahresende Stiftung Warentest
-
-https://news.google.com/rss/articles/CBMiW0FVX3lxTE15ZkVoN3Z5cmFWMVV5a2hqckd2ZGE0RGVuZS1wVHFJaXJONkRGUG41ZG5iNWFCZjdBQXdMT01NaHFjblpndGk5ZDNMbjdfSUdwSVhfWW84cC13Rkk?oc=5
 
 
 ## Pflichten und Fristen
@@ -866,25 +891,15 @@ Frankreichs angebliche Krypto-Meldepflicht: Was hinter den Schlagzeilen wirklich
 
 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXJzcnNPWkJ4YXZvY3VpOWlydzhwNGJRS1RVblI2dThYdjlyU1h4YVoyVnVjdTN0cm9jNTB4SS1IX3dpUmtEYUZNOGxzdmpKYzN5ZHFhR0F6REpIc1RXYVZZUDk2SHJlNTB6MEdoN3J3R3pZdEVwcEwydGRVOVkyTnRYTk9qZnVab2hYQ0tmZVZsSkZOZ3YxXzRHZm1za21VSFJISl91V2E5eDFPdUx3TjVKUTcySHNPdlk4?oc=5
 
-### KI als Treiber für Wachstum und Innovationen
-*BReg Artikel - 02.11. 15:00*
-
-Die Bundesregierung setzt auf die großen Chancen von Künstlicher Intelligenz. Zugleich gilt es sicherzustellen, dass KI unter menschlicher Aufsicht und Kontrolle bleibt. Lesen Sie hier, was die Bundesregierung im Bereich KI konkret unternimmt.
-
-https://www.bundesregierung.de/breg-de/aktuelles/faq-kuenstliche-intelligenz-2458970
-
-
-## Foerderung
-
-### Zuschuss zu Stromnetzkosten grundsätzlich begrüßt
-*BT heute im bundestag - 06.11. 09:58*
-
-Wirtschaft und Energie/Anhörung Der Ausschuss für Wirtschaft und Energie hat sich in einer öffentlichen Anhörung mit einem Gesetzentwurf der Bundesregierung zu Stromnetzkosten befasst.
-
-https://www.bundestag.de/presse/hib/kurzmeldungen-1231670
-
 
 ## Arbeit und Unternehmen
+
+### Rechtsanwaltsfachangestellte (w/m/d) Arbeitsrecht - LTO.de
+*GN Recht Fachpresse - 05.11. 09:01*
+
+Rechtsanwaltsfachangestellte (w/m/d) Arbeitsrecht LTO.de
+
+https://news.google.com/rss/articles/CBMitgFBVV95cUxOWjJGYkFtWjgtNEFIbXhZaHI0d0p2aDQ5Q3o4RkMweGREcUxRdXZCd2ZGT3N6aDhfR1loTzkzSFlZMVRVY0VGVUNreEw4RHE4WXNXb29uTVRrWWlEWmtXRVhnRVl3RnBYbjdoMEhnZTFaeVd3U3lWYktVeWl0bkw4MmdIMkdic0NLOGNMY3Q0ZlNPSlh2c2Z1TkY4TllHT09LcmhPQ3FhU1Y0cEVhM1dNNEV3X2pqQQ?oc=5
 
 ### Ein Ticket für ganz Deutschland
 *BReg Artikel - 05.11. 11:45*
@@ -893,9 +908,3 @@ Digital, bundesweit gültig und monatlich kündbar: Mit dem Deutschlandticket is
 
 https://www.bundesregierung.de/breg-de/aktuelles/deutschlandticket-2134074
 
-
----
-
-## Quellen ohne Antwort
-
-- BGBl Teil I und II: URLError
