@@ -1,6 +1,6 @@
-# Rechtslage 14.11.2026 12:10
+# Rechtslage 15.11.2026 12:44
 
-137 Meldungen aus 18 Quellen, Zeitraum der letzten 96 Stunden.
+119 Meldungen aus 18 Quellen, Zeitraum der letzten 96 Stunden.
 
 ---
 
@@ -12,11 +12,18 @@
 https://dserver.bundestag.de/btd/21/091/2109197.pdf
 
 ### Krypto-Steuer 2027 in Deutschland: Was der Referentenentwurf zur Haltefrist vorschlägt - Ledger
-*GN Steuer und Arbeit - 14.11. 01:27*
+*GN Steuer und Arbeit - 15.11. 04:19*
 
 Krypto-Steuer 2027 in Deutschland: Was der Referentenentwurf zur Haltefrist vorschlägt Ledger
 
 https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MSVkyeUF1c294V1duaUtlN3dnaDMtdGIxMVRmcFJ3cDI3NlZILUZSajhicG43Z0hwdmZZWm5EX2VGT0tmaENDd3ZaNldlVW1Gb2VWYWNrcVV5OFk0?oc=5
+
+### EEG-Reform: Überblick zu Einspeisevergütung, Biomasse und Co. - ZFK – Zeitung für kommunale Wirtschaft
+*GN Bundestag Gesetz - 14.11. 19:07*
+
+EEG-Reform: Überblick zu Einspeisevergütung, Biomasse und Co. ZFK – Zeitung für kommunale Wirtschaft
+
+https://news.google.com/rss/articles/CBMikgFBVV95cUxQVk45TV9fdTJya09Rd2ZOV1hLYXNEbE1rN0kzZ2tCV1lDYXgtbXQ0WXhUM0V1OHRfNU9kMEhpVG5LbWNzcFhyOWg5Tlg3c1QxOUVKazlOcU9GZkloX1ZRdERMWkpqYzhvcmhQT1Q2SURxZG5nRElvY201RC1maVUzNmxSbUcxa1VDRW1sMDFOeVlTUQ?oc=5
 
 ### Bundeshaushalt 2027 beschlossen – Wie steht es um die Krypto-Steuer? - Blocktrainer
 *GN Steuer und Arbeit - 13.11. 11:15*
@@ -31,7 +38,7 @@ https://news.google.com/rss/articles/CBMinwFBVV95cUxNVlgtRjVyUU9DYzJhdjVBVXJkdXF
 https://dserver.bundestag.de/btd/21/092/2109229.pdf
 
 ### Die gesetzlichen Änderungen im Umsatzsteuerrecht 2026 2027 | Steuern - Haufe. Intelligenz, die bewegt.
-*GN Recht Fachpresse - 13.11. 06:00*
+*GN Steuer und Arbeit - 13.11. 06:00*
 
 Die gesetzlichen Änderungen im Umsatzsteuerrecht 2026 2027 | Steuern Haufe. Intelligenz, die bewegt.
 
@@ -51,12 +58,12 @@ Bundestag beschließt Gesetz zur früheren Förderung von Kindern und erweitert 
 
 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSkZEWXM0OUJOeUVlNDk1Q2dSRG5CeW5wc3lCUkstaEgybkNVVDlzTUh1d1ZCOXNzT3dBOG0zUkFiTzJIUnVNTi1RMWNIZzBTcDVuRXBTOTlEenlvOFFONHZOX0JHeXJmQWJ2bFdaZ1B6NWNJNXBwZEdKSkxONWV3c29ZOTNjM0loaUpGdHJwMW1vbWVfR21GU0lFSm5uQU05VXRDWTZjU0pTRFJoZjN0SEs3cFpXWFB5cTdQcEdhOGxaczFfb0hzTmdlVEpZRmhSaUFyT2dPYw?oc=5
 
-### Bundestag beschließt Gesetz zur Förderung frühkindlicher Bildung - STERN.de
-*GN Bundestag Gesetz - 12.11. 10:45*
+### Bundestag berät über EEG-Novelle – aber nicht über die der Bundesregierung - pv magazine Deutschland
+*GN Novelle Reform - 12.11. 14:55*
 
-Bundestag beschließt Gesetz zur Förderung frühkindlicher Bildung STERN.de
+Bundestag berät über EEG-Novelle – aber nicht über die der Bundesregierung pv magazine Deutschland
 
-https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSlVRZktlTnlSYVNkVGdvd3JGNFJWRU0xdm9MSGdhVFhDamhlMDNqOS1SUUNFSFRhejNSQVNxVi14c0xLMUtqZjFCUVU3QUZqXzExTDBGMExxc20zeG9sLUlYdWdLVm1YRmx5SWxZY0RRaW9sZlJUdzJMNHQ0eXRyc3lybEJEWHEtNWdWbGVINE11M20teGwzODE4OGxQOHZCa3pwUnNwN3lpUjQ?oc=5
+https://news.google.com/rss/articles/CBMitAFBVV95cUxPc2RHbHl0alUzTFBGSzk3OUkzQVJjcHlJMnZNM3N2alphcVU4TzdadzZJZkJWc2MwNU9SM1QySEZRUll1NzB1eDd0WktVd0RYUzQ1dDdFQjhyY2N5cXNfLW9KTVkzajRTTTlJVlRwREgzRDBrRmZjUVBlS0FxNW15bllfa3hqaktBV2ZYNWVMdlFxdEVZOWwwZDVRODRJTlBTUHl6ZExyXzF6MG9GUVhvZEF3QV8?oc=5
 
 ### Neuregelung des Rechts über entwaldungsfreie Produkte beschlossen
 *BT Aktuelle Themen - 12.11. 22:15*
@@ -65,26 +72,40 @@ Der Bundestag hat am Donnerstag, 12. November 2026, nach 20-minütiger Aussprach
 
 https://www.bundestag.de/dokumente/textarchiv/2026/kw46-de-entwaldungsfreie-produkte-1231524
 
+### Klöckner fordert schärfere Kontrollen im Bundestag - Hasepost
+*GN Bundestag Gesetz - 15.11. 08:02*
+
+Klöckner fordert schärfere Kontrollen im Bundestag Hasepost
+
+https://news.google.com/rss/articles/CBMihwFBVV95cUxNdUU1bjBuSWNnVDV5aFJBVHZGaWNfVTUyOEtueWo3LTZxLVVPTjh2TmRqRVpMQ1JNb25BLV9hQlFkVER4TVN5S3RyZGdqb0Q1U05DTElycExjc1ktTFFCamF5aXR5SFU4TEVIZGp5Y1ZoM2xNNUxocllrUnlaYWRBU0U1b2RlZHc?oc=5
+
+### Bundestag verschärft Gesetz: K.-o.-Tropfen im Fokus - Frankenpost
+*GN Bundestag Gesetz - 15.11. 06:00*
+
+Bundestag verschärft Gesetz: K.-o.-Tropfen im Fokus Frankenpost
+
+https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMlNxTE9GX0JseGFWRlE4Q2lWdjlYb09hbm03eUZkb3dhcVBlbjdXTUhWUkNYWkxkcFoyYTFZOVViWVF3UURROXQxbUdQdGtjaTBQNlZnN2dtY1hYSHkxVzYyN0ZFU2RqYjNRRXBveXBhUnNlUzgtYlp6VDVxaEVvX09Ga1ZDT2lyTTJhekJ0Wk00MW5xOFQxZ2V3NTlURG1oLXJVTUNoWk0xczQ4LWRaYkVpOU5fNU9ycnZPel9IdFlERjg?oc=5
+
+### Pflegereform 2027: Welche Termine jetzt wichtig sind und wann die nächste Reform kommt - Allgäuer Zeitung
+*GN Novelle Reform - 15.11. 04:25*
+
+Pflegereform 2027: Welche Termine jetzt wichtig sind und wann die nächste Reform kommt Allgäuer Zeitung
+
+https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQTFDcWNpTUZHUlN6ZHF5dzRqWllqR1RpUktISlBMWGRaU0lWb0c0NkU0c3ZYS3VNb1dtUXFCME9ZWE5wbUNyNG5mZGFsd21zZVV3QU5RZGNwWU1pZXd3RXFCUWwzeXBob012dVJnYU82Nm1IQ2p0VUJoTXZ5aGVIUmFCOXdjOTRuNlVZSzVxRDlMd2pUTGVpNk5KNEp0TkVEQXcxb0JRQmtlelgtX1ZBMXhMaVhxcFBIVENCYVpSQzk?oc=5
+
+### Bitcoin unklarer Herkunft beschlagnahmen: Bundestag beschließt neue Befugnisse für den Zoll! - Blocktrainer
+*GN Bundestag Gesetz - 14.11. 16:36*
+
+Bitcoin unklarer Herkunft beschlagnahmen: Bundestag beschließt neue Befugnisse für den Zoll! Blocktrainer
+
+https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRWdXQXRUQ2lkaTZ1RW9nbVhrY3pwbU5vOWJIVWNxUjdSM2xFbHFKN1lJT0lfTmwtRVNnYmNxWVhJTnRaVl8zX2RUSVh0ckFwd3dUcDZkV3dwTEJIQXlSVDhmbGJjMGt0VFFzazNRcUpBVENCSWdVcS1KR1NORm5hZHRHT2pXQmJjRXNHcXhvc1NrVm82M1VQSVJpTndHY3hWRk5xN04wUUNpZUZzLU9WWlluRGlMQnBBZWlWTGgydzZJX1U?oc=5
+
 ### Jahressteuergesetz 2026 vom Bundestag beschlossen - STB Web
 *GN Bundestag Gesetz - 14.11. 11:23*
 
 Jahressteuergesetz 2026 vom Bundestag beschlossen STB Web
 
 https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LRldvRlVaSjZzckdsMmNmdXVubXUwLTNEVEs4TVpCODhZc0k1VE1fb1duY3BiN2NFMF9PVF9YNk9aX3YxOEwwSnU0eEg4NzJ4cGFHU2pOaFVrNDZQ?oc=5
-
-### Forscher bewertet Reform: "Kontrolle der Nachrichtendienste war bisher defizitär" - MDR.de
-*GN Bundestag Gesetz - 14.11. 09:58*
-
-Forscher bewertet Reform: "Kontrolle der Nachrichtendienste war bisher defizitär" MDR.de
-
-https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX2pfTGl6WUhTOHZvNkRKd2F1N0k0aU9VblRtdHZNVlJCbDVLOFJTLU1tUGdUV1Rza2YzMWt0Mm1zVzlLXzlzQmVSdHIwb1RESjZFMTZjMjZqNk9NLVJFNUpxZlV4c0NVVkU2Umw2c3ZqcklyYmdsemFnRXUzQ3RVaU1jV3VXOHl5Q0pQWWJRVE1zMjRkUHdiTW9seEJReUN5RXN0OERDRUxMaUNETDc4NktrdWlGSkZVY0M2M2k0NndDaGY0amozX29OTW5RamFWM21STzZPbVlqU2tQbmRuZmFQUDBVdFU?oc=5
-
-### Kompass Rechtsschutzversicherung, Teil 4: Rückblick auf die wichtigste Rechtsprechung des Jahres uvm - Legal Tribune Online
-*GN Recht Fachpresse - 13.11. 23:15*
-
-Kompass Rechtsschutzversicherung, Teil 4: Rückblick auf die wichtigste Rechtsprechung des Jahres uvm Legal Tribune Online
-
-https://news.google.com/rss/articles/CBMi5AFBVV95cUxOenJMZDFXWGpJeHZLWXNUUGV4U2lvTHFYRUpXeXBQRHA0cGxSQnZpMHF2X01DYk50aDI3VmxraFloLVZOTnVEQmIxSUFWSEEtYlFmTHVla0ZFUm9jbmxjU1l2SGlMNWF2OTJ3dF9NaW9UMWJKcFJmN1dJUWNRNUFlaERtcTZSWGNQbzA2V092OVBIMzFGdm9mS2lacFEzeGRvQkxMMC1rMDBUTEdkWHpzaXpVdjBsSy02MWM5anRMT0d0TzNWMG5MRXNnSWVsZC0wc01UUmlDLUtYMWlCTWhnLXZTT0w?oc=5
 
 ### Bundestag beschließt Reform der Nachrichtendienste: Neue Befugnisse für BND und Verfassungsschutz - Mittelstand Nachrichten
 *GN Novelle Reform - 13.11. 22:56*
@@ -128,13 +149,6 @@ Jetzt Beschlossen: Ab 2027 bekommen alle Arbeitnehmer fast 200 Euro netto mehr G
 
 https://news.google.com/rss/articles/CBMirgFBVV95cUxOR0t0OEFPZTFwMzljeXp6R2pKVEQwcldfUF9UOW5kR0xGZ01PWVZnMC1HanBoZXNOQWVoS21NNnBiTTM5WFlpclE5S0dEeVZWY1FvN3AwdXEwbzNWemJLZy04Q2xPRDRMLTZ1dkVTUjVuSFFxQzdqU3QzNHptWWlheWlJcm9Oa2ZvS0tFQV9YMHhCbG9kd2pYSllTMWozYXdfTmN6UlFYcVRCbTh4ZGc?oc=5
 
-### Kabinett einigt sich auf Elterngeldreform - Badische Neueste Nachrichten
-*GN Novelle Reform - 13.11. 15:00*
-
-Kabinett einigt sich auf Elterngeldreform Badische Neueste Nachrichten
-
-https://news.google.com/rss/articles/CBMikwFBVV95cUxQTkZjZ3NVMHdWalZ6UW54NkF5XzM2dll6clBKN29UVlh6M2VNU0Q5dm95Z3liSU5JZVZZaEI4ekNfSG9iNWxGVHViZXlTOXZ5QTAwZFVScGQ5V1BFbWV0eW44b1ljVXhPYXZvbmw1eWhhMHJQSlk2LXkyV3JlbVFKQUxqYnpsVjJldDBadl9iQUtCZk0?oc=5
-
 ### Kabinett einigt sich auf Elterngeldreform - Vodafone live
 *GN Novelle Reform - 13.11. 15:00*
 
@@ -155,13 +169,6 @@ https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd21mN0poVzFkQ3ktZWd4a3Z6VWJ
 Nachrichtendienstreform beschlossen: Verfassungsschutz darf Arztpraxen abhören Apotheken Umschau
 
 https://news.google.com/rss/articles/CBMixAFBVV95cUxNbzctWUsxYmhHeG1LRF8zaFhCOUdXV0dXMExFcnRTTjNmRkJ1aUVtblZlbzhWSUJqSExWS1NpeFdXUU9kRG5kNzBDS3VkX3BnZmljQll0aTF5ME5PZHlXTWRMY0k5VkdFY0plR2MxQXhnSDRoQ3o0OXhZRUZHQ2p5eGRZM3E4cl9YVkRQTHRUV3dEU0pwZ3g1dXNZR014a2lVbFhyZ3lNcjJnRDZPRUozMUEzMUo0RG1RYkdUS0Y1V0VWLXFx?oc=5
-
-### Befristungsrecht in der Wissenschaft: Bundestag beschließt Mindestlaufzeit für Arbeitsverträge in Forschung - DIE ZEIT
-*GN Novelle Reform - 13.11. 14:36*
-
-Befristungsrecht in der Wissenschaft: Bundestag beschließt Mindestlaufzeit für Arbeitsverträge in Forschung DIE ZEIT
-
-https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ3BNRGZXRGhod1B0aEhUVjlDdVBDQW5yY09fTE5aMnd4QWx3VFJJR2FFZG5xNG5lSmtNTkZvaUM3azhWVVRNZGYtMVJoM1lPQzRSMDRmOVVjdlgzY2JTemJZOTRuTV9EY3lPWlJFdWl3a2pRZU1xOUxsVFZqWlV2MGxPQzZoQUJMUU45NWxTVTJKbFQ1NWVkRnFPaE1ldXhPUnFOaTR3M0dDdFZFYzQxaQ?oc=5
 
 ### Grüne fordern Reform des Suchthilfesystems
 *BT heute im bundestag - 13.11. 13:54*
@@ -205,19 +212,12 @@ Gesetzespaket: Bundestag beschließt „Jahrhundertreform“ für Geheimdienste 
 
 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb2ZUWUMwc3NobzVwZkJmMlRNRWhydDFFY0FsNDdxbEh6X2sya1piZjdIUlI1LUIzc2JLTGdEMGw1N3dOQlVxcmhpbnRtLXZESnpqN1VlLWNXYnRoX0VHcWJITG9FVkdLTXc3RWRkdXZRbmRxbFJCWTJveTNTa3BqSzdsSS1jZG56WVpwWjhGaXNQbUlGUmdTWTlFak9aZi1wRWlXN0F6dEtRdHpqbkF3ODlDdXI1dGo0VVlscnE2T2N0U2VEajA3ZFdIcFg2OWxwX1hqYWc4cHcwRVlkaWVOZw?oc=5
 
-### Bundestag billigt Geheimdienst-Reform: BND darf künftig aktiv gegen Bedrohungen vorgehen - BILD
-*GN Novelle Reform - 13.11. 12:59*
+### Befristungsrecht in der Wissenschaft: Bundestag beschließt Mindestlaufzeit für Arbeitsverträge in Forschung - DIE ZEIT
+*GN Novelle Reform - 13.11. 13:11*
 
-Bundestag billigt Geheimdienst-Reform: BND darf künftig aktiv gegen Bedrohungen vorgehen BILD
+Befristungsrecht in der Wissenschaft: Bundestag beschließt Mindestlaufzeit für Arbeitsverträge in Forschung DIE ZEIT
 
-https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaS1ZTWhmNFpWeEFnQ19UNEdnbUdUX0dyMHlYUmZMTC1GQWg4RFJKWVpxLXFKUDRpLUtVeFFqS3lVZ1pwS3BlalVkd2FsOW9iMVBydl9jSC03Wi02WkxlamgyM3lVUkM0alVqdUxoSUo5MTNCVjNQZ3VEdHdVRld4MWJwVEVtRDNRMkVmaG16a0dSWWdIUlduS2lNRjg2QktISTJYaTJfMHNCVnVzTGx4WHdhYVRRaDRqX3BCbGstb3U?oc=5
-
-### Geheimdienstreform: Bundestag beschließt weitreichende Geheimdienstreform - DIE ZEIT
-*GN Novelle Reform - 13.11. 12:56*
-
-Geheimdienstreform: Bundestag beschließt weitreichende Geheimdienstreform DIE ZEIT
-
-https://news.google.com/rss/articles/CBMipAFBVV95cUxQajQxYXlTSVBBSV9FTV9xZ2p2WEJDcDFqdlRISXRmMkFlSVZ1b1k5VFhGT292Z1M3Mk51MnpXVHZPNWpFSWc5Vl81TVhrbDV5ZTJFRjFzZDRoNGZvSWE1NlRIcW9HdGdwVHZpWTNfdGVqTWJsSnNIVUpnQk1ZbVowRGNmalZjMFBSdG04LXhQM1BReUd1bnVnbVVyYnFBZWRMdFQ5WA?oc=5
+https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ3BNRGZXRGhod1B0aEhUVjlDdVBDQW5yY09fTE5aMnd4QWx3VFJJR2FFZG5xNG5lSmtNTkZvaUM3azhWVVRNZGYtMVJoM1lPQzRSMDRmOVVjdlgzY2JTemJZOTRuTV9EY3lPWlJFdWl3a2pRZU1xOUxsVFZqWlV2MGxPQzZoQUJMUU45NWxTVTJKbFQ1NWVkRnFPaE1ldXhPUnFOaTR3M0dDdFZFYzQxaQ?oc=5
 
 ### Bundestag beschließt Geheimdienstreform: Verfassungsschutz und BND dürfen zurückschlagen - FAZ
 *GN Novelle Reform - 13.11. 12:46*
@@ -225,13 +225,6 @@ https://news.google.com/rss/articles/CBMipAFBVV95cUxQajQxYXlTSVBBSV9FTV9xZ2p2WEJ
 Bundestag beschließt Geheimdienstreform: Verfassungsschutz und BND dürfen zurückschlagen FAZ
 
 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNnhZb3pzdkxsaFJxMzBiR2ppSUdVNzF2S2hlZGM3alpHNk5LXzRyWVJBbVNLY0lRZ0VDUjFGQmhVTXlpSjhfNFpxejB2dWtsU3BuNmhkX3hqWTBHNjBFdzRYT0Z2LWhUT2hBb0V4MzNJYlRqQVUzUzdlTW5ISC15UUFXd2ttYnZha2RnOHlQUUFkSmtEMkFLOGVoeEQtX0pHTE1CdTNibkpQUmdPLW1wX19NMFpfZGFTOTBzQVFENVFwd3VjdnZLcXFQOXJ6TzBTYlBKdUlBc0hjclJudF9xOW9xV1BRQTY5?oc=5
-
-### Bundestag billigt Geheimdienstreform: Wie sind die Positionen? - WEB.DE
-*GN Novelle Reform - 13.11. 12:26*
-
-Bundestag billigt Geheimdienstreform: Wie sind die Positionen? WEB.DE
-
-https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ0w4OE5kYTBTb2dZLUFwU1FNWmJuVHlQM00ycFBKUDdKa1lTNTFIN0RqQ0FDNU11R2VpWlNMZzJUVkxxbGo3aEtJV0h4WldaeXU3OFRGejdsR1RDMVpKdnZaN2FGMG5vUENNTk53N3IzZHViTWpEczc4RTVPdjFmTVhvUldIb3pXRVlCNVQ5a1ZoUVF4ODdwa19iZG12MURFdTBSWg?oc=5
 
 ### Bundestag beschließt Gesetz gegen Entwaldung – bei Verstößen drohen bis zu zehn Jahre Haft - Lebensmittelpraxis.de
 *GN Bundestag Gesetz - 13.11. 12:25*
@@ -246,13 +239,6 @@ https://news.google.com/rss/articles/CBMimgJBVV95cUxQS3l2QllMLUxURzZIR1lna0diT0t
 Bundestag beschließt Geheimdienst-Reform Hasepost
 
 https://news.google.com/rss/articles/CBMieEFVX3lxTFAwbG1YSGZBN2VRNEExQ01XVGU3MVNzcHpIOGYyVEZTbUlhM2FxTVEwRXdVUjJsQUtfbFhvejdKRWUtcWM0ZGdXNXZyZWFOVVRKM1g4Y1F6eUljS0swdW9lYlk2OThZTkUyOXdaX3Z6VHZGVzFONE10MQ?oc=5
-
-### Reform der Nachrichtendienste: Opposition lehnt neue Befugnisse für Verfassungsschutz ab - Neue Zürcher Zeitung
-*GN Novelle Reform - 13.11. 12:21*
-
-Reform der Nachrichtendienste: Opposition lehnt neue Befugnisse für Verfassungsschutz ab Neue Zürcher Zeitung
-
-https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcDN5Y1MxLXE3LXVCU1ZqRGVmOFlmODNvcmhJTTF5TVBjM3U3bVphbDVqRGFyb244ZjlvOHJ6RTdTYzh3WGJadFo4Wl9US0tQOHAzQlBaQklldGZpM0xIaUY3dGtnVG5rb05tTlktODVhVXZJTXRIejROcjBzbmx0eXVWQ2VadTRZcjkxWFRhMEN5WGVGNy1Gb2dkbTViV3lMZmp2M3Y5UWJYWVUwSWcwQU95czJhT2sweE5iLU53LTRoVUxFT181b1Y5Y1ozWGl2d2lKVFVsYnNzbi1HSzN2TGZDN0gtQm8?oc=5
 
 ### Fortsetzung des Einsatzes „Sea Guardian“ im Mittelmeer beschlossen
 *BT Aktuelle Themen - 13.11. 12:20*
@@ -293,13 +279,6 @@ https://dserver.bundestag.de/btd/21/092/2109207.pdf
 
 https://dserver.bundestag.de/btd/21/091/2109198.pdf
 
-### EUDR: Bundestag stimmt Gesetz zur nationalen Umsetzung der Entwaldungsverordnung zu - EUWID Papier und Zellstoff
-*GN Bundestag Gesetz - 13.11. 10:59*
-
-EUDR: Bundestag stimmt Gesetz zur nationalen Umsetzung der Entwaldungsverordnung zu EUWID Papier und Zellstoff
-
-https://news.google.com/rss/articles/CBMixwFBVV95cUxNMmNCcnZnY29UeU40QXI0ZmtoaDdab1A0MERicDZmU2hZUGI2Umg4SmlyWl9ucHlwaDZaYzhEekNjdjdaeXN2SUh5TXVhcFY1ZFFuN1I2WnBmdEZQWm9seEZQazBCeVdFV3Z6TE94eTdIc2VreTZhYWctWjM0aFBzaEpmNTBTWEdTbEZSNFpZTnoxeGN1dGVrMFhfNEhsdWtRSzFBUnRXa2h6TGxYOU8xdmd4bTB0cnJhckQ2NTlDamp2WWtKMUVZ?oc=5
-
 ### EU-Entwaldungsverordnung (EUDR): Bundestag beschließt deutsches Umsetzungsgesetz - Logistik Heute
 *GN Bundestag Gesetz - 13.11. 10:45*
 
@@ -334,6 +313,13 @@ https://news.google.com/rss/articles/CBMiogFBVV95cUxONHgydnltVlVIMnM2YUY3aTAyUjV
 Der Bundestag hat eine umfassende Reform des Nachrichtendienstrechts in Deutschland beschlossen. Nach kontroverser Debatte verabschiedete das Parlament am Freitag, 13. November 2026, den entsprechenden Gesetzentwurf der Bundesregierung (21/7868(Dokument, öffnet ein neues Fenster), 21/8295(Dokument, öffnet ein neues Fenster)) in modifizierter Fassung (21/9161(Dokument, öffnet ein neues Fenster) neu). Mit der Reform sollen die Aufklärungsfähigkeiten des Bundesnachrichtendienstes (BND) und des Bundesamtes für Verfassungsschutz (BfV) „umfassend überarbeitet und gestärkt werden“. Zugleich sollen Vo
 
 https://www.bundestag.de/dokumente/textarchiv/2026/kw46-de-nachrichtendienste-1231530
+
+### Forscher bewertet Reform: "Kontrolle der Nachrichtendienste war bisher defizitär" - MDR.de
+*GN Novelle Reform - 13.11. 08:00*
+
+Forscher bewertet Reform: "Kontrolle der Nachrichtendienste war bisher defizitär" MDR.de
+
+https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX2pfTGl6WUhTOHZvNkRKd2F1N0k0aU9VblRtdHZNVlJCbDVLOFJTLU1tUGdUV1Rza2YzMWt0Mm1zVzlLXzlzQmVSdHIwb1RESjZFMTZjMjZqNk9NLVJFNUpxZlV4c0NVVkU2Umw2c3ZqcklyYmdsemFnRXUzQ3RVaU1jV3VXOHl5Q0pQWWJRVE1zMjRkUHdiTW9seEJReUN5RXN0OERDRUxMaUNETDc4NktrdWlGSkZVY0M2M2k0NndDaGY0amozX29OTW5RamFWM21STzZPbVlqU2tQbmRuZmFQUDBVdFU?oc=5
 
 ### Geheimdienstreform: Bundestag entscheidet über Ausweitung der Befugnisse für Geheimdienste - DIE ZEIT
 *GN Novelle Reform - 13.11. 07:16*
@@ -370,6 +356,20 @@ Kurztitel: Dritte Agrarerzeugeranpassungsbeihilfenverordnung | Typ: Verordnung |
 
 https://www.recht.bund.de/eli/bund/bgbl-1/2026/337
 
+### Neue Gesetzesänderung: Bundestag beschließt Erhöhung der Tabaksteuer - Franken Fernsehen
+*GN Novelle Reform - 12.11. 23:43*
+
+Neue Gesetzesänderung: Bundestag beschließt Erhöhung der Tabaksteuer Franken Fernsehen
+
+https://news.google.com/rss/articles/CBMifEFVX3lxTE03TWdfUGw2bE8yeFc4UXU0ZFF0ek0zNHFiV1o0VWhiOEVhSHBUMFczenk3NHRIZnc3UjQ3czRPV2RHTjNlYXZveU1ZVDB2dnpScVQyZTRwN3FwTXJxdnc3X2VnZllrZlZsdUNCWkxLc2pvUnFTUm1ELXM0TFA?oc=5
+
+### § 15 FAO - Aktuelle Rechtsprechung im Verkehrszivilrecht - Legal Tribune Online
+*GN Recht Fachpresse - 12.11. 23:01*
+
+§ 15 FAO - Aktuelle Rechtsprechung im Verkehrszivilrecht Legal Tribune Online
+
+https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0w1elRiVTc3ajVjekp4cGFrZTd0Skl0QlI1YXJBeGFvT3pORWR1NEpqcXBCc0EwdXhERlJFRTJFT3RQN2ZMNTB5N25LSXV0dnJUVHd5bFMtVW1ZN0RNWXd6bHBWVVZfUmRlUElkVWxNRlI1MVl2TmIzWURfeHA1LXlaeHdQZGNadHZxdDhadVg5MC1SSzhFOXRvQWE5dm16NXp0WWpn?oc=5
+
 ### Bundestag bereinigt das Hochschulrecht
 *BT Aktuelle Themen - 12.11. 22:40*
 
@@ -383,13 +383,6 @@ https://www.bundestag.de/dokumente/textarchiv/2026/kw46-de-hochschulrecht-123152
 Der Bundestag hat am Donnerstag, 12. November 2026, nach 20-minütiger Aussprache den Gesetzentwurf der Bundesregierung „zum Bürokratierückbau, zur Digitalisierung und zur weiteren Modernisierung des Strahlenschutzrechts“ (21/8415(Dokument, öffnet ein neues Fenster)) in der vom Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit geänderten Fassung (21/9142(Dokument, öffnet ein neues Fenster)) beschlossen. Für den Gesetzentwurf stimmten CDU/CSU und SPD, dagegen votierten die AfD, Bündnis 90/Die Grünen und Die Linke. Zudem beschloss das Parlament eine Entschließung zu dem Geset
 
 https://www.bundestag.de/dokumente/textarchiv/2026/kw46-de-strahlenschutzrecht-1231522
-
-### Bundestag gibt Verfassungsschutz wohl Befugnis zum verdeckten Handeln im Inland - Frankfurter Rundschau
-*GN Bundestag Gesetz - 12.11. 21:11*
-
-Bundestag gibt Verfassungsschutz wohl Befugnis zum verdeckten Handeln im Inland Frankfurter Rundschau
-
-https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa3FGNXhUanNuTm1VWHlQdDlOV3p6UDhVYW53Y0tmYU1XMFJOaGNtbm53QnlsUkpSTVVxX1pFN0tMUVZkWE9FSDhDX2MxcHBLMmN3dHlPTXlncWNwUjE3cUJkdC1rQ2VRT2xHWHZNby1jWmp5SURKb2RmRzNPX3AwYnZ0SFIybGRmdXdHdHhZLXViSWVtMTRZM09McEgxQkJ2MlpwWkxVOUE3LTA?oc=5
 
 ### Bundestag beschließt Mittelerhöhung für die Mutter-und-Kind-Stiftung
 *BT Aktuelle Themen - 12.11. 21:00*
@@ -440,6 +433,13 @@ Wichtiger Schritt für mehr Schutz im Cyberraum: Bundestag beschließt Gesetz zu
 
 https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iZGVoVWdOaFh3VG1PcmNtRHZXejdLR2EyVFMzX3NlNFlyTHNZS3R5SzZsLUFwYzlIcVEzamZQY0tQUFZSbXlLekNSa1B5Nm5pTFZpY3lwWEY?oc=5
 
+### Sprachförderung: Neues Gesetz soll die Lage in Kitas verbessern - Inforadio
+*GN Bundestag Gesetz - 12.11. 14:05*
+
+Sprachförderung: Neues Gesetz soll die Lage in Kitas verbessern Inforadio
+
+https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRWVWeE9hTUpiUC0tX0ZTZUNfR1FNcE5RZXNjX01PRUdESVpKWEVJLUhJY2JKQkRtend3cl95cGpMNDFiQ3p6bXdsekQ1dDdOc1g2Y0lnZGpOek9WR01NSGw4QjFMNEZnSHg3cUdOT0RpanQ1Y0NkTUJ0Z1VEd1lpang0WF9Qam5CS1RzYWxkTXE0eG9rcjNmN3VSUGg5cUpiaEtNMWx3Z0xRQnFLWHBtemUwU0h3RnlRUnBYTEdjdkhpdHl4WFdSWWpBeC1mOEpaN3JN?oc=5
+
 ### Anhörung „Pflegeneuordnungsgesetz“ - Deutscher Bundestag
 *GN Bundestag Gesetz - 12.11. 14:02*
 
@@ -447,40 +447,19 @@ Anhörung „Pflegeneuordnungsgesetz“ Deutscher Bundestag
 
 https://news.google.com/rss/articles/CBMigAFBVV95cUxQZTRwU2FaWW5idDdvZUtHNS1QeUlteUpqYzJPbDBPczZENGtFVzdsMmUzZTd3clNQZ0xEd0FHSGRXSUUwVE1ZSkJBQ2FWa0p6czVHR0JkQTVLOUhHb2xtZTNXY0V5aEVJZDFNdjBHY0dUUmN4SFNfNF9CLVNsMUZ4bg?oc=5
 
+### Finanzkriminalität: Zoll soll schlagkräftiger werden – Bundestag beschließt neue Befugnisse - Spiegel
+*GN Bundestag Gesetz - 12.11. 13:39*
+
+Finanzkriminalität: Zoll soll schlagkräftiger werden – Bundestag beschließt neue Befugnisse Spiegel
+
+https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcUhJQjhyNnZZZTU5VXZBdXBXMXZZMF9LSkRlLV95RUZ1eHIwY2tiOUlJeE0wdDVNQ3o1X1pSZzd3UEVCd09OdVlpSzBmeVR6dzNaZHNuRDl1WkxWT0JGUEd4SWtRVkJvaEszQUx0Y1J6Y2lOZWZKdnB6dW5mRUhYaVlwQVlkd0t5SThLOG50SkhlS3JoTEoyYnpFclJ6dmJ1TmZPUVZlb3NyVXdLdnh1OWg5aWJ0VGo2ajdKd3I2bFllRnFPQ1lldktvTGUyYllFY2JtSEsyTWFsbkot?oc=5
+
 ### Finanzkriminalität: Bundestag beschließt mehr Befugnisse für den Zoll - DIE ZEIT
 *GN Bundestag Gesetz - 12.11. 13:26*
 
 Finanzkriminalität: Bundestag beschließt mehr Befugnisse für den Zoll DIE ZEIT
 
 https://news.google.com/rss/articles/CBMirgFBVV95cUxOSU5vTm52alhnTDRNVkRoX1FGd1UtU3ZLRjJQUlBHN1Q4V2VfTmRjY0p2bDFRNEk1YTI2UVQtYUY3d0ZDZnhEcHBvRjFHM0FibmExOWpwREFvQV9KWmN3NnVBM0dZRXpwdFVldDNjUjh6TVRDZ1A0M2l5S2NhN3hVZnpQVTgxSUY1dHJSeG5Ha2hYbjh3N29jN0RWb2ZYUGM0UXRtaHVSNl9vbTItb0E?oc=5
-
-### Reform des Erneuerbare-Energien-Gesetzes - Abgeordnetenwatch
-*GN Novelle Reform - 12.11. 12:00*
-
-Reform des Erneuerbare-Energien-Gesetzes Abgeordnetenwatch
-
-https://news.google.com/rss/articles/CBMioAFBVV95cUxNREFmTWtURjZtcmVQaDBSSmlqanNnRDJjSGxMeHg4STlhd0hDRTFkaTlIZzJaRzlzRVcySkJXVjJwdHA3eUZfQjVvOUhJS0wtcmtiYWpUQmlSQmV5RDhwTmU4c25ZcU5rT0tBRmctTDVYN05ieG1UbEtLZW9EWjVYYzlaeC1PWjNuYWRVUGx2Z2k4eVFac3lJRTZpS2w4bkdT?oc=5
-
-### Sprach- und Entwicklungstests in Kitas: Bundestag beschließt Sprachtests für Kita-Kinder - DIE ZEIT
-*GN Bundestag Gesetz - 12.11. 11:55*
-
-Sprach- und Entwicklungstests in Kitas: Bundestag beschließt Sprachtests für Kita-Kinder DIE ZEIT
-
-https://news.google.com/rss/articles/CBMizwFBVV95cUxNVGRWdTZETkthVUQ3RjdfamtrOVAtNlBqQ1ItQ0pyVHJuSmxYbWFPa29sbUJNVXh3S1JjTnlLOW5LMDIxMTdYdmd5ZFhtcFNKNXp6V2l1THhDU21SSkJyQU00NzZwWUQwZno5RklKeTdxWUk5VW5TMm5qSzZKQUpyUHVNLWR5QzM0TXdDd29nWldndFhjdks1dHpoWHJVdDktSXJSOTlfNFNKWnc0NHJVOGZncW9iNGgxUzlOT2xnR2hMMVNuWVdIYVJWWVhkLUE?oc=5
-
-### Sachsen will Startchancen-Gesetz im Bundesrat stoppen - WELT
-*GN Bundestag Gesetz - 12.11. 11:12*
-
-Sachsen will Startchancen-Gesetz im Bundesrat stoppen WELT
-
-https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSC15YlF4aGp0dWQzV0YxWHlMQlkyN0UxRjZVVHBJUmdzMFZ5aGxmc0pseGVvZG9zS0t3bGJqYlluYVNMb3hld1hFNHFBU2RuTkNTeTdPUzBXVjdwSHdQaHhRaFd2YXJKSFNFMjBYUDE5WFNQWHdKQ1VKcDNLNm9ac0d1MmF1am1tdUw5TGMyZGpwMzZ3NUczRlJneUJEdUtzX3NlRTJsMXl3OU91RTQxLWMzdThaMzdzT3FrTDduMlUyenJFOFR6ag?oc=5
-
-### Plastiksteuer weg, Zuckersteuer später: Das hat die Regierung beschlossen - wmn.de
-*GN Steuer und Arbeit - 12.11. 11:07*
-
-Plastiksteuer weg, Zuckersteuer später: Das hat die Regierung beschlossen wmn.de
-
-https://news.google.com/rss/articles/CBMiswFBVV95cUxPRlZzQm9zNDVETUVfSHUtWWFXUUpOdXAwSDNEYVZJTUQyYmcxNXJZb1ZiVFphaXRuSjdfYnB6a0o5VlRlRTh4R2RxbEpXZ2R2QjM4R1l3NUs5cVl6NWlJRFhyVWdwTExsd3VFakpyZ0RPRDBvVFhLMzJnRDJ5RlR4U0t6Y1pOWFRRQmxzUml0YXc4czdQZTZ3TzhwbWE1TnFNTXViVkFjajAxYVZnUEVSOHJNSQ?oc=5
 
 ### 21/9211: Beschlussempfehlung und Bericht zu dem Antrag der Abgeordneten Dr. Anna Rathert, Martin Reichardt, Sebastian Maack, weiterer Abgeordneter und der Fraktion der AfD - Drucksache 21/8561 - Frühkindliche Sprach- und Leseförderung ab dem ersten Lebensjahr bundesweit sichern - Programm "Lesestart 1-2-3" verlängern und ausbauen (PDF)
 *BT Drucksachen - 12.11. 11:00*
@@ -502,75 +481,12 @@ https://dserver.bundestag.de/btd/21/091/2109192.pdf
 
 https://dserver.bundestag.de/btd/21/091/2109190.pdf
 
-### Bundestag: Votum für verpflichtende Entwicklungstests in Kitas - Bildungsklick
-*GN Bundestag Gesetz - 12.11. 08:11*
-
-Bundestag: Votum für verpflichtende Entwicklungstests in Kitas Bildungsklick
-
-https://news.google.com/rss/articles/CBMiowFBVV95cUxPbXJWTThuci1lTWVZbGxUbWxmNWZ1ZXcwOEcyY0RzdmlsOVFiODEtVFhmOHdkcFlyRHF2V3plNUVIdjE1N2JhalFuOFZyWURXcFFCSFBNNXVzLVgzNXpvODZKbXpxNGJmZmQteWZyMXZwc1F2ZHJ0NjRRamVaa3AwM3NRMGEzc2xjMmRMQ09scFRLNFhvM2VRaWhfREM4TGRDUkNJ?oc=5
-
-### BAG Berufserfahrung bei Stufenzuordnung TV-L | Öffentlicher Dienst - Haufe. Intelligenz, die bewegt.
-*GN Recht Fachpresse - 12.11. 05:30*
-
-BAG Berufserfahrung bei Stufenzuordnung TV-L | Öffentlicher Dienst Haufe. Intelligenz, die bewegt.
-
-https://news.google.com/rss/articles/CBMirwFBVV95cUxNbGYtX1hra01iajR0dEtteklVZWFMUGU4ZXhPRUt5d21idzdpUmtaS2lpMnBfdGlKNUV1YWVNaFhfNkVNZDRKaS1meTFqRWVZNnkzd3lwa3BTakJmbDZNNDc0TWprV3Y4T2ZPVUdhM1lQdndxckg5MVl3RDZjMXNDVFVMV0VVTE9MUjlzU21INU1nYWV0emxyUE52cl83Qi1rTlhsZDR3VFNQWkQ4QWIw?oc=5
-
-### Stromsteuer, Zucker, Plastik: Was die Koalition beschlossen hat - GMX
-*GN Steuer und Arbeit - 12.11. 04:09*
-
-Stromsteuer, Zucker, Plastik: Was die Koalition beschlossen hat GMX
-
-https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkN2cVZZeFppQmd2cml2R1VYN2xVUmo0aWtsNG1feHhRbXZaNHEtR3hFdHkxX0lyd2RraHhpUUVXckY3ZFQ1TzdQOGhWMkpkZDJ5c3l3MFYzNWxadEFENHRLUUVmVTRHbllwZ0RDOHF3bGVpSmJtN282ZGVOcmh6X2NqdXNaSUFYZ3ZwTmFWSXl5dm8zR3NzT0cyQy1DN01WSEVNckVQbzlnbG5H?oc=5
-
-### Mehrheitsgipfel: „Vorwärts mit dem Gesetz, aber keine Änderungen am Wahlrecht.“ - L'Unione Sarda
-*GN tritt in Kraft - 11.11. 21:04*
-
-Mehrheitsgipfel: „Vorwärts mit dem Gesetz, aber keine Änderungen am Wahlrecht.“ L'Unione Sarda
-
-https://news.google.com/rss/articles/CBMitwFBVV95cUxOZUYyRDVPaDFjR1drNFdhOXd0ZjlIbi13QzFzMHNTOVdMal9vV1c1Y01VTmtReEg0dDVYUGRJWlhIZDdTYmo2YkdUSkp1cW9aVUVkbWRCVXo2bWdiYVUyREZxT1FtZHZHMFZFTThfTllHU184LUM1alZFT2N2MENpbllYRk8wa3FMbHdlSWN2X0FMc2RfSWJJcDVJcS0yeE9pV0pERXc3eVhvZ3BubzVGNS1ob0RYMGvSAbcBQVVfeXFMTmVGMkQ1T2gxY0dXazRXYTl3dGY5SG4td0MxczBzUzlXTGpfb1dXNWNNVU5rUXhINHQ1WFBkSVpYSGQ3U2JqNmJHVEpKdXFvWlVFZG1kQlV6Nm1nYmFVMkRGcU9RbWR2RzBWRU04X05ZR1NfOC1DNWpWRU9jdjBDaW5ZWEZPMGtxTGx3ZUljdl9BTHNkX0liSXA1SXEtMnhPaVdKREV3N3lYb2dwbm81RjUtaG9EWDBr?oc=5
-
-### Girasole: Mücken positiv auf Usutu-Virus getestet: Anordnung des Bürgermeisters tritt in Kraft. - L'Unione Sarda
-*GN tritt in Kraft - 11.11. 19:32*
-
-Girasole: Mücken positiv auf Usutu-Virus getestet: Anordnung des Bürgermeisters tritt in Kraft. L'Unione Sarda
-
-https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaXJhNEZ2N05YdTl2SDdXQ2Z6NXhQMU9wcmkyamRPdG5Lbll2UzJCbHdIRkQ4OE9KalNLQmpZcGxoRUhjNVRManFlVTk4blBjdTREUF9sNk1tOG1wZ1B5VXBvYy1aMktUbHI2SVZvYlN1aWstbVNCbjlGYUl2MjJ6eGtxbG1DZGd1Ul9HYUxxRDhBOURkRkRLalBIcUZ0MVFxYWlkUW9kaWp3Tm11ZW92SXpyeUZZMDNyNnFiRGtTYnJHbmFvQzNrcmZ3N2pZR2p4QlRLZWFLa0Y?oc=5
-
 ### Leichte Sprache - Kann man den Bundesrat besuchen? - Bundesrat
 *GN Bundesrat - 11.11. 16:33*
 
 Leichte Sprache - Kann man den Bundesrat besuchen? Bundesrat
 
 https://news.google.com/rss/articles/CBMibkFVX3lxTE5jaVlPZFZkVHB1dXB0bFBQVWtWRE1mOGJuWTdrS2loc3JHY3BOTXJGazJIdUQzMW0tQWxlTHZfMVlkZGVfTzdoOG1HUUJmUUFVbElYRWJoZjl4eWJUMi04a1R4Um5McmpUdXhncnV3?oc=5
-
-### BGH: OLG Hamm 'eindeutig' für Anwaltsstreits in NRW zuständig - Legal Tribune Online
-*GN Recht Fachpresse - 11.11. 14:44*
-
-BGH: OLG Hamm 'eindeutig' für Anwaltsstreits in NRW zuständig Legal Tribune Online
-
-https://news.google.com/rss/articles/CBMirgFBVV95cUxPUy1xRDhyVFp1UVFMbmlyOU1La2dPY2ozYU9IdDExNXZMQmNYT2QwT2tQUi0zVUtOX1NEOWVSZTBRelBjR21LZ2NYWUV3UV9PX2RCNWRiTTFLNmJGVFVNeUxRWHJTbENvWDhlYXZRU3BveklISUpCMXQ1bGo3OFJPN0Y3VkxIdmY4Ti1XLVFzMVQxQXE2VFhZMlo0UWtKLXFtYkF4ODZQMGRxa3NwRGc?oc=5
-
-### Termine - Termine des Bundesrates - Bundesrat
-*GN Bundesrat - 11.11. 10:56*
-
-Termine - Termine des Bundesrates Bundesrat
-
-https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iWG4tVEc4Z09mdnRHQVk1OHZ2eTVVQi1RQmNmdHExLThYclVpNjNEMmJ1S1NZWkJSTGVOOTR5QmFTSUZLQ2RKbTBCTmIwaVUzSzlOaXp3OWpoRE5t?oc=5
-
-### Verordnung zur Änderung der Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Landwirt und zur Landwirtin
-*BGBl Teil I und II - 11.11. 00:00*
-
-Typ: Verordnung | Initiant: Bundesministerium für Landwirtschaft, Ernährung und Heimat | Fundstelle: BGBl. 2026 I Nr. 336 vom 11.11.2026 | Sachgebiet: Berufliche Bildung
-
-https://www.recht.bund.de/eli/bund/bgbl-1/2026/336
-
-### Zweite Verordnung zur Änderung der Akkreditierungsstellengebührenverordnung
-*BGBl Teil I und II - 11.11. 00:00*
-
-Typ: Verordnung | Initiant: Bundesministerium für Wirtschaft und Energie | Fundstelle: BGBl. 2026 I Nr. 335 vom 11.11.2026 | Sachgebiet: Sonstiges Wirtschaftsrecht
-
-https://www.recht.bund.de/eli/bund/bgbl-1/2026/335
 
 ### Umsetzung der EU-Entwaldungsverordnung
 *BReg Artikel - 13.11. 07:30*
@@ -740,13 +656,6 @@ Um im Ernstfall bei Sabotage oder Angriffen auf die Infrastruktur vorbereitet zu
 
 https://www.bundesregierung.de/breg-de/aktuelles/kabinett-gasreserve-krisenvorsorge-2460538
 
-### Integration so erfolgreich wie nie
-*BReg Artikel - 11.11. 09:00*
-
-Integration gelingt heute in vielen Bereichen besser als je zuvor. Das geht aus dem aktuellen Integrationsbericht hervor. Die Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration, Natalie Pawlik, hat ihn dem Kabinett vorgelegt. Ein Überblick.
-
-https://www.bundesregierung.de/breg-de/aktuelles/integrationsbericht-kabinett-2459076
-
 
 ## EU-Recht
 
@@ -844,6 +753,13 @@ https://www.bundestag.de/presse/hib/kurzmeldungen-1232974
 
 ## Steuern und Abgaben
 
+### Mütterrente 3 abschaffen? CDU-Abgeordnete wollen billigeren Strom - rentenbescheid24.de
+*GN Steuer und Arbeit - 14.11. 14:35*
+
+Mütterrente 3 abschaffen? CDU-Abgeordnete wollen billigeren Strom rentenbescheid24.de
+
+https://news.google.com/rss/articles/CBMimgFBVV95cUxPWEhyRTFOck16RmVxcUFCVDVGc1dGYWJELTMzWkNGWTMxOTN5RmhJVERySHA2Rnp5ekMxa1BDV1Q2d190OGVpaDkweGRhQnhxMFF0a2hZcHpUaS1OZEl2OGE0eFNSYjVUNFJVaHVDTW80Mm42M0VYUjJpVEJMcGx4S041Q1ZTa3RoTVdyWVJwSEtHQU9Fc1N6WWRn?oc=5
+
 ### Städtereisende zahlen in Amsterdam ab 2027 deutlich mehr Steuer pro Nacht - News.at
 *GN Steuer und Arbeit - 13.11. 10:11*
 
@@ -851,47 +767,26 @@ Städtereisende zahlen in Amsterdam ab 2027 deutlich mehr Steuer pro Nacht News.
 
 https://news.google.com/rss/articles/CBMigAFBVV95cUxPT1FpSHJicUoyWGlmTFpMdjlGVl96S0M1RUNxdVpqVHJmelIxakdZWGVsd0VFMGVFTXJPWGlzRkJKaGZ1bUVTREhHbGQtMm1KZm9PLWNYbExiZHhOVGZPOWlzNkpEcFBCak02aVZDb1FZRE5STWhfdTZoUHcyM1FHUA?oc=5
 
-### Umsatzsteuer: Zum Jahreswechsel 2026/2027 zu beachten | Steuern - Haufe. Intelligenz, die bewegt.
-*GN Recht Fachpresse - 13.11. 06:00*
+### Gleiche Rente, andere Steuer: Warum Neurentner ab 2026 bei 1.600 Euro plötzlich ans Finanzamt zahlen - OP Online
+*GN Steuer und Arbeit - 13.11. 09:22*
 
-Umsatzsteuer: Zum Jahreswechsel 2026/2027 zu beachten | Steuern Haufe. Intelligenz, die bewegt.
+Gleiche Rente, andere Steuer: Warum Neurentner ab 2026 bei 1.600 Euro plötzlich ans Finanzamt zahlen OP Online
 
-https://news.google.com/rss/articles/CBMizgFBVV95cUxPWk9oYUpyOWppZ0lkTkRCbTRBMWhxcGdBYkxEbVpxTlpTTnhJT2UzS2ZzZGpOQWRVU3FLbERlZF9TRExXU05ZMzNieHJMVG5fSkhJYU9wd1V1N19iRFgxbnhSNlk4TXlzelpNZTNOb3dLTXJxUjNwTlJqdndRd2NmMGhuQV9tamZ3VURXbkk4U01fSTh5YWRFNS1ZeXRnaWExZUZ2cUFHTTltOVl2VlJNcUlLeWlkQy05QWxuc1k4VnFxdmRmS1RNSGJ4dWlZZw?oc=5
+https://news.google.com/rss/articles/CBMisgFBVV95cUxQZzR2Nno2aVZlazZMb1NxeEZtQjJVcmljZ0VqSlBySHBHR0RUUnNzRHJfcVpWeUpieE1NMS1qSnRmS0x6LV91Mm10VE9xdU1DODB0bUFRdjhqMUtnX0x0dkZHT2tMdmdQVzhVMGhIZFRvUHdOb3VYZjVseWhQaDBqbXBXemZUR3RwQ0c5VnI0Tm81RVRTMjM2SldMaEdNU3BEcEU1dk5pN2F1bXBiNG5VOExB?oc=5
 
-### USt: Wichtige Übergangs- und Nichtbeanstandungsregelungen | Steuern - Haufe. Intelligenz, die bewegt.
-*GN Recht Fachpresse - 13.11. 06:00*
+### Umsatzsteuer: Dienstleister zieht ins Drittland | Steuern - Haufe. Intelligenz, die bewegt.
+*GN Recht Fachpresse - 13.11. 06:30*
 
-USt: Wichtige Übergangs- und Nichtbeanstandungsregelungen | Steuern Haufe. Intelligenz, die bewegt.
+Umsatzsteuer: Dienstleister zieht ins Drittland | Steuern Haufe. Intelligenz, die bewegt.
 
-https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQy16anU1NzRaUDZqOHZaQkd3OVJXdWU1bzFobFRmNE02Mm1oRnFHN0hUd0N0Q1lRZDBxRW16dlBGR0tEdFVJdWNReGJYRzdCT3dlcHVSWURYbzdVZ0daYk9yR0tuY1VoRDZpeEduQXVmWW1MZkhzTTZ4WUdEdmt3bEQzYkgxZEJzNDhRanFRbWRrRk5yMVVjR3FIdTNWYmYxejRLeUh4NGxlQVltVU1NQl85eFRmcjhWOHlGcjZWb1ppY3ktZGZ0OUp3enVlVkxIUlJTaA?oc=5
+https://news.google.com/rss/articles/CBMirwFBVV95cUxPZlhDWHYtQmpyY25aR2lRT3dpMXhKbVZtLS1yaTNCQjlOcFZISUxLWXlpQlRPQWUxbmZlNWNqWllzcGhpeXVRYm5QMm43QUFIS005TkFvYXFYVWV2cXpxc3VYOGN5NVBlaHNCOWF3QUhGRTVmN2hoS3BuaTdRdHlhX05MbWxTTHlZMl9aOWQ0dDhjVHNlRmktam96ZERPcFlUbThUdGo4dEctQXZOdi1r?oc=5
 
-### Meisterschwanden: Der Steuerfuss steigt – aber auf 68 Prozent - Aargauer Zeitung
-*GN Steuer und Arbeit - 12.11. 20:45*
+### Steuerklassen könnten verschwinden: Was das Finanzministerium plant - CHIP
+*GN Steuer und Arbeit - 12.11. 13:45*
 
-Meisterschwanden: Der Steuerfuss steigt – aber auf 68 Prozent Aargauer Zeitung
+Steuerklassen könnten verschwinden: Was das Finanzministerium plant CHIP
 
-https://news.google.com/rss/articles/CBMitwFBVV95cUxNVEZjQWNVTGRJQ2tIWEFzcl82c0drblJxbmR1a3FUcFAyYUxTbWRSeENQb0RuSVpWeHpKbmJ6V1FHbXpRVWYzdDI2REFEaTFSVVVNWm0wbU5wOW1zMEJFSk1ZTFl2ZlBzM3VSXzJ2d202V0thVm9SYzFDMkExSm5EWW9mWGhGSnBjQndVTTg2OE5valNsM3hFYjNzV3BmcWMxaFliY3E4amVUQmZrbml5b3oyOC1FcGc?oc=5
-
-### Fischbach-Göslikon erhöht den Steuerfuss vorerst nur auf 114 Prozent - Aargauer Zeitung
-*GN Steuer und Arbeit - 12.11. 12:29*
-
-Fischbach-Göslikon erhöht den Steuerfuss vorerst nur auf 114 Prozent Aargauer Zeitung
-
-https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWFQ4ZnNnMEFYOXdRSDBnOGktWHhxajRjRDRncGlFeV9EenZTV0tCUXpqYzlZVW01VzdibE45VkM5OHhmQ0p6NmdseHVBUmJVLVlVOUhTQW1FU0xFTjhLaUdUdlAyekxHcTVBdXhySlRSQ1NTQ2w2XzNBckJjX1UxN1FPN3VvWkJYUmxPSHY2cXMtVWs1Q2ZuOVhSeU5wZ2cxbERGTjdGY1pQMWctcGFtb2p4MnRCem5qVEdEWG1oY1RMQi1uN3R6Um5IS1AySmJf?oc=5
-
-### Verpasste Chance: Regierungsrat will Mittelstand trotz hoher Steuereinnahmen nicht entlasten - FDP.Die Liberalen Zürich - Medienmitteilungen detail
-*GN Steuer und Arbeit - 12.11. 10:33*
-
-Verpasste Chance: Regierungsrat will Mittelstand trotz hoher Steuereinnahmen nicht entlasten FDP.Die Liberalen Zürich - Medienmitteilungen detail
-
-https://news.google.com/rss/articles/CBMigwJBVV95cUxOdk1wUWFPRTBqaHF3WkphVlpzTXF6VDVqckl5c3FhYURlVDBkY0dTY2FoYXRSUlVGdmRNVXpoalhfWVlLV242NFNxY29PWTZVWmRIMzhCck5aQ0xxbzhIbXZfVWVxaUhxZEY5NkZmR0hXdVpiWlhqZmt6S041SzBMTHJTZ1ptN3l2aUllSkR6dHNzUGxJMFVTVmhYUzJVVWRFSmVEWk1lbjFWbkhIWG4wejEweXZPclVTbmw2ZjUzcnEtSmdub3E2QU91REZ2TktPcXYzRWFhTVcwSGdBc2JVZkl6amVtNEJUdEVzRktQTmMxc0tDVkpOMWNqa0Q4SGJoMXRN?oc=5
-
-### Steuern in Wittenberg: Satzung geändert: Ein Hund wird teurer, bei mehreren sinken Kosten - Mitteldeutsche Zeitung
-*GN Steuer und Arbeit - 12.11. 09:34*
-
-Steuern in Wittenberg: Satzung geändert: Ein Hund wird teurer, bei mehreren sinken Kosten Mitteldeutsche Zeitung
-
-https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa1VmaFdZa2ZYUFpFTXlDbWhlY1YzWXd4T2hYWWR1TXpVTEZVN1hTTTd1bldScEp6YWFBMlppR2d1QmItby1obkZLY3lKMEdpUVROc1JvcWVIUmdObkgwekRkWnBlTGRzaTAzbXBMVDJkVkFoMVU2di1nMEdES2Y4eGJNcXZyNlhmaDUydHQwQVVXWlkxaTRSZlRObDc2MFJkWVFNSjRubllnZEU?oc=5
+https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVlJrWDFSck5ZMlJHdC0yN0RNbFUwUGJ5MjZka05fd3JoNWVCV3lrZEt2d2lFT2JrWHJhWlJOdmFzRVdZSEtjejItSHVHaDBlQk9mWlBaQ0x4RmxoY2pKam1QdDdXVEdBeklKOXhBa25ENnB3M0NaNXFScEZQN3dWOFAzMlVRVV9jYTlzTnZadHhkN01acGcyTlAwZ3lzanlTNjM1eWNaQlNlMEp1VTNac3ZIV25vLWFLdDkyWWpSV3UwTjk5Mjlud1hPMjlsWjVSZmpmNEdsUlU2MU1mMnNuRE1vTUtVMExQTWc?oc=5
 
 ### Bekanntmachung zu dem Übereinkommen über die gegenseitige Amtshilfe in Steuersachen in seiner geänderten Fassung
 *BGBl Teil I und II - 12.11. 00:00*
@@ -900,46 +795,25 @@ Typ: Sonstiges | Initiant: Auswärtiges Amt | Fundstelle: BGBl. 2026 II Nr. 273 
 
 https://www.recht.bund.de/eli/bund/bgbl-2/2026/273
 
-### Hohe Strafen drohen! Neue Regeln beim Steuerausgleich - oe24
-*GN Bundesgesetzblatt - 10.11. 14:01*
-
-Hohe Strafen drohen! Neue Regeln beim Steuerausgleich oe24
-
-https://news.google.com/rss/articles/CBMijAFBVV95cUxPR1FqMV9uQzZKS25iSFE1Mnk4TmdoZUV6U0Y3SWdzWFFIT3JnSnV3UUJwR3VjNnJTRU1UNlZGZ3lxM0IxdEN6dHNlVGh5UUtsZGUwLVlpdVdnWjV0VUVIdlJpbjA2czVaRGpRWm1JemlDclE1UHlGZEMtc1hMLXpxNlFQNGZOaUhRTFlkS9IBkgFBVV95cUxNeEJqaDYxUUFEdEdOeUVYRllwQjV2cHN3Wk9OZGJDbVRCMXpxVHpQb2lLbE9JWGtXVXZWYVlQVmNSZ00tMEN5RERYODdqT19zVDZsaDJpclNrR0dmajVTTnNrUlZwUDlQZklUUWN1aTZ3cC0yNG5xbjFyY0hyVEZYeGlITzExLWZwNGFjLVBBSThCQQ?oc=5
-
 
 ## Arbeit und Unternehmen
 
-### Jobs der Woche | KW 46: Arbeitsrecht trifft Venture Capital - LTO.de
+### Jobs der Woche | KW 46: Arbeitsrecht trifft Venture Capital - Legal Tribune Online
 *GN Recht Fachpresse - 13.11. 09:32*
 
-Jobs der Woche | KW 46: Arbeitsrecht trifft Venture Capital LTO.de
+Jobs der Woche | KW 46: Arbeitsrecht trifft Venture Capital Legal Tribune Online
 
 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTXNwWjlIZlNaM2tjRW5abGl6cFlqV016TnhnQnd5dXpISlJzVzJPUENBLWxNajlZTTVjdmROWlpxVU00RnVrZGtIOWNFa3RfMVo2X0xvekVkN2MtLVd1dDQzY2lXaWNZTFFCdGowcnJzd3VlQUw0X3ZPdHZzaVc2S1lLQlFDa0ItS0E4NjhMZGtUSjBYUE5Cc3YxYUM4Ml9HR19lYlVlZWU?oc=5
 
-### Bundesregierung will Arbeitsrecht reformieren - Haufe. Intelligenz, die bewegt.
-*GN Bundestag Gesetz - 12.11. 10:48*
+### Arbeitsrechtsänderungen gehen nicht weit genug - Haufe. Intelligenz, die bewegt.
+*GN Steuer und Arbeit - 12.11. 12:55*
 
-Bundesregierung will Arbeitsrecht reformieren Haufe. Intelligenz, die bewegt.
+Arbeitsrechtsänderungen gehen nicht weit genug Haufe. Intelligenz, die bewegt.
 
-https://news.google.com/rss/articles/CBMirwFBVV95cUxPclVMTEh3eFpJMDNUQkx5X2p2YXlJcnFzUFNrOHBfdWVnOVVFOUI4MUhlUXV2UEFwZXkzajVEUE1HTXd5ZjlBVEgtdmhvVmF2bGEybHE2Qy1CQ1FmUmkwVFdZR3Nibi14VUVhMWk4T1pmMjNib3NzZGZVT1g4N29fSnp5bkNkR2EwbHM2S0R0ckVoZzQzWk1mOG83TVExOHc5Q3VQTTlIX1N2eWZYUkFv?oc=5
-
-### Arbeitsrecht: Job-Befristung und Sonntagsarbeit sollen erleichtert werden - Ihre Vorsorge
-*GN Steuer und Arbeit - 11.11. 21:04*
-
-Arbeitsrecht: Job-Befristung und Sonntagsarbeit sollen erleichtert werden Ihre Vorsorge
-
-https://news.google.com/rss/articles/CBMivwFBVV95cUxQSFFTakNqVHFOMl9fak9Ha0ZyM3JHTG5TTURJSTFwb2VmblpjUHM5R1lLbE5DS3FPRDl1V29VQWN5NG16a3ppcE5HZHF1eWhCdlJ5emhZLXdYa2ZMYWZWS2J4ZkllVDUwbFVkN0E0WUFsSXQ0VkRHNlMzcjFxQ1pxU2dlal9tVEM1U09KMEtiQzBiek52dDhpSDV3ZTZYNE1UQmgzcGdtTW41ODVpUlhqQWJzdEUyajFHeC15amtZNA?oc=5
+https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ1g2SnpqejdUcm51TjFkVUtYUlY3clQyeHdfZVoydThobVV5MUFaQmRtNnNDWVdYay1BaER4Mkw3cURGSDNhTVRvMkdSUUtHYWx2WlkyMTJuS3lPVkdFWTJna1NWQ2lycVFFa0N4S2hSS0ZfYzZiRTdwaWxtNXZVdVlXVnR4S3JLTGFPeHN2dkRXR3ZjRDdwRXN2UkdGUl9QTGt4Qw?oc=5
 
 
 ## Foerderung
-
-### Gemeinsame Empfehlungen zur Förderung und Durchführung v ... / 7.5 Abgrenzung von ... - Haufe. Intelligenz, die bewegt.
-*GN Recht Fachpresse - 12.11. 01:57*
-
-Gemeinsame Empfehlungen zur Förderung und Durchführung v ... / 7.5 Abgrenzung von ... Haufe. Intelligenz, die bewegt.
-
-https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUjR6N1M1S2xHeDNXU1hoZVlCX0x3R0ZRZ0tNVmpHRnp2TDd3aFBsTVRuRHR4SHltSXZTVmxBVU9BME9May1ROW9OdExDd19xVWh0dHNSWnViaGtMUGhZTUFDQ1NGZkZWQ002ZVBPbFhnaC03Z3BfZzNfeUVsTGk3Z2VNMWRtQTJ3Nl9xTFlVckp2UW5OeTViTVpsQXNTNDh2X0VBZTdoRUxTMmpBUjNkVG9uY1dSeFZXdGdISnQ1N3FRR3RMOWxMTVNRX2RwSVFXODY5RHd2bkV0WjZfanlkdTRkaXZLTUlRTVBRTC1HQVkzUQ?oc=5
 
 ### Mehr Unterstützung für den Mittelstand und Startups
 *BReg Artikel - 12.11. 13:30*
@@ -960,4 +834,4 @@ https://www.bundesregierung.de/breg-de/aktuelles/kabinett-startchancen-kinder-ki
 
 ## Quellen ohne Antwort
 
-- EUR-Lex Amtsblatt L: ValueError
+- EUR-Lex Amtsblatt L: ParseError
