@@ -1,6 +1,6 @@
-# Rechtslage 21.11.2026 13:28
+# Rechtslage 22.11.2026 13:21
 
-136 Meldungen aus 18 Quellen, Zeitraum der letzten 96 Stunden.
+125 Meldungen aus 18 Quellen, Zeitraum der letzten 96 Stunden.
 
 ---
 
@@ -13,6 +13,13 @@ The corrigendum does not concern the English version.
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2267R(01)
 
+### Die Nationalversammlung hat eine Steuer von 0,2 % auf verlassene Grundstücke beschlossen, die ab dem 1. Juli 2027 gelten soll. - Vietnam.vn
+*GN Steuer und Arbeit - 20.11. 17:30*
+
+Die Nationalversammlung hat eine Steuer von 0,2 % auf verlassene Grundstücke beschlossen, die ab dem 1. Juli 2027 gelten soll. Vietnam.vn
+
+https://news.google.com/rss/articles/CBMijgFBVV95cUxPcGtqR0gyWHM3MXo0X3phRGdQTFRqZTFMZHlOUnVpeEVxNV9aMERNVkJGdlRqOVQxajZsQW5KNkJSMGl0Q3lSMXY0c296dlR6QkVOa3V6b05XWUhHYkRWX1ctUTN1SHFYR0pfN2luQldiMmEycXZXZ1E2ODg1TlNSTUk4QllmQ2NPWm5jeFpB?oc=5
+
 ### Die Nationalversammlung hat beschlossen, ab dem 1. Juli 2027 eine Steuer von 0,2 % auf verlassene Grundstücke zu erheben. - Vietnam.vn
 *GN Steuer und Arbeit - 20.11. 15:47*
 
@@ -20,15 +27,22 @@ Die Nationalversammlung hat beschlossen, ab dem 1. Juli 2027 eine Steuer von 0,2
 
 https://news.google.com/rss/articles/CBMijwFBVV95cUxOUHp2UzRmcUlEblp1dzlPUDkwQ0ZCcGN0ZEtUVXdScy1wMkN2cDF3T01kTUFQSHlpZzRPSXZHUGRJWFEyR3F1RzNzRzlranRZRkM3VzFJTUJvV292R09EZkZJTUo2RjY2QjdDQ0tfSFEzTG9KUzlCVXBuN3dCMTBRYWtlUjZsNUdveHhjZEJrUQ?oc=5
 
-### Bitcoin Steuer: Kabinett will die Haltefrist-Reform am 9. Dezember beschließen, Inkrafttreten frühestens Mai 2027 - Bleiben Bitcoin-Gewinne nach einem Jahr noch steuerfrei? - AktienCheck.de
-*GN Novelle Reform - 20.11. 15:38*
+### Die Nationalversammlung hat offiziell beschlossen, ab dem 1. Juli 2027 einen Steuersatz auf verlassene Grundstücke anzuwenden. - Vietnam.vn
+*GN Steuer und Arbeit - 20.11. 13:58*
 
-Bitcoin Steuer: Kabinett will die Haltefrist-Reform am 9. Dezember beschließen, Inkrafttreten frühestens Mai 2027 - Bleiben Bitcoin-Gewinne nach einem Jahr noch steuerfrei? AktienCheck.de
+Die Nationalversammlung hat offiziell beschlossen, ab dem 1. Juli 2027 einen Steuersatz auf verlassene Grundstücke anzuwenden. Vietnam.vn
 
-https://news.google.com/rss/articles/CBMirAFBVV95cUxQZTN2N19qN3FyeVVuUHdPZWdzS1FvOGdidWdtRHE0aGlQT1lncHFDekVlNVFTNUJhY0JfYmlvRE0wY0ozb3A4MHpaOHJaN3ZlSDZVU0VXbWVXREZvc2lSM1FyN2VneXE2emlFX2NMeU81dUtpdjZlMndXWTdEQjVUQ0g4eXZyX1dLUXN3SXQwbDNyd0RIQnlaUE5TT3cxYmRsSWxPUWo3VGpCTGdJ?oc=5
+https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmExNHlkZEZlUnRGbTZtTXo1Q0NtS3hJaHlDaGV0LWRma184VHQ4WGMyQXA0WElaeEFPS1VVQjdpTXd4YUVKNHBkb3hFN0dwV2xVZlZUckEyRjBJbG9ERDFxU1I1VjFVU2hEdlhRdUlsaXVPVG8zRGlUMFdDQXFIcUZ0Z0J5WVgtbTBVSXYwLXo2TXpzOGNfTDNFUTJHMkxYNEF6cktycXY0SWpDQ280SW54Yw?oc=5
+
+### Bundesrat billigt Frühstartrente: 10 Euro monatlicher Zuschuss für Kinder – Verbraucherzentrale übt Kritik - Frankfurter Rundschau
+*GN Bundestag Gesetz - 20.11. 10:47*
+
+Bundesrat billigt Frühstartrente: 10 Euro monatlicher Zuschuss für Kinder – Verbraucherzentrale übt Kritik Frankfurter Rundschau
+
+https://news.google.com/rss/articles/CBMirwFBVV95cUxNSEFKWDBnTzhSQ091S1A3NlpwTFAtZnhheHE3d1R1clpybzJQclNjNkkyT1hqTTNiNVFyRWlsazNPRldnQnlHV1ZCaDljYXNCdDVjbUNZU2VFNnplQk1fTk45M1UzQURsX2k1YWpIWkVqOWhYUXVwcHZDcmlQQkdpdFZxNUhDSDlYUjFVbFpvdnJpV3JHT2RDTl9nSWNnRGpJR3ZwZTNZUkNqMkQ0RzZZ?oc=5
 
 ### Rentenreform final beschlossen: Geld vom Staat ab 2027 – mit einem Haken - T-Online
-*GN Bundestag Gesetz - 20.11. 09:18*
+*GN Bundestag Gesetz - 20.11. 08:00*
 
 Rentenreform final beschlossen: Geld vom Staat ab 2027 – mit einem Haken T-Online
 
@@ -46,40 +60,54 @@ https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MSVkyeUF1c294V1duaUtlN3dnaDM
 
 https://dserver.bundestag.de/btd/21/092/2109296.pdf
 
-### Änderungen im Arbeitsrecht beschlossen - STB Web
-*GN Steuer und Arbeit - 19.11. 08:55*
+### Schweizweit - Diese Änderungen treten im Dezember in Kraft - Plattform J
+*GN EU-Verordnung - 22.11. 08:26*
 
-Änderungen im Arbeitsrecht beschlossen STB Web
+Schweizweit - Diese Änderungen treten im Dezember in Kraft Plattform J
 
-https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jV3lYMURCcktwMnZ6Y0xETnA3ZHh1b2VpNENZTnRPN2tLRUpxMTlKWDBTS01ZVVZ2TjE2NlNFTHF6S1VGMFZ6UlZkTVd3dkpWY1NvYjlaeGVPbWMw?oc=5
+https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sTGlpUGpjVC0zdkRrdkM1Ym9LT2RJQ3FUQjNfd1NtTzdGOXJwR2VyVUE4Tk84aTMyQVpCSlp5MTlwd0FyNVpGM3JjcHNGUTg2b2lN?oc=5
 
-### Arbeitsrecht-Reform: Kabinett plant Befristungen ohne Sachgrund für vier Jahre - ad-hoc-news.de
-*GN Novelle Reform - 19.11. 08:18*
+### ÖkodesignG-Verordnung / § 5 Verordnung (EU) Nr. 206/2012 - Haufe. Intelligenz, die bewegt.
+*GN Recht Fachpresse - 22.11. 06:03*
 
-Arbeitsrecht-Reform: Kabinett plant Befristungen ohne Sachgrund für vier Jahre ad-hoc-news.de
+ÖkodesignG-Verordnung / § 5 Verordnung (EU) Nr. 206/2012 Haufe. Intelligenz, die bewegt.
 
-https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWWsxV01uZ2VLMWtiYURBblhST3NJQkF2dHBLeWxiekN3cjZGZ3RKZjNWeGpJa0U4WnFDaDJBWVJBcUlrRGJ3Q0J4czY4YnFTYWlMX3hZUFFZeFBtUU5aYm5QRzN6WU5TcHRxOVlkMHpfaVlQaENoV1NyUk5jUnJZdzBxZ3BrOVNHWGZEMGFVYWNmc0RLOG85OGRNU0I5WEtzXy0yWllxeTBzekctVHRjRmJTa2hBb1BQTExnSW1zcTFTYm8?oc=5
+https://news.google.com/rss/articles/CBMingFBVV95cUxONjZvOU9HNlRxZXp5QVpLTVJ5aFN5eUxkd1dlbi1UUVRfamRUNU5TS2V3YmJ5dXBGTzN5QUpuNjBxZDR6UE5VR1ZBNDYtR0RIM0xCN25odEc4dDZ2TXllOEVPbTl2bFZ3Z3FfSWNsYnFxaEgwcFRKSWx6OG1jaHAtRUd6Wk01UDJDRWtCZHd4LWJPSmdabk1JQS1paVdwUQ?oc=5
 
-### Kabinett stimmt Reform des Arbeitsrechts zu - verkehrsrundschau.de
-*GN Novelle Reform - 18.11. 15:21*
+### Führerschein-Reform: Was sich bald bei Prüfungen und Fahrstunden ändern soll - ka-news
+*GN Novelle Reform - 22.11. 04:23*
 
-Kabinett stimmt Reform des Arbeitsrechts zu verkehrsrundschau.de
+Führerschein-Reform: Was sich bald bei Prüfungen und Fahrstunden ändern soll ka-news
 
-https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaUFMSUFROWJuU1lJd19RM1VHaFJJSFVWRVphcTRBbTYzRExIMU45YW11YThXRUY3WnBCbHFPSHpXOTdqMmlfZkF5UzVTcXhIMnk2dU1WaVVod0NKMXhncm50WkhNS3JSSzU4LVpEVDJaNEZkNllLTExoQ25scGU3LVE3eklXVzM1cnFzSnR5S2hYRDNyQXdyQVpGYktFb3ZJQ2pCZlhyOXV6WFk?oc=5
+https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWXJyWVhhWGZ0LUQ3RlFpX1NjT2tIWmZZbWY3Q01LYlBSMy1TakdVUFJNOTYyYzVveHEtOWhEZkNHMjlXYk9nY054b1ladEtrZ0FNbUdHMTVtUXNmYUdpSGZmVXFYNW5sSlZFTlhtTnh4dmVzNnRWbG9iOTQ0TXU1dk1tSkR6a0pRV3pQZVl4QWRldGtVTGV2SFEtSXE3Qkpfb2FqX0VJbWxGMURUUV9fS0hNWVpDdFNDNXdBOEhqeHB5bC00YV9Lc3lfblhlRk4ySEVJ?oc=5
 
-### Kabinett beschließt Sonntagsöffnung von Bibliotheken – Staatsminister Weimer: „Wir schaffen mehr Zeit für Bildung, Begegnung und kulturelle Teilhabe“
-*BReg Pressemitteilung - 18.11. 10:25*
+### Kita-Gesetz: Bundesrat ruft Vermittlungsausschuss an, Bund plant 9,2 Mrd. Euro - Netz Trends
+*GN Bundestag Gesetz - 21.11. 21:03*
 
-Das Kabinett hat heute ein Arbeitsrechtspaket beschlossen, das den öffentlichen Bibliotheken künftig die Öffnung an Sonn- und Feiertagen ermöglichen soll. Damit werden die Beschlüsse des Koalitionsausschusses vom 1. Juli 2026 umgesetzt, die die Sonntagsöffnung öffentlicher Bibliotheken vorsehen. Bibliotheken werden damit anderen Kulturorten wie Museen und Theatern gleichgestellt. Familien, Berufstätige sowie Schülerinnen und Schüler können künftig auch sonntags in öffentlichen Bibliotheken lesen, lernen und sich treffen. Öffentliche Bibliotheken sind heute weit mehr als eine bloße Ausleihe von
+Kita-Gesetz: Bundesrat ruft Vermittlungsausschuss an, Bund plant 9,2 Mrd. Euro Netz Trends
 
-https://www.bundesregierung.de/breg-de/aktuelles/kabinett-beschliesst-sonntagsoeffnung-von-bibliotheken-staatsminister-weimer-wir-schaffen-mehr-zeit-fuer-bildung-begegnung-und-kulturelle-teilhabe--2461544
+https://news.google.com/rss/articles/CBMigAFBVV95cUxQaTVmQ0ZhOFFiYWpQa19rZE9EclI2R2w4aUFJY1pJaFNRYWhQd05PX1VaTFg1TDJGU1F5RDc5d2YycndHSzdpTE4teWRwOTlOYVV1YVhmMlZjN0hGYUNGYUFDYURSRVVmamx5a0JDTnhTS3F3MHEzRzFBQ1IxVmI5SA?oc=5
 
 ### Bundesrat - Frühstartrente beschlossen, Startchancengesetz zunächst gestoppt - Deutschlandfunk
-*GN Bundestag Gesetz - 21.11. 10:40*
+*GN Bundestag Gesetz - 21.11. 19:04*
 
 Bundesrat - Frühstartrente beschlossen, Startchancengesetz zunächst gestoppt Deutschlandfunk
 
 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU3FZbjVodF84RjZWOTNtMHU4Ym16eUNpTGdaWGVnRnNyLXJQNWZsMDZGaVdndjByY3lBd2VyazlYV0NGemlzTXFqbnE5UW5ZNFFwcXlpdUNNbzFSMjhXYU5walBEVTU2d3BnbjF2VGV3ODRobUFWOEMtT2FUSkU2UXRvQWt2SUE1SWZtLThPZlpOdEFnb3JER1V3VERtWGV4RHU1SUhYTmc?oc=5
+
+### Pflegeneuordnungsgesetz: Bundesrat warnt vor Schwächung der häuslichen Pflege - EU-Schwerbehinderung
+*GN Bundestag Gesetz - 21.11. 15:50*
+
+Pflegeneuordnungsgesetz: Bundesrat warnt vor Schwächung der häuslichen Pflege EU-Schwerbehinderung
+
+https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcGdvNXlWLUJvcHlMU0cxdlNFNk43M1FPZmlqZXNFdUdKOFVFN0E2TDVaSnRTYVRHLU03bllqanZ3eThQem1FSXgwWGhyTVltRUhWS3ZJRkNzakZTWXhvTmhFWldkYVBvcENxTjZjckFjQlhHdUotZ2RXS29nLXhoc01NYjZvVEp1UHd1cGlxRHVqd29IdGV4bUFKQ1JCMm5JOFlqeVdiX0NRRlFkSXZiNVhqQTNDZFlUVGU3dzVGUHg3aUozT1dOZDdxd1BuVkEzOU92bkRYQWIteDQ?oc=5
+
+### Regionalliga-Reform vor dem Aus? Vereinsboss erhebt schwere Vorwürfe gegen DFB-Funktionäre - Frankfurter Rundschau
+*GN Novelle Reform - 21.11. 12:57*
+
+Regionalliga-Reform vor dem Aus? Vereinsboss erhebt schwere Vorwürfe gegen DFB-Funktionäre Frankfurter Rundschau
+
+https://news.google.com/rss/articles/CBMiogFBVV95cUxOTEdJUEtnU3c1a2s0RnIxTWRtUEV1aWFoQmFISHlXSDdCS2ZQR3RWTlJvUDZDVloycFJiYm5DNXgxWjhwMEhjbE5QWjRXRFFFbjFXSlVJemlaMXktc1N2QzdFa29LeHdxN2FQb2d0azRrcGlzdE0wZnlwcDBNSEtmd3FNTFlwTGw4bUgyYmFvOThzanY5MkxVVnlES0FqbUJhenc?oc=5
 
 ### Monate Verzögerung! Bundesregierung verstolpert Riester-Reform - BILD
 *GN Novelle Reform - 21.11. 08:04*
@@ -88,26 +116,19 @@ Monate Verzögerung! Bundesregierung verstolpert Riester-Reform BILD
 
 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS3RkV2ZZU0EyWlRMLW95R28xMGhxSV8xaG1TZUs2SDBYYl9NenhLckFFMWs2UDlZNVR4QkdWcm1wTE5HYWE4eHQ5RGRQRnQ2NEpjcGJsVXNpSGp2cFFhcmR6aXpPazVZZ3VZTS1lUVdZcXh6aEdybnVmQ3ozQUdPQkpZOFFicEJwR2p3MlNnQ21KWkRITVE0Y2FKZWRETDFGbXh1MzNUQ0NxMmNDMWw3b2swTGYzc1gtdlZVd001OTgxQ28?oc=5
 
-### Änderung am Bundeswaldgesetz beschlossen: Was sich für Wanderer und Spaziergänger bald ändert - CHIP
-*GN Bundestag Gesetz - 21.11. 07:00*
+### Bundesrat billigt Ausweis-App d-you – ohne Pseudonymfunktion - Opposition24
+*GN EU-Verordnung - 21.11. 07:22*
 
-Änderung am Bundeswaldgesetz beschlossen: Was sich für Wanderer und Spaziergänger bald ändert CHIP
+Bundesrat billigt Ausweis-App d-you – ohne Pseudonymfunktion Opposition24
 
-https://news.google.com/rss/articles/CBMiigJBVV95cUxOOUYxbFBZOFgtX0JWYTA3dmI2TnZweVNITEMwV00ycE4wei0wTE8wcV9GeDhsQmVTZ3RzdDhVNzdTWjU2aHdLMTdLSHBvb3ExZkM5cE1vbGVUVkZ2NUFvOWdmQWVOMllsazhyS1g0WDNuX3pxblRPRmJ2eGg4VVdJM0VZcllxekw5a3lvWE5PNVlXTE1Wa2lINWZUZ3Q4WmF5TmxCSFpfelhzQ0Z6MUpmMmFtNU0teWNGVHR4aThnTkhVRUJjZFFMTnhqdGhBZnFLTWZjUDRlY1FGV0tRd3hDNmdvZ3F6bWd6Q0M5aGNybVF4MU93QWFrMnVEZVoyUmZfQ2VRMUhxcUxNZw?oc=5
+https://news.google.com/rss/articles/CBMif0FVX3lxTE5fYWpCdjBuRndBd2xRM1hzc1Rmb2JRNm1SUTZ4Sld3aUdqd2Y0cllsNmJkQ2VIX044TU1ROVl1UkE5ajV5UWtGLU1rSFhLd0g3akkwODRScEM5aE1FV1B4cFd6djRBVnRWemJYOTNuSmMyQ3Q2alNYMFUzTGNNd2M?oc=5
 
-### Bundesrat billigt Reform: So funktioniert künftig die Notfallversorgung - RP Online
-*GN Bundestag Gesetz - 21.11. 06:53*
+### Pflegeneuordnungsgesetz: Bundesregierung erläutert zahlreiche Änderungen am Gesetzentwurf - EU-Schwerbehinderung
+*GN Novelle Reform - 21.11. 02:40*
 
-Bundesrat billigt Reform: So funktioniert künftig die Notfallversorgung RP Online
+Pflegeneuordnungsgesetz: Bundesregierung erläutert zahlreiche Änderungen am Gesetzentwurf EU-Schwerbehinderung
 
-https://news.google.com/rss/articles/CBMiywFBVV95cUxQbFdwYUdrcjdpWWpGZnpaTk9OYlY3UXQ3cGFqTEJyOG95MUthblZZeGFaYW9MX3VrN0p3RVVWUV9sV1dIQ3YyZFB4dXRWWUNWMFpxQzZYeDhjUFctaS1EZUdXTDF3YklRSjZRUDhyT3Z2NmpOZE5MSElLLTFyM2VLM0lTaHpUcURXNEZyemZTa2VBNnQ1bHNiQ1liNkhsNDBYTjhfbm41VjlqeFpQbkU4UlpWOENSY3NpTDdiUzVGVm1TMXMtUjhhaVBIYw?oc=5
-
-### Frühstartrente: Bundesrat gibt grünes Licht für 10 Euro im Monat je Kind – wer verdient am Aktiensparen ab 2027? - AktienCheck.de
-*GN Bundestag Gesetz - 20.11. 22:55*
-
-Frühstartrente: Bundesrat gibt grünes Licht für 10 Euro im Monat je Kind – wer verdient am Aktiensparen ab 2027? AktienCheck.de
-
-https://news.google.com/rss/articles/CBMirgFBVV95cUxOQUlvMW1GVElBTU1Ec2g0OExleWdVQmU0SXh5NVlJckNicjZZbFNNaVRVM1lKME80UmZDN2FIV2VfYm9JN2d5LWZyMVBoajRWc1I2WndFVTM2OGxiTmc5TlFLVHUxUDl6OXJGQlQyWXEzNUNzd3lWTDVsVUhQZGs0VU1CRmVXenJRREczNzU0ZkNrZS13T1VwTDBLQzZTWG9sRTNaQUxMc2Z2YnFnLVE?oc=5
+https://news.google.com/rss/articles/CBMigwJBVV95cUxORnlWNDZSVFV3SXYyUTdMRDNFcnVEWE5BcjNwVnladXVlNlFvZGJFVmZldGY2N3puQ0VkY2NkR3VrUXRRSkV5ZXJ4RjhzNUx4eXphZk1JcGFmRWNMd09pVmhtU0JMTjhRTm9hX3pOOFZlYnpoUHgtTWhraU8tOVNNaXJJYUc5LV9LYk9ZNEVya3Naanc3dkJ6RnNPdzNZNm02eGM4dDFfM2JwVk9qUGpSTVJvc0ROM29CREppRm9qb2NkcEJaMm9ibm53WktTOXdiaUs5Z3huSUl5UVRhY1diUVE0VVJPbjhjQnc1ODRZRzRMTVROeWV4S2ZoaG8wek9SUzZR?oc=5
 
 ### Tagesordnungen & Termine - Bundesrat
 *GN Bundesrat - 20.11. 21:53*
@@ -158,13 +179,6 @@ Vermittlungsausschuss - Bundesrat stoppt Startchancengesetz Deutschlandfunk
 
 https://news.google.com/rss/articles/CBMigAFBVV95cUxNNFllVmpNYzFXODBkdmZqc01hbnB0N3Q5alF3QmJQbThaMUFONm93YWFSYnQ3TENsTzFJZmxnbG9xcVZqN3BCVVMxX2JvVEZzSTJoY0pIQ0p3VjlVQUJwYXd0aDdXQzdsdzYyT01LVEd5WEZUMDBRUVdqVUU5dE5sWA?oc=5
 
-### Führerschein-Reform: Was sich bald bei Prüfungen und Fahrstunden ändern soll - ka-news
-*GN Novelle Reform - 20.11. 15:45*
-
-Führerschein-Reform: Was sich bald bei Prüfungen und Fahrstunden ändern soll ka-news
-
-https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV0lfd3lBVy1BR3dieW5zWV84X1djd3ktUE10Q2pfUnl5WV9ER0o1ZjdaWFdCVTVIOV9qNHRsbXMtLUt0OHlXMWQ2ZkQ2NlJKRVZYTlNmQk12cGU4LXFnOHU5YXNxZzFrMGhaaTE0cG5hREJaQkZrWVIyYndOZWNnVXBtQWN4NFpUWF9NSnhKSUVKQk1VNGozNmtUY2I0Y0lPcjdCLTFNbTg3WVpVekM5ZTlKcHVJeFhlSGJSUndmb3RlX292X0xUVkZDam5MMTgtemw4?oc=5
-
 ### Notfallreform im Bundesrat beschlossen: Was jetzt auf Kommunen zukommt“ - KOMMUNAL – Wir gestalten Deutschland
 *GN Bundestag Gesetz - 20.11. 15:36*
 
@@ -192,13 +206,6 @@ https://news.google.com/rss/articles/CBMirAFBVV95cUxQOWhrcWVDeHY1a2MwMDVUc1JMNEo
 Bundesrat bremst Kita-Startchancengesetz aus SR.de
 
 https://news.google.com/rss/articles/CBMiogFBVV95cUxPcndsMVhuTFpOb0hXQnJOamMyc2FTSG02Q0VhUU9tU1l4YkRaLVliYkhXN20tVktLYV9rVW8xZlp5cjBTV1U5VXhORUV0Snd0ZzMwcVk3QVd3eHJGZjVYSVY3X2k0bTZRS2ZNYUg4NFRyQ2wtNlN6MWlUeWMwRTZkQ1dvamhLaFVGX2Flc2N1ZlRHUDlQUEtvZ19weUw4WW1KN2c?oc=5
-
-### Pflegeneuordnungsgesetz: Länder fordern im Bundesrat deutliche Nachbesserungen - www.haeusliche-pflege.net
-*GN Bundestag Gesetz - 20.11. 14:47*
-
-Pflegeneuordnungsgesetz: Länder fordern im Bundesrat deutliche Nachbesserungen www.haeusliche-pflege.net
-
-https://news.google.com/rss/articles/CBMiswFBVV95cUxPaDZJQTg2VEo4bmhJVUlKSGQ0V0hDbXpmT0t2ZTBIQzdfbTlhZm5QeThHdUYwWjN0WldnVmplemF0YWtieUoyWENfcVRJMXVzaV9GTmRQc24zM0ZxaGE5WjlnckUzTFRBdk1XN3pVU3pCMzVObkRXRVcxdEt1T1BId2FwcVFURDJNRUZTV0NOYkNXenQ0XzhBLTRuRDJxeTRjVXE5VWxrd2hpVTJYRE9FYzZUYw?oc=5
 
 ### Bundesrat billigt Reform der Notfallversorgung - Journalmed.de
 *GN Bundestag Gesetz - 20.11. 14:45*
@@ -248,6 +255,13 @@ https://news.google.com/rss/articles/CBMixwFBVV95cUxQMDZNVGhhbm9NcmoxZXFlMDNHemF
 Pflanzenschutz-Zulassung: Bundesrat stellt Weichen für strukturelle Reform / IVA: ... Presseportal
 
 https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPUUQ0Rkx5WUk0RE0xaGlRRjNQVVF5MkhtbE91MWpWVnY2dUtRa3VnV19ybGo1MHN4aF9sTXlrMnZHSjN4Mjc1Sy0ybTJON2Q5MXp2OHBlSQ?oc=5
+
+### Bundesrat: Weg ist frei für die Notfallreform - Pharmazeutische Zeitung
+*GN Bundestag Gesetz - 20.11. 12:22*
+
+Bundesrat: Weg ist frei für die Notfallreform Pharmazeutische Zeitung
+
+https://news.google.com/rss/articles/CBMiigFBVV95cUxPd09nLUlYRE9icE9weXg2UTgwaEZvZTJEdm9OZ2ltbUlfLTlaWEg2dFdzUFdpdU41U1NLTUZZMnRrS0JEUGFLdG94Y2p1X0JlOGxnV2R6VUNaellKXzNyR2ZlVE1fdTVzTWNCcHNrTDZwaXFCczl3NGRtazRHdkRfUW9DYjF0QlZNZEE?oc=5
 
 ### (S+) Führerschein-Reform beschlossen: So sollen Fahrschüler sparen - Spiegel
 *GN Bundestag Gesetz - 20.11. 12:07*
@@ -337,6 +351,20 @@ Ein Gesetz wird gestoppt: Bundesrat entscheidet über 21 Gesetze n-tv.de
 
 https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTHI4OFRMZ3N5WmltYVVpRE12UzhVVEJLVktoWFBfZExDYlg3YkFLMGN2UlVaYUFzNzcxLXVrLU1iYUhYTlFaN3R1SENPamhBeVZmSXFJOTJJVmQyRzBBNExaN1A2eVhOVnJldlhjYS11YmVGdmZDNnpaU1JDZURUX0RFQm1HU1Rk?oc=5
 
+### Gesetz zur Einführung einer Frühstartrente - Haufe. Intelligenz, die bewegt.
+*GN Bundestag Gesetz - 20.11. 08:00*
+
+Gesetz zur Einführung einer Frühstartrente Haufe. Intelligenz, die bewegt.
+
+https://news.google.com/rss/articles/CBMiywFBVV95cUxPUnplRGhXRzFmUjJVazVCVWoxLVZ2MlpTVkRsTG9XOUk4cFRwVV9RdHBhdjY4WE9MT09iVFp1UTBHRjFfdE9EdjNNVjM1UUV4RzRCOVFmWE9DUFJRZDVQd3lZalJ1eDZ1clZpRDJzQkJrTTFHODJMNGREUmItWi04NmxBeFpHVXFvd1I0b09YRzdCWDdGOWtoZDNfWVR5SlBiSzBWbjduVmhtQUY4b2VFV280RUh0UnRGNl9CNDZnaWVqbWVjejV3UjNWSQ?oc=5
+
+### Reform: Führerschein bald 1000 Euro günstiger? Das ändert sich 2027 - ADAC
+*GN Novelle Reform - 20.11. 08:00*
+
+Reform: Führerschein bald 1000 Euro günstiger? Das ändert sich 2027 ADAC
+
+https://news.google.com/rss/articles/CBMihAFBVV95cUxORUVEQnlKWmo4cnlhd1p5QU5nTGtpeWc0QmJMdGpqaHJDUFZGSmlYTXdlT1g5eHRObUZFMEkyOEd2VGs5cGFVand2RVQ3MU5vT05NN0djbXI0UkpiZ2V4V1pWY0JCU2Q5Y1J1aEZxT1RuSU9OVDl2VTQ5RUQweEgxQTM1aGQ?oc=5
+
 ### Kita-Kinder sollen stärker gefördert werden - warum Nordländer neues Gesetz trotzdem ablehnen - NDR.de
 *GN Bundestag Gesetz - 20.11. 06:50*
 
@@ -358,60 +386,6 @@ Regionalliga-Reform: Initiative warnt vor Scheitern im DFB-Bundestag upday News
 
 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUy1ZVHc4T1otYkRYWlFvRTBOM0lfWldOdm1oVDNkLTNkWjZZM3NKcUJYVkYtNXNPNzMzZlZSak9OMkNWdE5VVE02YmxjVmJOcWxsUmRzRkpESThLN0pxdVdrMXJzN1p1LXJiLWtseXpoMTI3MjFZX1J5ekZicE1rN3dtNVB6amRzcHNXYmNOSkVrYVFNbmJUd2ZBZEdLVDhCRTgxeWRNcnNxQQ?oc=5
 
-### Befristete Verträge: Kabinett erlaubt bis zu vier Jahre ohne Sachgrund - ad-hoc-news.de
-*GN Steuer und Arbeit - 19.11. 20:01*
-
-Befristete Verträge: Kabinett erlaubt bis zu vier Jahre ohne Sachgrund ad-hoc-news.de
-
-https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRV9CbHMtaUE4UTQ0b18zM0lfeC13eDFKcnI5UU1LQzJLWkJsNWJNblFVcFdNWV9uRTlWM0JtVVlvOUVpRjhjX1VDazVXTW5uUXYySVBOS2R1Z1R3Zmk3cmVHQWxXcVhJaVNaejcyVURkTjdPbWktaHBTTU9HcUd1NWZLYU5PNkVhcmNwUVR1YkY3NTVodmFJTlAzVGlsdWpVeWk2OGdxRlhHWlBNaEEzM0pnY1dNXy1f?oc=5
-
-### Revision: BGH soll Streit um 'Likör ohne Ei' klären - Legal Tribune Online
-*GN Recht Fachpresse - 19.11. 13:14*
-
-Revision: BGH soll Streit um 'Likör ohne Ei' klären Legal Tribune Online
-
-https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ0tPMTZ3SWlyNlZXcDh1QkNvZkpfeTFjTE1OM2FUaU1jckl1Z2Y4cG1XVnltUjZjRWxRTXMyWXk4UDlsRzZyMTg0SXVoQ0IyVUYxXzZRQ0pZVjZaaTRPaEh5QU9RVFJGSE9sZ1B2SFJmTzJuVGFYX1hSMXhaR2tuYldnVkQ?oc=5
-
-### Senkung der Stromsteuer beschlossen: Kaum Entlastung für kleinere Haushalte - Perspektive Online
-*GN Steuer und Arbeit - 19.11. 13:00*
-
-Senkung der Stromsteuer beschlossen: Kaum Entlastung für kleinere Haushalte Perspektive Online
-
-https://news.google.com/rss/articles/CBMitgFBVV95cUxNRUlNWFhGM2ozSzY2emFhb1FwdWMwWHFDSlFVMjdtMDg5ZDlVRHBTVjNBSzh5YUZYQk9UQXZ6S2lJajhDOWpuUE5TcjYzMm9Na3RmbllGYkhmbjZsOUZ4bGE2X1ZXaFVTSHFjYnFOaEhMc2dfU0JCcC0xckxvZzNPeWltWndOTVhkdzVNVnFuZjZCQXdtTHMzQTR0YUJyX1B1UmFZTVl5a1VPRTFxWVdsdDZHQ2oyUQ?oc=5
-
-### Tabaksteuer: Bundesrat berät am Freitag die Korrektur - Pannen-Gesetz, 9,10 Euro je Packung 2027 - Was heißt das für die British American Tobacco Aktie? - AktienCheck.de
-*GN tritt in Kraft - 19.11. 09:47*
-
-Tabaksteuer: Bundesrat berät am Freitag die Korrektur - Pannen-Gesetz, 9,10 Euro je Packung 2027 - Was heißt das für die British American Tobacco Aktie? AktienCheck.de
-
-https://news.google.com/rss/articles/CBMirwFBVV95cUxObDJ2aU5hWjBFdmpBMjlkM2I1Smlyel9NQWUyRGRFUzVCU21yUzZnbHMyTFhiWVJjQjRXV2YzdmQtT0tIc3VLZE5HVkU3MFVQRGRjZ0hocERwSE10c3FUSFhFZmk4cmdHVW1JbThJN2VXaU9ydUVKMXdTM0huYlZPQjFpM3Uwd2FocThuV2psanRBY21QM3d6aXpnVUpBc0R0XzFmeXFuYy1reHJmME9R?oc=5
-
-### Wegen Merz-Reform: Medizinische Dienste melden Ansturm auf Pflegegutachten - Merkur
-*GN Novelle Reform - 18.11. 17:23*
-
-Wegen Merz-Reform: Medizinische Dienste melden Ansturm auf Pflegegutachten Merkur
-
-https://news.google.com/rss/articles/CBMitwFBVV95cUxNWHFRVS1Ma3ZGZi1GMmFLVms1VHRpaWFkZ3l1cWhLNWZFcGpEREJsLUJqczlZdVA2bjE5MXFubFg5djZXZ2JidWRUX1ZLNmhIbXZpbnYzNnRtWEplU2JGa1IwUWNFV19GOTBzdWFjQ0U5TXN6UU9PbGdORGdvZWt5Nk1rNm53aGxWUjBJQ3BMVVQzUDJaUVpJc01WRHNFdUFhUUU3NjFrTHQ5T2p2THBnUUFwRDZmc3c?oc=5
-
-### Bundestag beschließt Reform: Führerschein soll deutlich günstiger werden - seevetal-aktuell.de
-*GN Novelle Reform - 18.11. 15:46*
-
-Bundestag beschließt Reform: Führerschein soll deutlich günstiger werden seevetal-aktuell.de
-
-https://news.google.com/rss/articles/CBMitAFBVV95cUxPMmoxTmUydERUMk5UU3JydXJhUUI2OFNQVVNseG5nOHJsMEU5NXY5LWZzUVU4WjVDamlpNnA3TlZhMWhMMGs0SElPbGdRTHduTXc0WDg3Y3hJcWJpeHNUeWFoZVhaMXJ6MXVJaEJJRV9TaXVTY1JoeEg2dEg2bTRqZ0J2eW16VE41UFVGRGxheC0xMDZPS3BnRkhhMFJMbUc4ajJJQnVWUlI1Mmkwc0RYUXdHMHY?oc=5
-
-### Unterhaltsvorschuss: Kabinett setzt Grenze bei 40.000 Euro - ad-hoc-news.de
-*GN Novelle Reform - 18.11. 14:18*
-
-Unterhaltsvorschuss: Kabinett setzt Grenze bei 40.000 Euro ad-hoc-news.de
-
-https://news.google.com/rss/articles/CBMiowFBVV95cUxPQXQ4SHlpQVlyT1BXU0VkbEZneVdUXzFKNTY3Unh3d3dvcFFMNEUtUXozOVBxMnppQVhZbFpPdXp0WTB2cVByYXczbllVMl9NRWpES3J6N2JzZWlGeHNJaFNKMU55VkgxcTVfRmtLc2x0Ul9CVlB5bEFPQ2NSTEFPeUlfLUtOd1lvU1RIZmtnTkhNSjNGcnByakVDcmViTXJxQk5V?oc=5
-
-### 21/9277: Gesetzentwurf Entwurf eines ... Strafrechtsänderungsgesetzes - Gesetz zur Stärkung des strafrechtlichen Schutzes kritischer Infrastrukturen (PDF)
-*BT Drucksachen - 18.11. 11:00*
-
-https://dserver.bundestag.de/btd/21/092/2109277.pdf
-
 ### Beitragsbemessungsgrenzen steigen 2027
 *BReg Artikel - 20.11. 10:44*
 
@@ -425,13 +399,6 @@ https://www.bundesregierung.de/breg-de/aktuelles/beitragsbemessungsgrenzen-2027-
 Eine gute Kinderbetreuung und die frühe Förderung für alle Kinder gehören zu den wichtigsten Zukunftsaufgaben in Deutschland. Die Bundesregierung will deshalb die Startchancen von Kindern verbessern und die Qualität der frühkindlichen Bildung stärken. Der Bundesrat hat nun den Vermittlungsausschuss angerufen.
 
 https://www.bundesregierung.de/breg-de/aktuelles/startchancen-kinder-kita-qualitaetsgesetz-2451062
-
-### Arbeitsmarkt fit für die Zukunft machen
-*BReg Artikel - 18.11. 11:27*
-
-Flexibilität für Unternehmen verbessern, Rechte für Arbeitnehmer stärken: Das Kabinett hat einen Gesetzentwurf beschlossen, der eine Reihe von Änderungen im Arbeitsrecht vorsieht. Ziel ist, das Wachstumspotenzial der Wirtschaft zu stärken.
-
-https://www.bundesregierung.de/breg-de/aktuelles/arbeitsrechtspaket-kabinett-2461564
 
 ### Mehr Resilienz für Smart-Geräte
 *BReg Artikel - 20.11. 13:00*
@@ -496,27 +463,6 @@ Deutschland will einen Beitrag zu dauerhafter Stabilität und Frieden in Libanon
 
 https://www.bundesregierung.de/breg-de/aktuelles/unterstuetzung-fuer-libanon-2460546
 
-### Regeln zum Kindschaftsrecht werden modernisiert
-*BReg Artikel - 18.11. 13:14*
-
-Im Sorge- und Umgangsrecht soll Gewaltschutz eine größere Rolle spielen. Das Kindeswohl soll noch mehr als bisher bei sorgerechtlichen Entscheidungen im Mittelpunkt stehen. Deshalb hat das Kabinett einen Gesetzentwurf zur Modernisierung des Kindschaftsrechts beschlossen.
-
-https://www.bundesregierung.de/breg-de/aktuelles/reform-kindschaftsrecht-2461272
-
-### Für mehr Finanzwissen in Deutschland
-*BReg Artikel - 18.11. 11:57*
-
-Die Bundesregierung will die Finanzkompetenz der Bürgerinnen und Bürger in Deutschland gezielt stärken sowie den Zugang zu Finanzwissen verbessern. Deshalb hat sie eine Finanzbildungsstrategie beschlossen.
-
-https://www.bundesregierung.de/breg-de/aktuelles/finanzbildungsstrategie-beschlossen-2461576
-
-### Unterhaltsvorschuss: Säumige Elternteile stärker zur Verantwortung ziehen
-*BReg Artikel - 18.11. 10:06*
-
-Das Bundeskabinett hat einen Gesetzentwurf beschlossen, der den Unterhaltsrückgriff verbessern soll. Ziel ist es, Kinder von Alleinerziehenden besser abzusichern und dafür zu sorgen, dass unterhaltspflichtige Elternteile stärker in die Verantwortung genommen werden.
-
-https://www.bundesregierung.de/breg-de/aktuelles/kabinett-unterhaltsvorschuss-2461538
-
 
 ## EU-Recht
 
@@ -524,13 +470,6 @@ https://www.bundesregierung.de/breg-de/aktuelles/kabinett-unterhaltsvorschuss-24
 *EUR-Lex Amtsblatt L - 19.11. 23:00*
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2560
-
-### Jüngste Entscheidungen zur Brüssel Ia- sowie Rom II- bzw. Rom I-VO für die Fachanwaltschaften - Legal Tribune Online
-*GN Recht Fachpresse - 20.11. 23:08*
-
-Jüngste Entscheidungen zur Brüssel Ia- sowie Rom II- bzw. Rom I-VO für die Fachanwaltschaften Legal Tribune Online
-
-https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQmNHTV9vbU9Gajh6ZFlHU0psdFZmUUplelRlc0dSb1JmaUZ3ZEo0V3R5dUN2N09EQWtYc0N6WlZtMDlNTTB1bDNzOWJsSDI1ckFOQTBPSHBCSEpnTTFZUjM3cFk1TUV5TW5nUUZ4M09oY0Q4QVlCZVl1ZUl1RVFuYXNkRGVlUkZFcFk5WVBQLVNRNEpkN3FuempPV0FuMDJ4VFhCbDFYQ2x2cDl2bFRMRU91Z3JYMHBKT3ViTGsxbThVMjA3NktTQllRR2l2alVFRHZWM01iQzZxRkZS?oc=5
 
 ### CELEX:32026D2567: Commission Implementing Decision (EU) 2026/2567 of 19 November 2026 not renewing the approval of medetomidine as an active substance for use in biocidal products of product-type 21 in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council
 *EUR-Lex Amtsblatt L - 19.11. 23:00*
@@ -576,18 +515,6 @@ https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2563
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2566
 
-### CELEX:32026D2559: Commission Implementing Decision (EU) 2026/2559 of 19 November 2026 postponing the expiry date of the approval of N,N-diethyl-meta-toluamide for use in biocidal products of product-type 19 in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council
-*EUR-Lex Amtsblatt L - 19.11. 23:00*
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2559
-
-### CELEX:32023R1230R(06): Rectificatif au règlement (UE) 2023/1230 du Parlement européen et du Conseil du 14 juin 2023 sur les machines, abrogeant la directive 2006/42/CE du Parlement européen et du Conseil et la directive 73/361/CEE du Conseil (JO L 165 du 29.6.2023)
-*EUR-Lex Amtsblatt L - 19.11. 23:00*
-
-The corrigendum does not concern the English version.
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32023R1230R(06)
-
 ### CELEX:32026R2019: Commission Delegated Regulation (EU) 2026/2019 of 10 September 2026 amending Regulation (EU) 2023/2053 of the European Parliament and of the Council establishing a multiannual management plan for bluefin tuna in the eastern Atlantic and the Mediterranean
 *EUR-Lex Amtsblatt L - 19.11. 23:00*
 
@@ -608,6 +535,33 @@ https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2598
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2572
 
+### CELEX:32026D2559: Commission Implementing Decision (EU) 2026/2559 of 19 November 2026 postponing the expiry date of the approval of N,N-diethyl-meta-toluamide for use in biocidal products of product-type 19 in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council
+*EUR-Lex Amtsblatt L - 19.11. 23:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2559
+
+### CELEX:32023R1230R(06): Rectificatif au règlement (UE) 2023/1230 du Parlement européen et du Conseil du 14 juin 2023 sur les machines, abrogeant la directive 2006/42/CE du Parlement européen et du Conseil et la directive 73/361/CEE du Conseil (JO L 165 du 29.6.2023)
+*EUR-Lex Amtsblatt L - 19.11. 23:00*
+
+The corrigendum does not concern the English version.
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32023R1230R(06)
+
+### CELEX:32026R2034: Commission Delegated Regulation (EU) 2026/2034 of 4 September 2026 amending Regulation (EU) 2019/1241 of the European Parliament and of the Council as regards measures to reduce incidental catches of common dolphin (Delphinus delphis) and other small cetaceans in the Bay of Biscay
+*EUR-Lex Amtsblatt L - 19.11. 23:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2034
+
+### CELEX:32026D2564: Commission Implementing Decision (EU) 2026/2564 of 19 November 2026 postponing the expiry date of the approval of hydrogen cyanide for use in biocidal products of product-types 8, 14 and 18 in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council
+*EUR-Lex Amtsblatt L - 19.11. 23:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2564
+
+### CELEX:22026D2573: Decision No 1/2026 of the Geographical Indications Sub-Committee of 19 November 2026 amending annexes XXX-A, XXX-C and XXX-D to the Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and the Republic of Moldova, of the other part [2026/2573]
+*EUR-Lex Amtsblatt L - 19.11. 23:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026D2573
+
 ### CELEX:22026D2604: Decision No 1/2026 of the Partnership Council Established by the Trade and Cooperation Agreement between the European Union and the European Atomic Energy Community, of the one Part, and the United Kingdom of Great Britain and Northern Ireland, of the Other part of 19 November 2026 issuing an interpretation of Article 331(2) and extending the application of Part Two, Heading One, Title VIII on energy, of the Trade and Cooperation Agreement between the European Union and the European Atomic Energy Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part [2026/2604]
 *EUR-Lex Amtsblatt L - 19.11. 23:00*
 
@@ -617,28 +571,6 @@ https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026D2604
 *EUR-Lex Amtsblatt L - 19.11. 23:00*
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2562
-
-### CELEX:32026D2564: Commission Implementing Decision (EU) 2026/2564 of 19 November 2026 postponing the expiry date of the approval of hydrogen cyanide for use in biocidal products of product-types 8, 14 and 18 in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council
-*EUR-Lex Amtsblatt L - 19.11. 23:00*
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2564
-
-### CELEX:32026R2034: Commission Delegated Regulation (EU) 2026/2034 of 4 September 2026 amending Regulation (EU) 2019/1241 of the European Parliament and of the Council as regards measures to reduce incidental catches of common dolphin (Delphinus delphis) and other small cetaceans in the Bay of Biscay
-*EUR-Lex Amtsblatt L - 19.11. 23:00*
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2034
-
-### CELEX:22026D2573: Decision No 1/2026 of the Geographical Indications Sub-Committee of 19 November 2026 amending annexes XXX-A, XXX-C and XXX-D to the Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and the Republic of Moldova, of the other part [2026/2573]
-*EUR-Lex Amtsblatt L - 19.11. 23:00*
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026D2573
-
-### The EU directive against violence against women must be transposed by 14 June 2027 - Informat.ro
-*GN EU law English - 19.11. 09:53*
-
-The EU directive against violence against women must be transposed by 14 June 2027 Informat.ro
-
-https://news.google.com/rss/articles/CBMie0FVX3lxTE1zVk5NckRnUURlUXlhQXpsaTRDRklMSnBaNDdNZDdfWENOUHZtWmw1VXViaVRFdDBUNWdTOG1OZWF2QUkzYmJmLU5Hd3NWcnFIcE1DSVREOHlzTG4tNlZ0VGtXcVNET2xHU0lHSXBJTlpZRUhLXzNnbEpZWQ?oc=5
 
 ### CELEX:22026D2417: Decision of the EEA Joint Committee No 225/2026 of 10 July 2026 amending Annex XXII (Company law) to the EEA Agreement [2026/2417]
 *EUR-Lex Amtsblatt L - 18.11. 23:00*
@@ -685,12 +617,12 @@ https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026D2426
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026D2425
 
-### Statement by President von der Leyen on the signature of the EU-Indonesia Comprehensive Economic Partnership Agreement and the Investment Protection Agreement
+### Erklärung von Präsidentin von der Leyen zur Unterzeichnung des umfassenden Wirtschaftspartnerschaftsabkommens und des Investitionsschutzabkommens zwischen der EU und Indonesien
 *EU-Kommission - 21.11. 11:28*
 
-European Commission Statement Brussels, 21 Nov 2026 Ladies and Gentlemen, I have just spoken to President Prabowo to mark this momentous day for the European Union and Indonesia. Today we sign our Comprehensive E...
+European Commission Erklärung Brussels, 21 Nov 2026 Meine Damen und Herren, Ich habe soeben mit Präsident Prabowo gesprochen, um diesen bedeutenden Tag für die Europäische Union und Indonesien zu feiern. Heute un...
 
-https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2557
+https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2557
 
 ### Statement by President von der Leyen on the assassination attempt against a US-Ukrainian citizen in Denmark
 *EU-Kommission - 21.11. 09:01*
@@ -793,20 +725,6 @@ Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung/Antrag Die AfD w
 
 https://www.bundestag.de/presse/hib/kurzmeldungen-1237322
 
-### E-Auto-Förderung 2026: Bis zu 6.000 € Prämie für Neuwagen - carwow.de
-*GN Steuer und Arbeit - 19.11. 08:00*
-
-E-Auto-Förderung 2026: Bis zu 6.000 € Prämie für Neuwagen carwow.de
-
-https://news.google.com/rss/articles/CBMidkFVX3lxTE5HcWFHNmtCeElkRzZtVTVJZGY2dHRaLUx3YkxTX1AxU0RyZEZqOHdsck02eHdweElsVlBWWW9IckRlRERVQ3d3c1RyZFlJbHpmWnpIRnBBbkZGRmNBMmlPRGpnYWZ5ZEc2X3NjYjhLcHNCMzE5YXc?oc=5
-
-### Land fördert kühlere Schulhöfe und Kitas mit 100 Millionen Euro - Lindweiler.de
-*GN tritt in Kraft - 19.11. 00:49*
-
-Land fördert kühlere Schulhöfe und Kitas mit 100 Millionen Euro Lindweiler.de
-
-https://news.google.com/rss/articles/CBMimAFBVV95cUxNOHVQSldLcEtmLWxyTDZjbXo1UnkzT29aaV96UlZsRWNWNjlMX2tSSHhvN1ptaUZ5VzliY2xPTzVsQjFtcVFrV1NSQzRHU1NrMHBzNm1CTTJqcWFzZFBxa2tXRmY1Ri0xOVRtdHE4RGo4UWNsRTRROWk4TFNZem1ubTBDdURpRDcyVXpxSkxZZ0k2U2JsbFJDOQ?oc=5
-
 ### Startkapital für private Altersvorsorge
 *BReg Artikel - 20.11. 10:43*
 
@@ -825,11 +743,25 @@ https://www.bundestag.de/dokumente/textarchiv/2026/kw47-pg-kanada-1233340
 ## Steuern und Abgaben
 
 ### „Die Luft wird immer dünner“ – Krypto-König der Steuerfahnder warnt - WirtschaftsWoche
-*GN Steuer und Arbeit - 21.11. 12:28*
+*GN Steuer und Arbeit - 22.11. 13:09*
 
 „Die Luft wird immer dünner“ – Krypto-König der Steuerfahnder warnt WirtschaftsWoche
 
-https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdE5PVHczNWhvMTBkRG0yZVJ6a09vZ2k1aGJqTzRiRGhNaldnemIyRHA5UXBnb04tM1VtTkYzTlk2Y2RYdjBuRjFTdHpKcW9FVjJFb0U3cjNaTHR3dG9Oc3RMQV9BT2dkWDRmNzRVV3huZ0pXUUFpNVl4MWdXenlIaC02QWdWd0ZLdkpTN2hfdW9pREUwNGxNQkQ1WDllZjZQSTdsNGhsdmtfNWx5TGtobnJqVHRvTm1maG9aY3dyVlJQM0R0UVVJVm9mei1na253ZnlXeVlJeURzc0sybC1oWGNUWjNqQlY4bXN4bUZDOUdpdFNnN0E?oc=5
+https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbDBESk1xeUNERmFhLWZZd1k1QUJ2MkFTUVplQ1JrQ1l6VmdLbTdxVFZvcHYtTFFHVkwwNTZtNC1nOEJ3Q0M5d25XLW5seVAwNjN5Z1VQR19FRjM0enlmakxuU24xeEktRnhpclh0Q1VHRzNsSU5Qb1ppUjNucWhzWm9DMnprQW9PQmtBazV4VU5tczVnRDVpRzlCaC05WW53UXBQUlRKOXhISXFsT0tlU1FtcTBJam14NmZMMy1jaTZSU3JxaVpIV0EtU2RzVkZuZUxGRTllLV9abUVCRU1RMWdDanplTXQ4ZUE?oc=5
+
+### Keine Steuererhöhung in Kefenrod – Trotz großem Defizit - fnp.de
+*GN Steuer und Arbeit - 21.11. 11:00*
+
+Keine Steuererhöhung in Kefenrod – Trotz großem Defizit fnp.de
+
+https://news.google.com/rss/articles/CBMixwFBVV95cUxPV3FkR2UzZU1nMURDbjV1V0tfTVdzTXIzcTZMTFQ2X2VncHJEa2RQQl9lWTJXdzhEbGZ6bGlzdmU4djJUVEFWQWl6b2FJdXZQaURySmtxYVVqTmpCdVdaRTJqeFkydXFxUmMyUjU3WjhNT0ttWmhZX1FOSndETTBNX1lWZjY5Y2NmWUFtODBsYTNjNEhlLXhyV2JNNzhDaDJ6ZXhTVWY2RjllaUtOZ0g4Um44YWxBREJKOEhsMF9paWQ2ekxfazdF?oc=5
+
+### Steuer verursacht Bürokratie fürs Ehrenamt: Gibts weiter Bratwurst von der Feuerwehr? - Kreiszeitung Wochenblatt
+*GN Steuer und Arbeit - 20.11. 14:00*
+
+Steuer verursacht Bürokratie fürs Ehrenamt: Gibts weiter Bratwurst von der Feuerwehr? Kreiszeitung Wochenblatt
+
+https://news.google.com/rss/articles/CBMirAFBVV95cUxPNVQzTXdPNV85UTJ4empDcFNRQnQwTF9XQzBkbDMzMmp2VFNDNGd0emsxWnl1MF9GVTkxUGlCbFpad1ZEbHlfQmhCbXR4b3dnYnFNNk44X2NxVUtoOWVZMG1aelZYSUJUNF9GUnE1am9NY2pXSnFCVzhlMVdwbldYMlJXQWFJVkZxUGhQdjVaWkk0Tm00ZFh5X3RmSnNpNXFoR3dIWVF2d0NneWlG?oc=5
 
 ### Neu gegründete kleine und mittlere Unternehmen sind für 3 Jahre von Steuern befreit, und auf brachliegende Grundstücke wird eine Steuer von 0,2 % erhoben. - Vietnam.vn
 *GN Steuer und Arbeit - 20.11. 11:03*
@@ -845,22 +777,15 @@ Sozialversicherung: Beitragsgrenzen 2027 steigen deutlich Deutsches Handwerksbla
 
 https://news.google.com/rss/articles/CBMipgFBVV95cUxOTVZiSlRWWFFwXzNQMlYwQXZaUGcyaV81Tkt2MGlIZnM3Qk1fQnJ5NEpzb3MyYUlRYXhlVjNENFkzYUpTQUZxMThGOFFtd1BGWE1TRjRrWldOSnZtbXFfM3RDb1Jjd3pRQVJoMGh6aDE1Vk5CYWJ0VGFWMmJtZlUxVEVRNm5KTEJTTWprb0J2VmxTeGlWM1ZyYVJnQjZYNy1GTUhpSFBn?oc=5
 
-### KI im Steuerrecht – Schummelei als Leistungsnachweis? - Verlag CH Beck GmbH & Co. KG
-*GN Recht Fachpresse - 19.11. 16:10*
-
-KI im Steuerrecht – Schummelei als Leistungsnachweis? Verlag CH Beck GmbH & Co. KG
-
-https://news.google.com/rss/articles/CBMirAFBVV95cUxNNkJBWklNczk1dTd0YWMwR3E2aUpVRk5OS1hmbGMxdmc2eHJsVTZiRno5ZTZveGZSa3g5SFZxeGxzSm1MQi1DWTlycGVQRTFWdmNJajl2c1E3b1BFZHJlWVJIbVVYVDFvWXFUM3I2dW1sUmVSUVNzU2xYaGhUUkd0a01fQWIxN2N4SWsyNHpHU2VFZjBDeFFIdW5zRU5NeFBiZHNKXzJQa2ViLWlx?oc=5
-
-### Neue Abfindungsregel geplant: Wer jetzt 5.000 Euro steuerfrei erhalten kann - CHIP
-*GN Steuer und Arbeit - 19.11. 10:30*
-
-Neue Abfindungsregel geplant: Wer jetzt 5.000 Euro steuerfrei erhalten kann CHIP
-
-https://news.google.com/rss/articles/CBMi8wFBVV95cUxPREZhejZ4MWRoN1BrTi00LUYySWRBa2ZJU1pHOXpaU1U3UmlDQjBxbjNncDVHVEdwMUwxVjFRZ1N6SjkxUzd5Zmg4QWlmSEhuaXJRQm5mbF91SlVCY2w3ZFZmS0VFNzFYNXFhUmZ4TmdhOXVDclBjRWZleVNSakpUYmF0cGYtM0U0alNPcVpNRmVsVlI5VllMUmFfQzh4RkQzS1RoSWhHVmJHd19kZUJpbkUyOHcyVjZ3Ri1Jb0lBUmU5QVM3cnJFNFRIdERhNTdzTURub0hHbUd0a0ViS2FMQl9YR01UTF9HMFdHQlZrRG5NZ1k?oc=5
-
 
 ## Pflichten und Fristen
+
+### EUDR: Das Nadelöhr Geolokalisierung / 6.3 Lieferanten anfragen: mit Spezifikation und Frist - Haufe. Intelligenz, die bewegt.
+*GN Recht Fachpresse - 22.11. 06:03*
+
+EUDR: Das Nadelöhr Geolokalisierung / 6.3 Lieferanten anfragen: mit Spezifikation und Frist Haufe. Intelligenz, die bewegt.
+
+https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV3V4QkxGQVFvSjRyaHRRQjlVODZCMGQtb1FIOTRpTEtlc04yTnlDVUVfNF9Vb3kxdm5kZ0R1bkYtOFlaUVFoQzlybWRUVjhHRVh4dnF0T1AtVzFydFNvTmZiaWd4clVvQ0NIY3YtYmZaMHJJWm54NFhSQkFFUFBCd1JGd05nQkxJUkdGNDJVcXFBRzRqRW8zU3V3VEpGQ3NWM01jWXYxVG5KejlFT0VPbENJalJWeUY5MUl2alNZSzNxbTdoSnlycWRoQ0k4c0dI?oc=5
 
 ### CRA Meldepflicht: 24h-Frist, Bußgeld bis 15 Mio. € - shattered.io
 *GN tritt in Kraft - 21.11. 06:14*
@@ -886,12 +811,19 @@ https://news.google.com/rss/articles/CBMifkFVX3lxTE1qb1lBNzZPTTh6a0NfdEVOVmI1ZXB
 
 ## Arbeit und Unternehmen
 
-### Volljurist Arbeitsrecht (w/m/d) - Legal Tribune Online
-*GN Recht Fachpresse - 20.11. 04:06*
+### Nationale und internationale Arbeitnehmergremien: Verhältnis / 2.3 Abgrenzung EBR und SE-Betriebsrat - Haufe. Intelligenz, die bewegt.
+*GN Recht Fachpresse - 22.11. 06:03*
 
-Volljurist Arbeitsrecht (w/m/d) Legal Tribune Online
+Nationale und internationale Arbeitnehmergremien: Verhältnis / 2.3 Abgrenzung EBR und SE-Betriebsrat Haufe. Intelligenz, die bewegt.
 
-https://news.google.com/rss/articles/CBMiowFBVV95cUxNZmJZeGVMdXZmZ1ZQanJrRVctYlpkREJId3RhdTJIdGQ1dmtsS1gtcm03bWFYcXY5MUdIR2kxNzZtNURZVmNhVk91R0Z0TWtQSzluZTM0b1dHMjV4MzJFZVpDcjNXZ0ZoVVNXS2F4d1dQdXNJYV9oem1lN3U0Uk9oOXl1ZDlxTVRvSTNrSXA5a1o5ZnlrMEtVVVNMUlVHOU1Bc1NV?oc=5
+https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV21yTGlHZ0tpTVgtM2Fhemh4bnFoUC1jc1Rzem9Gb1gwMUxTSmIzNm5DMkVsNmdqcUg2UFFLRGlLdjg1UW9CUEpjR2Y4aXFZeUxSdEJicXhEendJZFlxbmdIbXJuR2ZGTU1TUHQ1NFJyYUV0alFTLWdZVFl3YVhHYmtLSlRlZ0tfSjhNMjlfMUFVSmZXZU9CZjViZ2p0Y3F3WEJZUUhyamNPTTlieUEwN3FmQnhqTnM4RjBtWm9rbXhmV3lHdEdPTlhielBlYnJmZXQ0TnJxTTZyckM3d2c?oc=5
+
+### Rechtsanwalt für Arbeitsrecht (m/w/d) - Legal Tribune Online
+*GN Recht Fachpresse - 21.11. 01:14*
+
+Rechtsanwalt für Arbeitsrecht (m/w/d) Legal Tribune Online
+
+https://news.google.com/rss/articles/CBMimgFBVV95cUxNRl9hcDBtYnhQUTJLelFtQlR0V1JoV2dOMk9hcmtyZEpzQWtBYmZ2OG1YLTZJV2d6Z1piZTVDRTduaDNsYmdYNzlJVFR6Z1BsSGduYzZvc3FpaW4yS05YRFdCZFVDa3pacWNFcTAzWWE0SjFiek55V0swWGt5NU9JVllMYjVXNlVWdGh3YnY0VWlBRjFlbmFPY3Jn?oc=5
 
 ### Bundeskabinett reformiert Arbeitsrecht: Mehr Flexibilität für Arbeitgeber - Deutsches Handwerksblatt
 *GN Steuer und Arbeit - 19.11. 13:35*
@@ -899,13 +831,6 @@ https://news.google.com/rss/articles/CBMiowFBVV95cUxNZmJZeGVMdXZmZ1ZQanJrRVctYlp
 Bundeskabinett reformiert Arbeitsrecht: Mehr Flexibilität für Arbeitgeber Deutsches Handwerksblatt
 
 https://news.google.com/rss/articles/CBMivgFBVV95cUxNeGgyWHJpTHp6Y3hnM1B0dk5kcFhHSFJaTThDUm5CYm1nNDYyS1c2OE45TVJVaC1BRlZucVg3YWVfcUROamdIU3lwQWVEX21oRVcxZXZjeHpHS2dLYU9JZHp4cXNWSmJSdEY0TXVQUDhyY1UtT3VpVWVLc19GZVJIOU1jSmtFcHA1Uk1GcGVTaWp2Yi1YLVR6Mjg3RXFPTHFGc2NXdkFkLWJ0ZkVMaHZqdmpTU2Z4N09FeUJzYV9n?oc=5
-
-### Zu alt für das "junge Team“? Was das Arbeitsrecht dazu sagt - Deutsches Handwerksblatt
-*GN Steuer und Arbeit - 19.11. 10:00*
-
-Zu alt für das "junge Team“? Was das Arbeitsrecht dazu sagt Deutsches Handwerksblatt
-
-https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVUFkdXE1T1NxVzFkX0c0YXJSSGxGa3luZlZEenpYX1k4bE85VWhjSks2SUhHQjN4VFFDOXZJQ05sTmRtT0t3eFRxSFdBZkRVdDJCWXpSSkVMZVN1aVV6RURKaDUxbWc5Q2I2d1JPdmREcWxGbld0SXVyVXo1X282SGVjRFhuRFF2Z0FJRGJFM3NkZEQzY2F2STM4c0JDUXFGRE1XcW1zWGVEWWFsZHBOYnl1QWdpVXM5a3p5MkYzaGVyUWZZbW54U0JfZVQ3Z09jdDJ5bVlJUDVnSW5wVlhfTw?oc=5
 
 
 ---
