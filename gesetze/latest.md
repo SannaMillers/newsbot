@@ -1,6 +1,6 @@
-# Rechtslage 24.11.2026 15:53
+# Rechtslage 25.11.2026 15:36
 
-114 Meldungen aus 18 Quellen, Zeitraum der letzten 96 Stunden.
+124 Meldungen aus 18 Quellen, Zeitraum der letzten 96 Stunden.
 
 ---
 
@@ -20,26 +20,146 @@ Krypto-Steuer 2027 in Deutschland: Was der Referentenentwurf zur Haltefrist vors
 
 https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MSVkyeUF1c294V1duaUtlN3dnaDMtdGIxMVRmcFJ3cDI3NlZILUZSajhicG43Z0hwdmZZWm5EX2VGT0tmaENDd3ZaNldlVW1Gb2VWYWNrcVV5OFk0?oc=5
 
-### Verordnung zur Umsetzung der Richtlinie (EU) 2024/1785 zur Änderung der Richtlinie 2010/75/EU über Industrieemissionen und zur Änderung der Anzeige- und Erlaubnisverordnung
-*BGBl Teil I und II - 24.11. 00:00*
+### Regionalliga-Reform: WDFV einstimmig für das Kompassmodell - SZ.de
+*GN Novelle Reform - 25.11. 14:50*
 
-Typ: Verordnung | Initiant: Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit | Fundstelle: BGBl. 2026 I Nr. 352 vom 24.11.2026 | Sachgebiet: Wasserwirtschaft; Umweltschutz
+Regionalliga-Reform: WDFV einstimmig für das Kompassmodell SZ.de
 
-https://www.recht.bund.de/eli/bund/bgbl-1/2026/352
+https://news.google.com/rss/articles/CBMi9gFBVV95cUxOOERLTGxYOFlwS0RHYTk2V095c3U3MFpMX2wyQjZONnpGQk53eFNEX2dMWWZ6NnhUTlFNZTYtd1VkeDZOOC1vekhMWjBXMjR0TTJWbmdUaktTdzJGLUVGUjFJVE1jWm94RXRrV3FXejhsNVpoVGtVZHhWOGstVjhtekxCM1pQNE5aUlFDWWhidjVQWW1hd3pYbF9lWmlRQzFNM3otUHVCU2w5TDdyTlBmSEdDalNZakV4NGZmcjR0Y1JFT0hhVE5WV0VSWUxUMkJKem54d3hBc281T2ZqYVJyODJFQjhOd2wyZkhvelNSN0FyOUh2YUE?oc=5
 
-### 21/9333: Gesetzentwurf Entwurf eines Gesetzes zur Reform der Steuerberaterprüfung (PDF)
-*BT Drucksachen - 23.11. 11:00*
+### Q&A zur Reform des Nachrichtendienstrechts nach Bundestagsbeschluss - BPtK
+*GN Novelle Reform - 25.11. 14:23*
 
-https://dserver.bundestag.de/btd/21/093/2109333.pdf
+Q&A zur Reform des Nachrichtendienstrechts nach Bundestagsbeschluss BPtK
 
-### Erste Verordnung zur Änderung der Immobiliar-Darlehensvergabe-Sachkunde-Verordnung
-*BGBl Teil I und II - 23.11. 00:00*
+https://news.google.com/rss/articles/CBMipgFBVV95cUxQN1hpSDByQ05zYlc5NUVEdkV4ZVpQUVVaM2FxaGkwRlFyN3BHZ3I2OE43Z2xxeU1WVXJpbHlnazJQMU1PNkN4cWZ1a0ZPQ3AzM2FxSThrOXZsS3Y5WHFjaE9ITkh2RGtoUDdQY3c5bGRkWTY2SzM0RFlKYmNZVmthUGpFeU9WekNmTG1xY2p0YlpvSHpkNjVXMXh1Zlk1TEpsTmdNZE5B?oc=5
 
-Typ: Verordnung | Initiant: Bundesanstalt für Finanzdienstleistungsaufsicht | Fundstelle: BGBl. 2026 I Nr. 348 vom 23.11.2026 | Sachgebiet: Aufsichtsrechtliche Vorschriften
+### DFB-Bundestag am 18. Dezember: Diese Proteste drohen bei der Regionalliga-Abstimmung - Frankfurter Rundschau
+*GN Novelle Reform - 25.11. 13:58*
 
-https://www.recht.bund.de/eli/bund/bgbl-1/2026/348
+DFB-Bundestag am 18. Dezember: Diese Proteste drohen bei der Regionalliga-Abstimmung Frankfurter Rundschau
 
-### 21/9361: Unterrichtung Entwurf eines Gesetzes zur Neuordnung der Pflegeversicherung (Pflegeneuordnungsgesetz) – Drucksache 21/8869 – Stellungnahme des Bundesrates und Gegenäußerung der Bundesregierung (PDF)
+https://news.google.com/rss/articles/CBMitwFBVV95cUxNUFdtU2pqU2l5MHV5ZlRjVGdPY2xRdkZuR1BiZlFUck80T0ItQVdTZHFUQ1FscjNSOURpblZoalhwcEg4MXZoeExFTElpcEhXMWRDTmpRSlpzc0xtNTNzckZqLVF4WmR0dTNtaUtwbGZkZFp2MGR3THhOYjU0bDhkUVhVcFdrSE1YUzBNLU1SYzBnNW1nYkd6WDZONmJ6YXJZdl9XdmtVbkxVbTVpZWoxYlcyUnEwRkk?oc=5
+
+### AfD fordert Begründungspflicht für Bundesverfassungsgericht
+*BT heute im bundestag - 25.11. 13:12*
+
+Recht und Verbraucherschutz/Gesetzentwurf Die AfD-Fraktion fordert die Einführung einer Begründungs- und Veröffentlichungspflicht für Nichtannahmebeschlüsse des Bundesverfassungsgerichts bei Verfassungsbeschwerden.
+
+https://www.bundestag.de/presse/hib/kurzmeldungen-1238238
+
+### Konzernverantwortung: Gesetz nähert sich EU-Regeln an - Blick
+*GN Bundestag Gesetz - 25.11. 13:00*
+
+Konzernverantwortung: Gesetz nähert sich EU-Regeln an Blick
+
+https://news.google.com/rss/articles/CBMilAFBVV95cUxNbzBhVldrYWE5UExoemQwTkd0WlRUaVRvdkRzSWRKejdqVW9oc2tSOU9UYWh5RnpTZkR4ZjUzYVBENTNrN1dSeVZBU1p0WVpKZXlBT1ZNTFVfZG9sdnNyNHI0N1hVLVUxay01WWdJTjFoSWRvdnF3OHZjZVpBcXVTbFl2TVBKMTZOSTlLczFpM2JLTENZ?oc=5
+
+### Bundestag live: Generaldebatte zum 5,38-Milliarden-Etat - Netz Trends
+*GN Novelle Reform - 25.11. 12:12*
+
+Bundestag live: Generaldebatte zum 5,38-Milliarden-Etat Netz Trends
+
+https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZS1ZXbHJGYld5MW1NR3ZkM3VvOUU2QTNyUDFySzAzdkVjM1o4bzFpRkg2dTBmS1NvZ2V4ZDBlRTJpX1RDaXZGZ1hEV3BsZmxoSDQ1LW54OC1TX0pxZ3Nxekx5bkNQb1FEMGpUVEIxeHIwUUVXN2gwbURFZw?oc=5
+
+### 21/9301: Beschlussempfehlung zu dem Entwurf eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2027 (Haushaltsgesetz 2027 – HG 2027) – 21/7300, 21/7302, 21/7650 – hier: Einzelplan 60 Allgemeine Finanzverwaltung (PDF)
+*BT Drucksachen - 25.11. 11:00*
+
+https://dserver.bundestag.de/btd/21/093/2109301.pdf
+
+### 21/9391: Entschließungsantrag zu der dritten Beratung des Gesetzentwurfs der Bundesregierung – 21/7300, 21/7302, 21/7650, 21/9061, 21/9062, 21/9063 – Entwurf eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2027 (Haushaltsgesetz 2027 – HG 2027) (PDF)
+*BT Drucksachen - 25.11. 11:00*
+
+https://dserver.bundestag.de/btd/21/093/2109391.pdf
+
+### 21/9393: Entschließungsantrag zu der dritten Beratung des Gesetzentwurfs der Bundesregierung – 21/7300, 21/7302, 21/7650, 21/9061, 21/9062, 21/9063 – Entwurf eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2027 (Haushaltsgesetz 2027 – HG 2027) (PDF)
+*BT Drucksachen - 25.11. 11:00*
+
+https://dserver.bundestag.de/btd/21/093/2109393.pdf
+
+### 21/9392: Entschließungsantrag zu der dritten Beratung des Gesetzentwurfs der Bundesregierung - Drucksachen 21/7300, 21/7302, 21/7650, 21/9061, 21/9062, 21/9063 - Entwurf eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2027 (Haushaltsgesetz 2027 - HG 2027) (PDF)
+*BT Drucksachen - 25.11. 11:00*
+
+https://dserver.bundestag.de/btd/21/093/2109392.pdf
+
+### Pflegereform 2027: Wann wird entschieden? Welche Termine jetzt wichtig sind und wann die nächste Reform kommt - Allgäuer Zeitung
+*GN Novelle Reform - 25.11. 10:54*
+
+Pflegereform 2027: Wann wird entschieden? Welche Termine jetzt wichtig sind und wann die nächste Reform kommt Allgäuer Zeitung
+
+https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMmFlMnhrdHF3emxHNVl4Q2hQdWQ5MktpVnFqOG5tTmlycHpQd0t4RVM0LXFkTGVXcVpXMUlpWDhCaWV5UlF3ZE5EU25ZMFUxVkdaRWgtMUNMYjhYanZMRXl1dGdYY0VuMU1XemxoVGVQMFRKSHZUNDY4bXVhcS1HdEduY1I5ZThfcVVYVmFfYXZ6Q1JSeGJTcWhacGxBSWdLdHZUVVF2OFZVQWI1dWhKN1paWk9WbzNvdWV1a1ljZHQ?oc=5
+
+### Prostituiertenschutzgesetz-Reform: Bundesregierung will Expertenvorschläge zügig umsetzen - Bad Honnef heute
+*GN Novelle Reform - 25.11. 10:50*
+
+Prostituiertenschutzgesetz-Reform: Bundesregierung will Expertenvorschläge zügig umsetzen Bad Honnef heute
+
+https://news.google.com/rss/articles/CBMitgFBVV95cUxOQmRuMm9xWGw4eVI0ZHR3WndZVklWYUdNa2VQMGJaQ3NGbTNtZ0tsY3BCUXpYc0VocWszMk5KTzlOV3ByeG9lVUZhZFVCUUlRa0FlM2lJbUhKQjlzYkpZNW1iekRQZmJCclplZWZKY1JBNG4xZ1I5amJiUFhEOFVWTi1XMUZseVhlT1FwWktOeXMyaGVxNmNjT29BQzlJZS01TnZiZVZWenZDOVJIa3c1NDJucDhGQQ?oc=5
+
+### Prostituiertenschutzgesetz: Bundesregierung plant schnelle Reform - ad-hoc-news.de
+*GN Novelle Reform - 25.11. 10:47*
+
+Prostituiertenschutzgesetz: Bundesregierung plant schnelle Reform ad-hoc-news.de
+
+https://news.google.com/rss/articles/CBMirAFBVV95cUxNam0xWGpFUVJma0dQV3RlS29BTVVjQjRnX2Q3YXg1b2pUQzR0VU53TXlMMl84cGFZTHRtUnhkc3hOcU8tcUZMVnZOSlg5YzZNMEpRV0R0X3hMNXJtT1VqU1V4TXNQbzBaRE45aDdyd1FVMW9ORkhxNkt3d1hsVE5raUIyeUJNd0lObzlsZlhGMEhiYjJYNEdZLXpUSDg4cndQUkNyUlN3R1hTM1Zh?oc=5
+
+### Bundestag beschließt umfassende Erweiterung der Zollbefugnisse - NTG24
+*GN Bundestag Gesetz - 25.11. 10:18*
+
+Bundestag beschließt umfassende Erweiterung der Zollbefugnisse NTG24
+
+https://news.google.com/rss/articles/CBMiZkFVX3lxTE92Qlg0WUJydm91TDllRUFiVjJ4bFdMYTJGU3p4U2cxRVR0UGNPRk5qaUhYcnBaQWZTeFNiZmpUVmE3VlEyWEc0cG1zY0V3azlXZTlsUHBKSVVpQzk4OHphdC1scUpCZw?oc=5
+
+### Gesetz zur Weiterentwicklung der Grunderwerbsteuer - Haufe. Intelligenz, die bewegt.
+*GN Recht Fachpresse - 25.11. 08:27*
+
+Gesetz zur Weiterentwicklung der Grunderwerbsteuer Haufe. Intelligenz, die bewegt.
+
+https://news.google.com/rss/articles/CBMitwFBVV95cUxQZEJnVHJ2Z1lHNjIxSmxxVUVMOFNhd2c5eG00NmVFMjEzNEcxeU9KaUhQanlSazRwT1FWQXpjcFJ6WGlJRmRkS3JVOXhKQS1PM18zbXJwQ2pWYzNHSHozMW9mREV1cDZDVjcwTHgxaW1hem5hamJtd3VFMEd2UGROb04zblFhbHU2WjEtMkVwOFJhenpWdVNJTFBiUDJGTG9ka2RCZzA2REt4bFFSbXVIOWZfRU1jRTg?oc=5
+
+### Bundestag gedenkt der Opfer von Gewalt gegen Frauen
+*BT Aktuelle Themen - 25.11. 08:00*
+
+Die Abgeordneten des Deutschen Bundestages haben am Mittwoch, 25. November 2026, mit einer Schweigeminute der Opfer von Femiziden gedacht. Bundestagspräsidentin Julia Klöckner betonte in einer Rede vor Eintritt in die Tagesordnung, dass es "keine gültige Entschuldigung, keine Begründung und schon gar keinen kulturellen oder religiösen Rabatt für Gewalt gegen Frauen" gibt. "Fünf Stunden und 42 Minuten. So lange würde es hier still sein, wenn wir heute jedem Femizid des vergangenen Jahres eine Schweigeminute widmen würden", sagt die Bundestagspräsidentin. Rechnerisch sterbe fast jeden Tag gewalt
+
+https://www.bundestag.de/dokumente/textarchiv/2026/kw48-de-einleitende-worte-1237636
+
+### Kündigung schon beschlossen, nach der Beschwerde vorgezogen: Warum auch der Zeitpunkt zählt - Anwalt.de
+*GN Steuer und Arbeit - 25.11. 06:36*
+
+Kündigung schon beschlossen, nach der Beschwerde vorgezogen: Warum auch der Zeitpunkt zählt Anwalt.de
+
+https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdzFIcTVuUEdjelZYR2JWd3p5Z1BhWVZwVmxnQlA3SnJDSGRVZm5hcmRYTVZ4RWxJT0xnNV94RWV2ZW1TbjJZMkhHRjBUTTBlSnl0V1JhdXl2UklycHRMa0l4OTdWQkFMOTJ5dTFLeXVJMUkxVG1uUWY1c2RqV1ZOYXpubnBGUkNBX3hhYlJBN0tsUnU4d1lXaXJ4dzJmVmhhY010em52UmpUR2w4bnYtd21HcHdMUHNKVU43a3ljUWtJLUpsd1U1UW54b0pZejNXV3ZB?oc=5
+
+### TA Luft: Bundesrat stimmt zehn neuen Anleitungen für Industrieanlagen zu - ad-hoc-news.de
+*GN Bundesgesetzblatt - 25.11. 01:44*
+
+TA Luft: Bundesrat stimmt zehn neuen Anleitungen für Industrieanlagen zu ad-hoc-news.de
+
+https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY2U3dWZ6bGJOVzY1R2sweEdZNEpfc3paa09jZ2xvU056bXF6aGdNTlgtV2FnX0JZRmJxcnlZNEFlOHFMdlZYaWxLNmxwQW1zaUJUZ24xZjRVUDFpRmoyRmtMMUd5Y3JMWlNTQ2VaV0E2MWtveWlIZTVwVzFEcHZTc0hsYl9uVE85cFJJSzl1bnI3Zlg0S25SVVc4SDhmU0hTTm1LSkltSlpoSEhYYjM3LVZmNjFQT2Rac3Vv?oc=5
+
+### Bundestag: Der Bundeshaushalt soll am Freitag beschlossen werden - Tichys Einblick
+*GN Bundestag Gesetz - 24.11. 16:41*
+
+Bundestag: Der Bundeshaushalt soll am Freitag beschlossen werden Tichys Einblick
+
+https://news.google.com/rss/articles/CBMifkFVX3lxTE9zbkp3b2RHTDBFWU1IcnJ1NWstZkt2TFVuR0NlUW8zRHF1cXlXanQ3UlYzWUU5NEdxREtjLVZrc0x5R1JEcjFGVmpzNC1fVmpqX0xVVDEtcWhUejduUnBpTzdQbXlMVWtmTzk5MFJuNF9PcVJRZzE1bHc4NG9OZw?oc=5
+
+### Bundesrat stimmt neuen Befugnissen zur Cyberabwehr zu - eGovernment Computing
+*GN Bundestag Gesetz - 24.11. 14:30*
+
+Bundesrat stimmt neuen Befugnissen zur Cyberabwehr zu eGovernment Computing
+
+https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWh0Z21vNUtuRlluYk5QSi0wRlotdlZweDBnc25tWEdDaGsxYzRrME9kZW84TDZiZ2pCVHh6d28tWWZtTG9Hb1NSN24yUWxmdXhGN1IzMTFfYzBERnp6Q19LS1hKLVprSEVRX2xEWEZVNjlTWjZEUldPUUpqY00tN0NXX3V5ZjAyNXRQdUx4YW5JZW5tNmpRTXZkLXUwdHZTUUhLQjktaGhjbVZGOWdCcndIWjVWQQ?oc=5
+
+### Pflanzenschutz-Zulassung: Bundesrat stellt Weichen für strukturelle Reform - Gabot.de
+*GN Bundestag Gesetz - 24.11. 13:12*
+
+Pflanzenschutz-Zulassung: Bundesrat stellt Weichen für strukturelle Reform Gabot.de
+
+https://news.google.com/rss/articles/CBMitgFBVV95cUxQTkJwYmZyYlFzZUI5LTlsMUtCLWZmOGtuVDlVeDRkWGJQQVFzZThVNFR2TFYyWFI4M0lDU2cxeF9Rdmh2amxYWS1YUERMZG1IRjdDaGhrOWkzWE14blk0UHVMcGpBRXJNeVFPS3kwU04zS2hLSzNhMmxpbUVwbVN1OUlJblNiM3pSbWZ2MjdFb1dqVGNZT1BuWVliWnFLUW5EdERkUS0xZmdSN01QN0oybEctb2pFZw?oc=5
+
+### 21/9361: Unterrichtung Entwurf eines Gesetzes zur Neuordnung der Pflegeversicherung (Pflegeneuordnungsgesetz) - Drucksache 21/8869 - Stellungnahme des Bundesrates und Gegenäußerung der Bundesregierung (PDF)
 *BT Drucksachen - 24.11. 11:00*
 
 https://dserver.bundestag.de/btd/21/093/2109361.pdf
@@ -72,41 +192,6 @@ Textarchiv - Ungebrochene Solidarität mit der Ukraine Bundesrat
 
 https://news.google.com/rss/articles/CBMikAFBVV95cUxPTmRsR0NZTngtMnNnX01lY3RWNF9ZRXNXTkZST1JZUndZazY0VHJ2S3pKc0tNR1lwVEhINHNnQVFyRWUwc2sxYmEyZkdLS2hPaFhLRHVnT1lwVDZaMlVOdUJCajVSMWl4ay01QjFGaGNyLW9BamljZXQxUlBSNkpWZEZUYktfeG9kUE5SSDJIMTk?oc=5
 
-### Pflegereform 2027: Wann wird entschieden? Welche Termine jetzt wichtig sind und wann die nächste Reform kommt - Allgäuer Zeitung
-*GN Novelle Reform - 24.11. 05:14*
-
-Pflegereform 2027: Wann wird entschieden? Welche Termine jetzt wichtig sind und wann die nächste Reform kommt Allgäuer Zeitung
-
-https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNXdGcGRHNUtKTUpjUmV4ZU10RHpBbTVhZ0pYTnk1T3hwZ1Z6akp0ZnlpWVZ5Tm9YUXo2ajYyaG1vc09kSHpxd1lDZmpONmhjQ3R3T3BSZ1JQRExrcEFFWDNvUS1mcm0zTGF5YWJFYUFmQlRqdXlRalRKYV9idHRLOXhKQ21FZDZDcENmVUNMYy1uaTJuN24zbWdzQ3ZsUjcybFlDVDd2LTNXZ29rNm8wd0hMMWFqMEhLNmdRMjdhTkk?oc=5
-
-### Verordnung zur Neuregelung der Rohrfernleitungsverordnung
-*BGBl Teil I und II - 24.11. 00:00*
-
-Typ: Verordnung | Initiant: Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit | Fundstelle: BGBl. 2026 I Nr. 353 vom 24.11.2026 | Sachgebiet: Genehmigungs- und überwachungsbedürftige Anlagen
-
-https://www.recht.bund.de/eli/bund/bgbl-1/2026/353
-
-### Verordnung zur Änderung von Bußgeldvorschriften der Gefahrstoffverordnung
-*BGBl Teil I und II - 24.11. 00:00*
-
-Typ: Verordnung | Initiant: Bundesministerium für Arbeit und Soziales | Fundstelle: BGBl. 2026 I Nr. 351 vom 24.11.2026 | Sachgebiet: Sonstige Vorschriften
-
-https://www.recht.bund.de/eli/bund/bgbl-1/2026/351
-
-### Vierte Verordnung zur Neufestsetzung der Neurenten-Faktoren nach § 178 Absatz 1 des Siebten Buches Sozialgesetzbuch
-*BGBl Teil I und II - 24.11. 00:00*
-
-Typ: Verordnung | Initiant: Bundesamt für soziale Sicherung | Fundstelle: BGBl. 2026 I Nr. 350 vom 24.11.2026 | Sachgebiet: Sozialgesetzbuch
-
-https://www.recht.bund.de/eli/bund/bgbl-1/2026/350
-
-### Zweiundzwanzigste Verordnung zur Änderung der Hunderteinundsechzigsten Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Bayreuth)
-*BGBl Teil I und II - 24.11. 00:00*
-
-Typ: Verordnung | Initiant: Bundesaufsichtsamt für Flugsicherung | Fundstelle: BGBl. 2026 I Nr. 349 vom 24.11.2026 | Sachgebiet: Luftverkehr
-
-https://www.recht.bund.de/eli/bund/bgbl-1/2026/349
-
 ### Sprachtests in Kitas: Warum der Bundesrat das neue Kita-Gesetz stoppt - Eltern.de
 *GN Bundestag Gesetz - 23.11. 15:55*
 
@@ -129,18 +214,11 @@ Pflegereform: Warum der Bundesrat Handschuhe und Desinfektionsmittel weiter geso
 https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY283TUs5dmpFdS1MWGFPQVE5Q2g0dGdET0JkSFE5aTQ2cEVlWjFXd0t0Rkl1QWVsNXZBSE1kOXdjNGE2cm8zUmpSbHUzOG5rNi1RbUpFa1duZE54eWtaTElOVktoa2YydzRnZUhEUF9Ed2xUNmdHLVpnUS1xN1hUd19yWF9sREJXV2Rn?oc=5
 
 ### Neue Mordmerkmale: Hubigs Femizid-Reform wird nichts ändern - Legal Tribune Online
-*GN Novelle Reform - 23.11. 13:23*
+*GN Recht Fachpresse - 23.11. 13:23*
 
 Neue Mordmerkmale: Hubigs Femizid-Reform wird nichts ändern Legal Tribune Online
 
 https://news.google.com/rss/articles/CBMilwFBVV95cUxOdzdIeXF0ZFJDWk1ZdU1icHM2b1hRRUdtWkRPS19tRXNtek5SbFdfTjRIaTNwY3ZUX01FRjlqQmFpWGlPNG9xZUxyZzk2eVVDb0xBalFvOFRIS1VnaTV1Q19JMlRsMk5BSXM5NXZ4VlowdUM3Q2x1SWpka0pLU3JHNXNpVHpKdC04Q1J3VDRUbVoyTkMyOWlR?oc=5
-
-### Textarchiv - Eine Moor-Fichte aus Ostwestfalen - Bundesrat
-*GN Bundesrat - 23.11. 13:06*
-
-Textarchiv - Eine Moor-Fichte aus Ostwestfalen Bundesrat
-
-https://news.google.com/rss/articles/CBMifkFVX3lxTFBWUGNfRl9UczNjajMzcGF0d3Jldk9TVS1QbjdGd2ZIdWwzTTFpeUI3OXJhNElkVnczbFltc3pfM2F2Y24zRjJ3Y2Z1QkpjclczNHI0MVk1cDRfSTB1TXRvaV9kUkg1M1ExOGI4MWpkNFNXNmJOdHhJbndMSnRRdw?oc=5
 
 ### Gesetzentwurf zu KI in der Migrationsverwaltung umstritten
 *BT Aktuelle Themen - 23.11. 13:00*
@@ -156,31 +234,6 @@ Gesetz gegen digitale Gewalt: Bundesrat will strengere Regeln für Smart Glasses
 
 https://news.google.com/rss/articles/CBMirgFBVV95cUxPOXgwTlctTjE5UEFlbGFBOUxMbjRMdjJFRk9Nc19rUXlJYmRKUlgxX0k2eG1tVUYtbXl0cFA4X3l3a2pBZEQxa25Lc2p0TndGRWRmblVOcTZzdmhZbkpDQ2ZKWEsxWEhLUGI5MXE3SEF4WmNERU04b0NRbWJiVERIWVNrSzlJRmRnWUZEYV85SktXM1o3UU5Bd09lalVPZ0JVSzI3d1JrU0JoQ195amc?oc=5
 
-### 21/9351: Unterrichtung Gesetz zur Verbesserung der Startchancen von Kindern und zur Qualitätsentwicklung in der Kindertagesbetreuung (Startchancen- und Qualitätsentwicklungsgesetz - SCQEG) - Drucksachen 21/8239, 21/8827, 21/9153, 21/9176 - Anrufung des Vermittlungsausschusses (PDF)
-*BT Drucksachen - 23.11. 11:00*
-
-https://dserver.bundestag.de/btd/21/093/2109351.pdf
-
-### 21/9353: Gesetzentwurf Entwurf eines Gesetzes zur Sicherstellung der Qualifikation von Bundesministern (PDF)
-*BT Drucksachen - 23.11. 11:00*
-
-https://dserver.bundestag.de/btd/21/093/2109353.pdf
-
-### 21/9356: Gesetzentwurf Entwurf eines Gesetzes zur Verringerung verjährungsbedingter Einnahmeausfälle bei Forderungen aus Ordnungsgeldverfahren gemäß § 335 des Handelsgesetzbuchs (PDF)
-*BT Drucksachen - 23.11. 11:00*
-
-https://dserver.bundestag.de/btd/21/093/2109356.pdf
-
-### 21/9355: Gesetzentwurf Entwurf eines Gesetzes zur Rehabilitierung von Personen, die aufgrund von Ver-stößen gegen Verhaltenspflichten zur Verhinderung der Verbreitung der COVID-19-Krankheit wegen einer Straftat verurteilt oder nach dem Ordnungswidrigkeitengesetz mit einer Geldbuße belegt wurden (COVID-19-Rehabilitierungsgesetz) (PDF)
-*BT Drucksachen - 23.11. 11:00*
-
-https://dserver.bundestag.de/btd/21/093/2109355.pdf
-
-### 21/9354: Gesetzentwurf Entwurf eines Gesetzes zur Einführung der Begründungspflicht bei Nichtannahme einer Verfassungsbeschwerde durch das Bundesverfassungsgericht (PDF)
-*BT Drucksachen - 23.11. 11:00*
-
-https://dserver.bundestag.de/btd/21/093/2109354.pdf
-
 ### Länder schicken Startchancengesetz in den Vermittlungsausschuss - Bildungsklick
 *GN Bundestag Gesetz - 23.11. 10:20*
 
@@ -188,15 +241,8 @@ Länder schicken Startchancengesetz in den Vermittlungsausschuss Bildungsklick
 
 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSkJ1bVZ1WVpVQkNZNlJfVzhKMlNqLUE2eXNnNS1XbkU0RjI4MTBpZVktaXZaNzMxWXJsZmgxdHpERG1DQUNVallwVE1lajJDV3I0VzlBYU9YSlpFOXdzZVRhRnYyeUVoc0FLMUhkVC11SnpfYlZia0g1NGZQNmwwMGMtOVF5bnB5d0F2ZmtlcElBMExIT0ZzbHFQaW1oV0FUTUN4VjNUMjQ?oc=5
 
-### Potsdams Baubeigeordneter hat „fachliche Bedenken“ Rubelt zweifelt an beschlossener Grundsteuer C - Tagesspiegel
-*GN Steuer und Arbeit - 23.11. 09:54*
-
-Potsdams Baubeigeordneter hat „fachliche Bedenken“ Rubelt zweifelt an beschlossener Grundsteuer C Tagesspiegel
-
-https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY0ZpekxnRmZCWXJudDRIdzNka1YyOFo4TlEwYnU0dk9iMEItWnVxTjlRSVFSbkJ4STFld3lGYmUtcF9GNXlUSC1YX29zb3lfOHNtTjI0ZFJtc3JoS3FORVRuQVNCb2k1YkFzNzVBTUFubFpYZTBBTGI1MXFTOVF5dlV3dHBfWk5tU0NJaXBCX0RDVW1ZNWlZU1ZHWGtIenRQNVFEVTBCSWNCTTZZZHl6aHVvYkZXeVhkMmozcDJCRU85Zng2ekFXcG04MGRtaTNORTdZSzdCaGpNWTdsdUE?oc=5
-
 ### Neue Chance für Mopeds mit 60 km/h: Bundesrat stimmt Vorstoß zu - MOTORRAD
-*GN Bundestag Gesetz - 23.11. 09:42*
+*GN Novelle Reform - 23.11. 09:42*
 
 Neue Chance für Mopeds mit 60 km/h: Bundesrat stimmt Vorstoß zu MOTORRAD
 
@@ -215,13 +261,6 @@ https://news.google.com/rss/articles/CBMisgFBVV95cUxPbmpOSWtRU1ZhVWRkNVExR3ZTSTc
 Führerschein-Reform kommt: Bundesrat billigt ersten Teil autoflotte.de
 
 https://news.google.com/rss/articles/CBMisAFBVV95cUxNRnF3N1ExNWFCb0ppV1ViS19nN2l6M1lTTW55dmVrcW9BMVRxUGFvQ0hMTU9RTVNfeENsQzRsVmVqT2tPUUR5cUxlSjJqaDRoVnh5SEhkSmMtdmpQV0w4Vl82LVRwZlhwbXdiVm9kSjZpZGp6YU5fMG9IVkJYLUZKSjE3ZC1FMmhndXY2TG9iNjF0TlNRVzBPamZ1RV9HSGcxNTN6T05kZjdEdjdfU0NNbg?oc=5
-
-### Altersteilzeit: Reform könnte bis zu 2,8 Milliarden bringen - ZDFheute
-*GN Novelle Reform - 23.11. 08:40*
-
-Altersteilzeit: Reform könnte bis zu 2,8 Milliarden bringen ZDFheute
-
-https://news.google.com/rss/articles/CBMiggFBVV95cUxPbDE4VzEyZC1FMVB5MUZLNHFRWG01WkdYaDl6aG9MY0w5cVoxX0ZWUndlaGFZYkZvZTlzcTQ0akpuQ2Rhb1hNLXgwaXM1MFpHWEhBa1RfYnMtWGcwNHJFSDZvb0JPX21NNDRpYzFMZy1QTUhNSlAzOENYdTJZVVNTT09B?oc=5
 
 ### KI-Migrationsverwaltungsgesetz im Bundestag: Gesellschaft für Informatik fordert klare Sicherheitsschranken - Presseportal
 *GN Bundestag Gesetz - 23.11. 07:45*
@@ -251,68 +290,75 @@ Führerschein-Reform: Was sich bald bei Prüfungen und Fahrstunden ändern soll 
 
 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTmQxdTV5cEtoMF9rZXNPcF9hUXdVWkY1ejJfb3FCNEtYU3MzQnZPSzZCQkZyTUt1NXJZcW05LTJFLUdEb3p6UEpJbFIxYjd0cDh5NVdwbFZoNjJKQ1dKRHRUSGVvTm5yRDZxeFA5OEVtUkxyV1oyR1FxMmdqN3lMSi1RNDhGQmF1cnVJZXNnNURVQVdndE52alk3dW4xb3FXMGotZ2p3ZWZCQzY1WGpJampDdl9DX1JWUlhPZERFXzJQNDNnRVdzbkpVaFptRW9DX0RJ?oc=5
 
-### Fünfte Verordnung zur Änderung der Frequenzverordnung
-*BGBl Teil I und II - 23.11. 00:00*
+### Start-ups, Pferde, Tropenholz: Diese Änderungen treten im Dezember in der Schweiz in Kraft - Watson
+*GN EU-Verordnung - 22.11. 19:11*
 
-Typ: Verordnung | Initiant: Bundesministerium für Digitales und Staatsmodernisierung | Fundstelle: BGBl. 2026 I Nr. 347 vom 23.11.2026 | Sachgebiet: Deutsche Post AG, Deutsche Postbank AG, Deutsche Telekom AG
+Start-ups, Pferde, Tropenholz: Diese Änderungen treten im Dezember in der Schweiz in Kraft Watson
 
-https://www.recht.bund.de/eli/bund/bgbl-1/2026/347
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ3dSeTdBaGsyVGRyX05HVGR5VE90elcwcnVpU0ZXTEdOQ0pxdnphRjZCa1U4T3VRRWsxZVV2eS1kNjRNVmdGbkNfcm1nY3dmbENLaHdFeG42T1gwM0c3aFdySXZGMFI3OGdyUFFhVURJN3VvSk5CZTlTYVo1QU5hZFB1QWN6RXdKY00wZ1FPUkluUzkzZ1FOdEgzVV9zbzFTWTNwS2xZUE8xUQ?oc=5
 
-### Verordnung zur Neufassung der Sicherheitsüberprüfungsfeststellungsverordnung
-*BGBl Teil I und II - 23.11. 00:00*
+### AfD will Qualifikationsanforderungen für Bundesminister
+*BT heute im bundestag - 25.11. 13:12*
 
-Typ: Verordnung | Initiant: Bundesministerium des Innern | Fundstelle: BGBl. 2026 I Nr. 346 vom 23.11.2026 | Sachgebiet: Verfassungsschutz, Nachrichtendienst
+Recht und Verbraucherschutz/Gesetzentwurf Die AfD-Fraktion hat erneut einen Gesetzentwurf "zur Sicherstellung der Qualifikation von Bundesministern" vorgelegt.
 
-https://www.recht.bund.de/eli/bund/bgbl-1/2026/346
+https://www.bundestag.de/presse/hib/kurzmeldungen-1238242
 
-### KI-Migrationsverwaltungsgesetz: Bundestag berät am 23. November über den Entwurf - ad-hoc-news.de
-*GN Bundestag Gesetz - 22.11. 09:59*
+### AfD legt erneut COVID-19-Rehabilitierungsgesetz vor
+*BT heute im bundestag - 25.11. 13:12*
 
-KI-Migrationsverwaltungsgesetz: Bundestag berät am 23. November über den Entwurf ad-hoc-news.de
+Recht und Verbraucherschutz/Gesetzentwurf Die AfD-Fraktion hat erneut den Entwurf eines COVID-19-Rehabilitierungsgesetzes vorgelegt.
 
-https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNUtta3ZucGphWXNwRFdvUjFmRWthbnR6TDdLbEM1akdRZGhzU2JyNGc4REdBZjZrTUx5SzNWOGxVd24xSE9KQ1l1djduZUVtanFOZE5lLWFMSnlDcjVyV3JyUWh2ZnNJYmdtSVBVV2JjVDBnNTgxbkYwSmh4bmxZUVJPb3Z2cnZsNUFLTGNMSkdtNVVHWC1xZWh2aHk0RFJ6NUlGUFplMHVEcmhDR0lHS3REUWFMZDdVdWdHSDBSLXhXMjFXUWprNw?oc=5
+https://www.bundestag.de/presse/hib/kurzmeldungen-1238240
 
-### Schweizweit - Diese Änderungen treten im Dezember in Kraft - Plattform J
-*GN EU-Verordnung - 22.11. 08:26*
+### Fristverlängerung für Eintreibung von Ordnungsgeldern
+*BT heute im bundestag - 25.11. 13:00*
 
-Schweizweit - Diese Änderungen treten im Dezember in Kraft Plattform J
+Recht und Verbraucherschutz/Gesetzentwurf Die AfD-Fraktion will verjährungsbedingte Einnahmeausfälle bei Forderungen aus Ordnungsgeldverfahren verringern und hat dazu einen Gesetzentwurf vorgelegt.
 
-https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sTGlpUGpjVC0zdkRrdkM1Ym9LT2RJQ3FUQjNfd1NtTzdGOXJwR2VyVUE4Tk84aTMyQVpCSlp5MTlwd0FyNVpGM3JjcHNGUTg2b2lN?oc=5
+https://www.bundestag.de/presse/hib/kurzmeldungen-1238226
 
-### Bundesrat fordert strengere Regeln für Smart Glasses und Deepfakes - heise online
-*GN Bundestag Gesetz - 22.11. 08:12*
+### Einspruch gegen Ordnungsruf zurückgewiesen
+*BT Aktuelle Themen - 25.11. 13:00*
 
-Bundesrat fordert strengere Regeln für Smart Glasses und Deepfakes heise online
+Ohne Debatte hat der Bundestag am Mittwoch, 25. November 2026, den Einspruch des Abgeordneten Stefan Schröder (AfD) gegen einen ihm erteilten Ordnungsruf zurückgewiesen. Der Ordnungsruf war ihm tags zuvor während der Beratung des Einzelplans 30 "Forschung, Technologie und Raumfahrt" von der amtierenden Bundestagspräsidentin Josephine Ortleb (SPD) erteilt worden. Schröder hatte in seiner Rede über Bundesministerin Dorothee Bär (CSU) gesagt, sie sei die erste Ministerin, die eine Haushaltsrede im Pyjama halte. Nur die AfD-Fraktion stimmte für den Einspruch, alle anderen Fraktionen wiesen ihn zur
 
-https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT3UtalJjUng3UTZNYXZieWhGLVU5bnZGZ0dtblZ0MWhIci1SUVhhWHVHZ3VRQzA1YWRhaVVtSmdHTUtEMFBpUXNsY3QyYU1sekozQWJZUk9jREE1XzFNTnR2WTZMdGptLVlUandqQl8wVGVJR0lVY1lmVGYyNURGVDlvZTVhUFlZXzBPNTRvam93dnBiYTQtbkZKU21FNTFOeGJLXzJHenQ3U1E?oc=5
+https://www.bundestag.de/dokumente/textarchiv/2026/kw48-de-einspruch-ordnungsruf-1238156
 
-### ÖkodesignG-Verordnung / § 26 Verordnung (EU) 2019/2023 - Haufe. Intelligenz, die bewegt.
-*GN Recht Fachpresse - 22.11. 06:05*
+### Etat des Auswärtigen Amtes bleibt stabil
+*BT Aktuelle Themen - 25.11. 12:05*
 
-ÖkodesignG-Verordnung / § 26 Verordnung (EU) 2019/2023 Haufe. Intelligenz, die bewegt.
+Der Bundestag hat am Mittwoch, 25. November 2026, nach eineinhalbstündiger Aussprache in zweiter Beratung den Etat des Auswärtigen Amtes beschlossen. Dafür stimmten die Koalitionsfraktionen CDU/CSU und SPD, dagegen die Oppositionsfraktionen AfD, Bündnis 90/Die Grünen und Die Linke. Der Einzelplan 05 des Bundeshaushalts 2027 (21/7300(Dokument, öffnet ein neues Fenster), 21/7302(Dokument, öffnet ein neues Fenster)) sieht Ausgaben in Höhe von 5,99 Milliarden Euro vor – etwas weniger als 2026 (6,02 Milliarden Euro). Außenminister Dr. Johann David Wadephul (CDU) kann mit Einnahmen von 192,8 Million
 
-https://news.google.com/rss/articles/CBMingFBVV95cUxQdUJBVmRjWUxteks2b1ZBZXFuNUNlSFkxVnlvbkxtVzI4dm9iVkR1THVodTk4dnRSTkFKbVZhT2RRMkVoVTR0bzZvQU1vSlljd0cwOGF2alJRX2pPRVI3UmxiaHFHSl81S2VRRlZDenZJeHVwTmRtZGNsZDZoRFlXQy1CV2QwTWRLcEhrOXZUSFBnWEJjaTY1bDM5Q3lOUQ?oc=5
+https://www.bundestag.de/dokumente/textarchiv/2026/kw48-de-auswaertiges-1232296
 
-### Kita-Gesetz: Bundesrat ruft Vermittlungsausschuss an, Bund plant 9,2 Mrd. Euro - Netz Trends
-*GN Bundestag Gesetz - 21.11. 21:03*
+### Wir können „ein freies, ein gerechtes und ein soziales Land“ bleiben
+*BReg Artikel - 25.11. 10:21*
 
-Kita-Gesetz: Bundesrat ruft Vermittlungsausschuss an, Bund plant 9,2 Mrd. Euro Netz Trends
+Deutschland stehe vor großen Herausforderungen, betonte Bundeskanzler Merz in seiner Rede zum Bundeshaushalt 2027 im Deutschen Bundestag. Trotz aller Schwierigkeiten berücksichtige das Haushaltsgesetz „die Sorgen, die viele Menschen in unserem Land haben“.
 
-https://news.google.com/rss/articles/CBMigAFBVV95cUxQaTVmQ0ZhOFFiYWpQa19rZE9EclI2R2w4aUFJY1pJaFNRYWhQd05PX1VaTFg1TDJGU1F5RDc5d2YycndHSzdpTE4teWRwOTlOYVV1YVhmMlZjN0hGYUNGYUFDYURSRVVmamx5a0JDTnhTS3F3MHEzRzFBQ1IxVmI5SA?oc=5
+https://www.bundesregierung.de/breg-de/aktuelles/haushalt-2027-bundeskanzler-2462540
 
-### Bundesrat - Frühstartrente beschlossen, Startchancengesetz zunächst gestoppt - Deutschlandfunk
-*GN Bundestag Gesetz - 21.11. 19:04*
+### Kanzler und Koalition verteidigen Etat gegen scharfe Kritik der Opposition
+*BT Aktuelle Themen - 25.11. 08:05*
 
-Bundesrat - Frühstartrente beschlossen, Startchancengesetz zunächst gestoppt Deutschlandfunk
+Mit scharfer Kritik sind die Oppositionsfraktionen mit den Haushaltsplänen der schwarz-roten Koalition im Deutschen Bundestag ins Gericht gegangen: In der Generaldebatte zum Etat des Bundeskanzlers und des Bundeskanzleramtes (Einzelplan 04) für den Bundeshaushalt 2027 (21/7300(Dokument, öffnet ein neues Fenster), 21/7302(Dokument, öffnet ein neues Fenster)) reichten die Vorwürfe am Mittwoch, 25. November 2026, von „Sozialkahlschlag“ (Die Linke) bis „Schuldenorgie“ (AfD), die Grünen zweifelten angesichts „chaotischer“ Nachverhandlungen bei der Absenkung der Stromsteuer an der Seriosität der Plä
 
-https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU3FZbjVodF84RjZWOTNtMHU4Ym16eUNpTGdaWGVnRnNyLXJQNWZsMDZGaVdndjByY3lBd2VyazlYV0NGemlzTXFqbnE5UW5ZNFFwcXlpdUNNbzFSMjhXYU5walBEVTU2d3BnbjF2VGV3ODRobUFWOEMtT2FUSkU2UXRvQWt2SUE1SWZtLThPZlpOdEFnb3JER1V3VERtWGV4RHU1SUhYTmc?oc=5
+https://www.bundestag.de/dokumente/textarchiv/2026/kw48-de-generaldebatte-1232342
 
-### Termine - 1070. Plenarsitzung - Bundesrat
-*GN Bundesrat - 20.11. 17:02*
+### Naturpark übergibt Weih­nachtsbaum an Vizepräsi­dentin Josephine Ortleb
+*BT Aktuelle Themen - 25.11. 06:33*
 
-Termine - 1070. Plenarsitzung Bundesrat
+Vier Tage vor dem ersten Advent hat im Bundestag der Reigen der vorweihnachtlichen Veranstaltungen begonnen. Den Auftakt machte am Mittwoch, 25. November 2026, der Verband Deutscher Naturparke gemacht, der eine fast vier Meter hohe Spitze einer Blaufichte an Bundestagsvizepräsidentin Josephine Ortleb (SPD) übergab. Der Baum schmückt nun die Westfassade im Paul-Löbe-Haus neben dem Reichstagsgebäude, in dem Bundestagsausschüsse tagen. Baumschmuck von Kindern der Naturpark-Kita Wolzig Zuständig für die Übergabe war in diesem Jahr stellvertretend für die Nationalen Naturlandschaften, das Bündnis d
 
-https://news.google.com/rss/articles/CBMif0FVX3lxTE9ETzlxXzdTblhfeHFYUHNBN0lnbGg3RS1NUUVBTVJuZkdDZ3YyTVlRR2t0SWQ3WjZnM01Oc0VnTUQySVNMUzZJNGdPSmRyRnFyaDFCbjRNeXB3TXpKTDNZZi1XM1hxU05NZWxxVGVoSUo4TWVKcTB4SU9tZzhqQ0U?oc=5
+https://www.bundestag.de/dokumente/textarchiv/2026/kw48-weihnachtsbaeume-1238114
+
+### Entwicklungsetat soll 2027 auf 9,58 Milliarden Euro sinken
+*BT Aktuelle Themen - 25.11. 02:53*
+
+Über den Etat des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung (Einzelplan 23), der im Regierungsentwurf für den Haushalt 2027 (21/7300(Dokument, öffnet ein neues Fenster), 21/7302(Dokument, öffnet ein neues Fenster)) enthalten ist, entscheidet der Bundestag am Mittwoch, 25. November 2026, im Anschluss an eine 90-minütige Debatte in zweiter Beratung. Bundesministerin Reem Alabali Radovan (SPD) sollte ursprünglich im kommenden Jahr 9,47 Milliarden Euro (2026: 10,05 Milliarden Euro) ausgeben dürfen. Als Ergebnis der Haushaltsberatungen verzeichnet der Etat im Vergleich z
+
+https://www.bundestag.de/dokumente/textarchiv/2026/kw48-de-entwicklung-1232316
 
 ### Umweltministerium plant mit Ausgaben von 2,73 Milliarden Euro
 *BT Aktuelle Themen - 24.11. 12:40*
@@ -342,22 +388,78 @@ Durch die anhaltende Bedrohungslage in Deutschland ist auch die Gefahr von Sabot
 
 https://www.bundesregierung.de/breg-de/aktuelles/aenderungen-suefv-2458814
 
-### Neues Finanzierungsmodell für die Autobahn GmbH umstritten
-*BT Aktuelle Themen - 23.11. 10:00*
-
-Der Verkehrsausschuss hat sich am Montag, 23. November 2026, in einer zweistündigen öffentlichen Anhörung mit dem Gesetzentwurf der Bundesregierung zur Änderung der Finanzierung der Infrastrukturgesellschaft für Autobahnen und andere Bundesfernstraßen (Infrastrukturgesellschafts-Finanzierungs-Änderungsgesetz, 21/8868(Dokument, öffnet ein neues Fenster)) befasst. Ob die geplante Kreditfähigkeit der Autobahn GmbH eine Umgehung der Schuldenregeln des Bundes darstellt, ist unter Sachverständigen umstritten. In der Anhörung wurde diese Frage sowohl von Prof. Dr. Thorsten Beckers von der Bauhaus-Uni
-
-https://www.bundestag.de/dokumente/textarchiv/2026/kw48-pa-verkehr-1233478
-
 
 ## EU-Recht
 
-### Statement by Commissioner Dombrovskis presenting the European Semester Autumn Package at the European Parliament
-*EU-Kommission - 24.11. 12:26*
+### 21/9357: Kleine Anfrage Stand der Umsetzung mehrerer EU-Richtlinien mit abgelaufener oder bis zum 31. Januar 2027 datierter Frist (PDF)
+*BT Drucksachen - 24.11. 11:00*
 
-European Commission Statement Strasbourg, 24 Nov 2026 Madame Chair, honourable Members. Thank you for the opportunity to join you today to present the main elements of the European Semester Autumn Package, adopted ...
+https://dserver.bundestag.de/btd/21/093/2109357.pdf
 
-https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2571
+### Remarks by Commissioner Serafin during the European Parliament debate Unlocking the 2028–2034 MFF negotiations including new own resources following the revised negotiating box in Strasbourg
+*EU-Kommission - 25.11. 10:31*
+
+European Commission Speech Strasbourg, 25 Nov 2026 Opening remarks Honourable members, dear rapporteurs, Many thanks for organising this debate at very timely moment. Let me start by stressing that the Commissio...
+
+https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2585
+
+### Statement by Commissioner Dombrovskis at the European Parliament on the EU's support for Ukraine
+*EU-Kommission - 25.11. 08:05*
+
+European Commission Statement Strasbourg, 25 Nov 2026 Madam Chair, Minister, honourable Members, Allow me to conclude on behalf of the Commission by reiterating some key points. As President von der Leyen has alrea...
+
+https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2583
+
+### CELEX:32026R2628: Commission Implementing Regulation (EU) 2026/2628 of 22 November 2026 on the approval of an amendment to the product specification of the traditional speciality guaranteed Rögös túró
+*EUR-Lex Amtsblatt L - 24.11. 23:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2628
+
+### CELEX:32026D2544: Commission Implementing Decision (EU) 2026/2544 of 10 November 2026 on the clearance of accounts of the paying agencies of Member States concerning expenditure financed by the European Agricultural Fund for Rural Development (EAFRD) in the last execution year of the EAFRD 2014–2022 programming period (16 October 2024–31 December 2025) (notified under document C(2026) 7928)
+*EUR-Lex Amtsblatt L - 24.11. 23:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2544
+
+### CELEX:31998L0056R(02)
+*EUR-Lex Amtsblatt L - 24.11. 23:00*
+
+The corrigendum does not concern the English version.
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:31998L0056R(02)
+
+### CELEX:32026D2623: Council Implementing Decision (EU) 2026/2623 of 23 November 2026 amending Implementing Decision (EU) 2026/919 approving assistance to Ukraine in implementing the Ukrainian Financing Strategy
+*EUR-Lex Amtsblatt L - 24.11. 23:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2623
+
+### CELEX:32026D2612: Commission Implementing Decision (EU) 2026/2612 of 19 November 2026 amending Implementing Decision (EU) 2024/3238 concerning certain emergency measures relating to infection with peste des petits ruminants virus in Bulgaria and repealing Implementing Decision (EU) 2024/3109 (notified under document C(2026) 8418)
+*EUR-Lex Amtsblatt L - 24.11. 23:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2612
+
+### CELEX:32026R2635: Commission Implementing Regulation (EU) 2026/2635 of 23 November 2026 amending Annexes I and II to Implementing Regulation (EU) 2023/594 laying down special disease control measures for African swine fever
+*EUR-Lex Amtsblatt L - 24.11. 23:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2635
+
+### CELEX:32026O2613: Guideline (EU) 2026/2613 of the European Central Bank of 27 October 2026 amending Guideline (EU) 2024/2941 on the legal framework for accounting and financial reporting in the European System of Central Banks (ECB/2024/31) (ECB/2026/28)
+*EUR-Lex Amtsblatt L - 24.11. 23:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026O2613
+
+### Rede von Präsidentin von der Leyen bei der Plenardebatte des Europäischen Parlaments über die Rolle und die Kapazitäten der EU hinsichtlich des Schutzes der internationalen Ordnung und der Sicherung eines gerechten und dauerhaften Friedens in der Ukraine
+*EU-Kommission - 24.11. 23:00*
+
+European Commission Rede Strasbourg, 25 Nov 2026 „Es gilt das gesprochene Wort“ Sehr geehrte Frau Vizepräsidentin, liebe Sabine, sehr geehrter Herr Minister, meine Damen und Herren Abgeordnete...
+
+https://ec.europa.eu/commission/presscorner/detail/de/speech_26_2580
+
+### EU-Kommission: Von der Nahost-Krise betroffene Unternehmen dürfen bis Juni 2027 Beihilfen erhalten
+*EU-Kommission - 24.11. 23:00*
+
+European Commission Pressemitteilung Brussels, 25 Nov 2026 Die Europäische Kommission hat den Befristeten Rahmen für staatliche Beihilfen vor dem Hintergrund der Krise im Nahen Osten (METSAF) um sechs Monate bis zum 30. Juni 2027 verlängert.
+
+https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2576
 
 ### CELEX:32026D2633: Council Decision (CFSP) 2026/2633 of 23 November 2026 amending Decision (CFSP) 2024/1472 on a European Union Diplomatic Academy
 *EUR-Lex Amtsblatt L - 23.11. 23:00*
@@ -369,15 +471,15 @@ https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2633
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1452
 
-### CELEX:32026D2600: Council Decision (CFSP) 2026/2600 of 23 November 2026 amending Decision (CFSP) 2021/1143 on a European Union Military Assistance Mission in Mozambique (EUMAM Mozambique)
-*EUR-Lex Amtsblatt L - 23.11. 23:00*
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2600
-
 ### CELEX:32026D2619: Council Decision (CFSP) 2026/2619 of 23 November 2026 in support of enhancing the operational effectiveness of the Organisation for the Prohibition of Chemical Weapons (OPCW)
 *EUR-Lex Amtsblatt L - 23.11. 23:00*
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2619
+
+### CELEX:32026D2600: Council Decision (CFSP) 2026/2600 of 23 November 2026 amending Decision (CFSP) 2021/1143 on a European Union Military Assistance Mission in Mozambique (EUMAM Mozambique)
+*EUR-Lex Amtsblatt L - 23.11. 23:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2600
 
 ### CELEX:32026R2614: Commission Implementing Regulation (EU) 2026/2614 of 23 November 2026 imposing a provisional safeguard measure with regard to imports of certain new hybrid vehicles designed for the transport of persons
 *EUR-Lex Amtsblatt L - 23.11. 23:00*
@@ -440,13 +542,6 @@ The corrigendum does not concern the English version.
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2228R(01)
 
-### Opening remarks by Commissioner Serafin during the debate on the EU Anti-fraud Architecture Review (INI Report) at the European Parliament in Strasbourg
-*EU-Kommission - 23.11. 17:35*
-
-European Commission Speech Strasbourg, 23 Nov 2026 I would like to thank the rapporteurs Mr Zdechovsky and Mr Erixon and the Members of the Committee on Budgetary Control for their own-initiative report on the f...
-
-https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2566
-
 ### Ab nach Vice City: So bringen wir den GTA-VI-Style per KI auf euren Bildschirm – konform mit EU AI Act & Urheberrecht! - Anwalt.de
 *GN tritt in Kraft - 22.11. 23:13*
 
@@ -481,120 +576,128 @@ The corrigendum does not concern the English version.
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32021R2259R(01)
 
-### CELEX:32026D2605: Council Decision (CFSP) 2026/2605 of 23 November 2026 amending Decision (CFSP) 2026/455 on restrictive measures to combat terrorism
-*EUR-Lex Amtsblatt L - 22.11. 23:00*
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2605
-
 ### CELEX:32026D2618: Council Decision (CFSP) 2026/2618 of 20 November 2026 on an assistance measure under the European Peace Facility to support the Armed Forces of Ukraine through the joint procurement of military equipment not designed to deliver lethal force
 *EUR-Lex Amtsblatt L - 22.11. 23:00*
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2618
+
+### CELEX:32026D2605: Council Decision (CFSP) 2026/2605 of 23 November 2026 amending Decision (CFSP) 2026/455 on restrictive measures to combat terrorism
+*EUR-Lex Amtsblatt L - 22.11. 23:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2605
 
 ### CELEX:32026D2606: Council Implementing Decision (EU) 2026/2606 of 17 November 2026 amending Implementing Decision (EU) 2026/410 on making the financial assistance under Regulation (EU) 2025/1106 available to Italy
 *EUR-Lex Amtsblatt L - 22.11. 23:00*
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2606
 
-### CELEX:32014L0021R(02)
-*EUR-Lex Amtsblatt L - 22.11. 23:00*
+### Remarks by Executive Vice-President Virkkunen on the Quantum Act
+*EU-Kommission - 25.11. 13:42*
 
-The corrigendum does not concern the English version.
+European Commission Speech Strasbourg, 25 Nov 2026 Good morning, ladies and gentlemen and welcome to this press point. I am here to present the Quantum Act just adopted by the college. Quantum is more than the n...
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32014L0021R(02)
+https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2588
 
-### CELEX:32026D2608: Council Decision (EU) 2026/2608 of 9 November 2026 on the position to be taken on behalf of the European Union within the World Customs Organization with regard to a Recommendation concerning the amendment of the Nomenclature appended as an Annex to the Harmonized System Convention and the approval of Explanatory Notes, Classification Opinions or other advice on the interpretation of the Harmonized System and recommendations to secure uniformity in the interpretation of the Harmonized System under the Harmonized System Convention
-*EUR-Lex Amtsblatt L - 22.11. 23:00*
+### Keynote speech by Commissioner Kubilius on Defence Readiness in the EU Military Committee meeting at the level of Chiefs of Defence
+*EU-Kommission - 25.11. 10:53*
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2608
+European Commission Speech Brussels, 25 Nov 2026 Good to be together again with all of you! You asked us to elaborate on several questions. I am going to do that right away. My major message: we need to intens...
 
-### CELEX:32026D2579: Commission Implementing Decision (EU) 2026/2579 of 20 November 2026 terminating the anti-dumping investigation concerning imports of urea originating in Russia
-*EUR-Lex Amtsblatt L - 22.11. 23:00*
+https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2586
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2579
+### Daily News 25 / 11 / 2026
+*EU-Kommission - 25.11. 10:10*
 
-### CELEX:32020L0177R(05)
-*EUR-Lex Amtsblatt L - 22.11. 23:00*
+European Commission Daily news Brussels, 25 Nov 2026 Marie Skłodowska-Curie Actions Doctoral Networks 2026 call attracts almost 2000 proposals The 2026 call for Doctoral Networks under the Marie Skłodowska-Curie A...
 
-The corrigendum does not concern the English version.
+https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2584
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32020L0177R(05)
+### Remarks by Commissioner Dombrovskis at Eurochambres meeting
+*EU-Kommission - 25.11. 07:51*
 
-### CELEX:32026D2596: Council Implementing Decision (EU) 2026/2596 of 16 November 2026 establishing the satisfactory fulfilment of the conditions for the partial payment of the ninth instalment under the Ukraine Plan of the Ukraine Facility
-*EUR-Lex Amtsblatt L - 22.11. 23:00*
+European Commission Speech Strasbourg, 25 Nov 2026 Good morning. It is a pleasure to join you this morning. Because Eurochambres doesn't just tell us that our rules are too complicated. You come back with report...
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2596
+https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2582
 
-### CELEX:32014R1286R(09)
-*EUR-Lex Amtsblatt L - 22.11. 23:00*
+### Kommission schlägt Quantengesetz und neuen Sovereign Tech Equity Fund zur Stärkung der industriellen Kapazität und Sicherheit Europas vor
+*EU-Kommission - 24.11. 23:00*
 
-The corrigendum does not concern the English version.
+European Commission Pressemitteilung Strasbourg, 25 Nov 2026 Die Europäische Kommission hat heute das Quantengesetz vorgeschlagen, einen neuen Rahmen, der dazu beitragen soll, die europäische Quantenforschung in Produkte und Dienstleistungen umzuwandeln, die Lieferketten zu stärken und die digitalen Systeme Europas auf die Post-Quanten-Kryptographie vorzubereiten. Der Vorschlag bildet auch die Grundlage für den Sovereign Tech Equity Fund (STEF).
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32014R1286R(09)
+https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2567
 
-### CELEX:32026D2620: Council Decision (CFSP) 2026/2620 of 20 November 2026 on an assistance measure under the European Peace Facility to support the Armed Forces of Ukraine through the joint procurement of military equipment designed to deliver lethal force
-*EUR-Lex Amtsblatt L - 22.11. 23:00*
+### Commission fines Firmenich, Givaudan and IFF €471.9 million for participating in an international fragrance cartel
+*EU-Kommission - 24.11. 23:00*
 
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2620
+European Commission Press release Brussels, 25 Nov 2026 The Commission has fined Firmenich, Givaudan and International Flavors & Fragrances (IFF), the three largest worldwide fragrance producers, a total of €471.9 million for participating in an international cartel in the fragrance sector, in breach of EU competition rules.
 
-### Commission calls for joint EU efforts to reduce tax gaps and boost public finances
-*EU-Kommission - 23.11. 23:00*
-
-European Commission Press release Brussels, 24 Nov 2026 Today, the European Commission published its Mind the Gap 2026 Communication, showing how enhanced tax compliance, improved governance of tax expenditures, better tax collection and more effective tax administration can help Member States protect public finances and create room for the investments Europe urgently needs.
-
-https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2562
-
-### Daily News 24/ 11 / 2026
-*EU-Kommission - 24.11. 14:25*
-
-European Commission Daily news Brussels, 24 Nov 2026 Commission calls for joint EU efforts to reduce tax gaps and boost public finances Today, the European Commission published its Mind the Gap 2026 Communication,...
-
-https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2578
-
-### Speech by Executive Vice-President Teresa Ribera at College of Europe, Natolin, Poland
-*EU-Kommission - 24.11. 09:42*
-
-European Commission Speech Warsaw, 24 Nov 2026 Dear Vice-Rector, dear professors, dear students of the Johannes Gutenberg Promotion, This campus opened in 1992. The Berlin Wall had just fallen, and Europe wa...
-
-https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2570
-
-### Commission sets out key EU policy priorities for 2027 in its European Semester Autumn Package
-*EU-Kommission - 23.11. 23:00*
-
-European Commission Press release Strasbourg, 24 Nov 2026 The European Commission today adopted the 2027 European Semester Autumn Package, setting out economic, social and employment policy priorities.
-
-https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2553
-
-### Commission imposes provisional import quotas on hybrid passenger vehicles
-*EU-Kommission - 23.11. 23:00*
-
-European Commission Press release Brussels, 24 Nov 2026 The European Commission today published provisional safeguard measures setting import quotas for certain hybrid vehicles. These restrictions are needed to protect EU industry against a sharp recent increase in imports of such vehicles. The measures will enter into force on 1 December and follow an investigation that showed imports of hybrid vehicles into the EU have increased significantly since 2023.
-
-https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2564
-
-### Questions and answers on the 2027 European Semester Autumn Package
-*EU-Kommission - 23.11. 23:00*
-
-European Commission Questions and answers Strasbourg, 24 Nov 2026 GENERAL QUESTIONS ON FISCAL POLICY What is included in this year's European Autumn package? This year's European Semester Autumn Package is a comprehensive pa...
-
-https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_2554
-
-### Daily News 23 / 11 / 2026
-*EU-Kommission - 23.11. 10:24*
-
-European Commission Daily news Brussels, 23 Nov 2026 Commission welcomes European Citizens' Panel recommendations on Democratic Resilience The European Citizens' Panel on Democratic Resilience concluded yesterday...
-
-https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2561
+https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2574
 
 
 ## Steuern und Abgaben
 
-### Steuerliche Abschreibung von Sanierungen § 35c EstG wird gekürzt - Energie-Experten
-*GN Steuer und Arbeit - 24.11. 11:39*
+### Fehler können dazu führen, dass Touristen in Japan ihren Anspruch auf Steuerrückerstattung verlieren. - Vietnam.vn
+*GN Steuer und Arbeit - 25.11. 15:20*
 
-Steuerliche Abschreibung von Sanierungen § 35c EstG wird gekürzt Energie-Experten
+Fehler können dazu führen, dass Touristen in Japan ihren Anspruch auf Steuerrückerstattung verlieren. Vietnam.vn
 
-https://news.google.com/rss/articles/CBMiowFBVV95cUxOWG0xWW4tTFM1MnExRVlzSU5nTWJFYUdNOVFTVlpqOF8wcERmRlZBMHQyWkllQm1Lc0pQWUl3Z2NfRUdlRm5mdlhRUWp2YVlEbEpEbnV6dGgybXV6bFZ2RzMxR1lMRFBTZHR3eEJLenBqcHhUQ1VkeU1wNThvS1FMamNpeGI2X0o2WGY3MlpET3V5Q1BncF9FZDc3Und1OXBpbjNB?oc=5
+https://news.google.com/rss/articles/CBMimgFBVV95cUxObS13ajdOVmhVMGt6ZDY2VWR0QVRsQkthNHo5YXJ0TUVnb0FfbWhKMjhJZEpqX0ItOHF6OHl0Q0N2TlJGMFVvZm1CVkNPdm1jaUpnNnhqV1Q3d05UNUFiWktRX0pXSUpxMU96ZFRDSXJuNXRTT2YwYlhFUzlMUThSd1FGT0NZY05jNkdhRkxXN1BPRXI1eU13S1d3?oc=5
+
+### Trotz Nachbesserungen: BWS fordert Stopp der Steuermaßnahmen - Spirituosen-Journal
+*GN Steuer und Arbeit - 25.11. 14:37*
+
+Trotz Nachbesserungen: BWS fordert Stopp der Steuermaßnahmen Spirituosen-Journal
+
+https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEdEdkI0U1JFbmE2VXB2V0hmVWlaTTNRZ3MzTFh6eDJDcEVvM1hiMUZDT2NrS1YzeFF3Rl9uVGt0NDc2aE5EMEJHY2t4QkZfMWVPb3lqRE9WREl0Wl9tMVdEamFRbDMzODdxdkxPQWk5aFgwMWV1RGtCeHZYXzMyZjhRdVY4NFhaUHotOWZ4UnVYR3lmN2dkTUVacDRud3hSc2FyMDNR?oc=5
+
+### Kindergeld für Kinder mit Wohnsitz im Ausland
+*BT heute im bundestag - 25.11. 13:00*
+
+Finanzen/KleineAnfrage Die AfD-Fraktion erkundigt sich nach den Zahlungen von Kindergeld für Kinder mit Wohnsitz oder gewöhnlichem Aufenthalt im Ausland.
+
+https://www.bundestag.de/presse/hib/kurzmeldungen-1238230
+
+### Haufe KI-Online-Konferenz 2027 | Steuern - Haufe. Intelligenz, die bewegt.
+*GN Recht Fachpresse - 25.11. 06:39*
+
+Haufe KI-Online-Konferenz 2027 | Steuern Haufe. Intelligenz, die bewegt.
+
+https://news.google.com/rss/articles/CBMikgFBVV95cUxPcEp0NE03eWxIWEpQdlVBQWRJeURaT3ZEYXZDY2YwbDRLV2ljdU0xNi14d2pzUG1VMmpPM1FMWHJLVXNjUGtFSGltelpuRFphY0J4MnIzTFc5bkpYTUpyVGVkNGhZR1F5TXdNT0szdjZLWklzSm1wRFFMVktYRldfYmhuWGRxaE1vU0NQdnJqZUR0Zw?oc=5
+
+### Frotscher/Geurts, EStG § 96 Anwendung der Abgabenordnung ... / 8.1 Materiell-rechtliche Verweisung (Satz 1) - Haufe. Intelligenz, die bewegt.
+*GN Recht Fachpresse - 25.11. 03:46*
+
+Frotscher/Geurts, EStG § 96 Anwendung der Abgabenordnung ... / 8.1 Materiell-rechtliche Verweisung (Satz 1) Haufe. Intelligenz, die bewegt.
+
+https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSHUtS3MyVEhZaDZkYlJVQnZHWTlPR21FcGpDRThzRll1QmFwcFhtclZ0MjNpc3RtMjNWWkt2Rlg3RmJyeUxEMlI4aFp1VjdBQndTVVBjSERoMktDRGdGakJUbVQ0elljeFJwbHpoUEhqTG5sTWwxVy1nVzdyUV9zOWFLNElmdnQ5aHkyRTVRZDU5N25jTzZnVGNOaXJ5d0lQVDlkUEoxM2dmenU5TDVpUW5DSElCRmlnNnBMR0pTaFFkNGl1VFhyRXBfY0RUVUFyY3g2aU1xZURXb0k?oc=5
+
+### Rente mit 63 abschaffen? Diese Kompromisse diskutieren SPD und Union - vorwärts.de
+*GN Novelle Reform - 25.11. 02:59*
+
+Rente mit 63 abschaffen? Diese Kompromisse diskutieren SPD und Union vorwärts.de
+
+https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQmNSeC1NcklMaHkwV21GalEwUnAxdXlUUGY1d0JQcFdLLXpUUjYxTlM2R19ueS1iSW44OE5CQ1YtRDRTWWxKeG1EaURtSFFBLTVGdW1uZmpZMnN4am0zeDJJNGdYbGhPcUJzd0FaTTFTOW5OUEpDbDNjMzZLMDdLQUdma2NqZmZRNWhNYldvNTVid1FWTmRMcVNrd0NYeFVSQWpCZUEwemY?oc=5
+
+### 700 Bürger wollen zu Gemeindeversammlung – Steuererhöhung verhindert - blue News
+*GN Steuer und Arbeit - 24.11. 21:15*
+
+700 Bürger wollen zu Gemeindeversammlung – Steuererhöhung verhindert blue News
+
+https://news.google.com/rss/articles/CBMiugFBVV95cUxQQURuNXdFLTBMRUszSEotZ1B0UlBsbGt5NHdpbVFrS2xUdFNfVFF5bjA2Q3h0ZGdxWjlKRV9VMzBXUFk0aEI3UjYxTm5td2NuR2lmV2dYU1dTU0ExY3BLMExYWmpCczdFZ0ZTQ0RZaUJzODJ2bnRRYjNtTG15b0t1bEVrbjFvaUFoQVJxUTZkdUFnWkdReFoxa2NUaTdqM09KWGZTa25wMG03T3ZSb0xSMGNmdk1TeDVSVVE?oc=5
+
+### Bundesregierung: Steuerreform gegen Kündigungsschutz – die Koalition blockiert sich selbst - SZ.de
+*GN Novelle Reform - 24.11. 19:20*
+
+Bundesregierung: Steuerreform gegen Kündigungsschutz – die Koalition blockiert sich selbst SZ.de
+
+https://news.google.com/rss/articles/CBMizAFBVV95cUxPd2JGSWtocGNKTG5SSS1lU2NxekZkbjYycm50TDNHUW9Cc2I3SURGb2VsNTRfdFNyak9IWHd1RVVpbDA4QnZhSjA0eVJ1T1Y0cUdKTHo4LUxKeHpsQjZta1I0QnFTRzIxVW9oenAwdU1ER0dtWEJyWFhKN0hlLXVjR2oySnB1bzBEZE9ETnZwQzdjejRKY0pxYjF0WGlMX1hMaFppMHVoRklSc2pFaVRiTzhSNWc1Wm80dUlSRzY1Y3ozSUdxamxRRFUwZlU?oc=5
+
+### Krypto-Steuerregeln sollen sich bald drastisch verschärfen – wo dann eine teure Falle droht - Frankfurter Rundschau
+*GN Steuer und Arbeit - 24.11. 16:00*
+
+Krypto-Steuerregeln sollen sich bald drastisch verschärfen – wo dann eine teure Falle droht Frankfurter Rundschau
+
+https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ1RXMzRFZXBOY3RqQVc3ZGRjUUd1R1ZsVnZ1ZGJFVlJZenJjZ2Zqc2d4WmQ3RmtzLVBfSTZiVkRSN1psYlZoTldyM19OeC12Q1hXeFFEMHhWVk5KRThIcmlhSzBreEtfbjQwZmpid2QwSmdnN2NHb3RBUGxtcFhic084UEdhcjFkUGpSeExUbjZGMjJBaUM0VVd6cWktWmlBNEVRYWxJSUVnTkVNS2tkQlhYcw?oc=5
 
 ### Seengen AG: Steuern lassen sich neu jederzeit online einsehen - Nau
 *GN Steuer und Arbeit - 24.11. 09:44*
@@ -609,6 +712,13 @@ https://news.google.com/rss/articles/CBMiowFBVV95cUxPN3poMjB1NlZLRmJjcFlBMXBFVGZ
 Vorsteueraufteilung Pflegedienst Kfz-Überlassung | Steuern Haufe. Intelligenz, die bewegt.
 
 https://news.google.com/rss/articles/CBMirgFBVV95cUxPUGR1MXo1cTZWRFNUYVhpRlZoN3U3NGtHWmZoSnNROUswNmpSdE5wenZXVEhUVEVqWF9jal9qaXp1Wi1DeVB6aXBYYjkzS0wwZGVDcHh3MjRKdk0yNEI2S1JOcElkcEFQVVRiOEgxWUhjOWVQalI5RTZjdUp2T1g4c0ZITDZ1QlV5aHlsOTROcThKSHJhbS1Cd3cySEZmUHNtelNsdXVIX3Ixam9DNXc?oc=5
+
+### Rente: Neues Verbot der Merz-Regierung – es trifft zahlreiche Empfänger ab Januar - futurezone.de
+*GN Bundesgesetzblatt - 24.11. 06:28*
+
+Rente: Neues Verbot der Merz-Regierung – es trifft zahlreiche Empfänger ab Januar futurezone.de
+
+https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbUVBSUVUZzVWUFdzdUFyM0UxUTFVa2dBQnFwNEREUDYyS0ZqNThDVlBiTC1pR3c0OUFHbUlGM3FTeVdoNVZUZnh5c0M0UGhGeG9Mc21PSEhNaHVqQ3hQZWZwdld6bFUySmtUQjlPNXhqejRUX2FRS1FUV2hfMGVVSDBPQnhRWWNReUNDcE5oZnlqTmpnMFk0YWZmZ2pvU0lGSVdDLXF3Q09mVWN1b21JLUVVRDBCcmpmRS0xaFk4aS1GSTQzOVgyMXgxdkNKOUZvcGlkbXd3?oc=5
 
 ### Weihnachtsmarkt ganz neu + Handy am Steuer + Frachtsegler im Kommen - Nordwest-Zeitung
 *GN Steuer und Arbeit - 24.11. 03:40*
@@ -638,6 +748,11 @@ Sozialversicherung: Neue Bemessungsgrenzen für 2027 Steuertipps
 
 https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUFESmpOcUZBemZjTTZCN2xFZVpReG9Xa013R3AzMmhrYVY3VzVUOWRwWWh6QjVWLU5qeXZwTFFyUHRIVm55RWExdXl0cGF3Y2lCVHBGYzljUng5OENIbGo1WHBiNmhXbTZVV3FKWHdaRHlQOTBkVExUQm5qZXBxRHp1R3pGNUhrT25ZcnhHbVZKRXNJQzN5cndSR2pxLTRwS3pfbg?oc=5
 
+### 21/9368: Antrag Gerechtigkeitslücke im Steuersystem schließen – Verschonungsbedarfsprüfung ab 26 Millionen Euro in der Erbschaft- und Schenkungsteuer abschaffen (PDF)
+*BT Drucksachen - 23.11. 11:00*
+
+https://dserver.bundestag.de/btd/21/093/2109368.pdf
+
 ### Rentenpaket vor dem Durchbruch? 30 von 33 Punkten sind weitgehend geeint – der Streit um die Rente mit 63 bleibt - Merkur
 *GN Novelle Reform - 23.11. 10:05*
 
@@ -659,36 +774,8 @@ Kalte Progression: Markus Söders Steuervorstoß ist ein taktisches Manöver Wir
 
 https://news.google.com/rss/articles/CBMiygFBVV95cUxOOXplNkhPYmVxdHRoeUo5VHMyTTRrY28yNGFxM2M3NkMzZ3hmcklXM0hTaC1GZDJScWJUUEd6VHJoTUFhMnd0OHB4LUF2dVBKdkhTU1FkOWMxcWdYTGhGdUVkUUhRcDlvVmpBMUVjWDlpakhEZU1neFBrNndDRnYxU3lfVFF3b2ZXYllPQ1VVMG9lVVBXY2VNa2FhZDJtejNvQkhxSk1WUGtqTk1MLTdtaUNvR1Y0b0ZrMVFOWlJtVUZXZnhGWXFHOS13?oc=5
 
-### „Die Luft wird immer dünner“ – Krypto-König der Steuerfahnder warnt - WirtschaftsWoche
-*GN Steuer und Arbeit - 22.11. 08:00*
-
-„Die Luft wird immer dünner“ – Krypto-König der Steuerfahnder warnt WirtschaftsWoche
-
-https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbDBESk1xeUNERmFhLWZZd1k1QUJ2MkFTUVplQ1JrQ1l6VmdLbTdxVFZvcHYtTFFHVkwwNTZtNC1nOEJ3Q0M5d25XLW5seVAwNjN5Z1VQR19FRjM0enlmakxuU24xeEktRnhpclh0Q1VHRzNsSU5Qb1ppUjNucWhzWm9DMnprQW9PQmtBazV4VU5tczVnRDVpRzlCaC05WW53UXBQUlRKOXhISXFsT0tlU1FtcTBJam14NmZMMy1jaTZSU3JxaVpIV0EtU2RzVkZuZUxGRTllLV9abUVCRU1RMWdDanplTXQ4ZUE?oc=5
-
 
 ## Pflichten und Fristen
-
-### Erklärung von Präsidentin von der Leyen zum 22. Sanktionspaket gegen Russland
-*EU-Kommission - 23.11. 11:51*
-
-European Commission Erklärung Strasbourg, 23 Nov 2026 Heute stellen wir unser 22. Sanktionspaket vor. Damit wollen wir den Druck auf Russland aufrechterhalten, seinen Angriffskrieg gegen die Ukraine zu beenden. Und wir werden weiterhin neue Sanktionen vorschlagen, bis Russland echte Bereitschaft für einen dauerhaften Frieden in der Ukraine zeigt.
-
-https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2563
-
-### EU-Sanktionen im Fall Usmanov
-*BT heute im bundestag - 24.11. 13:58*
-
-Auswärtiges/KleineAnfrage Nach einer "möglichen Einflussnahme auf ein gerichtliches Zustellungsverfahren im Fall Usmanow" erkundigt sich die AfD-Fraktion in einer Kleinen Anfrage.
-
-https://www.bundestag.de/presse/hib/kurzmeldungen-1238086
-
-### EU-Sanktionen gegen einzelne indische Unternehmen
-*BT heute im bundestag - 24.11. 13:58*
-
-Auswärtiges/Antwort Zu Verhängung von EU-Sanktionen gegen einzelne indische Unternehmen nimmt die Bundesregierung in der Antwort auf eine AfD-Anfrage Stellung.
-
-https://www.bundestag.de/presse/hib/kurzmeldungen-1238074
 
 ### Niedersachsen will Meldepflicht bei Todesfällen präzisieren - Oldenburger Online Zeitung
 *GN Steuer und Arbeit - 24.11. 13:28*
@@ -697,19 +784,17 @@ Niedersachsen will Meldepflicht bei Todesfällen präzisieren Oldenburger Online
 
 https://news.google.com/rss/articles/CBMixwFBVV95cUxPcWp3c3lBZnNfbnY0REktSmNBaU5OQ2xaT3piZVktM0wzc1BwNjR6V0RFRW81N1cyM3Jfc3VadnBaNWRWS0QyYW9uWFNxUlZMRFRjclZCNmtKcWhoazBsZm9WS2hoUnZ1LS1VMFBURDJBcFNoTHAwWmhCTW9nb1JDZ2VnQ3B4bDhWbzVQd1RwYjV5Q2VRRVNPcWVuUEFNZ0cydWtYeWJjdHNITlV5eHNJYnViT01yd3I0V3dDSUdLemdRbWFMV0dJ?oc=5
 
+### 21/9358: Kleine Anfrage Umgang von Bundesregierung und Aufsicht mit Klima- und Biodiversitätsrisiken als systemische Risiken für die Finanzstabilität (PDF)
+*BT Drucksachen - 24.11. 11:00*
+
+https://dserver.bundestag.de/btd/21/093/2109358.pdf
+
 ### ZErb 11/2026, Persönliche Haftung des Testamentsvollstreckers bei Eigenverbrauch der für ... - Haufe. Intelligenz, die bewegt.
 *GN Recht Fachpresse - 23.11. 07:20*
 
 ZErb 11/2026, Persönliche Haftung des Testamentsvollstreckers bei Eigenverbrauch der für ... Haufe. Intelligenz, die bewegt.
 
 https://news.google.com/rss/articles/CBMihgJBVV95cUxNT2ZhUTlNZFhjbTJCY2Fsa3BrTlZjZnlTZjE4VktmZVkycVVmeWFPZEFQdXF0d3h5T05EOUh1YXQ3SGZGU0ZObUFueEJiUkJvYXVYa2x0MjdhckdBekdhYXZHUkJZNnRtMzI4dC1XTWlra3NETTl0LUhhY0ZzWlBKTl8xejk3MTJMU3RBSUFUOEVXSjFuNFd1WDZ2djF2M2dQS1FsOUdlbTlLak15bThwSVpmRF9saXgwN21PQVdrNzB6bWJ2TDFlMklJcllueDZZMFJLdFJiZEl4cmh4YlBPUUwxQWlzN2lYd0g0WDh0ajZhbGRFdEFlN3QxTFhFV3ZnN25USlJ3?oc=5
-
-### Asiatische Hornisse entdeckt: Muss ich das melden? Bundesweit keine EU-Meldepflicht mehr, Bayern anders - Nacionale
-*GN Steuer und Arbeit - 22.11. 14:26*
-
-Asiatische Hornisse entdeckt: Muss ich das melden? Bundesweit keine EU-Meldepflicht mehr, Bayern anders Nacionale
-
-https://news.google.com/rss/articles/CBMiswFBVV95cUxQLTc1bDY3MkNCWW0zeFNzZGdXeUVscUVsenBXanhLSkxycGpYeWZWMkZMcmhhZUxpVFZ4RVZIajlSMVVMV216WHVmTEtMbFJSSExPNVJSSWR6c2NoclFTOTFVV3pGRS1udERCUDA4NTZsNzZiQVpBMlEwVklSMS10WHdUZ0JwZlFFekFxMDE5NFpKaXFLUU5VY3dQUHBjbHVxM1JCS2c1Q2JRdkl5V1duNWF3VQ?oc=5
 
 
 ## Arbeit und Unternehmen
@@ -728,13 +813,6 @@ Arbeitszeitreformen aus Arbeitnehmer- und Arbeitgebersicht STB Web
 
 https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lZm0yVHd5dUM2QUx1SnBUN0VPSEJvUVEtU0pmWHdEcDhYQzdGNXJ1R2tHX3U4dkV4Zm5LQVAwS0ROUFdkMzNudktCLW5KY2ZZVHpmQkkxSFctbV93?oc=5
 
-### Neue Regeln im Arbeitsrecht: Was die Bundesregierung für 2027 plant - verbaende.com
-*GN Novelle Reform - 23.11. 13:08*
-
-Neue Regeln im Arbeitsrecht: Was die Bundesregierung für 2027 plant verbaende.com
-
-https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcTlzOWNxZTBrbjJvZklQUXhkdkFOQndWUnpmTnVNTGVINERleW43ekg5Ym1LR2N2b05nNFZweDNXdFVfOEJHSExPQ3RFZHVqVmkzakt1WFRoZVRyTnBRblZmeWpWektUQU5jS1owMzB0Ql84SkN1RFZIY3RzZEg4czBvcHZlTUlKdGhJdXZZNEwzYjhMOGFBWjJyeWdXN2ZhY3FzWVFFT01EcXM2UC1OT3NUUEMzSmx4cFVlMjlMcWU?oc=5
-
 ### Arbeitsrecht 2026: Längere sachgrundlose Befristung bis 48 Monate erklärt - Anwalt.de
 *GN Steuer und Arbeit - 23.11. 08:43*
 
@@ -742,18 +820,9 @@ Arbeitsrecht 2026: Längere sachgrundlose Befristung bis 48 Monate erklärt Anwa
 
 https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ3M4VjlYOWZlTXVDaDdWZExmeGZieG0xVDh3XzNMQ0tFMVF4UndCaUx2NXlsdW9CUHRmNXNoOGVSV0NfRTI0ZzJuT21RM0R3LXBXN2lBa2wwZUoybm9MZktxX3lNZTQyRzM5ekpFTDdHWTNnR1VTdk05V0VwSHczS1B2bUpiLXk4anJLR3RlbEFmMm4tbm94cHBuTGZ2d3NVOFQwR2Z6QXFyWFJQRXRubE92a2xsZWpVb25EUw?oc=5
 
-### Nationale und internationale Arbeitnehmergremien: Verhältnis / 2.3 Abgrenzung EBR und SE-Betriebsrat - Haufe. Intelligenz, die bewegt.
-*GN Recht Fachpresse - 22.11. 06:03*
 
-Nationale und internationale Arbeitnehmergremien: Verhältnis / 2.3 Abgrenzung EBR und SE-Betriebsrat Haufe. Intelligenz, die bewegt.
+---
 
-https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV21yTGlHZ0tpTVgtM2Fhemh4bnFoUC1jc1Rzem9Gb1gwMUxTSmIzNm5DMkVsNmdqcUg2UFFLRGlLdjg1UW9CUEpjR2Y4aXFZeUxSdEJicXhEendJZFlxbmdIbXJuR2ZGTU1TUHQ1NFJyYUV0alFTLWdZVFl3YVhHYmtLSlRlZ0tfSjhNMjlfMUFVSmZXZU9CZjViZ2p0Y3F3WEJZUUhyamNPTTlieUEwN3FmQnhqTnM4RjBtWm9rbXhmV3lHdEdPTlhielBlYnJmZXQ0TnJxTTZyckM3d2c?oc=5
+## Quellen ohne Antwort
 
-
-## Foerderung
-
-### 21/9332: Kleine Anfrage Fortführung und Neuordnung internationaler Förderprojekte des Bundesministeriums für Wirtschaft und Klimaschutz bzw. heute Bundesministerium für Wirtschaft und Energie seit Mai 2025 (PDF)
-*BT Drucksachen - 23.11. 11:00*
-
-https://dserver.bundestag.de/btd/21/093/2109332.pdf
-
+- BGBl Teil I und II: URLError
