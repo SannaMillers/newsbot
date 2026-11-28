@@ -1,6 +1,6 @@
-# Rechtslage 27.11.2026 15:04
+# Rechtslage 28.11.2026 14:12
 
-140 Meldungen aus 18 Quellen, Zeitraum der letzten 96 Stunden.
+138 Meldungen aus 18 Quellen, Zeitraum der letzten 96 Stunden.
 
 ---
 
@@ -13,17 +13,31 @@ The corrigendum does not concern the English version.
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32025R0040R(08)
 
-### Mehr Schutz für Lieferanten: Deutschland hinkt bei EU-Richtlinie hinterher - cedarnews.net
-*GN Steuer und Arbeit - 26.11. 05:05*
-
-Mehr Schutz für Lieferanten: Deutschland hinkt bei EU-Richtlinie hinterher cedarnews.net
-
-https://news.google.com/rss/articles/CBMingFBVV95cUxQXzRRbXVtMWMtbm1tYkVkbkhVdXFWdTFEbGl5RFFTdkxGSFhfSGJwYVUySnVlY1BqMGV0MnVMSmZRekFVYVFrS3ludWVTWHBqV0VNMXVRcGtlc3NaeGJJdXlMeW9SQ01XSGE2b3BpNEdUSXM4U3BrcVV3c1VhRlBwMTlLWVFOcmtJTXQ4YXIwbVkwTHBKVHJRVkFINGNZZw?oc=5
-
 ### 21/9447: Kleine Anfrage Nationale Handlungsspielräume für den Naturschutz bei der Umsetzung der EU-Verordnung zu neuen Gentechnikverfahren (PDF)
 *BT Drucksachen - 26.11. 11:00*
 
 https://dserver.bundestag.de/btd/21/094/2109447.pdf
+
+### Bundestag beschließt neue Steuern und Entlastungen – die Rechnung für Millionen Deutsche - Frankfurter Rundschau
+*GN Steuer und Arbeit - 28.11. 06:59*
+
+Bundestag beschließt neue Steuern und Entlastungen – die Rechnung für Millionen Deutsche Frankfurter Rundschau
+
+https://news.google.com/rss/articles/CBMitAFBVV95cUxPNjl3SDMzbzA0OXpXUW5fdVduWXBkYnhGMmh4YjcxSndDTkxSbGpUV0tXMlZFaG9oNjZqQlI4QVc3T1lkLVJCMGRWbVNNTFp1T1p0dmNoN0d3SzdXWVhzV21DUC1fYWZHV2xHSndDVUdxRjB1Y2s5M2pPNUJKdDlVb0VyWXF5elp4cDdOYldSNThWZUZFY3dwci1fTDdleXF4clN5M0RSU0ptUWotdElJeFNINkM?oc=5
+
+### Durchbruch beim Rentenstreit? Arbeitsminister legt Reform-Plan vor, Rente mit 63 soll bleiben - Berliner Zeitung
+*GN Novelle Reform - 27.11. 18:16*
+
+Durchbruch beim Rentenstreit? Arbeitsminister legt Reform-Plan vor, Rente mit 63 soll bleiben Berliner Zeitung
+
+https://news.google.com/rss/articles/CBMitwFBVV95cUxNN2VoVkdtbldaRS0yaWt2U004UGZjRG5Sanh0Nlh1M3I0ejJ2X1FhQ1l6d3p0bjhuWllJTE95UHZBY1RDbld4a0tHbUs1OENfLXJjV0ZMNUptaXFaSlc1a05OLVlkakhSMmJqSEJfUVdHcFBHcFJlUXIwV19KNUtHSHZjYWx5QW9VV1RLeVh5N3YyckU1b000NmZyOUFDTXNwMlg3ZDA3T2NRV3lZQWdsM0VNNWpkWUU?oc=5
+
+### Grundsicherung: Bundestag beschließt Nullrunde bis Mitte 2028 – warum sich der Januar-Bescheid trotzdem ändern kann - Gegen Hartz IV
+*GN Bundestag Gesetz - 27.11. 16:31*
+
+Grundsicherung: Bundestag beschließt Nullrunde bis Mitte 2028 – warum sich der Januar-Bescheid trotzdem ändern kann Gegen Hartz IV
+
+https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOFVlakpnM19jQUhIdzl0WHJ5bm5ZX25oOEZzUkdhTGNXUnAxWVZvUGNlbFphZEtvdzhRaFpGcHF5S3NQNk4wRDRLQUpJRGRRS3N6TzFabVEwV0Q5ZUJ2eElMak1mQ0VXRDdyZk5SRGpDQUtmSGdLZi1VUC1hTmxsU3FVNFViNGh3TGNBNXp3bHREZEU5RGpYMEdBZk9wSGdydURpNEM5Q3hHZ2xXckhpd3FUMlNoTEt6UktzQWd6NXlFMGZpRmk1YWZRMnVxSlBndjlta0FUOG5pdDlrZVdn?oc=5
 
 ### Steuern - Bundestag beschließt Senkung der Stromsteuer und die Zuckersteuer - UNTERNEHMEN-HEUTE.de
 *GN Bundestag Gesetz - 27.11. 14:12*
@@ -32,19 +46,33 @@ Steuern - Bundestag beschließt Senkung der Stromsteuer und die Zuckersteuer UNT
 
 https://news.google.com/rss/articles/CBMiYkFVX3lxTE01ZHlmNmtZMGxQUktLMGZvM2N4YzJFaGZTVGU5LUhkQVFfX0ZMTnJQYVNJUEdQQkROQ09qSWtCTlBSRmJjYkN3dWNXUHU1Vk1iMVV2YTZHUjNscElHLXV6N0pR?oc=5
 
+### Neuer Gesetzentwurf: Abschlagsfreie Rente nach 45 Jahren soll erhalten bleiben - Politik - SZ.de - SZ.de
+*GN Bundestag Gesetz - 27.11. 14:00*
+
+Neuer Gesetzentwurf: Abschlagsfreie Rente nach 45 Jahren soll erhalten bleiben - Politik - SZ.de SZ.de
+
+https://news.google.com/rss/articles/CBMingFBVV95cUxPZ3JvZl9tZFN6OEpuVDhndWl6eE1sWTJkQTFfNXZfWVhJTFJzbVI0N3pVOS1tS0tIS3dMdkhWWkQ5M0NsYlFneDZzaUZPSXhQZDdKOEVBLVBya0UzYThTZFMyTVNKUV9HUTFpUWRKSWlhdGZZWEUwYVcxTFdHLWNTc3dTUWxhWkRiOWtzYUUyRl82TTlsY0lhU29VbEYydw?oc=5
+
+### Mammut-Etat im Bundestag: Koalition billigt Bundeshaushalt 2027 – und nähert sich im Rentenstreit an - RP Online
+*GN Steuer und Arbeit - 27.11. 13:22*
+
+Mammut-Etat im Bundestag: Koalition billigt Bundeshaushalt 2027 – und nähert sich im Rentenstreit an RP Online
+
+https://news.google.com/rss/articles/CBMirwFBVV95cUxOUk9JaHd2SG9FeDcyOGF6VzczT21CcnBCWXBHbDZoV0tobmxhRDNOM0FoMmFsTmtBQXdrZElVNHliSXBDejZ3VFNlMUZiVUE5WFJHQkQ0YTY1dndCeDF0UV9abEtpSEd4RUZ3SU5WWUlNTWtiOU0xNWFHWm1SYUlkYUIxUEhtckVWSjlhSUdMUVJRcWRNYl9xRzdNRnNjRDhGTUxZNEZmYlNwM3RnTzBF?oc=5
+
 ### Mammut-Etat im Bundestag: Koalitionszwist über Steuerreform überschattet Haushaltsbeschluss - RP Online
-*GN Bundestag Gesetz - 27.11. 14:03*
+*GN Novelle Reform - 27.11. 13:03*
 
 Mammut-Etat im Bundestag: Koalitionszwist über Steuerreform überschattet Haushaltsbeschluss RP Online
 
 https://news.google.com/rss/articles/CBMisAFBVV95cUxNZnlPMFIxcGNYallyX19nelVzM1diUm13aW04dHFRMkhGY2l3VzNKUlJJY2JzTXZ4ZDNNc1Z6djdqbkhTVDdpWjlrSXJ0RWQ5ZnNET0Y3Zi1jbE9lNmN1b2FZbDJtU2lzMmlnVjduYkNZeEdCbGtVUnFsUlpZeGhqeFg3ZUkyc2QtZ3g1Ymlael82elQ0UkpXbXpSWjc5b0FGcXJBUk82RGN4OEhxZm9OMQ?oc=5
 
-### Neuer Gesetzentwurf: Abschlagsfreie Rente nach 45 Jahren soll erhalten bleiben - Politik - SZ.de - SZ.de
-*GN Novelle Reform - 27.11. 14:00*
+### Haushalt 2027: Abstimmung im Bundestag – welche neuen Steuern und Entlastungen sollen kommen? - Lausitzer Rundschau
+*GN Steuer und Arbeit - 27.11. 07:04*
 
-Neuer Gesetzentwurf: Abschlagsfreie Rente nach 45 Jahren soll erhalten bleiben - Politik - SZ.de SZ.de
+Haushalt 2027: Abstimmung im Bundestag – welche neuen Steuern und Entlastungen sollen kommen? Lausitzer Rundschau
 
-https://news.google.com/rss/articles/CBMingFBVV95cUxPZ3JvZl9tZFN6OEpuVDhndWl6eE1sWTJkQTFfNXZfWVhJTFJzbVI0N3pVOS1tS0tIS3dMdkhWWkQ5M0NsYlFneDZzaUZPSXhQZDdKOEVBLVBya0UzYThTZFMyTVNKUV9HUTFpUWRKSWlhdGZZWEUwYVcxTFdHLWNTc3dTUWxhWkRiOWtzYUUyRl82TTlsY0lhU29VbEYydw?oc=5
+https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRk5oMVJWbGR5NWpIT0w3VkMtOWRmWWx3ejJQUzh1WkRfQUZic0I1Q2JWUnIzbVA1QjFSLVo3QldMeDkzVW9NWnRwLXluVmU2WUVlN0dVdzhYWHNpRXI0WTh2aVRyTmhHOVVMN0k5b2M2ZEVVQVJROEQyT0ZQWEN1Umo4SERGZ0dLbk94MlVWdzI5U2FkQjZVakFIYl9teUNrWFZJM21xUmc3VXRaMDdEemRHUzJMeU9xekxyRXNDNmVQR0NmNmpWcWxuNXBzWGluQTcxVC05dm5xRktacjc0ZXdR?oc=5
 
 ### Bis zu vier Jahre ohne Festvertrag: Bundeskabinett beschließt umstrittene Arbeitsrechts-Reform - Merkur
 *GN Steuer und Arbeit - 26.11. 10:33*
@@ -64,6 +92,76 @@ https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MSVkyeUF1c294V1duaUtlN3dnaDM
 *BT Drucksachen - 25.11. 11:00*
 
 https://dserver.bundestag.de/btd/21/094/2109411.pdf
+
+### Pflegereform: Warum der Bundesrat Handschuhe und Desinfektionsmittel weiter gesondert finanzieren will - DerWesten
+*GN Bundestag Gesetz - 28.11. 07:58*
+
+Pflegereform: Warum der Bundesrat Handschuhe und Desinfektionsmittel weiter gesondert finanzieren will DerWesten
+
+https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ0NMV0FyejZ5cHdzcjhMeUs3VTBrTk5ub3ZGaU1wc2gwZks3eUtmTzBEaHlyWEF0NGJveGtKRkxfWmFYRnBUQldWeEhlU3BfLWw4UTIzclVvYk5vckUyZ0RtWXRCUFNfYmZsYTdRM0hOYnlzMkhWMnFGWjBhd2p5STY1cmJjT2k1eGdZUTBuQVNqNUZNeXRnMGZfWG9hbjNUV3hJY0pR?oc=5
+
+### Regionalliga-Reform: Deutscher Fußball vor DFB-Bundestag vor Zerreißprobe - FAZ
+*GN Novelle Reform - 28.11. 06:42*
+
+Regionalliga-Reform: Deutscher Fußball vor DFB-Bundestag vor Zerreißprobe FAZ
+
+https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM3NVbklXQmRJYWh3Rmp6QmxUbzZhSHJ5LUJTcVMyRXlxMWhtNVBwcDNpVTkxWURsOUtPa2szbG1BTU8yRXpTQ1YyU2RPamUtVnJVTXRjbFhDZmJuS1dLZnlMN2Q4SC15Yk81c01YOC1Tam5QZkl0c2h0MjBKRmx2cFQwOVZZRk9GTlgzcDZVRVF0VFBiUkZRRDJwOWtNMnM4bmtqenpnN1I5MDljSVcxLXZ1T0xYbG9rNHpneDdfeE5iUUJWNEU1b1FnZlFsZzRBcnNv?oc=5
+
+### Bundesrat: Wichtiges Signal für effizienten Pflanzenschutz - Gabot.de
+*GN Bundestag Gesetz - 28.11. 06:16*
+
+Bundesrat: Wichtiges Signal für effizienten Pflanzenschutz Gabot.de
+
+https://news.google.com/rss/articles/CBMioAFBVV95cUxOWERId1JvZ1hTdGpoTFNiZTctMGxvR3d1TzZYdktkQnJNZXFYck5mQy1td01aV1Zkd2ZYQW9XdzVmNlZfU0RGZHNIRjFONnpmVFIxN3BpMEljdmZQSVp0Uk1GX3hxcmZDc2c1WjhQN3M0bWxXTElNVnBkN3JyUV9ZTFA3V185TEhXWERmanVJZkNfemdJM2tBV2pfaERJY1pT?oc=5
+
+### Haushalt durch Bundestag beschlossen - Es bleiben Fragen offen - Proplanta
+*GN Bundestag Gesetz - 28.11. 04:54*
+
+Haushalt durch Bundestag beschlossen - Es bleiben Fragen offen Proplanta
+
+https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeDVSbjRGVlN2amFIWFRSdFYxcS1wZEw2N1YzTUJKQ2ZRZHI2MmFBQmY5YTB5bG1ZeXNVdUptQk9qYU1LbkM4ZDlHOGF6SUpvT1FRZ2ZlWkJkVFpWOTVoNkY0WENkTVNiUEVEZ2xBa2NJYU10TkFfN293eFlUSGRjclpXbkRnMnlEalR6QmczNHo5ZDB3NzFvX3ZXWkR1WUN2alFWVVlRbURDeFlqWmF1M2hZUHhuT0JmYkhFczNPWUhNVWhSQTdmTUtNNWF0YXNxakp5WDJn?oc=5
+
+### Zuckersteuer beschlossen: »Zeitenwende in der Ernährungspolitik« - Gütsel
+*GN Steuer und Arbeit - 28.11. 03:23*
+
+Zuckersteuer beschlossen: »Zeitenwende in der Ernährungspolitik« Gütsel
+
+https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE9PNTRrY0Q4ZTN1YWNLaS1SZ2tWY1Z5WnpZYnIwLVNZam1VUzE5MlpETFV4TWYzemNhM2U2R1RqY09DamZwRlJId1FMVUwyZ2czcDRMclI4LXM5MUV0SmI5OTc4M25jTkRDVHJ4ZWttb0s1ZEdpd0EyaFNCVTFFNi15amx0cmpuMGttNC1BaXgwX2pWazdBQXFDMGZmcENWNzc1TkdDcUI?oc=5
+
+### § 33 Grundbuchrecht / 1. Gesetzliches Rangverhältnis - Haufe. Intelligenz, die bewegt.
+*GN Recht Fachpresse - 27.11. 18:58*
+
+§ 33 Grundbuchrecht / 1. Gesetzliches Rangverhältnis Haufe. Intelligenz, die bewegt.
+
+https://news.google.com/rss/articles/CBMinAFBVV95cUxNZXZFZjhRSnR3dWh3QWU1aGJXaDZ0WjhqeC1WUjNocm5FbllYSUNyV1ZMa1ZXckZFUUczLWhCY0R5bnBLUUpIbnhzV0Z3aGlOVHJPMW9VUVh1Y1VLV19IaWZLZmxrX2I5ZUVFcnIzQkhmVmJMc3JDUjU3MnVpRFVhVFhHWUZINkJBLWNrRy1wXzA1bzBnTlNxenRfU2I?oc=5
+
+### Rekordhaushalt und Rekordschulden: Bundestag beschließt Etat 2027 - ZDFheute
+*GN Bundestag Gesetz - 27.11. 16:23*
+
+Rekordhaushalt und Rekordschulden: Bundestag beschließt Etat 2027 ZDFheute
+
+https://news.google.com/rss/articles/CBMioAFBVV95cUxNWEV5MWEtZUhuSXpZZ0ozSWdHRU1TZ05lMllIVklCOEpuVGZ6Y09NYURJSWltbHpOYUVPcXdZWnVKMlZINDlQR0VrcXM2VnpheVc1NHhRU3p4dlBDaHpTcVN6OGlycC1XTzBrQUxiUGEyNDRzakJHMDMwQ05iMUNrNG5FYndxQnpnZURlSmtGZU9nczJXUHBWdjk1YmcwQV9G?oc=5
+
+### Bundestag beschließt Etat 2027 - neuer Streit um Einkommensteuerreform - STERN.de
+*GN Novelle Reform - 27.11. 15:15*
+
+Bundestag beschließt Etat 2027 - neuer Streit um Einkommensteuerreform STERN.de
+
+https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGRlWVNHX2tTalljb0hTT3poNHFscy1pOERWX3QyZUZOaUlQeEpZWDBYamdMRmpWRWVJTzlwVkJTdnNSRno4dl9yMzN4MXQtcUw4WEM3Q3hVdHY5QWhVei1pU01sVWlxb2plNE1oR3hJQmxtakpudm9FNjFyaG1oVDkwS1FRYW5IUm14VFhPNi0tNDRZVmVQZDBkT2hrOFZLQTI5eG5ad215cnFYeWFGVQ?oc=5
+
+### ÜBERSICHT - Bundestag beschließt Etat 2027 - neuer Streit um Einkommensteuerreform - UNTERNEHMEN-HEUTE.de
+*GN Steuer und Arbeit - 27.11. 15:15*
+
+ÜBERSICHT - Bundestag beschließt Etat 2027 - neuer Streit um Einkommensteuerreform UNTERNEHMEN-HEUTE.de
+
+https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mQV93QjIzeGhSR09PSThfVlplTk9UTFE5WUl3dUZYeEZIMk9hQlpGU25VYlhpX0M4S0RNR2FwQUlZanVtNnlIMXdjWThLX3RjWU95NzhqZ2d1enNzNElMTUpB?oc=5
+
+### Haushalt 2027: Bundestag beschließt Haushalt für 2027 - DIE ZEIT
+*GN Bundestag Gesetz - 27.11. 15:01*
+
+Haushalt 2027: Bundestag beschließt Haushalt für 2027 DIE ZEIT
+
+https://news.google.com/rss/articles/CBMikgFBVV95cUxPQkotdU1KTThkV19aZThRak1EYTlqQm41M3VUd0tnVFl3NzJIa1lOM1hFdXlEMHR1RDBDVVdmY1BlbDBvSlUwMWc4Zzd5aE5mRmpPRmNLRTdVT09ocExETGJMSTNDZy1NMWFkd2dKZEdtdTRUR3FTV21KNzVXRWo3bkxHbDMtNXNZT1hMeFBYMTYzQQ?oc=5
 
 ### "Das Parlament": Bundeshaushalt 2027 beschlossen
 *BT heute im bundestag - 27.11. 14:36*
@@ -86,10 +184,10 @@ Umstrittener Etat - Bundestag beschließt Haushalt mit Zuckersteuer Lebensmittel
 
 https://news.google.com/rss/articles/CBMi2AFBVV95cUxObFlLOUFfTVIyVG1NbGFWamo3R2xVeUxKMFEyOUloWFBjVGZiZExYOTBySFRUWDhJZzd2ZTdSSHFTNFVXeEJfaFJpOUlERGd6TVdKUGFkSG9jTEZuTFBHTnlybDlMLXVSYnFGQURKRnpNVWVMVHlDT3F5TnFQODFGLTJ3QWZoSEJNUklEWHhaclcwRTRvOUZhem9uOGFiNk5WLTgyQnB5bzhYTFJGNGhBWGZqanhpR3pfcVBUUHZQNVI0UTNPeEdmVnVKZ1cxSFdXa21CQzNmLUQ?oc=5
 
-### Deutscher Bundestag beschließt Budget für 2027 - ORF
-*GN Bundestag Gesetz - 27.11. 14:26*
+### Deutscher Bundestag beschloss Budget für 2027 - ORF
+*GN Bundestag Gesetz - 27.11. 14:27*
 
-Deutscher Bundestag beschließt Budget für 2027 ORF
+Deutscher Bundestag beschloss Budget für 2027 ORF
 
 https://news.google.com/rss/articles/CBMiRkFVX3lxTE5LRTNvMzNESklaUnJIQXdNWFNlM21OX20xOFlOem5XZUh3bDh5VlgzS1AwNjRhT2dpYUNXMHZBVk54NjBBZ1E?oc=5
 
@@ -107,26 +205,26 @@ Reform der Einkommensteuer: SPD dringt auf Bundestags-Beschluss noch dieses Jahr
 
 https://news.google.com/rss/articles/CBMivAFBVV95cUxNQUc2dXZyMzg2M2tNYm1zS0tTbnU5a24xNmlNeDlRRkJRd3NReWZiLU9kUUhtU0RFdHN5eUkzdzRwMTNOY0M0VlAwR2w1OEt1QmRJTnl2UWVRd2lZSTU0b0NKQzB4M1ozVW9IWUtSd1JjLTJWYTYxSDJZYzNyb0tmWGxLT3UzS2F2S3Y5MTZqSm1wbjZDdDk1S3lNazNwTTMtQ1lwaUNvaTdYcklmUHJNNTNHeW5EaGZyR1R6YQ?oc=5
 
-### Bundestag hat neuen Haushalt für 2027 beschlossen - GMX
+### Bundestag hat neuen Haushalt für 2027 beschlossen - WEB.DE
 *GN Bundestag Gesetz - 27.11. 13:54*
 
-Bundestag hat neuen Haushalt für 2027 beschlossen GMX
+Bundestag hat neuen Haushalt für 2027 beschlossen WEB.DE
 
-https://news.google.com/rss/articles/CBMikgFBVV95cUxNUlFuVWV5aVM1bmlRNGZrM0VsbE1jOVVrcG1tS0pHQXBEcUtkQlg2dExQRWtOX0NMcktiT3hQdVMyQktuVG1Wb2RvNm4yTDBqVUpiVXVjcXN6dVhRcnVxWkR4dTdmczBGX1gwV1pFMHNHX05VdUhndDQwbmtJdmtzRDdST1ctZlJyTExOWV9lUG96dw?oc=5
+https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSUs0NVlmQnlHYmdIZzM2bnNVT3laS0NMRkc2ZDVZZU9oMHJCZ19QVjFvQWFjSGY4YklhZFR5R19rVU53eS1Cb2tlOFYwRlh0VHZwSDlDM0FVZWczVHNkcEc2d21SMm43aS04aHF3X0luY0JibHBTbEpnQ1dCdXVqZTYzUzJyOEs0U3dz?oc=5
 
-### Bundestag beschließt nach langem Ringen neuen Haushalt - WEB.DE
-*GN Bundestag Gesetz - 27.11. 13:54*
+### Bundestag verabschiedet Haushalt 2027 mit Stromsteuersenkung - Oldenburger Online Zeitung
+*GN Bundestag Gesetz - 27.11. 13:52*
 
-Bundestag beschließt nach langem Ringen neuen Haushalt WEB.DE
+Bundestag verabschiedet Haushalt 2027 mit Stromsteuersenkung Oldenburger Online Zeitung
 
-https://news.google.com/rss/articles/CBMingFBVV95cUxOU2dWWDFJTXJDczFPX1hCZEZEcHh5elVkRTVDTGE4d0RncVNibnFxdzNVWVgwMHNqQlc2dmhzSUZneUYzdXlxcnlOSnlrREVLb3FoanpPbHQxOUk5NlJKNktJMk9BOVJfaHl1UTFuakxLQ2xLRmcxNXdyRlVNTjV0LU1WTUdSZXFoVnQ0Q2xPTzAwb2NXMzdsYVhCSjl5Zw?oc=5
+https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYTdSdVhRbm1wd0tRQl9DUmsydWtFeGg1dHFEakYyb19rWE9lbS00M1gtUTFRREhwZ1RGNXB4bktYVG45RUdVTDZ2clRxMVNCazJlM19CRXJqUTFHTm9Sd3dnOGV6OEFKM1dmSWVLRkhRbjR0bV9scnV0NXV4X1AySXZ0Ny1RdTlWcXlyTG5fVjhWQzV6VGEtSVd4Rzdyd3k1cEVURUpNdklPMEJiRVVTdjFZQXpPeTNTalVzSjVrVFJKMUk?oc=5
 
-### Bundeshaushalt 2027: Bundestag beschließt Etat über 556 Milliarden - ad-hoc-news.de
-*GN Bundestag Gesetz - 27.11. 13:49*
+### 556 Milliarden Euro: Bundestag stimmt für neuen Haushalt - Berliner Zeitung
+*GN Bundestag Gesetz - 27.11. 13:51*
 
-Bundeshaushalt 2027: Bundestag beschließt Etat über 556 Milliarden ad-hoc-news.de
+556 Milliarden Euro: Bundestag stimmt für neuen Haushalt Berliner Zeitung
 
-https://news.google.com/rss/articles/CBMisAFBVV95cUxOQXBId1N6OGdINktNTWRUeV9KVzdycHVkOVZTTzQ2bi1wTHRseW0yU1M2N2tzREhRQzBXVWtCdTE5Wlo2R3AteWVFVDZBcVNqZElockY1S1BZdWJaOHRIMkFwNVNoMDRiZ3dGUmZTR05tdzFmbHJMX0Vaemp1bUNEYXViWl9leklsWC1Ta08wUWVpRmVSSEk4LXdiS2hiSG9heGxuNzVsQzRzeXhSUlp1Rw?oc=5
+https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOTYyMFFjYURMaTBXX3VoWFpmRUh3d3JydlhKLVZxYTlsTlB5Yi03T3hPRkZ5dXhZT2lXMTB4RFRaYU1uQ2d0SElrY1Y1ZVdWS3dKZ3Z5TW9KSkZzUEUzUGI1QnEzRTY4VE5iQ3I5UU93Y1lSYWtkWWRBREI4bWFJd1pVVWxscjMzSUtEZG04V0ZNU3Nfb2s2ejZWT0JkOW9Pa0ViMG5KbGs?oc=5
 
 ### Budget von mehr als 500 Milliarden - Bundestag stimmt über den Haushalt 2027 ab - Deutschlandfunk
 *GN Bundestag Gesetz - 27.11. 13:49*
@@ -135,19 +233,12 @@ Budget von mehr als 500 Milliarden - Bundestag stimmt über den Haushalt 2027 ab
 
 https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZXM3NHpzLVEydnF6Mjl0c3V3ZVpncXVUbS1iVHIwdGJlNkNLWXZlcXhQZG90UDMyYVB6X3FhSWJTZ2hxVmxhTjhzSGNNamttci0yRG96dDhTdnM1RW1CWDg5dmNsTG0zMUo2Tk9WR0NFcTJWaW1uQWQ1MUduQnQ5TzJWOVBROHRuWVNF?oc=5
 
-### Bundestag verabschiedet Haushalt für das Jahr 2027 - STERN.de
-*GN Bundestag Gesetz - 27.11. 13:48*
+### Termine - Bundesratspräsident Hendrik Wüst reist nach Paris - Bundesrat
+*GN Bundesrat - 27.11. 13:33*
 
-Bundestag verabschiedet Haushalt für das Jahr 2027 STERN.de
+Termine - Bundesratspräsident Hendrik Wüst reist nach Paris Bundesrat
 
-https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeXMydXY3YXR1SFJrZTVYSG93cDJqdlZvU2xaM3pBNk9mbkkySGdJb3pmeUlrYzBpYzdFNEk1b3EtRVZvMVNtZXozT3ZPRE9kZU5JNHhkOVZWZGloUkZOY3puOUI0UlE0cF9kRVFxUWYydG81NzV4WnpmZG54OU9sQTlRMDloemt1TUttSW1SXzdPcGtHX1pPbm8tR1lLOTRZc1FTalYyZC1JZw?oc=5
-
-### Rekordhaushalt: Bundestag beschließt Etat für 2027 - ZDFheute
-*GN Bundestag Gesetz - 27.11. 13:47*
-
-Rekordhaushalt: Bundestag beschließt Etat für 2027 ZDFheute
-
-https://news.google.com/rss/articles/CBMioAFBVV95cUxNWEV5MWEtZUhuSXpZZ0ozSWdHRU1TZ05lMllIVklCOEpuVGZ6Y09NYURJSWltbHpOYUVPcXdZWnVKMlZINDlQR0VrcXM2VnpheVc1NHhRU3p4dlBDaHpTcVN6OGlycC1XTzBrQUxiUGEyNDRzakJHMDMwQ05iMUNrNG5FYndxQnpnZURlSmtGZU9nczJXUHBWdjk1YmcwQV9G?oc=5
+https://news.google.com/rss/articles/CBMikgFBVV95cUxOOXZuMWI5REtoa1VGVldyaWxlNGVJamltMThiRlNjS24wSTE1dDI4UHpPUmJfaGNnRjYtWVNuOW1HcVNod2pJaDZERVM1QjB2RkFLYUprbHBNNTIxdngxcDNya3g1eTFKNFFjc3FISXFCeVZ3Ym8yaUFJSGpGY2JKcUhfX1M4SE1Sa0VVUmI1eEFhZw?oc=5
 
 ### Bundestag beschließt Ausgaben von 555,94 Milliarden Euro für 2027
 *BT Aktuelle Themen - 27.11. 11:40*
@@ -162,27 +253,6 @@ https://www.bundestag.de/dokumente/textarchiv/2026/kw48-de-haushaltsgesetz-2027-
 Ohne Aussprache hat der Bundestag am Freitag, 27. November 2026, in zweiter Beratung den Regierungsentwurf für das Haushaltsgesetz 2027 (21/7300(Dokument, öffnet ein neues Fenster), 21/7302(Dokument, öffnet ein neues Fenster), 21/7650(Dokument, öffnet ein neues Fenster)) in der vom Haushaltsausschuss geänderten Fassung (21/9002(Dokument, öffnet ein neues Fenster), 21/9008(Dokument, öffnet ein neues Fenster), 21/9032(Dokument, öffnet ein neues Fenster), 21/9060(Dokument, öffnet ein neues Fenster), 21/9061(Dokument, öffnet ein neues Fenster), 21/9062(Dokument, öffnet ein neues Fenster), 21/9063(
 
 https://www.bundestag.de/dokumente/textarchiv/2026/kw48-de-haushaltsgesetz-2027-zweite-lesung-1232354
-
-### Plastiksteuer weg, Zuckersteuer später: Das hat die Regierung beschlossen - wmn.de
-*GN Steuer und Arbeit - 27.11. 10:32*
-
-Plastiksteuer weg, Zuckersteuer später: Das hat die Regierung beschlossen wmn.de
-
-https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWjMxekNYZGRpUndHY2dmTnlSZW90WW9NbEFGOWxPX1dNemtiRG1EY1phejJNdHI0WkNCYlVPTm9YN0ZqYzNsdndKa1RVLXpWNkg4Q25jMlhYNmRwNFowdVdvUFNVSnYtNElGQ2lPcmRuMkFaRmpsem5EcFdGNjE5bHZFUWRuM1ZsVHRtb3lKQVdxTkFZZjNQdF9EV1lxbjMxT2x5bWNmblJkaUZQWVR4OWdZeGtMYmJJY2VyS1RWU1kyVlU?oc=5
-
-### Bundestag stimmt über Haushalt ab - aber nicht nur - Aachener Zeitung
-*GN Bundestag Gesetz - 27.11. 09:36*
-
-Bundestag stimmt über Haushalt ab - aber nicht nur Aachener Zeitung
-
-https://news.google.com/rss/articles/CBMipwFBVV95cUxPblhlTDE0T09IeUl2bXV2Y3I3NURsNjRaemdNMkpSY2JMODRoS2NmM2sxZ3dzd3V1Wl9CQTdUSHhtTGhYYk5pbTc1VWVUQVJyU2VVWFV1QnpfYW9Gbmowa2l3bUdoVG9SWWNLU2FaZVJidFpHMUhaTWVERVl6dElRX05QVTVPSngtRDU5amtTaVBadlc5a1c0TEJ2QWZYb1ZsUnV6U0x0SQ?oc=5
-
-### Bundestag stimmt über Haushalt ab - aber nicht nur - OSTHESSEN|NEWS
-*GN Steuer und Arbeit - 27.11. 06:04*
-
-Bundestag stimmt über Haushalt ab - aber nicht nur OSTHESSEN|NEWS
-
-https://news.google.com/rss/articles/CBMilAFBVV95cUxPOTBNeE96bGlONEdXM1pUQ2hBaUFKMWROdnl3bzBacjFpZEdQWTlXZklLM1dTS1FJeXc4WWh6Z3RpOG9pVG5LWURnWUpnS2lBSnBQem0xWXFOai0zVWdNQXBySXVJMFlHYXpPdFRVX2FaczE1NkR6WmgxcldhT2JfclN5X3kwaVY1d28wR3AyYjFQQ3BG?oc=5
 
 ### Pflegereform 2027: Wann wird entschieden? Welche Termine jetzt wichtig sind und wann die nächste Reform kommt - Allgäuer Zeitung
 *GN Novelle Reform - 27.11. 05:12*
@@ -205,19 +275,19 @@ Würzburg: Waffenverbot am Hauptbahnhof tritt in Kraft Radio Gong Würzburg
 
 https://news.google.com/rss/articles/CBMikAFBVV95cUxOMGZqTUxSZWJNWGtXRkZMckxpRXZxUzA2SjlXNUN5cEFLYk9KSG9FNTFqOGlHaVJPR2ltSTk0VVAyVG9KTjcyRHN4YVZnVmV1Q2h5eGNCdkpEQ2tWaTA3cGVESnhHb2FOMkdfbDNWWFFlWFNTY0M1djRUVVByenVfSm5pTldPSklWTHBFUUFqamY?oc=5
 
-### Pflegeversicherung: „Schwarz-Rot darf die Reform nicht im Hauruckverfahren durchs Parlament peitsche - Ärzte Zeitung
+### Gesetzesradar öffentlicher Dienst / 1.5 Betriebliche Mitbestimmung - Haufe. Intelligenz, die bewegt.
+*GN Recht Fachpresse - 27.11. 02:48*
+
+Gesetzesradar öffentlicher Dienst / 1.5 Betriebliche Mitbestimmung Haufe. Intelligenz, die bewegt.
+
+https://news.google.com/rss/articles/CBMisgFBVV95cUxNaEcxbmItRjZ3dnNBNGhIRTRERFFIVHVRTmhCeXdzNm9oV2plLTV2cnF2X0hiNTBXZFVmME9pSmF2VS00RlF5SkF6YWppMFloLUw3cWtxYjMxTzQ2V0dUTEhuZldyeVVLU0h2cldrcUJLTjJwTHF0a0hsa2RWalRabDlES2VaWnZ2SXJyWG41T2FYVFBVQ01PRFlyUTNYVVRpc3AtUU40SUFwUUQ3dEYtenV3?oc=5
+
+### Pflegeversicherung: „Schwarz-Rot darf die Reform nicht im Hauruckverfahren durchs Parlament peitsche - AerzteZeitung.de
 *GN Bundestag Gesetz - 26.11. 19:00*
 
-Pflegeversicherung: „Schwarz-Rot darf die Reform nicht im Hauruckverfahren durchs Parlament peitsche Ärzte Zeitung
+Pflegeversicherung: „Schwarz-Rot darf die Reform nicht im Hauruckverfahren durchs Parlament peitsche AerzteZeitung.de
 
 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNDRXQ0VaUVNSbzYwek9HVm9DLXZBUHRDZFBHMzF4azhfMGktSVpoU1lqeHQ2cVBGRlA0ejNBRGplYU91U3ZCOVNnOXQxM1RIY3BLRmhJRVBmWWI3SVhMVjNzY1o5LTlMSmZUMmI5ZkE0Q1Z3NGs5NU1PaHc2dnNsS3hrb0ZTWGZwOEpMOUt6Um1ZRGRyZUI5U01IdWh3TmRUNXBNcW41NmN6NW1jOWpiRzFKM2JqZHdHZ08yUTNKMlloQnRQMWQ5YnJybGRsRHp6WFZPS0p6dHRnM3UxbGl1WA?oc=5
-
-### Bundesrat beschließt Medienpaket: Verkehrsausschuss mit Mehrheit für IG-Luft - MeinBezirk.at
-*GN Bundestag Gesetz - 26.11. 17:52*
-
-Bundesrat beschließt Medienpaket: Verkehrsausschuss mit Mehrheit für IG-Luft MeinBezirk.at
-
-https://news.google.com/rss/articles/CBMimgFBVV95cUxNNjg3MjZEbzhFaDVmU095NS1iUGF2cU15NGx0ejd2WW82UE1GZG9kRGNjTzFqd0FtS2F5b29UbE9ESkFEUE56bjFIaVZmUnREeG55VUhsTmdzOTEzWVl4T1dLeDZRZnBTU0xtb3ljTHZyZnJvZUNFRkpHNnNmRl9GYXRPSmtmQ0RwNktYa0YyWlpvbW93U3lsa29n?oc=5
 
 ### Gesetz zur Weiterentwicklung der Grunderwerbsteuer - Verlag CH Beck GmbH & Co. KG
 *GN Recht Fachpresse - 26.11. 17:27*
@@ -240,6 +310,11 @@ EU-Parlament verabschiedet Reform des Arzneimittelrechts zm-online
 
 https://news.google.com/rss/articles/CBMimAFBVV95cUxOS0M0bU1XaTdMdll5QmtaQ21jOXFtTktGZUYyRDB3WVVyWFR3MWR1aTE3b3EyeWZrN21kNm1IR1ctNTJRT2c4YTdjNWlyNjZVcDF1V21ZRVQyQk5udTd3Rm5aY1NLbU9TRm1scnVUWm52TXZ2Ny1WSjIxSTFjSjFvQUp4QUNGZFNiRF9xS2tSa3ZELXJmelpZLQ?oc=5
 
+### 21/9000: Unterrichtung Bericht über die Evaluations- und Prüfaufträge zur Novelle des Berufsbildungsgesetzes 2020 Auswirkungen und Umsetzung ausgewählter Regelungen (PDF)
+*BT Drucksachen - 26.11. 11:00*
+
+https://dserver.bundestag.de/btd/21/090/2109000.pdf
+
 ### Deutscher Bundestag benennt Liegenschaften nach Rita Süssmuth und Gerd Poppe
 *BT Pressemitteilungen - 26.11. 10:12*
 
@@ -260,6 +335,20 @@ https://www.bundesregierung.de/breg-de/aktuelles/gesetzliche-neuregelungen-44280
 DFB-Bundestag am 18. Dezember: Diese Proteste drohen bei der Regionalliga-Abstimmung Frankfurter Rundschau
 
 https://news.google.com/rss/articles/CBMitwFBVV95cUxNUFdtU2pqU2l5MHV5ZlRjVGdPY2xRdkZuR1BiZlFUck80T0ItQVdTZHFUQ1FscjNSOURpblZoalhwcEg4MXZoeExFTElpcEhXMWRDTmpRSlpzc0xtNTNzckZqLVF4WmR0dTNtaUtwbGZkZFp2MGR3THhOYjU0bDhkUVhVcFdrSE1YUzBNLU1SYzBnNW1nYkd6WDZONmJ6YXJZdl9XdmtVbkxVbTVpZWoxYlcyUnEwRkk?oc=5
+
+### Bundestag gibt Haushalt 2027 grünes Licht – Streit um Einkommensteuerreform schwelt weiter - Börsen-Zeitung
+*GN Novelle Reform - 26.11. 08:00*
+
+Bundestag gibt Haushalt 2027 grünes Licht – Streit um Einkommensteuerreform schwelt weiter Börsen-Zeitung
+
+https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdWF3aXRCeGZzblJzVm1HMGdhN1hqRjFOR25Pd0N1VDFLOGxZd2laVDIwUFg4MEY1RVNNSVpCa01xWlFzZkc4dUNfbkNvUWdqSmhwd3kwUVRKU182ZVAtM1BFMkFkcmdtV3N6SVVNdzcxNHh5eDR5aC1sbHhOQkhDekQ4RnRZMTBreXhtbzNZWmZvNjU5X0xEaDJ4MkdweDBEQnBmNWE3MFB0LVI1WVZqOW1TZ0s0LWpueWk5VWZ1bnpYd1lQXzg5T3dyUURacVhWZUdxb0lB?oc=5
+
+### November-Stadtrat in Halle (Saale): Haushalt beschlossen, Bettensteuer steigt, Lange Nacht der Ausbildung kommt - Du bist Halle
+*GN Steuer und Arbeit - 26.11. 03:21*
+
+November-Stadtrat in Halle (Saale): Haushalt beschlossen, Bettensteuer steigt, Lange Nacht der Ausbildung kommt Du bist Halle
+
+https://news.google.com/rss/articles/CBMipwFBVV95cUxOMTRPSHhMMk9FUThxQ05aNFRweDI4WGJNRGVId0FreEhrRmt2VjBZVHRrQmplemJueTRMZ2Q2akVTUEdpaEJKNlJuSHZzOGJRaGI2YUZ0dFJ1VE05UHNmNmlxMTN1SVRnZDJwQ1RoUmRJNW9MYzlleXhVV3lRT3kwVmkxa19wMXl3d0NkZ0pDYi15a0pXemVZWGRWT0U2VlRaSmk0Rk56RQ?oc=5
 
 ### Prostitution: Abgeordnete fordern Reform des Prostitutionsrechts - DIE ZEIT
 *GN Novelle Reform - 26.11. 01:00*
@@ -303,34 +392,6 @@ Ukraine verabschiedet Krypto-Gesetz mit Börsenlizenzierung und Gewinnbesteuerun
 
 https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NU05UbXB5THBzWXdBcmVHRTJ1aXZGVzczZ2JyNHBZWkltbTdPR0FmZG9YbTg4aTl0UzdkR1Ixd2FlREp1WlJWdk0ySlE0Ylo1QUtVRmZBWE5uNkVZbXlLUHFhdlNGcnM?oc=5
 
-### Bundestag: Finanzausschuss stimmt Stromsteuersenkung zu - Gabot.de
-*GN Bundestag Gesetz - 25.11. 13:08*
-
-Bundestag: Finanzausschuss stimmt Stromsteuersenkung zu Gabot.de
-
-https://news.google.com/rss/articles/CBMimwFBVV95cUxQTU9lUTdYSTR6dHUwUXJ1ZkFqZGtrYndLeXFFNmVrMVNSUEdSUDFIRXo3ekVjYml1WnQwbzRfRFRfY0x1Y25HcmlLUXo5dGstMVpoc2V6X0Y2ckpSTl83cXExOU9lN0sxLVpSa090U2poTTJFNDJfbG0yMk9vRllrYlZRenpobzU4bVYzOW0yUzdWaDhYb3NBQWJRWQ?oc=5
-
-### Konzernverantwortung: Gesetz nähert sich EU-Regeln an - Blick
-*GN Bundestag Gesetz - 25.11. 13:01*
-
-Konzernverantwortung: Gesetz nähert sich EU-Regeln an Blick
-
-https://news.google.com/rss/articles/CBMilAFBVV95cUxNbzBhVldrYWE5UExoemQwTkd0WlRUaVRvdkRzSWRKejdqVW9oc2tSOU9UYWh5RnpTZkR4ZjUzYVBENTNrN1dSeVZBU1p0WVpKZXlBT1ZNTFVfZG9sdnNyNHI0N1hVLVUxay01WWdJTjFoSWRvdnF3OHZjZVpBcXVTbFl2TVBKMTZOSTlLczFpM2JLTENZ?oc=5
-
-### Bundesrat stimmt neuen Befugnissen zur Cyberabwehr zu - Security-Insider
-*GN Bundestag Gesetz - 25.11. 13:00*
-
-Bundesrat stimmt neuen Befugnissen zur Cyberabwehr zu Security-Insider
-
-https://news.google.com/rss/articles/CBMivAFBVV95cUxQY3REX25FTEJxd1lvaEJHdzk0TVFzSllZVks5Tl8zcy1GbFpSUzVtTnVGYTRJMUUteUtkdkozcVQwUjRmVEY4TkswTEZuQ09lS252NEpVRHgzNnQyZ2g2YTBFOWEwY2V4ajU4RFA3VTNlMTJqUm5hS3c1alg2OHI3SC1RZldwWThpNGpXQXRJRHpCd3hRZ3BBZFUySE8tckZhUDhRYnAyQ0tsenNLU0djNjhHYTdzYUR3RXlKeA?oc=5
-
-### Pflegegeld für Kinder im Krankenhaus: Bundesrat fordert Zahlung auch nach acht Wochen - Gegen Hartz IV
-*GN Bundestag Gesetz - 25.11. 11:48*
-
-Pflegegeld für Kinder im Krankenhaus: Bundesrat fordert Zahlung auch nach acht Wochen Gegen Hartz IV
-
-https://news.google.com/rss/articles/CBMiuAFBVV95cUxQelZmSHVUbWxlZ0VhWDNvVkhhazRzdUhCQlVueFhOTVZKeGdnUnNwR2hTMGVWZVJTOUh3VGZ6eHdEaTZING5uaU9xN2V2RkpXUndEX2ZVR3VCRTJ6RVVJZlE1cW5oZ0dKaVNzc09yekc3TlNkVFZQbXR0RXBaLWxPZ1dqVHpZR2NCQU55b0FFclRWUnBpSDVVY0VMaGNvTm5zaVA1RHZjb0VKTnpMbHplMjgwZmVscWcx?oc=5
-
 ### 21/9405: Beschlussempfehlung und Bericht zu dem Gesetzentwurf der Abgeordneten Karl Bär, Dr. Zoe Mayer, Dr. Ophelia Nick, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN - Drucksache 21/5481 - Entwurf eines Gesetzes zur Änderung des Pflanzenschutzgesetzes (PDF)
 *BT Drucksachen - 25.11. 11:00*
 
@@ -341,89 +402,12 @@ https://dserver.bundestag.de/btd/21/094/2109405.pdf
 
 https://dserver.bundestag.de/btd/21/094/2109404.pdf
 
-### Prostituiertenschutzgesetz-Reform: Bundesregierung will Expertenvorschläge zügig umsetzen - Bad Honnef heute
-*GN Novelle Reform - 25.11. 10:50*
-
-Prostituiertenschutzgesetz-Reform: Bundesregierung will Expertenvorschläge zügig umsetzen Bad Honnef heute
-
-https://news.google.com/rss/articles/CBMitgFBVV95cUxOQmRuMm9xWGw4eVI0ZHR3WndZVklWYUdNa2VQMGJaQ3NGbTNtZ0tsY3BCUXpYc0VocWszMk5KTzlOV3ByeG9lVUZhZFVCUUlRa0FlM2lJbUhKQjlzYkpZNW1iekRQZmJCclplZWZKY1JBNG4xZ1I5amJiUFhEOFVWTi1XMUZseVhlT1FwWktOeXMyaGVxNmNjT29BQzlJZS01TnZiZVZWenZDOVJIa3c1NDJucDhGQQ?oc=5
-
-### Prostituiertenschutzgesetz: Bundesregierung plant schnelle Reform - ad-hoc-news.de
-*GN Novelle Reform - 25.11. 10:47*
-
-Prostituiertenschutzgesetz: Bundesregierung plant schnelle Reform ad-hoc-news.de
-
-https://news.google.com/rss/articles/CBMirAFBVV95cUxNam0xWGpFUVJma0dQV3RlS29BTVVjQjRnX2Q3YXg1b2pUQzR0VU53TXlMMl84cGFZTHRtUnhkc3hOcU8tcUZMVnZOSlg5YzZNMEpRV0R0X3hMNXJtT1VqU1V4TXNQbzBaRE45aDdyd1FVMW9ORkhxNkt3d1hsVE5raUIyeUJNd0lObzlsZlhGMEhiYjJYNEdZLXpUSDg4cndQUkNyUlN3R1hTM1Zh?oc=5
-
-### Bundestag beschließt umfassende Erweiterung der Zollbefugnisse - NTG24
-*GN Bundestag Gesetz - 25.11. 10:18*
-
-Bundestag beschließt umfassende Erweiterung der Zollbefugnisse NTG24
-
-https://news.google.com/rss/articles/CBMiZkFVX3lxTE92Qlg0WUJydm91TDllRUFiVjJ4bFdMYTJGU3p4U2cxRVR0UGNPRk5qaUhYcnBaQWZTeFNiZmpUVmE3VlEyWEc0cG1zY0V3azlXZTlsUHBKSVVpQzk4OHphdC1scUpCZw?oc=5
-
-### BGH klärt Rechtsfrage zur Doppelmitgliedschaft in RAK - Legal Tribune Online
-*GN Recht Fachpresse - 25.11. 10:00*
-
-BGH klärt Rechtsfrage zur Doppelmitgliedschaft in RAK Legal Tribune Online
-
-https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjU1ZkdDYnVMVGJhdHo4QXBnRXpMUng5bHlWY0FHOXFxdmljUlFuYVYzQjBvVDdXb19hNnhaemFZY3I4VGMzQmQzclNXSXBtc19TR0dTWG9IWWtiX1B5eGptdXQxUmhCbnl0ZWUtcXN5V1pWMVg0eFExRUZBaVBOTUNzZGdrci1nYU5xbll5cEk1RUtLQlUwQ0JRNTQwRGJqTzhzZ1dxQnJzbWlSd25iX1c2NW1WRGY0X2s3clpvWi1KZTJRdERBNWw1Z0hYd0pwd2c?oc=5
-
-### Tönnies aus Rheda-Wiedenbrück äußert sich zu Gesetz für Videoüberwachung in Schlachthöfen - Neue Westfälische
-*GN Bundestag Gesetz - 25.11. 09:02*
-
-Tönnies aus Rheda-Wiedenbrück äußert sich zu Gesetz für Videoüberwachung in Schlachthöfen Neue Westfälische
-
-https://news.google.com/rss/articles/CBMi_wFBVV95cUxQY3N3Q0hpMXIyWFVhT0NEOGUxdk1iaGxUUGNxNDdNdm1tYjdBbUVsaEZNb1F5c0dMS1NoUGtXbkJUeW9wWmllRGFwYzcxMnhHTHczV3Q0M3VkVEJWS0xHRFhjSjduQWI1Q1Vvd2dXMjBPc0JFY3lGejE0R2szZnlLNzV2eVFjc1QxanlPVkoxWUY4LWtTREVDSDFKY1FMYnZaT2E2R3VZemd1RHVfRlg3WmFQd0xiUDBSRG9JdUpJZUZGQU1NZkJRY3Y5bTRIeWJiWk9seGVYQUtFZ0NxRU5NYlhPQ2IzZVFKMC11U19uS3hWMGJxTUZzQXhWRkN4RHc?oc=5
-
-### KI-Verordnung | Gestaltung der digitalen Zukunft Europas - Shaping Europe’s digital future
-*GN EU-Verordnung - 25.11. 08:00*
-
-KI-Verordnung | Gestaltung der digitalen Zukunft Europas Shaping Europe’s digital future
-
-https://news.google.com/rss/articles/CBMifkFVX3lxTE9BOWZWc18waG82Tmh3eTNtWlNldTdvZUNCX01BNU0yODJIbzUzM1ExcjNrenZRVDVIbEd6R2VPZEVzQWhERDN2OUpjVUZuRnNHbU1LbTRxOWplQWMtZ3ozdUZTOEFPVWtSRTVHSmFuREhKUUVUQWMtTkRYTE5UUQ?oc=5
-
-### Kündigung schon beschlossen, nach der Beschwerde vorgezogen: Warum auch der Zeitpunkt zählt - Anwalt.de
-*GN Steuer und Arbeit - 25.11. 06:36*
-
-Kündigung schon beschlossen, nach der Beschwerde vorgezogen: Warum auch der Zeitpunkt zählt Anwalt.de
-
-https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdzFIcTVuUEdjelZYR2JWd3p5Z1BhWVZwVmxnQlA3SnJDSGRVZm5hcmRYTVZ4RWxJT0xnNV94RWV2ZW1TbjJZMkhHRjBUTTBlSnl0V1JhdXl2UklycHRMa0l4OTdWQkFMOTJ5dTFLeXVJMUkxVG1uUWY1c2RqV1ZOYXpubnBGUkNBX3hhYlJBN0tsUnU4d1lXaXJ4dzJmVmhhY010em52UmpUR2w4bnYtd21HcHdMUHNKVU43a3ljUWtJLUpsd1U1UW54b0pZejNXV3ZB?oc=5
-
 ### TA Luft: Bundesrat stimmt zehn neuen Anleitungen für Industrieanlagen zu - ad-hoc-news.de
 *GN Bundesgesetzblatt - 25.11. 01:44*
 
 TA Luft: Bundesrat stimmt zehn neuen Anleitungen für Industrieanlagen zu ad-hoc-news.de
 
 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY2U3dWZ6bGJOVzY1R2sweEdZNEpfc3paa09jZ2xvU056bXF6aGdNTlgtV2FnX0JZRmJxcnlZNEFlOHFMdlZYaWxLNmxwQW1zaUJUZ24xZjRVUDFpRmoyRmtMMUd5Y3JMWlNTQ2VaV0E2MWtveWlIZTVwVzFEcHZTc0hsYl9uVE85cFJJSzl1bnI3Zlg0S25SVVc4SDhmU0hTTm1LSkltSlpoSEhYYjM3LVZmNjFQT2Rac3Vv?oc=5
-
-### Änderungen 2027: Neue Gesetze und Pflichten im Überblick - Deutsche Handwerks Zeitung
-*GN tritt in Kraft - 24.11. 23:00*
-
-Änderungen 2027: Neue Gesetze und Pflichten im Überblick Deutsche Handwerks Zeitung
-
-https://news.google.com/rss/articles/CBMiqwFBVV95cUxONHFzUmQzVnB2S0hHTjktdzZPTVBSWkNuaXA5Q255cGhjbXdjTmswMUxmVWcwempGWDU4aTQ5Q0NMcEd2d0tMaW5YME4yYjJpNFluMjl2eEJ6TXRhMk54bHAtaFdmakR2Q3ZoR1VmaFhPVVhHZWxXVUY0b1NOQnlsaUVtUXp1aUY0SlpDMW9GR0g3WmlLbElRSGNic3BIdEM4MjRWVGN2ZmRwR28?oc=5
-
-### Haushaltwoche im Bundestag: Rund 210 Milliarden Euro neue Schulden geplant - WirtschaftsWoche
-*GN Bundestag Gesetz - 24.11. 19:27*
-
-Haushaltwoche im Bundestag: Rund 210 Milliarden Euro neue Schulden geplant WirtschaftsWoche
-
-https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ3RwVU9EU3RfSmhndTh4VnIxYXZzVUxUM1kyNV9hUnhiOUo1bDJVdG5ZQXZxLXNoMWhIN2VCb0h0M3N3dExLMmRGNzlLZkEwVlJSVlNZWlZabGJCSnA5YUFWUWtqeFFITmZkYWdMY3J5M2pQeVA1c2EtRGlVQUFJMFdUdklHNnhrVmdtUVZ3THZCSkRsTjJ2a19QWEpVWC1DU1F5VnZwZmFSQ0xENDFNSldiWTZ2SkFTWHlGNzdxUlQ1NWlMNVRv?oc=5
-
-### BILDTERMINE: Weihnachtsschmuck aus ganz Deutschland für den Bundestag
-*BT Pressemitteilungen - 24.11. 08:03*
-
-Der Deutsche Bundestag erhält auch in diesem Jahr wieder besonderen Weihnachtsschmuck aus ganz Deutschland: Mittwoch, 25. November 2026 um 11.00 Uhr Paul-Löbe-Haus, westseitige Fensterfront der Halle Der Naturpark Dahme-Heideseen – stellvertretend für alle Nationalen Naturlandschaften – übergibt einen Weihnachtsbaum an Vizepräsidentin Josephine Ortleb. Donnerstag, 26. November 2026 um 10.00 Uhr Reichstagsgebäude, Plenarsaalebene vor der Abgeordnetenlobby Der Adventskranz des Evangelischen Werks für Diakonie und Entwicklung e.V. – der sogenannte Wichernkranz – wird an Vizepräsident Bodo Ramelow
-
-https://www.bundestag.de/presse/pressemitteilungen/2026/pm-261124-weihnachtsschmuck-1237776
-
-### Textarchiv - Ungebrochene Solidarität mit der Ukraine - Bundesrat
-*GN Bundesrat - 24.11. 07:53*
-
-Textarchiv - Ungebrochene Solidarität mit der Ukraine Bundesrat
-
-https://news.google.com/rss/articles/CBMikAFBVV95cUxPTmRsR0NZTngtMnNnX01lY3RWNF9ZRXNXTkZST1JZUndZazY0VHJ2S3pKc0tNR1lwVEhINHNnQVFyRWUwc2sxYmEyZkdLS2hPaFhLRHVnT1lwVDZaMlVOdUJCajVSMWl4ay01QjFGaGNyLW9BamljZXQxUlBSNkpWZEZUYktfeG9kUE5SSDJIMTk?oc=5
 
 ### Etat im Zeichen von Wohlstand und Sicherheit
 *BReg Artikel - 27.11. 11:45*
@@ -537,20 +521,8 @@ Deutschland stehe vor großen Herausforderungen, betonte Bundeskanzler Merz in s
 
 https://www.bundesregierung.de/breg-de/aktuelles/haushalt-2027-bundeskanzler-2462540
 
-### Schutz der kritischen Infrastruktur wird verstärkt
-*BReg Artikel - 24.11. 06:37*
-
-Durch die anhaltende Bedrohungslage in Deutschland ist auch die Gefahr von Sabotagehandlungen gestiegen. Das Bundeskabinett hat zwei Verordnungen beschlossen, um unsere kritische Infrastruktur besser zu schützen.
-
-https://www.bundesregierung.de/breg-de/aktuelles/aenderungen-suefv-2458814
-
 
 ## EU-Recht
-
-### CELEX:32026R2534: Regulation (EU) 2026/2534 of the European Parliament and of the Council of 21 October 2026 amending Regulation (EU) 2017/2107 laying down management, conservation and control measures applicable in the Convention area of the International Commission for the Conservation of Atlantic Tunas (ICCAT), Regulation (EU) 2018/975 laying down management, conservation and control measures applicable in the South Pacific Regional Fisheries Management Organisation (SPRFMO) Convention Area, Regulation (EU) 2019/833 laying down conservation and enforcement measures applicable in the Regulatory Area of the Northwest Atlantic Fisheries Organisation, Regulation (EU) 2021/56 laying down management, conservation and control measures applicable in the Inter-American Tropical Tuna Convention, Regulation (EU) 2022/2056 laying down conservation and management measures applicable in the Western and Central Pacific Fisheries Convention Area, Regulation (EU) 2022/2343 laying down management, conservation and control measures applicable in the Indian Ocean Tuna Commission (IOTC) Area of Competence, and Regulation (EU) 2023/2053 establishing a multiannual management plan for bluefin tuna in the eastern Atlantic and the Mediterranean
-*EUR-Lex Amtsblatt L - 26.11. 23:00*
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2534
 
 ### CELEX:32024D2840R(01)
 *EUR-Lex Amtsblatt L - 26.11. 23:00*
@@ -572,6 +544,11 @@ https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2296R(01)
 The corrigendum does not concern the English version.
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024D1455R(01)
+
+### CELEX:32026R2534: Regulation (EU) 2026/2534 of the European Parliament and of the Council of 21 October 2026 amending Regulation (EU) 2017/2107 laying down management, conservation and control measures applicable in the Convention area of the International Commission for the Conservation of Atlantic Tunas (ICCAT), Regulation (EU) 2018/975 laying down management, conservation and control measures applicable in the South Pacific Regional Fisheries Management Organisation (SPRFMO) Convention Area, Regulation (EU) 2019/833 laying down conservation and enforcement measures applicable in the Regulatory Area of the Northwest Atlantic Fisheries Organisation, Regulation (EU) 2021/56 laying down management, conservation and control measures applicable in the Inter-American Tropical Tuna Convention, Regulation (EU) 2022/2056 laying down conservation and management measures applicable in the Western and Central Pacific Fisheries Convention Area, Regulation (EU) 2022/2343 laying down management, conservation and control measures applicable in the Indian Ocean Tuna Commission (IOTC) Area of Competence, and Regulation (EU) 2023/2053 establishing a multiannual management plan for bluefin tuna in the eastern Atlantic and the Mediterranean
+*EUR-Lex Amtsblatt L - 26.11. 23:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2534
 
 ### CELEX:32026D2611: Commission Implementing Decision (EU) 2026/2611 of 26 November 2026 amending Implementing Decision (EU) 2024/2944 as regards harmonised standards for domestic cooking appliances burning gas and automatic shut-off valves for gas burners and gas appliances, drafted in support of Regulation (EU) 2016/426 of the European Parliament and of the Council
 *EUR-Lex Amtsblatt L - 26.11. 23:00*
@@ -605,17 +582,17 @@ The corrigendum does not concern the English version.
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32023R0956R(05)
 
-### CELEX:32026L2610: Directive (EU) 2026/2610 of the European Parliament and of the Council of 25 November 2026 amending Directive 1999/62/EC as regards the variation of charges for heavy-duty vehicles based on their CO2 emissions and to clarify and simplify certain provisions (Text with EEA relevance)
-*EUR-Lex Amtsblatt L - 26.11. 23:00*
-
-https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026L2610
-
 ### CELEX:32024L0782R(01)
 *EUR-Lex Amtsblatt L - 26.11. 23:00*
 
 The corrigendum does not concern the English version.
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024L0782R(01)
+
+### CELEX:32026L2610: Directive (EU) 2026/2610 of the European Parliament and of the Council of 25 November 2026 amending Directive 1999/62/EC as regards the variation of charges for heavy-duty vehicles based on their CO2 emissions and to clarify and simplify certain provisions (Text with EEA relevance)
+*EUR-Lex Amtsblatt L - 26.11. 23:00*
+
+https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026L2610
 
 ### Speech by Commissioner Hoekstra in the European Parliament's Plenary debate on the Outcome of the Antalya UN climate summit (COP 31)
 *EU-Kommission - 26.11. 10:23*
@@ -686,13 +663,6 @@ https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2637
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2636
 
-### Speech by Commissioner Lahbib at the European Parliament on Combating Gender-Based Violence in the Age of Digital Technology
-*EU-Kommission - 25.11. 16:18*
-
-European Commission Speech Strasbourg, 25 Nov 2026 Digital technologies are transforming every part of our lives. They are changing how we work, communicate and participate in public life. But while this digital...
-
-https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2590
-
 ### CELEX:32026R2628: Commission Implementing Regulation (EU) 2026/2628 of 22 November 2026 on the approval of an amendment to the product specification of the traditional speciality guaranteed Rögös túró
 *EUR-Lex Amtsblatt L - 24.11. 23:00*
 
@@ -719,6 +689,13 @@ https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2612
 *EUR-Lex Amtsblatt L - 24.11. 23:00*
 
 https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2623
+
+### Kommission bereitet vorübergehende Flexibilität für Plug-in-Hybrid-Elektrofahrzeuge vor
+*EU-Kommission - 27.11. 23:00*
+
+European Commission Pressemitteilung Brussels, 28 Nov 2026 Die Europäische Kommission konsultiert heute den Technischen Ausschuss für Kraftfahrzeuge (TCMV), der sich aus Vertretern der Mitgliedstaaten zusammensetzt, zu Änderungen der Typgenehmigungsvorschriften (Euro 6 und Euro 7), um die geplante Aktualisierung der „Utility Factors“ für bestimmte Plug-in-Hybrid-Elektrofahrzeuge (PHEV) auf das Niveau von 2025 auf den 1. Januar 2030 zu verschieben.
+
+https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2604
 
 ### Keynote speech by Commissioner Albuquerque at the Training Day' of the 10th Anniversary of the ECB Simulation Conference for University Students
 *EU-Kommission - 27.11. 12:48*
@@ -779,6 +756,27 @@ https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2591
 
 ## Steuern und Abgaben
 
+### Jahressteuergesetz 2026 / 7.3 Steuergeheimnis (§ 30 Abs. 6 AO) - Haufe. Intelligenz, die bewegt.
+*GN Recht Fachpresse - 28.11. 09:31*
+
+Jahressteuergesetz 2026 / 7.3 Steuergeheimnis (§ 30 Abs. 6 AO) Haufe. Intelligenz, die bewegt.
+
+https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlRUc2hKYzlvMWEzakhYTEJfTll6UDVoSXMwUE1oSklLRGhZVk9jU28ybzR1X2JhSWtTYjRUeENZdlBLcVo5YTY2d0MwU0J0TEpsd0RJUFhwOFRnU1dWRzRzeGNqMUJfUWY3d2RaejQwb0lxWkl3U1FwSFNJRlpFOXlNUEdvcTZuWXdVa2xDQ2htY0loelhfU1p5YXBYa1ktTjVwZw?oc=5
+
+### Schweitzer startet mit Rentenreform in Berlin: Das plant der neue Arbeitsminister - SWR
+*GN Bundestag Gesetz - 28.11. 04:05*
+
+Schweitzer startet mit Rentenreform in Berlin: Das plant der neue Arbeitsminister SWR
+
+https://news.google.com/rss/articles/CBMingFBVV95cUxNT09vbmMzTXBkanpNbFQwemMyaUdtYUZFMTBUaGNQZ2ExMXpHMkZWWEh1R05FeE1OMldPZGdjdTBwZjFkSy0tYm5qbjJJMnBmNGdfNFlXU2E2M2x2eHR6UEJvNF9nV3Z5NWlfWlFLaHBMTk84VVFXZlVnT3ZqMzl0WEREeWM4ZnVLS0FhTmtFa3FYU0Zidlg5Q3BKTm5EQQ?oc=5
+
+### Rente mit 63: Schweitzer will abschlagsfreie Frührente einschränken - FAZ
+*GN Bundestag Gesetz - 27.11. 16:23*
+
+Rente mit 63: Schweitzer will abschlagsfreie Frührente einschränken FAZ
+
+https://news.google.com/rss/articles/CBMivwFBVV95cUxQdkpmeXd2ak9rcXJjUFZKZ0hFd3Y3RDFaUFhJU1k4bXdLWTFGUThGSU9uT2MzYWJhak84M1hzNkxJbWdBa2dBaWc3X2s3SUhlQ25IU2w0VTNxYWducWFfel9IZlp1UkdtSFB0NUdZa3Mzckh2YS1QMEJONklMaEJ5WlRZRGdtX1hWNV9vMVdpYnU3ejNjTGxUWmYxVWVFVmI4cVpRTG9Gd3N6empLOHpHek5tNEN6R2ZleGU4UUltRQ?oc=5
+
 ### Rentenreform: Schweitzer begrenzt Rente nach 45 Beitragsjahren - ad-hoc-news.de
 *GN Novelle Reform - 27.11. 14:41*
 
@@ -793,12 +791,19 @@ Steuerreform: Was steht im Januar auf dem Lohnzettel? Lausitzer Rundschau
 
 https://news.google.com/rss/articles/CBMirwFBVV95cUxNeDgtbndIeHA4aGRPMnBhWTBHYnUtVWNyUlFpZnVLRjdMUklmTTltV095c3hlTm9qblQ4U1hVVHF1QzZTRWJ4TnFHMXZEM3RMNm42UEwxaWtPcWo5Sk1haFc5TXVrTHBtZWdaeTRscVNOY3FId2FVWThSRUwxNjJ0SlFGampfeV9vV2NwRGl2UVZHSnVnRWlEcUFNb2VlNmxteU1tYnVNbFlmRHJscWdr?oc=5
 
-### Bundeshaushalt 2027: Diese vier Grafiken zeigen, wohin Ihr Steuergeld fließt - Spiegel
+### Bundeshaushalt 2027: Diese Grafiken zeigen, wohin Ihr Steuergeld fließt - Spiegel
 *GN Steuer und Arbeit - 27.11. 14:07*
 
-Bundeshaushalt 2027: Diese vier Grafiken zeigen, wohin Ihr Steuergeld fließt Spiegel
+Bundeshaushalt 2027: Diese Grafiken zeigen, wohin Ihr Steuergeld fließt Spiegel
 
 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN1NNMm5CbThFTWR2dkpnLVp3Q3NYUklObWhvYjNSYWo3cFJ5M2JQZlRQbUk3b1JqelZ6aWVMemNzeFNJaGtVNTlQakUxbnNzR3Y5UkFvMXZtVFhiNm80a3pLV21MVWVlT3NVa1RaUUVyTHRQRHk5R3BfT09sMXVaSkJDSjA3QkFCM281cXpjQ0VwaWZialQyNkd4V1JMS3Y3UGJDWldrME5JNlY3M1R4YTY1ZkZQMVQ3ZnFsVWJLRng3b2Q2anFvcFhHR1dxZUN4SDNtek5sYjJhQkRBd0ZvM0NaTDRGRmQ4MVFFeA?oc=5
+
+### Rentenreform im Überblick: Was die Rentenpläne für die Bürger bedeuten - Politik - SZ.de - SZ.de
+*GN Novelle Reform - 27.11. 14:00*
+
+Rentenreform im Überblick: Was die Rentenpläne für die Bürger bedeuten - Politik - SZ.de SZ.de
+
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxQellLaHU2VjZGMzBBc2Q5dmZfaGY2bHpxWldzcUhxcWNsalhwVU9xRzZTdnBmNTdCOGNRNUZzSVlrSkpRQjZ2enRrNk5SVUhaQ1hnaHpWWDdtMVZtQ0ZjNXFtYnhuT05wVkxuTmwyRzhQNlZmSzhNaFBGQkZVOFlxXzNEazVQaTZ2azNzZ2ozOU1aZjFLQzdTeTZsY3MwMHp1T0pYb1VHN19Ndw?oc=5
 
 ### Steuerstreit: Union macht der SPD ein Angebot – doch die Reichensteuer bleibt umkämpft - Joyn
 *GN Steuer und Arbeit - 27.11. 10:22*
@@ -820,6 +825,20 @@ https://news.google.com/rss/articles/CBMingFBVV95cUxPMnBERGg1TlBLZ25LRHRZQ0Z3WVN
 Vorab-Meldung zu einem Interview in der nächsten Ausgabe der Wochenzeitung „Das Parlament" (Erscheinungstag: 28. November 2026) -- bei Nennung der Quelle frei zur sofortigen Veröffentlichung -- Der CDU-Haushalts- und Finanzpolitiker Olav Gutting will sofort nach den Haushaltsberatungen wieder mit Konsolidierungsmaßnahmen beginnen. „Ich gehöre zu denen, die sagen, gespart werden muss ab sofort“, sagte Gutting in einem Interview mit der Wochenzeitung „Das Parlament“ zum Haushalt 2027. Dass knapp ein Drittel der Ausgaben nicht durch Einnahmen gedeckt sei, könne in einer singulären Ausnahmesituati
 
 https://www.bundestag.de/presse/pressemitteilungen/2026/pm-261126-vorab-gutting-1238476
+
+### Grundsicherung im Alter und bei Erwerbsminderung / 3 Lebensunterhalt - Haufe. Intelligenz, die bewegt.
+*GN Recht Fachpresse - 27.11. 01:27*
+
+Grundsicherung im Alter und bei Erwerbsminderung / 3 Lebensunterhalt Haufe. Intelligenz, die bewegt.
+
+https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc1A1RXJnUzNWUklTTlpuLURGdlEyQ1lPa1lTTEJZOGQ5UHJyUmxxUncwWUtMdk1XdGxycmQ3WGpJTXNQSEMtSGVLdXRKcGFDcnd2MElhWFB6UTZmZURhZW1xSXMwdGNVMnJhSmp5V05zdVRMbGdCR0NMbnM4SFdnZzM2OG9nUExtQUZHenFwMzc1NjVpUE9meDlIbVZteTM5SzQxY2k4S1VqaGhkSGhfTUVKNFdjTFdGd3BHLUlNZTM?oc=5
+
+### Steuerberatungsgesetz / §§ 49 - 55h Dritter Unterabschnitt Berufsausübungsgesellschaften - Haufe. Intelligenz, die bewegt.
+*GN Recht Fachpresse - 26.11. 19:42*
+
+Steuerberatungsgesetz / §§ 49 - 55h Dritter Unterabschnitt Berufsausübungsgesellschaften Haufe. Intelligenz, die bewegt.
+
+https://news.google.com/rss/articles/CBMixgFBVV95cUxNT00tTmh4MmJpUUZ4dkVwekxwS2hfaTNBdTYxelJGSnM2dkdJVllZQmtTd3MtcjV5bFhRekJrYjMzenB3RGhPZXlzUlJ2ejhzWndEU29PQmhUaUNaYTdPWlpIcUd3LWVja1lfUGxtZEVvMU1ZQ0NCX3VHM3I3eVo2QkFLNkMxV1hYQm0za1I3cTU3bFY3dmUzcFM5TXl4dUlLV21pRjJHV1YwNzZUc1Q5YjQxLWNyNHM1dE5oUHZZTzRzeFY4cmc?oc=5
 
 ### Millionen Bürger betroffen: Papier-Steuererklärung vor dem Aus - CHIP
 *GN Steuer und Arbeit - 26.11. 18:40*
@@ -849,20 +868,6 @@ Doch kein Aus für steuerfreie Kryptogewinne? Das ist der neue Zeitplan Börse O
 
 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQak1BTXdyZWVlV0xaZTBwSHVBVWYxdkhyR3pDRWhFaUktaFJ2QUJKSy00UEFSajlXbUFhMjFSdmdkVUxYYmNLemE5YzlsN3E1MENtR3RtbkkzWXNFMF83NTFaOHE5NXVEUGxidzI0a2h6Z0hMV3VkbDBqZkdJM05NQTlaUzBGcVluVjRPcE9UYVpsQ19FREV3dmMtSHNjMzJzZmJiZ3J1VXVNVU4tYk9TQTJfSjFIaUJXdzhSNlF0ZXJ0V0ZlbmlXclAzLUtDUUM0SVdzdW1OeFk?oc=5
 
-### FDP will Steuerprivilegien für politische Hilfswerke streichen - St. Galler Tagblatt
-*GN Steuer und Arbeit - 26.11. 04:00*
-
-FDP will Steuerprivilegien für politische Hilfswerke streichen St. Galler Tagblatt
-
-https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRS1FTnhFazhwbGJER1MyMUNMVWxrSkV6Ykg1Nm1sOFRpWU91V3Z1RktRcWdUZkNYTGdmZ04xdzg3M2FKQV90c1NaWU1kMGFNdVdxYURxXzlOc0xSUy1IUUthdlhaZ0w4M1ZuZTJycTJpLWVlQXNWSHd3UnRUaW5ONUNtZUR0aG9HcmJpTTZkX1lYaDlDYnZPZjdPdkxfSE92eXZHNTBMRjlJQQ?oc=5
-
-### Neuerungen 2027: Mehr Geld für Rentner, höhere Steuerabzüge - K-Tipp
-*GN Steuer und Arbeit - 26.11. 02:47*
-
-Neuerungen 2027: Mehr Geld für Rentner, höhere Steuerabzüge K-Tipp
-
-https://news.google.com/rss/articles/CBMikAFBVV95cUxOcTVNRVZ5cDFmdGR0NWt6RHlZZGxualNoM0NHcWlhLW5RNmVGZmlLRElxVFBXdkhrdVhNYW9GMWhPbHRRTzh5Y0dkcmFFa2dYYVBhVGRjTWdnSzZCNENnaUV3V0hiVm9FMG0yT2hKM0NybkdCUXByZmR6V2RUZmxnWW54RnFSNE5uSTlkMXd6UlM?oc=5
-
 ### Steuer- und Arbeitsmarktreform: Union will Steuerreform erst 2027 beschließen – und auch nur bei SPD-Gegenleistung - RP Online
 *GN Steuer und Arbeit - 25.11. 20:30*
 
@@ -884,29 +889,15 @@ Trotz Nachbesserungen: BWS fordert Stopp der Steuermaßnahmen Spirituosen-Journa
 
 https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEdEdkI0U1JFbmE2VXB2V0hmVWlaTTNRZ3MzTFh6eDJDcEVvM1hiMUZDT2NrS1YzeFF3Rl9uVGt0NDc2aE5EMEJHY2t4QkZfMWVPb3lqRE9WREl0Wl9tMVdEamFRbDMzODdxdkxPQWk5aFgwMWV1RGtCeHZYXzMyZjhRdVY4NFhaUHotOWZ4UnVYR3lmN2dkTUVacDRud3hSc2FyMDNR?oc=5
 
-### Generaldebatte: Friedrich Merz fordert baldige Umsetzung der Rentenreform - DIE ZEIT
-*GN Novelle Reform - 25.11. 09:58*
-
-Generaldebatte: Friedrich Merz fordert baldige Umsetzung der Rentenreform DIE ZEIT
-
-https://news.google.com/rss/articles/CBMisgFBVV95cUxQRmR0WFZwLUlLbmpGNWMybTd0ZEdkNjhQT1pNY3g0allQTmVaejVYWWJGUUlEWlV6Yl9KNHNKaURrWnI2M1JGMG5qREdDd1pISWFmS1pnN3U4Nmx1aXZpeFlpNF9iQTl1TU5zZ2gwc0JXczMwWTB6Zy1wUEVjR2oxVkJDRXVnNmJXbllkMy1BUGJaTlpWdTlXZUN2TF9ZcDB1QlFEX1FkZjlCV1Rxa296UTJR?oc=5
-
-### 700 Bürger wollen zu Gemeindeversammlung – Steuererhöhung verhindert - blue News
-*GN Steuer und Arbeit - 24.11. 21:15*
-
-700 Bürger wollen zu Gemeindeversammlung – Steuererhöhung verhindert blue News
-
-https://news.google.com/rss/articles/CBMiugFBVV95cUxQQURuNXdFLTBMRUszSEotZ1B0UlBsbGt5NHdpbVFrS2xUdFNfVFF5bjA2Q3h0ZGdxWjlKRV9VMzBXUFk0aEI3UjYxTm5td2NuR2lmV2dYU1dTU0ExY3BLMExYWmpCczdFZ0ZTQ0RZaUJzODJ2bnRRYjNtTG15b0t1bEVrbjFvaUFoQVJxUTZkdUFnWkdReFoxa2NUaTdqM09KWGZTa25wMG03T3ZSb0xSMGNmdk1TeDVSVVE?oc=5
-
-### Rente: Neues Verbot der Merz-Regierung – es trifft zahlreiche Empfänger ab Januar - futurezone.de
-*GN Bundesgesetzblatt - 24.11. 06:28*
-
-Rente: Neues Verbot der Merz-Regierung – es trifft zahlreiche Empfänger ab Januar futurezone.de
-
-https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbUVBSUVUZzVWUFdzdUFyM0UxUTFVa2dBQnFwNEREUDYyS0ZqNThDVlBiTC1pR3c0OUFHbUlGM3FTeVdoNVZUZnh5c0M0UGhGeG9Mc21PSEhNaHVqQ3hQZWZwdld6bFUySmtUQjlPNXhqejRUX2FRS1FUV2hfMGVVSDBPQnhRWWNReUNDcE5oZnlqTmpnMFk0YWZmZ2pvU0lGSVdDLXF3Q09mVWN1b21JLUVVRDBCcmpmRS0xaFk4aS1GSTQzOVgyMXgxdkNKOUZvcGlkbXd3?oc=5
-
 
 ## Arbeit und Unternehmen
+
+### Arbeitsrecht und Mitbestimmung: Betriebsräte können auch spät Rechte haben - FAZ
+*GN Steuer und Arbeit - 28.11. 11:30*
+
+Arbeitsrecht und Mitbestimmung: Betriebsräte können auch spät Rechte haben FAZ
+
+https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRHRocFNvekMtYWJXT3VvbGlSOFpkdENEbW02Si1JcTFlaEZyaHJLbzNSLXA4bEZxNHlqYVNFaC1lVEktUUVmUTk0dl9BZ0N4ZnY3MG9GNWppQnVZbFFxVTRLX0laN2tMRi1sZF96cUR4VWdrMVZrUkJ4QWVmZWpHbnVQRUtMZHc2UG5tWkRrbkF3S1FXYXdaOU51dF9faXlkbjA3VFplYTczTEpYeVFhbmM1blBsZ0VlWldVbGNiaEw3bUFUWVlNYUtaMWY2TTZ6Q3g4RjRleEVnS3RabWZkNUJJVTlyZGY3VjdIcQ?oc=5
 
 ### Einkommensteuerreform: Union und SPD streiten um Arbeitsrecht und Reichensteuer – bleibt die Entlastung zum 1. Januar? - AktienCheck.de
 *GN Steuer und Arbeit - 27.11. 14:49*
@@ -915,15 +906,15 @@ Einkommensteuerreform: Union und SPD streiten um Arbeitsrecht und Reichensteuer 
 
 https://news.google.com/rss/articles/CBMirgFBVV95cUxNbWFaNnVvTnNqQjFPZ2ZUZVljM3dSMTlwLXBUVVAwLVcxbE5IdElucmJhSUY5dkVuMjlZZHpCNlhGTTdxRkFoenVhaDNSQlBrTy1ZV1JXTC1tOF9ZdlJjd1ZpS1k2Qm11V3F5UlV6SHBTeUhTTGN6dDcyZV84UTdTRVFfYmNZd0pLa295Q3hjYU1uRmxnalprb1VMdXFnUHIteWduUldBcDRfMTZwVUE?oc=5
 
-### Befristete Arbeitsverträge: Arbeitsrechtler halten Ausweitung für womöglich verfassungswidrig - Spiegel
-*GN Novelle Reform - 25.11. 13:37*
-
-Befristete Arbeitsverträge: Arbeitsrechtler halten Ausweitung für womöglich verfassungswidrig Spiegel
-
-https://news.google.com/rss/articles/CBMijAJBVV95cUxOZTl6LXNzT0JyRXdUVUlXYWFpRG9lT1NJNHhONmduUjVWVUxaQmhVd1pMREZsaHVBT3Zkb2ZVNDQySjVYWTdLd0cyMksxQW01WC0yNjFUZnhHdXJHQzVsdHg2WWtXZVFuczhmb0NfNHVtbG9ZbGRIOUtXX0JrNjBMdGJyNFU3YmJHcmJvSDlNS3BfR3hoRGIwY1BEUFN0b3RQVzRmU0xqTkdBbGtaUHBuWjlsZXYxbVE4R0VKNnNtTGZXeW90QTRqdTd1RVZNaThxbC1YN0cxNWlpV0txV3RFY3NYWGV1a294YjhPSUc2ZEpGSi1DNnBFMVZ5azd4MGFSbzBQemF6TnZWdFJO?oc=5
-
 
 ## Foerderung
+
+### Staatliche Förderung für Kinder: Wer die Frühstartrente erhalten soll und die Voraussetzungen - Joyn
+*GN Bundestag Gesetz - 28.11. 11:12*
+
+Staatliche Förderung für Kinder: Wer die Frühstartrente erhalten soll und die Voraussetzungen Joyn
+
+https://news.google.com/rss/articles/CBMilwFBVV95cUxPREpFVjl5SkREX3QtVFYxUGlBR2JEZjhpeTJSNEYyUnN1a1BCak40b2V1UnFpQ2pyMkVWN1dwTjQ3TllreWplZlRjRG56VVFnZkl1bWctcmVMRVdld3NXZ0dpd2ZWRlEybkhJNnFOZUk5R05jOVR1eWZodnZLcUY2OVZwWnI5ZVMxRVJVUmhyS2NpWlNLaEVz?oc=5
 
 ### Förderung für das Violence Prevention Network
 *BT heute im bundestag - 27.11. 14:36*
@@ -931,13 +922,6 @@ https://news.google.com/rss/articles/CBMijAJBVV95cUxOZTl6LXNzT0JyRXdUVUlXYWFpRG9
 Bildung, Familie, Senioren, Frauen und Jugend/Antwort Die Bundesregierung äußert sich in einer Antwort zur Förderung für das Violence Prevention Network.
 
 https://www.bundestag.de/presse/hib/kurzmeldungen-1238870
-
-### EEG 2027: "Erzielte Verbesserungen jetzt nicht verwässern" - Gabot.de
-*GN Bundestag Gesetz - 25.11. 05:43*
-
-EEG 2027: "Erzielte Verbesserungen jetzt nicht verwässern" Gabot.de
-
-https://news.google.com/rss/articles/CBMingFBVV95cUxQUGhweW1oZkdEM0JOT002eFhKUHlrZVFVQ0M0SC1ULU9aTkpvSDBlX1gtVW5iSTV1Q3dHSGduOTg2eVo1QmkwQUN3VmNIYVRfMmZnYnNxRnprR0stM2g2eTY2SWZWOXB3Y3oxa0FtMUlFbFJ5MUN4eXV5eHoyVnFtLWhwYXR4NTZSa3NhSkVSVGJrSnB6T0xqQ3YzZmluQQ?oc=5
 
 
 ## Pflichten und Fristen
